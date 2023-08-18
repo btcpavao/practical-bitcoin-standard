@@ -19,6 +19,7 @@
   * get into debt to buy more bitcoin
   * diversify to hedge volatility
   * DCA to hedge volatility
+  * "I'll be my own bank"
 * my experience with debt
 * my experience with giving
 * how to approach this book (act on it)
