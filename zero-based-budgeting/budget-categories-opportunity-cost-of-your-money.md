@@ -6,6 +6,8 @@ say you have 10,000 $ in your bank account, and you walk past a nice restaurant.
 
 whatever you decide to spend your money on, it has opportunity cost. that is, if you spend $100 on X, you can’t spend that same $100 on Y. this may seem like a straightforward idea, but you really can't understand it unless you assign your money in a budget.
 
-so with our initial example of $10,000 in our bank account, let's say we assign a fifth of it towards our giving category (we'll talk about this more in later chapters), so that's $2,000 in Giving. Let's say we assign a fifth to our shelter costs (rent, utilities, maintenance etc), so that's $2,000 in Shelter category. Let's assign a fifth ($2,000) to our Groceries category.&#x20;
+so with our initial example of $10,000 in our bank account, let's say we assign a fifth of it towards our giving category (we'll talk about this more in later chapters), so that's $2,000 in Giving. Let's say we assign a fifth to our shelter costs (rent, utilities, maintenance etc), so that's $2,000 in Shelter category. Let's assign a fifth ($2,000) to our Groceries category. Let's assign $2,000 to our Transport category. And final $2,000 - "Everything Else" (this may include things like clothing, hobbies, vacations, eating out). Mind you, this is just an idea on how to structure a budget, you can have much more granular categories.&#x20;
+
+However, right now - if we go ahead and spend $100 on dinner, this means we will have $1,900 left in our "Everything else" category.
 
 thus, we make a budget, by assigning our money to our categories. our categories are actually groups of things that are similar, and the main function of our categories is to display our opportunity cost clearly.
