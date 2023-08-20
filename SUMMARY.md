@@ -39,7 +39,7 @@
 
 ## Optimal Net Worth Balance
 
-* [Rule Of Thirds: Cash, Land & Capital](optimal-net-worth-balance/rule-of-thirds-cash-land-and-capital.md)
+* [Rule Of Thirds: Cash, Home & Capital](optimal-net-worth-balance/rule-of-thirds-cash-home-and-capital.md)
 * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](optimal-net-worth-balance/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
 * [Assessing Your Net Worth & Balancing It](optimal-net-worth-balance/assessing-your-net-worth-and-balancing-it.md)
 * [Rules Of Thumb For Buying Vehicles](optimal-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
