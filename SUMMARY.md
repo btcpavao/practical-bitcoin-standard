@@ -44,7 +44,7 @@
 * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](optimal-net-worth-balance/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
 * [Assessing Your Net Worth & Balancing It](optimal-net-worth-balance/assessing-your-net-worth-and-balancing-it.md)
 * [Rules Of Thumb For Buying Vehicles](optimal-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
-* [Owning Things Requires Calculating Cost Of Ownership](optimal-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
+* [Cost Of Ownership: Calculation & Tracking](optimal-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
 * [Renting Things](optimal-net-worth-balance/renting-things.md)
 
 ## Using Bitcoin in Your Budget
