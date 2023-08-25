@@ -25,5 +25,8 @@
   * eliminating debt means eliminating wasteful outflows
 * my experience with giving
   * introducing giving to your budgeting practice will increase your inflows
-* how to approach this book (act on it)
+* how to approach this (act on it)
+  * principles laid out here are timeless & sound, and they will benefit you even if you don't yet use bitcoin in a significant way
+  * if you already use bitcoin, you will avoid mistakes & drastically increase your net worth over time
+  * optimizing your money is a constant process you will employ while you are using money (meaning, as long as you are alive). there is not point where you will stop doing these practices. instead, think about them as a journey, a continuous process that is easy to learn, but you will get better and better at it as you accumulate time practicing it
 * acknowledgements
