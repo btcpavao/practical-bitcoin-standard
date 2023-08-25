@@ -35,6 +35,7 @@
 * [Giving Cultivates Spirit Of Generosity](establishing-giving-practice/giving-cultivates-spirit-of-generosity.md)
 * [Giving Increases Risk Tolerance](establishing-giving-practice/giving-increases-risk-tolerance.md)
 * [What Is Considered Giving?](establishing-giving-practice/what-is-considered-giving.md)
+* [How to give?](establishing-giving-practice/how-to-give.md)
 * [Generosity Increases Inflows](establishing-giving-practice/generosity-increases-inflows.md)
 * [Budgeting Giving Category](establishing-giving-practice/budgeting-giving-category.md)
 
