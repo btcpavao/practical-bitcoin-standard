@@ -11,3 +11,5 @@
 * "I wouldn't be able to afford this without debt"
 * underestimating how much spiritual energy dealing with money unwisely can drain
 * not having sense of being in control
+* usually higher time preference
+

@@ -1,5 +1,4 @@
 # Being In Debt Is A State Measured In Two Dimensions
 
-* first of all - there are two distinct states of spiritual makeup: one is "In Debt" and the other is "Debt Free". they both cultivate growth of different spirits: when you are in debt you cultivate spirit of slavery, and when you are debt free you cultivate spirit of freedom
 * when you are in debt, there are two dimensions that affect the level of slavery your spirit will grow into. the first and more impactful dimension is the amount of time you stay in debt. this time is measured from the day you got into debt, until the day you became debt free. for example, you can be in debt for 7 days, or 7 months, or 7 years. the longer you stay in debt, the more rooted spirit of slavery becomes.
 * the second dimension of debt is the depth of your debt, or the ratio of the value of assets you own and liabilities you owe. for example, if you have $100k in assets and $80k in debt, you are 80% deep in debt. if your liabilities exceed the value of your assets, for example if you hold $100k in assets but have $150k in debt, this means that you have negative net worth

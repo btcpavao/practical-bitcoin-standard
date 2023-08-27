@@ -1,5 +1,7 @@
 # Budget Categories - Opportunity Cost Of Your Money
 
+one of the big misconceptions about budgeting is thinking it just means reducing your spending, or tracking your spending. but really, budgeting is about assigning your money, giving it a certain plan or purpose, before you actually spend it. planning may be a better word for it, or even economizing.
+
 Why do we have to make a budget in the first place? because we have to display and decide on our opportunity cost. if you dont have a budget, you dont know what is opportunity cost of your money.
 
 say you have 10,000 $ in your bank account, and you walk past a nice restaurant. should you sit down and spend, say $100 on a dinner? if you just take a look at your bank account, you may say, look - $10k is much more than $100, so I can afford this. and you go ahead and sit and have a dinner.
