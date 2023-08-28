@@ -41,7 +41,7 @@
 
 ## Optimal Net Worth Balance
 
-* [Rule Of Thirds: Cash, Home & Capital](optimal-net-worth-balance/rule-of-thirds-cash-home-and-capital.md)
+* [Rule Of Thirds: Cash, Land & Capital](optimal-net-worth-balance/rule-of-thirds-cash-home-and-capital.md)
 * [Assessing Your Net Worth & Balancing It](optimal-net-worth-balance/assessing-your-net-worth-and-balancing-it.md)
 * [Rules Of Thumb For Buying Vehicles](optimal-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
 * [Cost Of Ownership: Calculation & Tracking](optimal-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
