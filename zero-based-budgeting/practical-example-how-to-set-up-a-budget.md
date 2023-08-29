@@ -1,7 +1,7 @@
 # Practical Example - How To Set Up A Budget
 
 * you can do this by hand, just using pen and paper
-* you can also use software, I recommend www.youneedabudget.com
+* you can also use software, I recommend [YNAB](https://www.ynab.com) (I'm using it daily since late 2017)
 * start by counting all money you have right now, and write down how much it is and where
   * for example, open your wallet and count how much more there is, write down "Wallet: $34" (example)
   * move on to your checking account, let's say there is $2,344.42 there. write down (or enter in YNAB) "Checking: $2,344.42")
