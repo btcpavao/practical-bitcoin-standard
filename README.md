@@ -7,13 +7,13 @@
   * This guide is all about grasping the fundamental timeless money management principles that are a must for using bitcoin safely and constructively. People built civilizations once they figured out how to use fire and electricity.
 * my bitcoin story
   * first heard about it in 2013, but didn't get to buy any due to Mt. Gox being too cumbersome
-  * first get of zero moment in July 2014, but only $20 worth
+  * first "get off zero" moment in July 2014, but only $20 worth
   * forgot about it until late 2017 when I saw raging bull market and BTC crossing $16k, and I remember I bought it at $600
   * luckily I got very little time to get to exposed to shitcoins - and starting in 2018 I entered bear market
   * this was a year I also parted ways with my previous startup I co-founded and started learning about bitcoin. by the end of 2018 I got rid of shitcoins and went bitcoin only
 * my budgeting story
   * I was apprehensive about running budget before early 2018. this is when I was approaching the end of my startup engagement, and stopped having regular inflows coming in. I started listening to Dave Ramsey show and heard hundreds of stories on how people got ruined by getting into debt. I also remembered my startup & personal experience with debt. I started zero-based budgeting in late 2017, but in 2018 I really honed into it
-* living on a full bitcoin standard since 2020
+* living on a full bitcoin standard (using bitcoin as cash balance) since fall 2020
 * I'll write about my experiences talking with bitcoiners, and many money management myths I heard:
   * "I'll never sell my bitcoin"
   * get into debt to buy more bitcoin
@@ -21,6 +21,7 @@
   * dollar-cost-average to hedge volatility
   * "I'll be my own bank"
   * "The most important thing is to grow your stack of sats."
+  * get into debt so I don't have to sell my bitcoin
 * my experience with debt
   * eliminating debt means eliminating wasteful outflows
 * my experience with giving
@@ -28,5 +29,5 @@
 * how to approach this (act on it)
   * principles laid out here are timeless & sound, and they will benefit you even if you don't yet use bitcoin in a significant way
   * if you already use bitcoin, you will avoid mistakes & drastically increase your net worth over time
-  * optimizing your money is a constant process you will employ while you are using money (meaning, as long as you are alive). there is not point where you will stop doing these practices. instead, think about them as a journey, a continuous process that is easy to learn, but you will get better and better at it as you accumulate time practicing it
+  * optimizing your money is a constant process you will employ while you are using money (meaning, as long as you are alive). there is not a point where you will stop doing these practices. instead, think about them as a journey, a continuous process that is easy to learn, but you will get better and better at it as you accumulate time practicing it
 * acknowledgements
