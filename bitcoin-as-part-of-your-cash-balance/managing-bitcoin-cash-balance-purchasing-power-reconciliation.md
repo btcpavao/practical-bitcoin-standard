@@ -1,6 +1,8 @@
 # Managing Bitcoin Cash Balance: Purchasing Power Reconciliation
 
-* when you start using bitcoin as your cash balance, you will need to introduce one more practice in your zero based budgeting - purchasing power reconciliation
+* we are used to using fiat as our cash balance (physical cash in our wallets, checking accounts, immediately available savings accounts), and most bitcoiners think about bitcoin as their "investment", "retirement", "long term savings", and will track it as part of their balance sheet like an asset
+* if you successfuly implemented prior three steps as your rock solid foundation (running zero based budget for at least 180 days, eliminated all debt from your balance sheet, and established regular giving practice with 10% to 20% of your budget), you should strongly consider starting to treat bitcoin as part of your cash balance, and upgrading to full bitcoin standard
+* when you start using bitcoin as part your cash balance, you will need to introduce one more practice in your zero based budgeting - purchasing power reconciliation
 * how does this work?
 * say you currently have $10,000 worth of bitcoin, and you use it as your cash balance. you don't have any other forms of money at the moment, $10,000 of bitcoin is all you have.
 * this means you will assign $10,000 to your budget categories, until there is 0 left to assign.

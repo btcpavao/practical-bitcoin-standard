@@ -39,6 +39,13 @@
 * [Generosity Increases Inflows](establishing-giving-practice/generosity-increases-inflows.md)
 * [Budgeting Giving Category](establishing-giving-practice/budgeting-giving-category.md)
 
+## Bitcoin As Part Of Your Cash Balance
+
+* [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](bitcoin-as-part-of-your-cash-balance/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
+* [Bear Markets: Reduce Outflows, Increase Inflows](bitcoin-as-part-of-your-cash-balance/bear-markets-reduce-outflows-increase-inflows.md)
+* [Bull Markets: Pay For Future Outflows](bitcoin-as-part-of-your-cash-balance/bull-markets-pay-for-future-outflows.md)
+* [Handle Bitcoin Volatility With Budget Reconciliation & Rebalancing](bitcoin-as-part-of-your-cash-balance/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
+
 ## Optimal Net Worth Balance
 
 * [Rule Of Thirds: Cash, Land & Capital](optimal-net-worth-balance/rule-of-thirds-cash-home-and-capital.md)
@@ -46,10 +53,3 @@
 * [Rules Of Thumb For Buying Vehicles](optimal-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
 * [Cost Of Ownership: Calculation & Tracking](optimal-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
 * [Renting Things](optimal-net-worth-balance/renting-things.md)
-
-## Using Bitcoin in Your Budget
-
-* [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](using-bitcoin-in-your-budget/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
-* [Bear Markets: Reduce Outflows, Increase Inflows](using-bitcoin-in-your-budget/bear-markets-reduce-outflows-increase-inflows.md)
-* [Bull Markets: Pay For Future Outflows](using-bitcoin-in-your-budget/bull-markets-pay-for-future-outflows.md)
-* [Handle Bitcoin Volatility With Budget Reconciliation & Rebalancing](using-bitcoin-in-your-budget/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
