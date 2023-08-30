@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [What is money in practical sense?](what-is-money-in-practical-sense.md)
 
 ## Zero Based Budgeting
 
