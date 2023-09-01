@@ -1,33 +1,9 @@
 # Introduction
 
-* why write this?
-  * I decided to write this because I felt there were no resources that fully explained how to use bitcoin as your money in the best way possible. I mean using bitcoin as your cash balance, converting all your earnings to it, and converting it back to fiat for spending, often times on a daily or weekly basis. if you are thinking of doing this but are unsure on how do go about it (what if bitcoin drops significantly when you decide to do this, how to handle volatility...): this should become your guidebook with best practices and timeless principles of money management
-  * Bitcoin is a very different type of money than most people are used to. It is highly volatile deflationary money as opposed to fiat, which is low volatility inflationary money. This fact alone causes a lot of confusion, especially for those who haven't yet mastered general good money practices (zero-based budgeting, debt-free living, and giving), which are especially important when you introduce bitcoin to your balance sheet.
-  * I like to think of bitcoin as a technological breakthrough similar to fire or electricity. These technologies are extremely powerful, but they can also be devastating if not handled correctly and safely. Bitcoin is a lot like that. There are people whose lives have been ruined financially because they mishandled bitcoin due to a lack of understanding of these fundamental principles.
-  * This guide is all about grasping the fundamental timeless money management principles that are a must for using bitcoin safely and constructively. People built civilizations once they figured out how to use fire and electricity.
-* my bitcoin story
-  * first heard about it in 2013, but didn't get to buy any due to Mt. Gox being too cumbersome
-  * first "get off zero" moment in July 2014, but only $20 worth
-  * forgot about it until late 2017 when I saw raging bull market and BTC crossing $16k, and I remember I bought it at $600
-  * luckily I got very little time to get to exposed to shitcoins - and starting in 2018 I entered bear market
-  * this was a year I also parted ways with my previous startup I co-founded and started learning about bitcoin. by the end of 2018 I got rid of shitcoins and went bitcoin only
-* my budgeting story
-  * I was apprehensive about running budget before early 2018. this is when I was approaching the end of my startup engagement, and stopped having regular inflows coming in. I started listening to Dave Ramsey show and heard hundreds of stories on how people got ruined by getting into debt. I also remembered my startup & personal experience with debt. I started zero-based budgeting in late 2017, but in 2018 I really honed into it
-* living on a full bitcoin standard (using bitcoin as cash balance) since fall 2020
-* I'll write about my experiences talking with bitcoiners, and many money management myths I heard:
-  * "I'll never sell my bitcoin"
-  * get into debt to buy more bitcoin
-  * diversify to hedge volatility
-  * dollar-cost-average to hedge volatility
-  * "I'll be my own bank"
-  * "The most important thing is to grow your stack of sats."
-  * get into debt so I don't have to sell my bitcoin
-* my experience with debt
-  * eliminating debt means eliminating wasteful outflows
-* my experience with giving
-  * introducing giving to your budgeting practice will increase your inflows
-* how to approach this (act on it)
-  * principles laid out here are timeless & sound, and they will benefit you even if you don't yet use bitcoin in a significant way
-  * if you already use bitcoin, you will avoid mistakes & drastically increase your net worth over time
-  * optimizing your money is a constant process you will employ while you are using money (meaning, as long as you are alive). there is not a point where you will stop doing these practices. instead, think about them as a journey, a continuous process that is easy to learn, but you will get better and better at it as you accumulate time practicing it
-* acknowledgements
+* What is the motivation for writing this?
+* I decided to write this because I felt there were no resources that adequately described how to use bitcoin as money in the most effective manner. I'm talking about using bitcoin as your cash balance, converting all of your earnings to it, and then converting it back to fiat for spending on a daily or weekly basis.
+* If you are considering this but are uncertain about how to proceed (what if bitcoin drops significantly when you decide to do this? how to handle volatility...): This should serve as your guide to money management best practices and timeless principles.
+* Bitcoin is a radically different form of money than most people are used to. It is highly volatile deflationary money as opposed to fiat, which is inflationary money with low volatility. This fact alone causes a great deal of confusion, particularly for those who have not yet mastered general good money practices (zero-based budgeting, debt-free living, and giving), which are especially important when you introduce bitcoin to your overall financial picture.
+* I like to think of bitcoin as a technological breakthrough similar to fire or electricity. These technologies are extremely powerful, but if not handled properly and safely, they can be devastating. Bitcoin is a lot like that. There are people whose financial lives have been wrecked because they ignored these basic rules and handled bitcoin badly. Once humans discovered how to use fire and electricity safely, they established civilizations. And as humans continue to learn how to use bitcoin effectively and safely, they are going to fix numerous problems caused by the fiat standard.
+* This guide is all about understanding the timeless basic principles of money management, which are critical to using bitcoin safely and effectively.&#x20;
+* When you safely upgrade to the full bitcoin standard using the principles outlined in this guide, it is likely that your outlook on life will undergo a radical transformation. You will learn how to always maintain complete control over your purchasing power, how to eliminate outflows that are actually a waste to you, and how to consistently increase your inflows regardless of the type of work you do.

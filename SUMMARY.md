@@ -3,6 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [My Story](introduction/my-story.md)
 * [What is money in practical sense?](introduction/what-is-money-in-practical-sense.md)
 
 ## Zero Based Budgeting
