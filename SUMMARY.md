@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [My Story](introduction/my-story.md)
-* [What is money in practical sense?](introduction/what-is-money-in-practical-sense.md)
+* [How does money work in everyday life?](introduction/how-does-money-work-in-everyday-life.md)
 
 ## Zero Based Budgeting
 
@@ -38,11 +38,11 @@
 * [Giving Money Benefits Giver More Than Recipient](establishing-giving-practice/giving-money-benefits-giver-more-than-recipient.md)
 * [Giving Cultivates Spirit Of Generosity](establishing-giving-practice/giving-cultivates-spirit-of-generosity.md)
 * [Giving Increases Risk Tolerance](establishing-giving-practice/giving-increases-risk-tolerance.md)
-* [What Is Considered Giving?](establishing-giving-practice/what-is-considered-giving.md)
-* [How to give?](establishing-giving-practice/how-to-give.md)
 * [Generosity Increases Inflows](establishing-giving-practice/generosity-increases-inflows.md)
-* [Budgeting Giving Category](establishing-giving-practice/budgeting-giving-category.md)
 * [Be Grateful For The Opportunity To Give](establishing-giving-practice/be-grateful-for-the-opportunity-to-give.md)
+* [What Is Considered Giving?](establishing-giving-practice/what-is-considered-giving.md)
+* [How To Give?](establishing-giving-practice/how-to-give.md)
+* [Budgeting Giving Category](establishing-giving-practice/budgeting-giving-category.md)
 
 ## Bitcoin As Part Of Your Cash Balance
 
