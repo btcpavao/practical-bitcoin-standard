@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [My Story](introduction/my-story.md)
 * [How Does Money Work In Everyday Life?](introduction/what-is-money-in-practical-sense.md)
-* [Things We Use As Money, And Why We Should Use Bitcoin As Money](introduction/things-we-use-as-money-and-why-we-should-use-bitcoin-as-money.md)
+* [What We Use As Money, And Why We Should Use Bitcoin As Money](introduction/what-we-use-as-money-and-why-we-should-use-bitcoin-as-money.md)
 
 ## Zero Based Budgeting
 
