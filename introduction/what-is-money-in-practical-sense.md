@@ -1,4 +1,4 @@
-# What is money in practical sense?
+# How Does Money Work In Everyday Life?
 
 * Each individual human is unique.
 * Humans are both physical and spiritual beings. When I say spiritual, I'm referring to things that are impossible to measure and define physically, like weight, height, and temperature. In this context, spiritual refers to non-physical (metaphysical) qualities such as patience, loyalty, diligence, and so on. When I say "spirits," I mean non-physical aspects of humans that can be grown and cultivated or eliminated/diminished.

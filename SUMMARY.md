@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [My Story](introduction/my-story.md)
-* [How does money work in everyday life?](introduction/how-does-money-work-in-everyday-life.md)
+* [How Does Money Work In Everyday Life?](introduction/what-is-money-in-practical-sense.md)
 
 ## Zero Based Budgeting
 
