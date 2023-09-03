@@ -13,3 +13,4 @@
 * real estate
 * altcoins
 * stablecoins
+* what do you consider a part of your cash balance?
