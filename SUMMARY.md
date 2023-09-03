@@ -42,6 +42,7 @@
 * [How to give?](establishing-giving-practice/how-to-give.md)
 * [Generosity Increases Inflows](establishing-giving-practice/generosity-increases-inflows.md)
 * [Budgeting Giving Category](establishing-giving-practice/budgeting-giving-category.md)
+* [Be Grateful For The Opportunity To Give](establishing-giving-practice/be-grateful-for-the-opportunity-to-give.md)
 
 ## Bitcoin As Part Of Your Cash Balance
 
