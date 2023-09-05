@@ -1,10 +1,12 @@
 # My Story
 
-* my bitcoin story
-  * first heard about it in 2013, but didn't get to buy any due to Mt. Gox being too cumbersome
-  * first "get off zero" moment in July 2014, but only $20 worth
-  * forgot about it until late 2017 when I saw raging bull market and BTC crossing $16k, and I remember I bought it at $600
-  * luckily I got very little time to get to exposed to shitcoins - and starting in 2018 I entered bear market
-  * this was a year I also parted ways with my previous startup I co-founded and started learning about bitcoin. by the end of 2018 I got rid of shitcoins and went bitcoin only
+I remember hearing and reading about bitcoin for the first time in 2012, but it did not pique my interest at the time. I thought it was just another experiment with virtual currency, like WoW gold. In 2013, I heard about it again in the context of the FBI shutting down the Silk Road marketplace. The involvement of the U.S. government made it more intriguing to me, as it indicated that this wasn't just some code that can be altered at the whim of its creators. However, trying to buy bitcoin in 2013 meant that I'd have to go find a way to do it, and there was pretty much only Mt. Gox exchange that I'd have to wire funds to, and this was all just too cumbersome, so I abandoned the idea.
+
+I recall reading in early 2014 that Mt. Gox was defunct and closed as well. I took a break from my entrepreneurial pursuits during the summer of 2014 due to a sort of burnout. I was using this time to clear my mind of many things, and my information intake was fairly light. I came across a short tutorial named "Up And Running With Bitcoin" on Lynda.com (which is now a part of Linkedin) that briefly explained how bitcoin worked under the hood, how to install and run Bitcoin Core node software, and how to send and receive transactions. After reading more about it and realizing that the network was still operational even after Silk Road was shut down and Mt. Gox exchange went bankrupt, I decided to try to acquire some and experiment with it this time. Fortunately, where I live in Croatia there was a small bitcoin exchange that was just getting started, and I was able to purchase around $20 worth of bitcoin in July 2014, when the exchange rate was around $600/btc.
+
+I did set up the node, receive the transaction, and read more, but as the summer drew to a close, I became increasingly preoccupied with my entrepreneurial venture again. By the winter of 2014, I had practically forgotten about my bitcoin experiment, as I was immersed in a new project that would eventually become a six-cofounder startup in 2015. It wasn't until late 2017 that I suddenly realized bitcoin was trading around $15,000/btc, whereas I distinctly recall purchasing it for around $600/btc. This was the moment that made me become so fascinated in the phenomenon, and I think of it as the start of my journey down the rabbit hole.
+
+* luckily I got very little time to get to exposed to shitcoins - and starting in 2018 I entered bear market
+* this was a year I also parted ways with my previous startup I co-founded and started learning about bitcoin. by the end of 2018 I got rid of shitcoins and went bitcoin only
 * my budgeting story
   * I was apprehensive about running budget before early 2018. this is when I was approaching the end of my startup engagement, and stopped having regular inflows coming in. I started listening to Dave Ramsey show and heard hundreds of stories on how people got ruined by getting into debt. I also remembered my startup & personal experience with debt. I started zero-based budgeting in late 2017, but in 2018 I really honed into it
