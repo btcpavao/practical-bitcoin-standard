@@ -1,7 +1,9 @@
 # Spending Credit - Spending From The Uncertainty Of The Future
 
-* why is spending credit (getting into debt) always a bad idea? fundamentally, because future is uncertain
-* let's think about it in a deeper way. what does it mean that future is uncertain? it means we don't really know what is going to happen in our life tomorrow, a week from now, a month, year, or 10 years from now. we can plan and expect certain things to happen, but there is no real way to know with certainty.
+Why is it never a good idea to use credit or get into debt? Fundamentally, because the future is uncertain.
+
+Let's think more deeply about it. What does it mean that the future is uncertain? This simply means that we do not know what will happen in our lives tomorrow, next week, next month, next year, or in ten years. We can plan for and expect some events to happen, but there is no way to know with certainty.
+
 * people usually think of uncertainty about the future with fear of bad things that may happen. but uncertain future also means there are good things that may happen. we just don't know when and how they will hapen (both good and bad).
 * this is why fundamentally it's a bad idea to spend your future money. you just don't know how much money you will make & have in the future.
 * but on the other side, we know for a fact what will happen if you spend from the future. your present cash outflows will increase until you pay off the debt.
