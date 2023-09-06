@@ -15,7 +15,7 @@
 * [Inflows & Outflows](zero-based-budgeting/inflows-and-outflows.md)
 * [Scheduled Transactions](zero-based-budgeting/scheduled-transactions.md)
 * [Age Of Money](zero-based-budgeting/age-of-money.md)
-* [Assets - Liabilities = Net Worth](zero-based-budgeting/assets-liabilities-net-worth.md)
+* [Assets Minus Debts Equals Net Worth](zero-based-budgeting/assets-liabilities-net-worth.md)
 * [How To Make A Zero Based Budget](zero-based-budgeting/practical-example-how-to-set-up-a-budget.md)
 * [Mission: 180 Days Of Budgeting Practice](zero-based-budgeting/mission-180-days-of-budgeting-practice.md)
 
@@ -23,7 +23,7 @@
 
 * [Spending Credit - Spending From The Uncertainty Of The Future](becoming-and-staying-debt-free/spending-credit-spending-from-the-uncertainty-of-the-future.md)
 * [Spending Cash = Spending From The Certainty Of The Past](becoming-and-staying-debt-free/spending-cash-spending-from-the-certainty-of-the-past.md)
-* [Being In Debt Is A State Measured In Two Dimensions](becoming-and-staying-debt-free/being-in-debt-is-a-state-measured-in-two-dimensions.md)
+* [Being In Debt Is A State Measured In Two Dimensions: Time And Depth](becoming-and-staying-debt-free/being-in-debt-is-a-state-measured-in-two-dimensions-time-and-depth.md)
 * [Debt Vs Debt-Free State Of Being](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/README.md)
   * [Spirit Of Freedom](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/spirit-of-freedom.md)
   * [Spirit Of Slavery](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/spirit-of-slavery.md)
