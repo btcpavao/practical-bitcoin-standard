@@ -30,7 +30,7 @@
 * [Restlessness & Confusion Caused By Debt Negatively Impact Your Inflows And Outflows](becoming-and-staying-debt-free/restlessness-and-confusion-caused-by-debt-negatively-impact-your-inflows-and-outflows/README.md)
   * [Outflows Are Increased Because Of Interest, Opportunity Cost & Misallocation](becoming-and-staying-debt-free/restlessness-and-confusion-caused-by-debt-negatively-impact-your-inflows-and-outflows/outflows-are-increased-because-of-interest-opportunity-cost-and-misallocation.md)
   * [Inflows Are Reduced Because of Lower Risk Tolerance](becoming-and-staying-debt-free/restlessness-and-confusion-caused-by-debt-negatively-impact-your-inflows-and-outflows/inflows-are-reduced-because-of-lower-risk-tolerance.md)
-* [Peace & Clarity Increases With Age Of Money](becoming-and-staying-debt-free/peace-and-clarity-increases-with-age-of-money.md)
+* [Aging Your Money Increases Your Peace & Clarity](becoming-and-staying-debt-free/peace-and-clarity-increases-with-age-of-money.md)
 * [Using Things Bought With Credit Diminishes Satisfaction](becoming-and-staying-debt-free/using-things-bought-with-credit-diminishes-satisfaction.md)
 * [Buying Things With Credit Increases Their Cost Of Ownership](becoming-and-staying-debt-free/buying-things-with-credit-increases-their-cost-of-ownership.md)
 * [You Eliminating Your Debt Eases Transition From Fiat To Bitcoin Standard For You And Everyone Else](becoming-and-staying-debt-free/you-eliminating-your-debt-eases-transition-from-fiat-to-bitcoin-standard-for-you-and-everyone-else.md)
