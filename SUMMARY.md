@@ -10,11 +10,12 @@
 ## Zero Based Budgeting
 
 * [Life Without Zero Based Budget](zero-based-budgeting/life-without-zero-based-budget.md)
-* [Budget Categories - Opportunity Cost Of Your Money](zero-based-budgeting/budget-categories-opportunity-cost-of-your-money.md)
+* [Budget Categories Are Opportunity Cost Of Your Money](zero-based-budgeting/budget-categories-opportunity-cost-of-your-money.md)
 * [Payees](zero-based-budgeting/payees.md)
 * [Inflows & Outflows](zero-based-budgeting/inflows-and-outflows.md)
 * [Scheduled Transactions](zero-based-budgeting/scheduled-transactions.md)
 * [Age Of Money](zero-based-budgeting/age-of-money.md)
+* [Memo: Describing Your Transactions](zero-based-budgeting/memo-describing-your-transactions.md)
 * [Assets Minus Debts Equals Net Worth](zero-based-budgeting/assets-liabilities-net-worth.md)
 * [How To Make A Zero Based Budget](zero-based-budgeting/practical-example-how-to-set-up-a-budget.md)
 * [Mission: 180 Days Of Budgeting Practice](zero-based-budgeting/mission-180-days-of-budgeting-practice.md)
