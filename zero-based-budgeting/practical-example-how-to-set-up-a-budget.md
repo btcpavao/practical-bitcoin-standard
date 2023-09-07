@@ -1,6 +1,7 @@
-# Practical Example - How To Set Up A Budget
+# How To Make A Zero Based Budget
 
 * you can do this by hand, just using pen and paper
+* start with simple thought exercise: how to create zero based budget with $100. use simple pen and paper. the idea is to assign $100 to three different categories. "I have $100 in total, so I'm going to assign X to category 1, Y to category 2, Z to category 3". then imagine spending $10, so you are left with $90. from which category did you spend $10? adjust that category with the new balance.
 * you can also use software, I recommend [YNAB](https://www.ynab.com) (I'm using it daily since late 2017)
 * start by counting all money you have right now, and write down how much it is and where
   * for example, open your wallet and count how much more there is, write down "Wallet: $34" (example)

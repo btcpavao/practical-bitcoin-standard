@@ -16,7 +16,9 @@
 * [Scheduled Transactions](zero-based-budgeting/scheduled-transactions.md)
 * [Age Of Money](zero-based-budgeting/age-of-money.md)
 * [Memo: Describing Your Transactions](zero-based-budgeting/memo-describing-your-transactions.md)
-* [Assets Minus Debts Equals Net Worth](zero-based-budgeting/assets-liabilities-net-worth.md)
+* [Tracking Your Assets](zero-based-budgeting/tracking-your-assets.md)
+* [Tracking Your Debts (Liabilities)](zero-based-budgeting/tracking-your-debts-liabilities.md)
+* [Tracking Your Net Worth (Assets Minus Debts)](zero-based-budgeting/assets-liabilities-net-worth.md)
 * [How To Make A Zero Based Budget](zero-based-budgeting/practical-example-how-to-set-up-a-budget.md)
 * [Mission: 180 Days Of Budgeting Practice](zero-based-budgeting/mission-180-days-of-budgeting-practice.md)
 
