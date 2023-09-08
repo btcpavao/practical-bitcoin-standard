@@ -27,7 +27,7 @@
 * [Spending Credit - Spending From The Uncertainty Of The Future](becoming-and-staying-debt-free/spending-credit-spending-from-the-uncertainty-of-the-future.md)
 * [Spending Cash = Spending From The Certainty Of The Past](becoming-and-staying-debt-free/spending-cash-spending-from-the-certainty-of-the-past.md)
 * [Being In Debt Is A State Measured In Two Dimensions: Time And Depth](becoming-and-staying-debt-free/being-in-debt-is-a-state-measured-in-two-dimensions-time-and-depth.md)
-* [Debt Vs Debt-Free State Of Being](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/README.md)
+* [Two States Of Being: In Debt And Debt-Free](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/README.md)
   * [Spirit Of Freedom](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/spirit-of-freedom.md)
   * [Spirit Of Slavery](becoming-and-staying-debt-free/debt-vs-debt-free-state-of-being/spirit-of-slavery.md)
 * [Restlessness & Confusion Caused By Debt Negatively Impact Your Inflows And Outflows](becoming-and-staying-debt-free/restlessness-and-confusion-caused-by-debt-negatively-impact-your-inflows-and-outflows/README.md)
