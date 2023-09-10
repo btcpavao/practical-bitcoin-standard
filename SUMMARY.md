@@ -37,6 +37,7 @@
 * [Using Things Bought With Credit Diminishes Satisfaction](becoming-and-staying-debt-free/using-things-bought-with-credit-diminishes-satisfaction.md)
 * [Buying Things With Credit Increases Their Cost Of Ownership](becoming-and-staying-debt-free/buying-things-with-credit-increases-their-cost-of-ownership.md)
 * [You Eliminating Your Debt Eases Transition From Fiat To Bitcoin Standard For You And Everyone Else](becoming-and-staying-debt-free/you-eliminating-your-debt-eases-transition-from-fiat-to-bitcoin-standard-for-you-and-everyone-else.md)
+* [If You Have Debt And Hold Bitcoin, You Are Losing In Multiple Ways](becoming-and-staying-debt-free/if-you-have-debt-and-hold-bitcoin-you-are-losing-in-multiple-ways.md)
 
 ## Establishing Giving Practice
 
