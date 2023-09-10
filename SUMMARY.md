@@ -9,7 +9,7 @@
 
 ## Zero Based Budgeting
 
-* [Life Without Zero Based Budget](zero-based-budgeting/life-without-zero-based-budget.md)
+* [Why Should We Practice Zero Based Budgeting?](zero-based-budgeting/life-without-zero-based-budget.md)
 * [Budget Categories Are Opportunity Cost Of Your Money](zero-based-budgeting/budget-categories-opportunity-cost-of-your-money.md)
 * [Payees](zero-based-budgeting/payees.md)
 * [Inflows & Outflows](zero-based-budgeting/inflows-and-outflows.md)
