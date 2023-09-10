@@ -1,4 +1,4 @@
-# You Eliminating Your Debt Eases Transition From Fiat To Bitcoin Standard For You And Everyone Else
+# If You Eliminate Your Debt, Transition From Fiat To Bitcoin Standard Eases For Everyone
 
 * whenever licensed bank makes a loan, it creates new money supply
 * whenever you pay back or default on such loan, money supply is destroyed

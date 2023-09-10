@@ -43,15 +43,15 @@
 * [Using Things Paid With Credit Diminishes Satisfaction](becoming-and-staying-debt-free/using-things-bought-with-credit-diminishes-satisfaction.md)
 * [Paying With Credit Increases The Cost Of Ownership](becoming-and-staying-debt-free/buying-things-with-credit-increases-their-cost-of-ownership.md)
 * [Debt And Bitcoin](becoming-and-staying-debt-free/debt-and-bitcoin/README.md)
-  * [If You Have Debt And Hold Bitcoin, You Are Losing In Multiple Ways](becoming-and-staying-debt-free/debt-and-bitcoin/if-you-have-debt-and-hold-bitcoin-you-are-losing-in-multiple-ways.md)
-  * [If You Eliminate Your Debt, Transition From Fiat To Bitcoin Standard Eases For Everyone](becoming-and-staying-debt-free/debt-and-bitcoin/if-you-eliminate-your-debt-transition-from-fiat-to-bitcoin-standard-eases-for-everyone.md)
+  * [If You Have Debt And Hold Bitcoin, You Are Losing In Multiple Ways](becoming-and-staying-debt-free/if-you-have-debt-and-hold-bitcoin-you-are-losing-in-multiple-ways.md)
+  * [If You Eliminate Your Debt, Transition From Fiat To Bitcoin Standard Eases For Everyone](becoming-and-staying-debt-free/you-eliminating-your-debt-eases-transition-from-fiat-to-bitcoin-standard-for-you-and-everyone-else.md)
 
 ## Establishing Giving Practice
 
 * [Giving Money Benefits Giver More Than Recipient](establishing-giving-practice/giving-money-benefits-giver-more-than-recipient.md)
 * [Giving Cultivates Spirit Of Generosity](establishing-giving-practice/giving-cultivates-spirit-of-generosity.md)
 * [Giving Increases Risk Tolerance](establishing-giving-practice/giving-increases-risk-tolerance.md)
-* [Generosity Increases Inflows](establishing-giving-practice/generosity-increases-inflows.md)
+* [Spirit Of Generosity Increases Inflows](establishing-giving-practice/generosity-increases-inflows.md)
 * [Be Grateful For The Opportunity To Give](establishing-giving-practice/be-grateful-for-the-opportunity-to-give.md)
 * [What Is Considered Giving?](establishing-giving-practice/what-is-considered-giving.md)
 * [How To Give?](establishing-giving-practice/how-to-give.md)
@@ -60,8 +60,8 @@
 ## Bitcoin As Part Of Your Cash Balance
 
 * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](bitcoin-as-part-of-your-cash-balance/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
-* [Bear Markets: Reduce Outflows, Increase Inflows](bitcoin-as-part-of-your-cash-balance/bear-markets-reduce-outflows-increase-inflows.md)
-* [Bull Markets: Pay For Future Outflows](bitcoin-as-part-of-your-cash-balance/bull-markets-pay-for-future-outflows.md)
+* [During Periods When Purchasing Power Keeps Dropping: Reduce Outflows, Increase Inflows](bitcoin-as-part-of-your-cash-balance/bear-markets-reduce-outflows-increase-inflows.md)
+* [During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows](bitcoin-as-part-of-your-cash-balance/bull-markets-pay-for-future-outflows.md)
 * [Handle Bitcoin Volatility With Budget Reconciliation & Rebalancing](bitcoin-as-part-of-your-cash-balance/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
 
 ## Optimal Net Worth Balance
