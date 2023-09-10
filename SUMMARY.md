@@ -62,7 +62,7 @@
 * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](bitcoin-as-part-of-your-cash-balance/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
 * [During Periods When Purchasing Power Keeps Dropping: Reduce Outflows, Increase Inflows](bitcoin-as-part-of-your-cash-balance/bear-markets-reduce-outflows-increase-inflows.md)
 * [During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows](bitcoin-as-part-of-your-cash-balance/bull-markets-pay-for-future-outflows.md)
-* [Handle Bitcoin Volatility With Budget Reconciliation & Rebalancing](bitcoin-as-part-of-your-cash-balance/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
+* [During Periods Of Higher Volatility, Increase The Frequency Of Purchasing Power Reconciliation](bitcoin-as-part-of-your-cash-balance/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
 
 ## Optimal Net Worth Balance
 
