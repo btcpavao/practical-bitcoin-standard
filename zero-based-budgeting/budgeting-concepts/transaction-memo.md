@@ -1,2 +1,0 @@
-# Memo: Describing Your Transactions
-

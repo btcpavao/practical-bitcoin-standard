@@ -1,4 +1,4 @@
-# Assets - Liabilities = Net Worth
+# Net Worth
 
 * assets are items you own
 * liabilities are debts that you owe
