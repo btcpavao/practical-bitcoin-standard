@@ -1,6 +1,6 @@
 # Why Should We Practice Zero Based Budgeting?
 
-* chances are, if you aren't practicing zero based budget already, that you have a certain degree of chaos in your financial life
+* chances are, if you aren't practicing zero based budget already, that you have a certain degree of disorder in your financial life
 * the goal of starting to practice zero based budgeting is to get this area of your life in perfect order. this can be done, regardless of the degree of disorder you may have at the moment, and is actually pretty simple to do.
 * the moment you set up a zero based budget (and this shouldn't take more than an afternoon, at most) - you will get a very noticeable shift in your sense of being in control of your money. people usually say that after they make their first zero based budget, the feel like they have gotten about 20% raise.
 * without running zero based budget, your money management is rooted in emotional instead of rational schematic. with some people this is manifested in being too "tight" with their spending, and with others as being too "loose" with their spending.&#x20;
