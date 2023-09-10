@@ -69,5 +69,5 @@
 * [Assessing Your Net Worth & Balancing It](optimal-net-worth-balance/assessing-your-net-worth-and-balancing-it.md)
 * [Rule Of Thirds: Cash, Land & Capital](optimal-net-worth-balance/rule-of-thirds-cash-home-and-capital.md)
 * [Rules Of Thumb For Buying Vehicles & Other Large Durable Goods](optimal-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
-* [Cost Of Ownership: Calculation & Tracking](optimal-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
+* [Why And How To Calculate & Track The Cost Of Ownership](optimal-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
 * [When To Rent And When To Own](optimal-net-worth-balance/renting-things.md)
