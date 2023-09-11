@@ -10,6 +10,7 @@
 ## Zero Based Budgeting
 
 * [Why Should We Practice Zero Based Budgeting?](zero-based-budgeting/life-without-zero-based-budget.md)
+* [Financial Order Vs Disorder](zero-based-budgeting/financial-order-vs-disorder.md)
 * [Budgeting Is Navigating The Time Dimension Of Money](zero-based-budgeting/budgeting-is-navigating-the-time-dimension-of-money.md)
 * [Budgeting Is The Process Of Categorizing Money To Decide Its Opportunity Cost](zero-based-budgeting/budget-categories-opportunity-cost-of-your-money.md)
 * [Budgeting Concepts](zero-based-budgeting/budgeting-concepts/README.md)
