@@ -1,18 +1,24 @@
 # Why Should We Practice Zero Based Budgeting?
 
-* chances are, if you aren't practicing zero based budget already, that you have a certain degree of disorder in your financial life
-* the goal of starting to practice zero based budgeting is to get this area of your life in perfect order. this can be done, regardless of the degree of disorder you may have at the moment, and is actually pretty simple to do.
-* the moment you set up a zero based budget (and this shouldn't take more than an afternoon, at most) - you will get a very noticeable shift in your sense of being in control of your money. people usually say that after they make their first zero based budget, the feel like they have gotten about 20% raise.
-* without running zero based budget, your money management is rooted in emotional instead of rational schematic. with some people this is manifested in being too "tight" with their spending, and with others as being too "loose" with their spending.&#x20;
-* without zero based budget, we are operating without having clarity of opportunity cost of our money and time dimension of money. instead, when we are making purchase decisions, we are mostly comparing the momentary size of the transaction with our momentary total amount of money (a number that we often don't know in exact, but rather vague way).
-* because of that, our decision making relies on how we feel about the transactions we are about to make in the moment, and we often have a sense that we "made a mistake" with our money. when we start zero-based budgeting, this sense completely vanishes.
-* without zero-based budgeting, we can't really recall how we are spending our money, apart from vague number, and not too far into the past. there is a sense of vagueness about it. when we start running zero-based budget, we know exactly when, how much, on what, and where are we spending our money.
-* withour zero-based budgeting, our lack of data about our spending in the past prevents us from planning our spending in the future. but when we start zero-based budgeting, as we are accruing data on our spending, we are more able to plan our future spending.
-* without zero-based budgeting, we often feel affraid to take a deeper look into our finances, because we are unsure how we'll feel, and we certainly want to avoid feeling bad. when we start zero-based budgeting, we'll find this practice more and more fun on a daily basis.
-* living paycheck to paycheck
-* falling for getting into debt propaganda
-* "I wouldn't be able to afford this without debt"
-* underestimating how much spiritual energy dealing with money unwisely can drain
-* not having sense of being in control
-* usually higher time preference
+If you never practiced zero-based budgeting, chances are you have some level of disorder in your financial life. The objective of adopting zero-based budgeting is to bring this aspect of your life into perfect order, and it's entirely achievable, regardless of the current state of disorder. In fact, it's quite straightforward.
 
+The moment you establish a zero-based budget for the first time (which typically doesn't require more than an afternoon, at most), you'll experience a noticeable shift in your sense of control over your finances. People often report feeling like they've received a substantial raise after creating their first zero-based budget.
+
+Without zero-based budgeting, our money management tends to be guided by emotions rather than rational decision-making. Some people become overly frugal with their spending, while others are too lenient. We lack clarity regarding the opportunity cost of our money and the time dimension of money. Instead, when making spending decisions, we typically compare the immediate transaction amount with our approximate total available funds.
+
+Consequently, our decision-making hinges on our feelings in the moment, often leading to post-purchase regrets. When we start zero-based budgeting, this sense of regret dissapears.
+
+Without zero-based budgeting, it's challenging to recall how we've been spending our money, apart from having a vague idea, and only for a short period. There's a general sense of uncertainty about our spending habits. Our lack of historical spending data hinders our ability to plan for future expenditures. However, when we adopt zero-based budgeting, we gain a precise understanding of when, how much, on what, and where we spend our money. As we accumulate this data, we grow better equipped to better plan our financial future.
+
+Before zero-based budgeting, many people are apprehensive about delving deep into their finances because they're uncertain about how they'll feel, and they want to avoid negative emotions. However, once we start zero-based budgeting, we'll find the practice increasingly enjoyable on a daily basis.
+
+Some common challenges and bad habits we get when not practicing zero-based budgeting include:
+
+1. Living paycheck to paycheck.
+2. Falling for messages promoting debt.
+3. Believing we couldn't afford certain things without debt.
+4. Underestimating the emotional toll of handling finances unwisely.
+5. Lacking a sense of control over our finances.
+6. Having a generally higher time preference (preferring immediate rewards over delayed gratification).
+
+The more we practice zero-based budgeting, the better we'll become at it. There is no set time limit for when we ought to stop practicing it because if we continue for ten years, we will have refined our skills and will be able to make accurate plans for the next ten years.
