@@ -8,9 +8,9 @@ Humans value goods and services differently at different points in time and spac
 
 Due to this, humans trade goods and services with one another. Person A trades with B because what B has is more valuable to A than what A has, and B values what A has more than what B has. So, as a result of the exchange, they both value the things they now have more than they did before the exchange.
 
-Direct trade encounters the problem of double coincidence of wants. A wants what B has, but B wants what C has. As a result, A attempts to exchange what it has with C, only to exchange it with B.
+Direct trade encounters the problem of double coincidence of wants. A wants what B has, but B doesn't want what A has.&#x20;
 
-The solution to the problem of double coincidence of wants is a medium of exchange. A medium of exchange is anything that a person acquires with the intention of exchanging it for something they actually want to use/consume.
+The solution to the problem of double coincidence of wants is a medium of exchange. A medium of exchange is anything that a person acquires with the intention of exchanging it for something they actually want to use/consume. If B wants what C has, then A attempts to exchange what it has with C, only to exchange it with B. A is acquiring what C has, not because A wants to utilize the thing itself, but only to exchange it with B.
 
 Because of their salability across time, space, and scale, certain goods emerge as better mediums of exchange than others over time.
 
