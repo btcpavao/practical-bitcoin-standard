@@ -5,14 +5,14 @@
 * [Introduction](README.md)
 * [My Story](introduction/my-story.md)
 * [Money In Every Day Life](introduction/money-in-every-day-life.md)
-* [Things We Use As Money Instead Of Bitcoin](introduction/things-we-use-as-money-instead-of-bitcoin.md)
+* [People Use Many Things As Money](introduction/people-use-many-things-as-money.md)
 
 ## Zero Based Budgeting
 
 * [Why Should We Practice Zero Based Budgeting?](zero-based-budgeting/life-without-zero-based-budget.md)
 * [Financial Order Vs Disorder](zero-based-budgeting/financial-order-vs-disorder.md)
-* [Budgeting Is The Process Of Categorizing Money To Decide Its Opportunity Cost](zero-based-budgeting/budget-categories-opportunity-cost-of-your-money.md)
-* [Budgeting Is Navigating The Time Dimension Of Money](zero-based-budgeting/budgeting-is-navigating-the-time-dimension-of-money.md)
+* [Categorizing Money To Decide Its Opportunity Cost](zero-based-budgeting/budget-categories-opportunity-cost-of-your-money.md)
+* [Navigating The Time Dimension Of Money](zero-based-budgeting/navigating-the-time-dimension-of-money.md)
 * [Budgeting Concepts](zero-based-budgeting/budgeting-concepts/README.md)
   * [Age Of Money](zero-based-budgeting/age-of-money.md)
   * [Inflows & Outflows](zero-based-budgeting/inflows-and-outflows.md)

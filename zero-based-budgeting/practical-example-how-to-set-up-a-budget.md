@@ -1,13 +1,25 @@
 # How To Make A Zero Based Budget
 
-* you can do this by hand, just using pen and paper
-* start with simple thought exercise: how to create zero based budget with $100. use simple pen and paper. the idea is to assign $100 to three different categories. "I have $100 in total, so I'm going to assign X to category 1, Y to category 2, Z to category 3". then imagine spending $10, so you are left with $90. from which category did you spend $10? adjust that category with the new balance.
-* you can also use software, I recommend [YNAB](https://www.ynab.com) (I'm using it daily since late 2017)
-* start by counting all money you have right now, and write down how much it is and where
-  * for example, open your wallet and count how much more there is, write down "Wallet: $34" (example)
-  * move on to your checking account, let's say there is $2,344.42 there. write down (or enter in YNAB) "Checking: $2,344.42")
-  * go on and add up all other checking & savings accounts you may have
-  * finally, you will end up with a number that you need to assign to your categories
-* move on to assessing the value of your assets and liabilities (if you have them). this part of your net worth is not going to be assigned to budget categories, because it's not liquid and not considered cash balance, but we are still going to track it
-  * list all of your assets
-  * list all of your liabilities
+You can create a zero-based budget by just using pen and paper, or zero-budgeting software (I recommend YNAB).&#x20;
+
+Here's a step-by-step guide:
+
+**Pen and Paper Method:**
+
+* Start with a simple thought exercise. You have $100 in total, so you want to assign amounts to three different categories.&#x20;
+* For example, "I have $100, so I'm going to assign $30 to Category 1, $40 to Category 2, and $30 to Category 3."
+* Imagine spending $10 from one of the categories. Let's say you spend $10 from Category 2. You are now left with a total of $90.
+* Adjust the category balance. In this case, update Category 2 to show that you have $40 - $10 = $30 remaining in that category.
+* Repeat this process for any further expenses or income adjustments.
+* This method allows you to manually track and adjust your budget using pen and paper.
+
+**Using YNAB:**
+
+* Start by counting all the money you have right now, including cash, checking accounts, savings accounts...
+* Write down or enter these amounts into YNAB. For example, if you have $34 in your wallet, add account with a name "Wallet" and enter $34 as your current account balance.
+* If you have, as an example, $2,344.42 in your checking account, add account with a name "Checking account" and enter $2,344.42 as your current account balance.
+* Proceed with adding any other accounts you can think of, where you have some money.
+* YNAB will automatically add up all the balances from your various checking and savings accounts, and will show you total amount of money you have ready to assign.
+* Now, you need to assign this money to categories. Start by deleting all the template categories you have in YNAB, and create couple of categories on your own.
+* Assign money to these categories, until everything is assigned.
+* For assets and liabilities that are not part of your cash balance, list them separately to track your net worth. These can include things like the value of your home (asset) and any outstanding loans (liabilities). Do this by adding tracking accounts.
