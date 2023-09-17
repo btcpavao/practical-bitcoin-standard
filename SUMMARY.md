@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [My Story](introduction/my-story.md)
 * [Money In Every Day Life](introduction/money-in-every-day-life.md)
-* [People Use Many Things As Money](introduction/people-use-many-things-as-money.md)
+* [What Do You Use As Money?](introduction/what-do-you-use-as-money.md)
 
 ## Zero Based Budgeting
 
