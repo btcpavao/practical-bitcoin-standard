@@ -24,7 +24,9 @@ We define money as the most widely used medium of exchange. While anything can b
 
 It's crucial to understand that all valuation occurs within our spiritual realm; there is no intrinsic value in physical objects. Our spiritual schematic, comprising all non-physical aspects, determines how we value things.
 
-In essence, money is actually spiritual phenomenon when it comes to how humans exchange goods and services with one another. The physical objects we use as money, such as coins and bills, are like carriers or symbols for this value in the physical world. There is nothing inherent in physical objects that makes them money. They are used as money by people. A gold bar lying on the ground next to a fisherman on the shore is of no value to a seagull. A seagull is considerably more interested in the fish the fisherman catches. The gold bar, however, is more valuable to the fisherman than the fish because he can exchange it for fish or anything else he might want in the future from other people.
+In essence, money is actually spiritual phenomenon when it comes to how humans exchange goods and services with one another. The physical objects we use as money, such as coins and bills, are like carriers or symbols for this value in the physical world. There is nothing inherent in physical objects that makes them money. They are used and recognized as money by human beings.&#x20;
+
+A gold bar lying on the ground next to a fisherman on the shore is of no value to a seagull. A seagull is considerably more interested in the fish the fisherman catches. The gold bar, however, is more valuable to the fisherman than the fish because he knows he can exchange it for fish or anything else he might want in the future from other people.
 
 This manual is designed to impart wisdom on how to alter our spiritual schematic to become more adept at using money. Remember, we can use anything as money, but I will argue that Bitcoin is the most effective tool for money in today's world.&#x20;
 
