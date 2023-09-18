@@ -1,35 +1,37 @@
 # Money In Every Day Life
 
-I want this manual to be as useful as possible. To do this, I must start with the basics and define what money is in the context of this manual. If you want to dive deeper into economy of Bitcoin, I would recommend that you read all three books by Saifedean Ammous: The Bitcoin Standard, The Fiat Standard, and Principles of Economics.
+In order to create a manual that is as useful as possible, it's important to begin with the basics and define what money represents in the context of this guide. For a deeper understanding of the economics of Bitcoin, I recommend reading all three books by Saifedean Ammous: "The Bitcoin Standard," "The Fiat Standard," and "Principles of Economics."
 
-We are all different people. Physically, we do differ somewhat, but we are similar to one another. People have two legs, two arms, ten fingers on each hand, two eyes, and two ears. We eat, drink, sleep, mate, and have bodily functions.&#x20;
+While we as human beings are physically unique to some extent, we share many similarities with other living beings on Earth. Physically, we all have two legs, two arms, ten fingers on each hand, two eyes, and two ears. We engage in activities such as eating, drinking, sleeping, mating, and have bodily functions. From a physical perspective, we are not much different from many other animals inhabiting the planet. However, what truly sets humans apart from animals is not our physical differences but our spiritual ones.
 
-From this perspective, we are very similar to many other animals that live on Earth. But what makes people different from animals is not how different they are physically, but how different they are spiritually.
+When we refer to the term "spiritual" in this context, we're talking about qualities and attributes that cannot be measured or defined in physical terms like weight, height, or temperature. In this sense, "spiritual" pertains to non-physical (metaphysical) aspects of human existence, such as patience, loyalty, diligence, optimism, resourcefulness, creativity and so forth.&#x20;
 
-When I say spiritual, I'm referring to things that are impossible to measure and define physically, like weight, height, and temperature. In this context, spiritual refers to non-physical (metaphysical) qualities such as patience, loyalty, diligence, and so on. When I say "spirits," I mean non-physical aspects of humans that can be grown and cultivated or eliminated/diminished.
+When we mention "spirits," we're addressing these non-physical aspects of humans that can be nurtured and developed or diminished and extinguished.
 
-Animals will never engage in capital accumulation. Animals do not specialize and trade. No animal has ever used money.
+Animals do not engage in capital accumulation, specialization, or trade. They do not use money, and they do not place different values on goods and services at different points in time and space due to spiritual differences among themselves.
 
-But humans do. Humans value goods and services they make for each other differently at different points in time and space due to their spiritual differences.
+However, humans are distinct in that they do engage in these activities. Humans value goods and services they create or possess differently at various times and in various places because of their spiritual attributes. This diversity in valuation leads humans to exchange goods and services with one another. Person A trades with Person B because what B possesses is more valuable to A than what A has, and likewise, B values what A has more than what B has. Consequently, as a result of the voluntary exchange, both individuals now value the items they possess more highly than they did before the exchange took place.
 
-Due to this, humans trade goods and services with one another. Person A trades with B because what B has is more valuable to A than what A has, and B values what A has more than what B has. So, as a result of the exchange, they both value the things they now have more than they did before the exchange.
+However, direct trade encounters a significant challenge known as the "double coincidence of wants." This issue arises when A wants what B has, but B does not want what A has in return.
 
-Direct trade encounters the problem of double coincidence of wants. A wants what B has, but B doesn't want what A has.&#x20;
+The solution to the problem of the double coincidence of wants is the introduction of a medium of exchange. A medium of exchange is anything that a person acquires with the sole intention of using it to exchange for something they really want to use or consume.&#x20;
 
-The solution to the problem of double coincidence of wants is a medium of exchange. A medium of exchange is anything that a person acquires with the intention of exchanging it for something they actually want to use/consume. If B wants what C has, then A attempts to exchange what it has with C, only to exchange it with B. A is acquiring what C has, not because A wants to utilize the thing itself, but only to exchange it with B.
+So, in our example, if B desires what C possesses, A may attempt to exchange what it has with C, only to then trade it with B. A is acquiring what C has, not because A intends to use it, but solely for the purpose of exchanging it with B. In this case, A used C item as a medium of exchange with B.
 
-Because of their salability across time, space, and scale, certain goods emerge as better mediums of exchange than others over time.
+Over time, throughout a number of interactions like this, certain goods emerge as better mediums of exchange than others due to their better salability across time, space, and scale.
 
-Money is a widely used medium of exchange. Anything can be used as money, but some things are more effective than others. It is critical to understand that all valuation happens in our spiritual part; there is nothing intrinsically valuable in physical objects. Our spiritual schematic (the sum of all our non-physical aspects) determines how we value things.
+We define money as the most widely used medium of exchange. While anything can be used as money, some things prove to be more effective than others.
 
-Money is therefore a spiritual phenomenon when it comes to how humans exchange goods and services with one another.
+It's crucial to understand that all valuation occurs within our spiritual realm; there is no intrinsic value in physical objects. Our spiritual schematic, comprising all non-physical aspects, determines how we value things.
 
-This manual is about wisdom on how to change our spiritual schematic to become better at using money. Remember, we can use anything as money, and I'll argue that the best tool we can use as money today is Bitcoin.
+In essence, money is actually spiritual phenomenon when it comes to how humans exchange goods and services with one another. The physical objects we use as money, such as coins and bills, are like carriers or symbols for this value in the physical world. There is nothing inherent in physical objects that makes them money. They are used as money by people. A gold bar lying on the ground next to a fisherman on the shore is of no value to a seagull. A seagull is considerably more interested in the fish the fisherman catches. The gold bar, however, is more valuable to the fisherman than the fish because he can exchange it for fish or anything else he might want in the future from other people.
 
-Thing of this manual like a guide on how to grow a "spiritual money tree" that has three parts: roots (zero-based budgeting), trunk and branches (becoming and remaining debt free), and leaves and fruits (establishing a giving practice). If you like, you can also imagine this as a blueprint for building a house, with the understructure (foundation) being zero-based budgeting, the plinth (base) becoming and staying debt-free, and the superstructure (visible part of the building) establishing giving practice.
+This manual is designed to impart wisdom on how to alter our spiritual schematic to become more adept at using money. Remember, we can use anything as money, but I will argue that Bitcoin is the most effective tool for money in today's world.&#x20;
 
-First, zero-based budgeting is a practice that allows us to have complete control over our money by deciding its opportunity cost and controlling it in the dimension of time.
+Think of this manual as a guide on cultivating a "spiritual money tree" with three components: roots (zero-based budgeting), trunk and branches (becoming and remaining debt-free), and leaves and fruits (establishing a giving practice). Alternatively, you can envision it as a blueprint for constructing a house, with the foundation being zero-based budgeting, the base ensuring freedom from debt, and the visible structure establishing a giving practice.
 
-Second, becoming and staying debt-free involves eliminating wasteful (misjudged valuations) outflows by eliminating credit spending and replacing it with cash spending. This fully stops the growth of the spirit of slavery and restlessness and initiates the growth of the spirit of freedom and peace.
+1. **Zero-Based Budgeting**: This practice grants us full control over our money by determining its opportunity cost and managing it in the dimension of time.
+2. **Becoming and Staying Debt-Free**: This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This process stops the growth of the spirit of slavery and restlessness while fostering the growth of the spirit of freedom and peace.
+3. **Establishing a Giving Practice**: This step is focused on increasing our inflows. By practicing generosity, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to boost our inflows.
 
-Third, establishing a giving practice is about increasing our inflows. Practicing this will grow the spirit of generosity and prevent the growth of the spirit of stinginess, leading to more opportunities to increase our inflows.
+By following these principles and practices, you can achieve greater financial wisdom and ultimately enhance your ability to navigate the world of money and wealth.
