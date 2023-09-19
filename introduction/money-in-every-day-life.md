@@ -1,16 +1,26 @@
 # Money In Every Day Life
 
-In order to create a manual that is as useful as possible, it's important to begin with the basics and define what money represents in the context of this guide. For a deeper understanding of the economics of Bitcoin, I recommend reading all three books by Saifedean Ammous: "The Bitcoin Standard," "The Fiat Standard," and "Principles of Economics."
+In order to create a manual that is as useful as possible, it's important to begin with the basics and define what money represents in the context of this guide. This is essential because you must realize that you probably use some things as money that you wouldn't if you used Bitcoin as your primary money. For a deeper understanding of the economics of Bitcoin, I recommend reading all three books by Saifedean Ammous: "The Bitcoin Standard," "The Fiat Standard," and "Principles of Economics."
 
-While we as human beings are physically unique to some extent, we share many similarities with other living beings on Earth. Physically, we all have two legs, two arms, ten fingers on each hand, two eyes, and two ears. We engage in activities such as eating, drinking, sleeping, mating, and have bodily functions. From a physical perspective, we are not much different from many other animals inhabiting the planet. However, what truly sets humans apart from animals is not our physical differences but our spiritual ones.
+Let's start talking about money in abstract, what it is, why people use it.
 
-When we refer to the term "spiritual" in this context, we're talking about qualities and attributes that cannot be measured or defined in physical terms like weight, height, or temperature. In this sense, "spiritual" pertains to non-physical (metaphysical) aspects of human existence, such as patience, loyalty, diligence, optimism, resourcefulness, creativity and so forth.&#x20;
+We as human beings are physically unique to some extent. But we also share many similarities with other living beings on Earth. Physically, we have two legs, two arms, ten fingers on each hand, two eyes, and two ears. We engage in activities such as eating, drinking, sleeping, mating, and have bodily functions. From a physical perspective, we are not much different from many other animals inhabiting the planet.&#x20;
 
-When we mention "spirits," we're addressing these non-physical aspects of humans that can be nurtured and developed or diminished and extinguished.
+What truly sets us humans apart from animals is not our physical differences but our spiritual ones.
+
+When we refer to the term "spiritual" in this context, we're talking about qualities and attributes that cannot be measured or defined in physical terms like weight, height, or temperature.&#x20;
+
+In this sense, "spiritual" pertains to non-physical (metaphysical) aspects of human existence, such as patience, loyalty, diligence, optimism, resourcefulness, creativity and so forth.&#x20;
+
+When we mention "spirits," like "spirit of freedom", "spirit of slavery", "spirit of peace" etc, we're addressing these non-physical aspects of humans that can be nurtured and developed or diminished and extinguished.
+
+Using money is a uniquely human activity, and its functioning primarily pertains to the spiritual world.
 
 Animals do not engage in capital accumulation, specialization, or trade. They do not use money, and they do not place different values on goods and services at different points in time and space due to spiritual differences among themselves.
 
-However, humans are distinct in that they do engage in these activities. Humans value goods and services they create or possess differently at various times and in various places because of their spiritual attributes. This diversity in valuation leads humans to exchange goods and services with one another. Person A trades with Person B because what B possesses is more valuable to A than what A has, and likewise, B values what A has more than what B has. Consequently, as a result of the voluntary exchange, both individuals now value the items they possess more highly than they did before the exchange took place.
+However, humans are distinct in that they do engage in these activities. Humans value goods and services they create or possess differently at various times and in various places because of their spiritual attributes. This diversity in valuation leads humans to exchange goods and services with one another.&#x20;
+
+If Person A and Person B value what the other person has more than what they have, they will trade with one another. The result of this voluntary exchange is that both A and B will value the same items more after exchanging them with one another.
 
 However, direct trade encounters a significant challenge known as the "double coincidence of wants." This issue arises when A wants what B has, but B does not want what A has in return.
 
