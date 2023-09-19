@@ -1,8 +1,4 @@
----
-description: How to approach this manual.
----
-
-# Introduction
+# The Purpose Of This Manual
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own at least some of it. I'll also assume you are aware of what sets Bitcoin apart from all the other cryptocurrencies (shitcoins) that followed it. Finally, I'll assume you are aware of at least some of the issues the world is facing as a result of fiat money.
 
