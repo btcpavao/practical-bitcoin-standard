@@ -1,7 +1,9 @@
-# Spending Cash = Spending From The Certainty Of The Past
+# Paying With Cash Is Spending From The Certainty Of The Past
 
-* spending money you already have means you are 100% aware of it's opportunity cost (because your money is already assigned in the budget)
-* whatever you are spending on and paying cash, you will always get a better price than if you were spending on the same thing using credit
-* this means you will eliminate the cost of debt risk expressed in interest rate & discount for the same item when paying in cash.
-* spending from past means you will eliminate the opportunity cost of debt from your future inflows.
-* these two factors will reduce your outflow rate overall, and the best way to "spend less in general" is really to spend only money you already have. being and staying debt free is the best way to reduce wasteful outflows
+Spending money you already have means you are fully aware of its opportunity cost (because your money is already budgeted).
+
+You will always receive a better deal when paying with cash for whatever you are purchasing than when using credit, and you will avoid paying the interest rate over time. When you add up these two, you should consider their future purchasing power if you were to save them in Bitcoin.
+
+For instance, if you see something with a $5,000 MSRP and decide to buy it with cash, you may negotiate for a price of $4,500. If, on the other hand, you were to finance it over, say, five years, you would pay about $6,000 total, or $100 a month. But the $1,500 price difference should be adjusted for it's opportunity cost if it were saved in Bitcoin over 5 years. We are still talking about an annual compound annual growth rate (CAGR) of about 15%, even if we assume that Bitcoin will continue to grow at a rate ten times slower than its historical trend.
+
+And this is without even considering the value of your potential to increase your inflows as a result of not growing a spirit of slavery, restlessness, and confusion, but rather a spirit of freedom, peace, and clarity over the time you'd otherwise be in debt.
