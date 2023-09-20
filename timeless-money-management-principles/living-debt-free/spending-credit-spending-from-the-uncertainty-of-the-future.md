@@ -1,16 +1,22 @@
-# Spending Credit - Spending From The Uncertainty Of The Future
+# Paying With Credit Is Spending From The Uncertainty Of The Future
 
 Why is it never a good idea to use credit or get into debt? Fundamentally, because the future is uncertain.
 
 Let's think more deeply about it. What does it mean that the future is uncertain? This simply means that we do not know what will happen in our lives tomorrow, next week, next month, next year, or in ten years. We can plan for and expect some events to happen, but there is no way to know with certainty.
 
-* people usually think of uncertainty about the future with fear of bad things that may happen. but uncertain future also means there are good things that may happen. we just don't know when and how they will hapen (both good and bad).
-* this is why fundamentally it's a bad idea to spend your future money. you just don't know how much money you will make & have in the future.
-* but on the other side, we know for a fact what will happen if you spend from the future. your present cash outflows will increase until you pay off the debt.
-* this increase in your present cash outflows can present a problem in two different ways.
-  * 1\) a negative occurence in your future (that again, you don't know about) like losing or decreasing your cash inflows due to any negative event that may occur (losing the job, your clients going bankrupt, getting sick, things like that). a loss or decrease of inflow will further exacerbate the debt problem, because now you are increasing the risk of defaulting on your debt, which usually means cascade of bad outcomes that stream down the line. did you know that most divorces have money problems (mostly caused by debt) as their main cause?
-  * 2\) a positive opportunity in your future may arise, that you will unfortunatelly pass on because you can't afford to take risks with your cash inflows. for example, you may get across an opportunity to switch career path, or start a new business, both of which may significantly decrease or stop your inflows altogether for a while (let's say for a year or two), but after this decrease your inflows could double, triple or sometimes grow orders of magnitude more than what you currently make. however, you are incurring this opportunity cost because you simply can't afford to take the risk - because your cash outflows are already determined by the payments you have to make.
-* also, whenever you make a transaction, you are performing valuation in the present, and your valuation can change in the future. the item you are purchasing right now can be more valuable for you than the money you need to exchange in order to obtain it, but the same item can be less valuable for you than the money you need to exchange for it in the future. your subjective valuation can and will change due to myriad of factors, none of which you can predict with certainty
+When one considers uncertainty about the future, they typically associate it with fear of negative outcomes. However, an uncertain future also implies the possibility of positive outcomes. We simply don't know what will happen, when, or how (both good and bad).
+
+This is why it is fundamentally unwise to spend your future money. Simply said, you have no knowledge how much money you will earn or have in the future.
+
+On the other hand, we know for certain what will happen if you spend from the future. Until you pay off the debt, your present cash outflows will increase.
+
+This increase in your present cash outflows can be a problem in two different ways.
+
+A negative event that might happen in the future (which, once again, you are unaware of) such as losing your job or seeing a decline in your cash inflows as a result of any unfavorable circumstance (losing the job, your clients filing for bankruptcy, getting sick, etc.). A reduction in income will make your debt situation worse since you run a higher risk of defaulting on your debt, which typically has a domino effect of negative consequences. Did you know that financial issues, primarily stemming from debt, account for the majority of divorces?
+
+You might eventually come across a good opportunity that you regretfully miss out on because you are unable to take calculated risks with your income. For example, you may come across an opportunity to switch careers or start a new business. Both of these things could reduce or stop your income for a while (let's say for a year or two), but after this decrease, your income could double, triple, or grow by orders of magnitude more than what you make now. However, you are incurring this opportunity cost because you simply cannot afford to take the risk - because your cash outflows are already determined by the payments you must make.
+
+Furthermore, each time you conduct a transaction, you are performing valuation in the here and now, and that valuation may alter later on. The item you are purchasing now may be more valuable to you than the money you must exchange to obtain it, whereas the same item may be less valuable to you than the money you must exchange for it in the future. Your subjective valuation can and will change due to a variety of factors, none of which you can predict with certainty.
 
 
 
