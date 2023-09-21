@@ -20,7 +20,7 @@
     * [Scheduled Transactions](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/scheduled-transactions.md)
     * [Payees](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/payees.md)
     * [Transaction Memo](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/transaction-memo.md)
-    * [Income Vs Expense](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/income-vs-expense.md)
+    * [Income Vs Expense Report](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/income-vs-expense-report.md)
     * [Spending Totals](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/spending-totals.md)
     * [Spending Trends](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/spending-trends.md)
     * [Net Income](timeless-money-management-principles/zero-based-budgeting/budgeting-concepts/net-income.md)
