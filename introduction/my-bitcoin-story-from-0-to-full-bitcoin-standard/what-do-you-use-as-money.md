@@ -1,24 +1,10 @@
-# Things We Use As Money Instead Of Bitcoin
+# What Do You Use As Money?
 
 It is critical to understand that money is a medium of exchange and that anything can be used as such.
 
 Do you know someone who "invests in real estate," that is, buys properties not to live in or rent out but rather to "store value," with the goal of later selling them for a higher price than they paid for them? If that's the case, then this person is using real estate as money.
 
-Some of the most popular instruments that people around the world use as money:
-
-* banknotes
-* fiat checking accounts
-* fiat savings accounts
-* credit
-* government bonds
-* corporate bonds
-* stock index funds
-* mutual funds
-* precious metals
-* art
-* real estate
-* altcoins
-* stablecoins
+Some of the most popular instruments that people around the world use as money include banknotes, coins, fiat bank checking accounts, fiat bank savings accounts, credit, government bonds, corporate bonds, stock index funds, mutual funds, precious metals, art, real estate, altcoins, stablecoins...
 
 The goal of this guide is to help you get ready to use bitcoin as your primary money and give you the tools you need to do so. This doesn't mean you'll never use any other kind of money again. There is a good chance that you reside in an area where most people use government-issued fiat currency as their primary means of exchange.&#x20;
 
