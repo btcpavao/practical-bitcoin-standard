@@ -1,8 +1,3 @@
 # Actionable Advice
 
-* take your time to implement advice in this manual
-* it's a marathon, not a sprint
-* the more you do this, the better you'll become
-* doing this will positively affect you and other people in your life
-* share this forward in an open source fashion
-* when you learn this, teach others
+It's a marathon, not a sprint, so take your time putting the advice in this guide into action. You'll get better at this the more you do it. It will also help other people in your life. Share this forward in an open source way. When you learn this, teach others.
