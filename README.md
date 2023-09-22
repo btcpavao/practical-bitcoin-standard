@@ -1,6 +1,6 @@
 # The Purpose Of This Manual
 
-I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you are know what sets Bitcoin apart from all the other cryptocurrencies (shitcoins) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of fiat money.
+I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from all the other cryptocurrencies (shitcoins) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of fiat money.
 
 You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." Depending on your Bitcoin story and when your "get off zero" moment occurred, you may already have a large Bitcoin position.
 
