@@ -1,8 +1,15 @@
 # Rule Of Thirds: Cash, Land & Capital
 
-* think of your net worth having optimal balance of three different segments, in which, if they are in correct size compared to each other, total net worth is going to grow in the fastest and most sustainable & enjoyable way
-* the first part of your net worth is the most liquid part that has least diminishing returns in marginal utility - your cash
-* cash balance can comprise most of your net worth, and even if it is more than a third - it is not going to hamper your ability to grow it
-* however, two second parts: the value of your "land" and the value of your capital stock: if they are outsized compared to your total net worth - this can hamper your ability to grow it
-* when saying "land" we mean the land you own, including the house/real estate on it and all other durable but consumable goods that go along with it. this is considered "land" in this context only if you use it for living and leisure. if you use the same land as your labor, for example if you work from home, or produce something you sell using the same land/real estate where you also live in, than that part of the land should be tracked as capital.
-* example: $500k net worth, out of which 90% is home ($450k), and the rest is investment (say $40k in something like balanced portfolio of bonds & stocks) and finally, $10k in cash. this net worth balance is heavily skewed towards home, and will present serious detriment on it's growth. an optimal net worth distribution in this case would be: up to $165k in home, up to $165k in investments, and the rest in cash
+Consider your net worth as having an ideal balance between three distinct segments. If these segments are the right size in relation to one another, your total net worth will increase in the fastest, most sustainable, and most pleasurable manner.
+
+The first component of your net worth is the most liquid and has the least diminishing marginal utility returns - your cash. If you adopted full Bitcoin standard, than this is the value of your bitcoin balance.
+
+The cash balance can make up the majority of your net worth, and even if it is more than a third, it will not impair your ability to grow it.
+
+However, there are two additional components: the value of your "land" and the value of your capital stock: If they are disproportionate to your total net worth, they may limit your ability to grow it.
+
+When we say "land," we mean the land you own, as well as the house or real estate on it and any other durable but consumable goods that come with it. This is only considered "land" in this context if you use it for living and leisure time. If you work from home or produce something you sell using the same land/real estate where you also live, that portion of the land should be tracked as capital.
+
+When we talk about "Capital," we mean the value of assets that you use to generate cash flow. For example, if you own a grocery store, capital would be the value of all of the equipment, inventory, and other items required to run the business. We also consider all securities you own, such as dividend-paying stocks in a company, to be Capital.
+
+Example: You have a net worth of $500,000. Of that, $500,000 is in investments ($40,000 in a balanced portfolio of bonds and stocks), and the last $10,000 is cash. This net worth balance is heavily skewed toward "land" and will substantially hinder its growth. In this case, an optimal net worth distribution would be: up to $165k in Land, up to $165k in Capital, and the rest in cash.

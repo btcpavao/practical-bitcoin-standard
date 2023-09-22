@@ -1,7 +1,11 @@
-# Rules Of Thumb For Buying Vehicles
+# Rules Of Thumb For Buying Vehicles & Other Large Durable Goods
 
-* the market price sum total of all vehicles you own (cars, motorcycles, boats, anything that has a motor inside) should not exceed above average six months of your inflows
-* for example, if you make $100k per year, you should not own more than $50k total in vehicles.
-* all of this is assumed you pay cash for them and calculate the cost of ownership before hand.
-* when deciding wether you should buy new or used, look into cost of ownership calculation, and in particular depreciation rate for the vehicle you are considering
-* keep in mind the rule of thirds: no more than a third of your net worth in your home and no more than a third in your capital. usually people use vehicles both as a consumable good and capital (they go to work with it, or use it directly to generate inflows), so the vehicle you buy will get tracked
+The market value of all vehicles you own (cars, motorcycles, boats, or anything with a motor inside) should not exceed six months of your average inflows.
+
+For example, if you earn $100,000 per year, you should not have more than $50,000 in total vehicle ownership. This is all presuming you compute the cost of ownership beforehand and pay cash for them.
+
+When deciding whether to buy new or used, consider the cost of ownership calculation, as well as the depreciation rate for the vehicle you are considering.
+
+Remember the rule of thirds: allocate no more than one-third of your net worth in Land and no more than one-third in Capital. People typically use vehicles as both a consumable good (part of Land) and Capital (they drive to work with it or directly use it to generate inflows), so the vehicle you purchase can be considered both Land and Capital.
+
+For example, if your car is worth $10,000 and you use it 20% of the time ffor leisure and 80% of the time for work, you should consider that it contributes $2,000 to the value of your Land and $8,000 to the value of your Capital.

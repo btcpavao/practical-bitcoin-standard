@@ -1,7 +1,11 @@
-# Owning Things Requires Calculating Cost Of Ownership
+# Why And How To Calculate & Track The Cost Of Ownership
 
-* think about the last time you purchased something of a higher price ticket
-* every thing you purchase, own and use gets depreciated over time. for example, the moment you purchase a new phone, unbox it and start using it, the phone has lost some percentage of it's value because it's not brand new, unboxed anymore - you started using it.
-* items have a depreciation curve that can be assesed in the market. for example using the same phone analogy, you can assess how much does your phone trade for used after one year for example
-* any time you purchase an item, you should track it's depreciation in your budget. when you buy your phone that you paid for example $700, you should track it as an asset that is worth say $650 (this $50 difference is due to it not being brand new anymore). after a year of usage for example, you should reasess this item market price, i.e. how much money you can get if you were to liquidate it. say that number is $500 - you adjust it in your budget. you continue to do this during the time you are using the item.
-* keep in mind that using the item often incurs additional maintenance cost over time. if for example after 2 years of using your phone, the battery loses 30% of it's charge, you may opt for battery replacement instead of replacing the phone altogether. on the other hand, cars for example do require once (or even better, twice) a year maintenance schedule to make sure they run reliably and for longer time. you should budget for these ongoing maintenance costs, and continue assessing the depreciation of the items you own as you go.
+Consider the last time you paid a higher price for something. Everything you buy, own, and use depreciates over time. For example, when you buy a new phone, unbox it, and start using it, the phone loses some of its value because it is no longer brand new and unboxed - you started using it.
+
+Items have a market-based depreciation curve. Using the same phone as an example, you can figure out how much your phone is worth when it's used after a year.
+
+When you buy something, keep track of its depreciation in your budget. When you buy a phone for $700, you should track it as an asset worth $650 (the $50 difference is due to the fact that it is no longer brand new). After a year of use, for example, you should assess the market price of this item, i.e. how much money you can get if you liquidate it.
+
+Assume that figure is $500; you adjust it in your budget. This is something you keep doing while using the item. You keep doing this while using the item. Remember that using the item frequently results in additional maintenance costs over time. If, after two years of use, your phone's battery loses 30% of its charge, you may choose to replace the battery rather than the phone itself.
+
+Cars, on the other hand, require a once (or better, twice) yearly maintenance schedule to ensure they run reliably and for a longer period of time. You should budget for these ongoing maintenance costs and keep track of the depreciation of your possessions as you go.
