@@ -1,24 +1,38 @@
 # The Purpose Of This Manual
 
-I'll assume that if you are reading this, you are already well-versed in Bitcoin and own at least some of it. I'll also assume you are aware of what sets Bitcoin apart from all the other cryptocurrencies (shitcoins) that followed it. Finally, I'll assume you are aware of at least some of the issues the world is facing as a result of fiat money.
+I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you are know what sets Bitcoin apart from all the other cryptocurrencies (shitcoins) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of fiat money.
 
-You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." However, I'm pretty sure that you are still not using it as your primary money. That is to say, you are probably still not earning it directly, or if you are earning fiat, you are probably not immediately converting all of your earnings to it. You probably aren't used to regularly converting bitcoin to fiat to pay for your expenses either. And if you're well into your Bitcoin journey, you've probably considered it at least once, but you probably dismissed it due to Bitcoin's high purchasing power volatility.
+You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." Depending on your Bitcoin story and when your "get off zero" moment occurred, you may already have a large Bitcoin position.
 
-This manual will show you that using Bitcoin as your primary money is not only possible today but might be the best way to use Bitcoin overall. Let's talk about the elephant in the room: Bitcoin and volatility.
+I'm also assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in bitcoin, and you are likely not converting all your fiat to bitcoin immidiately after the funds clear.
+
+You're probably not used to converting bitcoin to fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall. You might have some credit obligations, such as a mortgage or a car loan, and you wouldn't want to be a "forced seller" of Bitcoin at the bottom, would you?
+
+If you recognize yourself in any of this, this manual is for you.
+
+I will show you that using Bitcoin as your primary money is not only possible today but might be the best way to use Bitcoin overall. This basically means "going all in on Bitcoin" and stopping using fiat money as a hedge against Bitcoin volatility, altogether. To do this right, though, you'll need to make sure you have a solid understanding of how to handle money in general. And I'm not talking about learning extremely complex and arcane financial knowledge. I'm referring to returning to the very basic, fundamental laws of money in human existence.
+
+But let's go back to Bitcoin.
+
+Let's talk about the elephant in the room: Bitcoin and volatility.
 
 Bitcoin is a very different kind of money from fiat we all use every day. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of fiat has steadily declined.
 
-You've probably read about the well-known Bitcoin pizza transaction in which, in May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum that he wanted to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them and got paid 10,000 BTC. At the time of writing (September 2023), 1 Bitcoin is worth about $27,000. Therefore, 10,000 Bitcoins (or about $270 million today) can buy about 18 million pizzas. When you think about it, it's pretty amazing that Bitcoin's purchasing power increased nine million times in less than 14 years (going from $0.003/BTC in 2010 all the way to $27,000/BTC in 2023).
+You probably already know about the famous Bitcoin pizza transaction in which, in May 2010, [Laszlo Hanyecz posted on the Bitcointalk.org forum](https://bitcointalk.org/index.php?topic=137.0) that he wanted to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them and got paid 10,000 BTC.&#x20;
+
+At the time of writing this (September 2023), 1 bitcoin is worth about $27,000. Therefore, 10,000 bitcoins (or about $270 million today) can buy about 18 million pizzas. When you think about it, it's pretty amazing that Bitcoin's purchasing power increased nine million times in less than 14 years (going from $0.003/BTC in 2010 all the way to $27,000/BTC in 2023).
 
 But this increase in purchasing power came with even more well-known volatility.
 
-Since I began studying Bitcoin seriously in late 2017, I've witnessed a price drop from $20,000 to as low as $3,000 per BTC, a retracement of almost 85 percent. Then I saw it go up all the way to almost $70,000, which is an increase of almost 2,300 percent. Then I saw it go down again to around $15,000, which is a retracement of around 80 percent from its high point. It was a wild ride, and I'm currently looking at the price, which is $26,672, a roughly 320 percent increase over the past five years.&#x20;
+When I consider my overall experience since my "get off zero" moment (in July 2014, at around $600/BTC), the current Bitcoin exchange rate is 44 times higher than my entry point, in just a bit over 9 years.
 
-However, when I consider my overall experience since my "get off zero" moment (in July 2014, at around $600/BTC), the current Bitcoin exchange rate is 44 times higher than my entry point, in just a bit over 9 years.
+But I only began studying Bitcoin seriously in late 2017, because I completely forgot about my initial Bitcoin purchase in summer of 2014 until then. But I've witnessed Bitcoin price running up all the way to the peak of $20,000 in December 2017, and then dropping down to as low as $3,300 per BTC in November 2018, a retracement of almost 85 percent. Then I witnessed Bitcoin recovering all the way to around $12,000 in summer of 2019, dropping back to around $8-9k range. And then March of 2020 came in, the infamous COVID crash, that slashed the price almost in half (though for a short period), touching $4k-$5k range.
 
-I've heard a variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice was along the lines of "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average." The more aggressive approaches typically consisted of attempting to trade this volatility by purchasing Bitcoin at low prices and selling it at high prices. I believe that both of these approaches can be effective for some (although they both carry risks that are often overlooked), but there is a third approach that I rarely see but am personally doing for the past three years very effectively, which is to simply use Bitcoin as your primary money.
+And then I witnessed 2020 halving, and Bitcoin following up all the way to around $60k in Spring of 2021 (1200% increase), then drop back down to around $30k during the Summer of 2021 (50% decrease), only to climb back up to almost $70k in November of 2021. Then I saw it go down again in 2022, all the way down to previous cycle all time high of $20k in Summer of 2022, and retrace down even more to $15k-$16k in November of 2022, which is a retracement of around 80 percent from its high point. It was a wild ride, and I'm currently looking at the $26,672/BTC price in September of 2023, which is roughly 320 percent increase over the past five years I'm following it closely.
 
-This basically means "going all in on Bitcoin" and stopping using fiat money as a hedge against Bitcoin volatility, altogether.
+I've seen and heard a wide variety of recommendations and approaches for addressing this Bitcoin volatility. Typical conservative advice was along the lines of "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average."&#x20;
+
+The more aggressive approaches typically consisted of attempting to trade this volatility by purchasing Bitcoin at low prices and selling it at high prices. I believe that both of these approaches can be effective for some (although they both carry risks that are often overlooked), but there is a third approach that I rarely see but am personally doing for the past three years very effectively, which is to simply use Bitcoin as your primary money.
 
 It means converting all of your current and incoming money to Bitcoin or making arrangements to be paid exclusively in Bitcoin (if possible). You do this regardless of the current exchange rate. Then, when it's time to pay for your expenses, which are typically denominated in your local currency, you exchange Bitcoin back into fiat and pay (or, if possible, pay directly with Bitcoin).
 
