@@ -1,11 +1,13 @@
 # Inflows & Outflows
 
-* inflow is money coming in, regardless of payee
-* outflow is money going out, regardless of payee
-* over time, you can compare our inflow & outflow levels
-* if inflows are larger than outflows, you will have positive net income
-* if outflows are larger than inflows, you will have negative net income
-* your average net income is averaged across time
-* task: every week, look and assess your income and expense
-  * look at your net income
-  * narrow down across a single category
+Inflow refers to money coming in.&#x20;
+
+Outflow refers to money going out.&#x20;
+
+Our inflow and outflow levels can be compared over time.&#x20;
+
+If more money comes in than goes out, you will have a positive net income. When outflows are higher than inflows, you have negative net income.&#x20;
+
+Your average net income is calculated over time.&#x20;
+
+Task: Check your income and expenses once a week. Take a look at your net income. Limit your search to a single category.

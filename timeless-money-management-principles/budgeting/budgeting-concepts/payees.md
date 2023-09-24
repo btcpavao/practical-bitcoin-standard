@@ -1,5 +1,5 @@
 # Payees
 
-* everybody (persons or legal entities) that you transact with
-* why should you track your payees? because you will be able to know exactly where you incur your outflows, and where do your inflows come in
-* over time you will make better decisions on who you should transact with
+Payee is anyone (a person or legal entity) with whom we transact for both inflows and outflows.&#x20;
+
+Why should we keep track of our payees? Because we need to know precisely where our inflows and outflows occur, so we can make better decisions about who we transact with over time.

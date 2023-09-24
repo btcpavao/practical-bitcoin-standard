@@ -1,9 +1,7 @@
 # Giving Money Benefits Giver More Than Recipient
 
-* separate between 10% to 20% of the liquid part of your budget and assign it to Giving category
-* do this even if the intention is to derive benefit for yourself only
-* do this because it is going to build spirit of generosity in you
-* spirit of generosity will lead to increased income
-* if you continue keeping 10% to 20% of your budget in Giving category even after your income has grown, you will have larger Giving category
-* this will increase spirit of generosity even more, which will lead to even more income
-* don't stop this practice once you start, and your income will keep growing
+We should set aside 10% to 20% of our budget for the Giving category. We should also keep this portion of our budget assigned to the Giving category at all times. So when we spend from it, we recalculate 10% to 20% of what is left in our total budget and move money from other categories to Giving in order to adjust it back. When we spend money from other categories, we recalculate 10% to 20% of what is left in our total budget and adjust the amount in the Giving category.
+
+We should do this primarily for the benefit of cultivating our spirit of generosity. And the spirit of generosity will increase our capacity to generate higher inflows.
+
+We should always continue this practice as our inflows and net worth grow. If we do this correctly, our giving transactions will increase in size and frequency, further cultivating a spirit of generosity and increasing our capacity to generate even higher inflows. We should never stop doing this. Instead, we should think of it as becoming a habit.

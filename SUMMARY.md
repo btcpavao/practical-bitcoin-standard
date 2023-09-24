@@ -10,9 +10,8 @@
 ## Timeless Money Management Principles
 
 * [Budgeting](timeless-money-management-principles/budgeting/README.md)
-  * [Why Should We Practice Budgeting?](timeless-money-management-principles/budgeting/life-without-zero-based-budget.md)
-  * [Financial Order Vs Disorder](timeless-money-management-principles/budgeting/financial-order-vs-disorder.md)
-  * [Categorizing Money To Decide Its Opportunity Cost](timeless-money-management-principles/budgeting/budget-categories-opportunity-cost-of-your-money.md)
+  * [Why Practice Budgeting?](timeless-money-management-principles/budgeting/life-without-zero-based-budget.md)
+  * [Our Money Has Opportunity Cost: We Decide It By Categorizing It](timeless-money-management-principles/budgeting/budget-categories-opportunity-cost-of-your-money.md)
   * [Navigating The Time Dimension Of Money](timeless-money-management-principles/budgeting/navigating-the-time-dimension-of-money.md)
   * [Budgeting Concepts](timeless-money-management-principles/budgeting/budgeting-concepts/README.md)
     * [Age Of Money](timeless-money-management-principles/budgeting/budgeting-concepts/age-of-money.md)
