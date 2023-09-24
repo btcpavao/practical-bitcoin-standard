@@ -1,8 +1,6 @@
-# Categorizing Money To Decide Its Opportunity Cost
+# Our Money Has Opportunity Cost: We Decide It By Categorizing It
 
-One of the major misconceptions about budgeting is the belief that it solely involves reducing spending or tracking expenses. In reality, budgeting is about allocating our money, giving it a specific plan or purpose before we spend it. "Planning" might be a more accurate term, or even "economizing." Also, budgeting is a process of managing money, it's not a particular destination we arrive at and stay there.
-
-So why bother doing this? Because, in order to gain full control over our money, we first have to decide it's opportunity cost. Without budgeting, our money opportunity cost remains undecided. Let's illustrate this through an example story.
+In order to gain full control over our money, we first have to decide it's opportunity cost. Without budgeting, our money opportunity cost remains undecided. Let's illustrate this through an example story.
 
 Imagine we have $5,000 in our bank account, which is all the money we have at the moment. Should we go to a nice restaurant that has an average dinner price of about $100 if we really want to?
 
