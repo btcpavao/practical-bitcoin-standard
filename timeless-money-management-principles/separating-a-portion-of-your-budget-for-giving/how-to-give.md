@@ -1,9 +1,17 @@
-# How to give?
+# How To Give?
 
-* smaller but more often is better then larger less often
-* never let a full year go by without making a single transaction from Giving category
-* family first, friends second, acquintances third, local community fourth etc. the closer people are to your circle, the higher priority
-* if the giving is charity driven, the best way is for the beneficiary not to know that you are benefactor. you always need to consider the dignity of the benefactor
-* if above is not possible (meaning, beneficiary will know that you are the benefactor), the second best way is to give as an investment in their business (but no expectations of return on your end)
-* third is to offer no interest loan, no expected date of return (and no expectations of return on your end)
-* there is no goal to arrive at in this practice, it's a lifetime journey you should continue doing and get better & more wise about it over time
+Giving smaller amounts more frequently is preferable to larger amounts less frequently.
+
+Never go a year without making a single transaction from the Giving category.
+
+Family comes first, then friends, then acquaintances, then the local community, and so on. The closer people are to your circle, the higher the priority.
+
+If the giving is for charity, the best way is for the beneficiary to be unaware that you are a benefactor. You must always consider the dignity of the benefactor. Always keep the dignity of the benefactor in mind.
+
+If the above is not possible (because the beneficiary will know who you are), the second best option is to give as an investment in their business (with no expectation of a return on your end).
+
+Third, offer a no-interest loan with no expected return date (and no expectations of return on your end).
+
+The third option is to provide a loan with no interest and no projected return date, along with no expectations of return from you.
+
+This is a lifelong journey that you should continue and get better and wiser about over time; there is no end point to this practice.

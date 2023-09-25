@@ -1,13 +1,8 @@
 # What Is Considered Giving?
 
-* when you give, do so without expectation of receiving something in return. the beneficiary should not incur liability on their balance sheet due to your giving. so do not track transactions from giving category as your assets.&#x20;
-* If the beneficiary of your giving later wants to pay it back, accept it only if they insist, and make sure they are aware you do not expect anything in return
-* direct financial help
-* charity
-* gifts
-* tips
-* loans without expectation of payback
-* investments without expectation of return
-* donations
-* sponsorships without contractual obligations for exchange of promotional benefits
+When you give, you should do so without expecting anything in return. Your giving should not result in a liability on the beneficiary's balance sheet. So don't keep track of transactions from the giving category as your assets.
+
+If the recipient of your generosity later wishes to repay it, accept it only if they insist, and make it clear that you do not expect anything in return.&#x20;
+
+Here are some of the ways you can give: direct financial assistance, charity, gifts, tips, loans without expectation of payback, investments without expectation of return, donations, sponsorships with no contractual obligations for promotional benefits.
 
