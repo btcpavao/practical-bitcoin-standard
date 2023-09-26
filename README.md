@@ -60,4 +60,8 @@ The first section explains and discusses three fundamental principles of money m
 
 The second section discusses how to start using Bitcoin as your primary money, assuming you have implemented the three fundamental money management principles, and how to think of it as a portion of your total net worth and its breakdown. You will learn how to think about investing in capital (and what capital actually is) and how much of your net worth should be in your home. You will also learn how to think about ownership and calculate the cost of ownership across time, which is different from possession and use when you do not own the asset. This will enable you to decide wisely whether to buy or rent the asset.
 
-If you've never heard of these concepts before, there is a lot to learn, but anyone can do this. Please send any feedback you may have to pavao@hey.com. I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
+If you've never heard of these concepts before, there is a lot to learn, but anyone can do this.&#x20;
+
+This manual is a work in progress, so please send any feedback you may have to pavao@hey.com. If you want personalized advice, please use [this link to schedule a call](https://calendly.com/btcpavao/practical-bitcoin-standard). If you would like to support this work, you can send sats to one of the following lightning addresses: btcpavao@walletofsatoshi.com, btcpavao@getalby.com, or btcpavao@stacker.news.
+
+I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
