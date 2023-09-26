@@ -6,7 +6,9 @@ You might view your Bitcoin as a long-term investment, a piece of your retiremen
 
 I'm also assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in bitcoin, and you are likely not converting all your fiat to bitcoin immidiately after the funds clear.
 
-You're probably not used to converting bitcoin to fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall. You might have some credit obligations, such as a mortgage or a car loan, and you wouldn't want to be a "forced seller" of Bitcoin at the bottom, would you?
+You're probably not used to converting bitcoin to fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall in a bear market.&#x20;
+
+You might have some credit obligations, such as a mortgage, car loan, a student loan or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you're treading carefully when it comes to deciding how and when to invest in it.
 
 If you recognize yourself in any of this, this manual is for you.
 
