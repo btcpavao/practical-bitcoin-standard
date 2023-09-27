@@ -2,8 +2,8 @@
 
 
 
-* whenever you take out a loan from a bank, new money is created
-* when you pay back the loan, money is destroyed
+* whenever you take out a loan from a bank, new fiat money is brought into existence
+* when you pay back or default on the loan, fiat money is removed from existence
 * the only reason why this system works is the violent coercion from the state which mandates using fiat money in the marketplace through legal tender laws, tax collection in  fiat money, and mandates that large financial institutions hold certain amount of government bonds in their portfolio
 * this effectively means that the only reason the debt is monetized around the world is the coercion of the state
 * so when you get into debt through any of the fiat licensed institutions, you are effectively leveraging the state coercive power to transfer your credit risk to the holders of the fiat money
