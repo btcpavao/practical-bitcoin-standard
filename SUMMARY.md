@@ -45,6 +45,7 @@
   * [Increase Spirit Of Peace & Clarity By Aging Your Money](timeless-money-management-principles/living-debt-free/peace-and-clarity-increases-with-age-of-money.md)
   * [Using Things Paid With Credit Diminishes Satisfaction](timeless-money-management-principles/living-debt-free/using-things-bought-with-credit-diminishes-satisfaction.md)
   * [Paying With Credit Increases The Cost Of Ownership](timeless-money-management-principles/living-debt-free/buying-things-with-credit-increases-their-cost-of-ownership.md)
+  * [When You Get Into Fiat Debt, You Indirectly Steal Purchasing Power From Poor](timeless-money-management-principles/living-debt-free/when-you-get-into-fiat-debt-you-indirectly-steal-purchasing-power-from-poor.md)
   * [Debt And Bitcoin](timeless-money-management-principles/living-debt-free/debt-and-bitcoin/README.md)
     * [If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways](timeless-money-management-principles/living-debt-free/debt-and-bitcoin/if-you-have-debt-and-hold-bitcoin-you-risk-losing-in-multiple-ways.md)
     * [When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone](timeless-money-management-principles/living-debt-free/debt-and-bitcoin/when-you-become-debt-free-transition-from-fiat-to-bitcoin-standard-eases-for-everyone.md)
