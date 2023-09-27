@@ -48,6 +48,7 @@
     * [When You Pay With Credit, The Cost Of Ownership Increases](timeless-money-management-principles/always-live-debt-free/what-your-debt-does-to-you/buying-things-with-credit-increases-their-cost-of-ownership.md)
   * [What Your Debt Does To Others](timeless-money-management-principles/always-live-debt-free/what-your-debt-does-to-others/README.md)
     * [When You Get Into Fiat Debt, You Indirectly Steal Purchasing Power From Poor](timeless-money-management-principles/always-live-debt-free/what-your-debt-does-to-others/when-you-get-into-fiat-debt-you-indirectly-steal-purchasing-power-from-poor.md)
+    * [When You Get Into Fiat Debt, You Contribute To Economic Distorsions](timeless-money-management-principles/always-live-debt-free/what-your-debt-does-to-others/when-you-get-into-fiat-debt-you-contribute-to-economic-distorsions.md)
   * [Debt And Bitcoin](timeless-money-management-principles/always-live-debt-free/debt-and-bitcoin/README.md)
     * [If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways](timeless-money-management-principles/always-live-debt-free/debt-and-bitcoin/if-you-have-debt-and-hold-bitcoin-you-risk-losing-in-multiple-ways.md)
     * [When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone](timeless-money-management-principles/always-live-debt-free/debt-and-bitcoin/when-you-become-debt-free-transition-from-fiat-to-bitcoin-standard-eases-for-everyone.md)
