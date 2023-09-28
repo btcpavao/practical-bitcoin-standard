@@ -10,31 +10,49 @@ Let's say you currently hold $10,000 worth of Bitcoin, which you use as your cas
 
 Let's use our example of $10,000:
 
-* $2,000 in Giving
-* $2,000 in Shelter
-* $2,000 in Groceries
-* $2,000 in Transport
-* $2,000 in Everything Else
+Total Budget: $10,000
+
+Giving: $2,000
+
+Shelter: $2,000
+
+Groceries: $2,000
+
+Transport: $2,000
+
+Everything Else: $2,000
 
 However, what should you do if the Bitcoin exchange rate suddenly drops by 20% in a day? If your Bitcoin is suddenly worth $8,000, you need to adjust your budget categories because your budget currently has $2,000 assigned more than you actually possess.
 
 To balance the budget, subtract $2,000 in total from your categories, which is $400 from each:
 
-* $2,000 in Giving -> $1,600 in Giving
-* $2,000 in Shelter -> $1,600 in Shelter
-* $2,000 in Groceries -> $1,600 in Groceries
-* $2,000 in Transport -> $1,600 in Transport
-* $2,000 in Everything Else -> $1,600 in Everything Else
+Total Budget: $10,000 -> $8,000
 
-Now, your budget is back in balance.
+Giving: $2,000 -> $1,600
 
-What should you do if the Bitcoin exchange rate increases by 20% in a day? You perform budget reconciliation once again. Initially, you assigned $10,000 in your budget, but now you have $12,000 in the budget, meaning you have an extra $2,000 to allocate. To balance the budget, add an extra $400 to each category:
+Shelter: $2,000 -> $1,600
 
-* $2,000 in Giving -> $2,400 in Giving
-* $2,000 in Shelter -> $2,400 in Shelter
-* $2,000 in Groceries -> $2,400 in Groceries
-* $2,000 in Transport -> $2,400 in Transport
-* $2,000 in Everything Else -> $2,400 in Everything Else
+Groceries: $2,000 -> $1,600
+
+Transport: $2,000 -> $1,600
+
+Everything Else: $2,000 -> $1,600
+
+Now, our budget is back in balance.
+
+What should we do if the Bitcoin exchange rate increases by 20% in a day? We perform budget reconciliation once again. Initially, we assigned $10,000 in our budget, but now we have $12,000 in the budget, meaning you have an extra $2,000 to allocate. To balance the budget, add an extra $400 to each category:
+
+Total Budget: $10,000 -> $12,000
+
+Giving: $2,000 -> $2,400
+
+Shelter: $2,000 -> $2,400
+
+Groceries: $2,000 -> $2,400
+
+Transport: $2,000 -> $2,400
+
+Everything Else: $2,000 -> $2,400
 
 Once again, your budget is back in balance, with no unassigned money.
 

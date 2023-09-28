@@ -32,7 +32,7 @@ We now know that if we spend $100 on this dinner, we will have $900 left in the 
 
 The remaining amount in our overall budget is $4,880. Here is how it looks now:
 
-Total Budget: $4,880
+Total Budget: $5,000 -> $4,880
 
 Giving: $1,000 -> $980
 
