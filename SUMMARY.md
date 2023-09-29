@@ -58,6 +58,7 @@
   * [Giving Increases Risk Tolerance](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/giving-increases-risk-tolerance.md)
   * [Giving Increases Capacity For Generating Inflows](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/generosity-increases-inflows.md)
   * [Be Grateful For The Opportunity To Give](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/be-grateful-for-the-opportunity-to-give.md)
+  * [Giving Increases Happiness](timeless-money-management-principles/always-keep-10-to-20-of-your-budget-assigned-for-giving/giving-increases-happiness.md)
   * [What Is Considered Giving?](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/what-is-considered-giving.md)
   * [How To Give?](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/how-to-give.md)
   * [Budgeting Giving Category](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/budgeting-giving-category.md)
