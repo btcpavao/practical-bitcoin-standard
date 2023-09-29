@@ -72,7 +72,7 @@
 * [Optimizing Your Net Worth Balance](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/README.md)
   * [Assessing Your Net Worth & Balancing It](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/assessing-your-net-worth-and-balancing-it.md)
   * [Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rule-of-thirds-cash-home-and-capital.md)
-  * [Rules Of Thumb For Buying Vehicles & Other Large Durable Goods](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
+  * [Owning Large Durable Goods](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rules-of-thumb-for-buying-vehicles.md)
   * [Why And How To Calculate & Track The Cost Of Ownership](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
   * [When To Rent And When To Own](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/renting-things.md)
 

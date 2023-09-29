@@ -1,5 +1,11 @@
 # Rule Of Thirds: Cash, Land & Capital
 
+* most salable and liquid part of the net worth -> cash
+* if your cash is comprises less than a third of total net worth, you will lack liquidity
+* little liquidity means little ability for Giving -> means little ability for growing spirit of generosity -> means little ability for growing inflows
+* little liquidity will tempt you to leverage your assets as collateral, which will bring you back into debt and start growth of spirit of slavery, confusion & restlessness
+* this is why it's always best to keep at least a third of your net worth in cash. if you keep more than third in cash, it's no problem and in fact it can help you grow it faster because you'll have higher Giving budget
+
 Consider your net worth as having an ideal balance between three distinct segments. If these segments are the right size in relation to one another, your total net worth will increase in the fastest, most sustainable, and most pleasurable manner.
 
 The first component of your net worth is the most liquid and has the least diminishing marginal utility returns - your cash. If you adopted full Bitcoin standard, than this is the value of your bitcoin balance.

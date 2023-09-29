@@ -1,5 +1,7 @@
 # When To Rent And When To Own
 
+* difference between ownership & possession
+
 We established a method for calculating and tracking the cost of ownership (depreciation, maintenance).&#x20;
 
 This will help you see if owning something fits in with your other budget goals and net worth. If you rent something instead of buying it, you might get the same benefits without having to pay the cost of ownership.&#x20;

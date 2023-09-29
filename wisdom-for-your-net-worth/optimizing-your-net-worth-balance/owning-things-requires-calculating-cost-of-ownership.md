@@ -1,5 +1,10 @@
 # Why And How To Calculate & Track The Cost Of Ownership
 
+* depreciation rate
+* maintenance cost
+* higher maintenance decreases depreciation rate
+* lower maintenance increases depreciation rate
+
 Consider the last time you paid a higher price for something. Everything you buy, own, and use depreciates over time. For example, when you buy a new phone, unbox it, and start using it, the phone loses some of its value because it is no longer brand new and unboxed - you started using it.
 
 Items have a market-based depreciation curve. Using the same phone as an example, you can figure out how much your phone is worth when it's used after a year.

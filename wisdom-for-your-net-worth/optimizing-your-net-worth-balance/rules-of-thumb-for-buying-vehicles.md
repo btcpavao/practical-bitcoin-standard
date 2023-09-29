@@ -1,4 +1,9 @@
-# Rules Of Thumb For Buying Vehicles & Other Large Durable Goods
+# Owning Large Durable Goods
+
+* first: don't exceed rule of thirds
+* large durable goods are part of Land and/or Capital segments of your net worth
+* perform cost of ownership before buying
+* regularly update value of Land and/or Capital after buying to keep track of the depreciation rate
 
 The market value of all vehicles you own (cars, motorcycles, boats, or anything with a motor inside) should not exceed six months of your average inflows.
 
