@@ -1,6 +1,7 @@
 # When To Rent And When To Own
 
 * difference between ownership & possession
+* rent when you need to use the good for a defined period of time
 
 We established a method for calculating and tracking the cost of ownership (depreciation, maintenance).&#x20;
 

@@ -1,9 +1,12 @@
 # Why And How To Calculate & Track The Cost Of Ownership
 
-* depreciation rate
+* depreciation rate (difference between the price of new item and the price after the item was used, measured over amount of time)
 * maintenance cost
-* higher maintenance decreases depreciation rate
-* lower maintenance increases depreciation rate
+  * more maintenance cost generally decreases depreciation rate
+  * less maintenance cost generally increases depreciation rate
+* insurance cost
+  * insurance against destruction / malfunction of the item
+  * insurance against theft / extortion (count your local fiat government taxes here)
 
 Consider the last time you paid a higher price for something. Everything you buy, own, and use depreciates over time. For example, when you buy a new phone, unbox it, and start using it, the phone loses some of its value because it is no longer brand new and unboxed - you started using it.
 
