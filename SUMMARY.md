@@ -65,6 +65,7 @@
   * [What Is Considered Giving?](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/what-is-considered-giving.md)
   * [How To Give?](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/how-to-give.md)
   * [Budgeting Giving Category](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/budgeting-giving-category.md)
+  * [Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving](timeless-money-management-principles/always-keep-10-to-20-of-your-budget-assigned-for-giving/keep-at-least-a-third-of-your-net-worth-in-liquid-budget-for-giving.md)
 
 ## Wisdom For Your Net Worth
 
