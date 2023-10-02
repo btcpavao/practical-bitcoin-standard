@@ -53,6 +53,8 @@
   * [Debt And Bitcoin](timeless-money-management-principles/always-live-debt-free/debt-and-bitcoin/README.md)
     * [If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways](timeless-money-management-principles/always-live-debt-free/debt-and-bitcoin/if-you-have-debt-and-hold-bitcoin-you-risk-losing-in-multiple-ways.md)
     * [When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone](timeless-money-management-principles/always-live-debt-free/debt-and-bitcoin/when-you-become-debt-free-transition-from-fiat-to-bitcoin-standard-eases-for-everyone.md)
+  * [How To Become Debt-Free?](timeless-money-management-principles/always-live-debt-free/how-to-become-debt-free.md)
+  * [How To Stay Debt-Free?](timeless-money-management-principles/always-live-debt-free/how-to-stay-debt-free.md)
 * [Always Keep 10% To 20% Of Your Budget Assigned For Giving](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/README.md)
   * [Giver Gets More Benefit From Giving Than The Recipient](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/giving-money-benefits-giver-more-than-recipient.md)
   * [Giving Cultivates Spirit Of Generosity](timeless-money-management-principles/always-assign-10-to-20-of-your-budget-for-giving/giving-cultivates-spirit-of-generosity.md)
