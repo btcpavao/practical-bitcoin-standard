@@ -22,6 +22,7 @@
     * [Income Vs Expense Report](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/income-vs-expense-report.md)
     * [Spending Totals](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/spending-totals.md)
     * [Spending Trends](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/spending-trends.md)
+    * [Targets](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/targets.md)
     * [Net Income](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/net-income.md)
     * [Assets](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/assets.md)
     * [Debts (Liabilities)](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/debts-liabilities.md)
