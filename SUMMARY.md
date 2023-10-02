@@ -2,10 +2,10 @@
 
 ## Introduction
 
-* [The Purpose Of This Manual](README.md)
-* [My Bitcoin Story: From 0 To Full Bitcoin Standard](introduction/my-bitcoin-story-from-0-to-full-bitcoin-standard/README.md)
-  * [Money In Every Day Life](introduction/my-bitcoin-story-from-0-to-full-bitcoin-standard/money-in-every-day-life.md)
-  * [What Do You Use As Money?](introduction/my-bitcoin-story-from-0-to-full-bitcoin-standard/what-do-you-use-as-money.md)
+* [The Goal Of This](README.md)
+* [How I Upgraded From Fiat To Bitcoin Standard](introduction/how-i-upgraded-from-fiat-to-bitcoin-standard/README.md)
+  * [Money In Every Day Life](introduction/how-i-upgraded-from-fiat-to-bitcoin-standard/money-in-every-day-life.md)
+  * [What Do You Use As Money?](introduction/how-i-upgraded-from-fiat-to-bitcoin-standard/what-do-you-use-as-money.md)
 
 ## Timeless Money Management Principles
 
@@ -69,20 +69,20 @@
 
 ## Wisdom For Your Net Worth
 
-* [Bitcoin As Your Primary Money](wisdom-for-your-net-worth/bitcoin-as-your-primary-money/README.md)
-  * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](wisdom-for-your-net-worth/bitcoin-as-your-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
-  * [During Periods When Purchasing Power Keeps Dropping: Reduce Outflows, Increase Inflows](wisdom-for-your-net-worth/bitcoin-as-your-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
-  * [During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows](wisdom-for-your-net-worth/bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
-  * [During Periods Of Higher Volatility, Increase The Frequency Of Purchasing Power Reconciliation](wisdom-for-your-net-worth/bitcoin-as-your-primary-money/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
-* [Optimizing Your Net Worth Balance](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/README.md)
-  * [Assessing Your Net Worth & Balancing It](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/assessing-your-net-worth-and-balancing-it.md)
-  * [Ownership & Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rule-of-thirds-cash-home-and-capital/README.md)
-    * [Land (Real Estate & Personal Property)](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/README.md)
-      * [Ownership Of Large Durable Goods](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/rules-of-thumb-for-buying-vehicles.md)
-    * [Cash Balance](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rule-of-thirds-cash-home-and-capital/cash-balance.md)
-    * [Capital](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/rule-of-thirds-cash-home-and-capital/capital.md)
-  * [Why And How To Calculate & Track The Cost Of Ownership](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/owning-things-requires-calculating-cost-of-ownership.md)
-  * [When To Rent And When To Own](wisdom-for-your-net-worth/optimizing-your-net-worth-balance/renting-things.md)
+* [Using Bitcoin As Primary Money](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/README.md)
+  * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
+  * [During Periods When Purchasing Power Keeps Dropping: Reduce Outflows, Increase Inflows](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
+  * [During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/bull-markets-pay-for-future-outflows.md)
+  * [During Periods Of Higher Volatility, Increase The Frequency Of Purchasing Power Reconciliation](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
+* [Balancing The Composition Of Net Worth](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/README.md)
+  * [Assessing Your Net Worth & Balancing It](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/assessing-your-net-worth-and-balancing-it.md)
+  * [Ownership & Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/rule-of-thirds-cash-home-and-capital/README.md)
+    * [Land (Real Estate & Personal Property)](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/README.md)
+      * [Ownership Of Large Durable Goods](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/rules-of-thumb-for-buying-vehicles.md)
+    * [Cash Balance](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/rule-of-thirds-cash-home-and-capital/cash-balance.md)
+    * [Capital](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/rule-of-thirds-cash-home-and-capital/capital.md)
+  * [Why And How To Calculate & Track The Cost Of Ownership](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/owning-things-requires-calculating-cost-of-ownership.md)
+  * [When To Rent And When To Own](wisdom-for-your-net-worth/balancing-the-composition-of-net-worth/renting-things.md)
 
 ## Conclusion
 
