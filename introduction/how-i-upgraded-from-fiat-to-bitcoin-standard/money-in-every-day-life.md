@@ -1,6 +1,6 @@
 # Money In Every Day Life
 
-In order to create a manual that is as useful as possible, it's important to begin with the basics and define what money represents in the context of this guide. This is essential because you must realize that you probably use some things as money that you wouldn't if you used Bitcoin as your primary money. For a deeper understanding of the economics of Bitcoin, I recommend reading all three books by Saifedean Ammous: "The Bitcoin Standard," "The Fiat Standard," and "Principles of Economics."
+In order to create a manual that is as useful as possible, it's important to begin with the basics and define what money represents in the context of this guide. This is essential because you must realize that you probably use some things as money that you wouldn't if you used Bitcoin as your primary money.
 
 Let's start talking about money in abstract, what it is, why people use it.
 
