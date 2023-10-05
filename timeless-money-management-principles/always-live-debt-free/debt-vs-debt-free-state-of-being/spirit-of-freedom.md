@@ -1,9 +1,13 @@
 # Spirit Of Freedom
 
-* a place from which you have full control over the decision about utilizing your ultimate resource: your time
-* spirit of freedom grows over time you stay out of debt. entering into a state of debt stops the growth of it, and it resumes it's growth when you get out of debt
-* think of it as an asset, like a tree that grows bigger and stronger and bears more fruit over time, as long as you stay out of debt
-* the more spirit of freedom you have, the longer amount of time you are able to decide how to utilize.
-* if your spirit of freedom is "one year old", you will be able to decide how to spend your time for up to one year. if it's "ten years old" you will be able to decide how to spend your time up to ten years in the future.
-* you still don't know how much time in the future you have left, but your capacity to grasp this concept and act on it grows over time you stay out of debt.
+A place where you are fully in control of how you utilize your ultimate resource: time.e
 
+By staying debt-free, the spirit of freedom grows with time.
+
+View it as an asset, akin to a tree that flourishes and bears more fruit as it grows, as long as you remain debt-free. It needs time to grow. When you enter a state of debt, the growth of your spirit of freedom stops, and it resumes when you get out of debt.
+
+The more spirit of freedom you have, the greater your ability to decide how to utilize your time.
+
+If your spirit of freedom is one year old, you have the ability to decide how you spend your time for up to a year. If it's "ten years old," you can determine how to allocate your time for the next ten years.
+
+The longer you stay out of debt, the better you become at understanding and utilizing your remaining time in the future.

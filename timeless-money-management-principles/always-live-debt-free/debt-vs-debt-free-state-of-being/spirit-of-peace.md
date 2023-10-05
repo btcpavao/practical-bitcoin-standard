@@ -1,7 +1,11 @@
 # Spirit of Peace
 
-* when you are not worried about how you'll make your next debt payment, you sleep well at night, you are at peace
-* spirit of peace allows you to appreciate what you have
-* peace allows you to live in the present moment
-* spirit of peace will improve your overall health
-* spirit of peace will help people around you become more peaceful as well
+When you don't have to worry about your next debt payment, you can sleep peacefully and find serenity.
+
+When you have the spirit of peace, you can appreciate what you have more.
+
+Spirit of peace allows you to be fully present.
+
+The spirit of peace has the power to heal both your mind and body, leading to improved overall health.
+
+Your spirit of peace will bring peace to those around you.

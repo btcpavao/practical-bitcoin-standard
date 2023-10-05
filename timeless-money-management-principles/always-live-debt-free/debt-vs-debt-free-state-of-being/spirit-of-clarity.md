@@ -1,6 +1,7 @@
 # Spirit of Clarity
 
-* this spirit manifests because every time you purchase something, you do it fully aware of your current valuation of the item. if you value it more than the money you need to pay for it, you will acquire it. if not, you won't.
-* you always know the subjective value items you own have for you
-* the moment you value a thing you own less than the money you can get for it, you will liquidate it
-* by keeping track of the inventory of all items you own, and liquidating them at the moment you don't value them more than someone, you will be able to make sound decisions on what to own and for how long
+Spirit of clarity manifests as a heightened awareness of the value of each purchase you make, for you. If you consider its value for you is greater than the expense, you will choose to buy it. if not, you won’t.
+
+As your spirit of clarity grows over time, you will continue gaining a more heightened awareness of the value of your purchases for you.
+
+The spirit of clarity will help you keep tabs on your belongings. Once you value an item less than the money it can sell for, you’ll choose to sell it. This will help you keep fine-tuning your net worth composition.
