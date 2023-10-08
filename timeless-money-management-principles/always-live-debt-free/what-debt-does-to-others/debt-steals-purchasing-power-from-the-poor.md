@@ -1,11 +1,17 @@
-# When You Get Into Fiat Debt, You Indirectly Steal Purchasing Power From Poor
+# Debt Steals Purchasing Power From The Poor
 
 
 
-* whenever you take out a loan from a bank, new fiat money is brought into existence
-* when you pay back or default on the loan, fiat money is removed from existence
-* the only reason why this system works is the violent coercion from the state which mandates using fiat money in the marketplace through legal tender laws, tax collection in  fiat money, and mandates that large financial institutions hold certain amount of government bonds in their portfolio
-* this effectively means that the only reason the debt is monetized around the world is the coercion of the state
-* so when you get into debt through any of the fiat licensed institutions, you are effectively leveraging the state coercive power to transfer your credit risk to the holders of the fiat money
-* your credit risk will ultimately manifest in wide price inflation
-* price inflation is the most regressive form of taxation, and mostly affects the poorest people amongst us. poor people have majority of their net worth in liquid fiat cash, as compared to wealthy people who for the most part have only small amount of their net worth in liquid cash.
+When you take out a bank loan, you create new fiat money.
+
+Fiat money ceases to exist when you repay the loan or default on it.
+
+The only reason this system works is because of the state's violent coercion, which mandates the use of fiat money in the marketplace through legal tender laws, tax collection in fiat money, and mandates that large financial institutions hold a certain amount of government bonds in their portfolios.
+
+This effectively means that the only reason debt is monetized globally is due to state coercion.
+
+Thus, when you incur debt through any of the fiat-licensed institutions, you effectively leverage the state's coercive power to transfer your credit risk to the fiat-money holders.
+
+Your credit risk will eventually manifest as widespread price inflation.
+
+Inflation is the most regressive form of taxation because it disproportionately affects the poor. Poor people have the majority of their net worth in liquid fiat cash, whereas wealthy people have only a small portion of their net worth in liquid cash.
