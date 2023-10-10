@@ -17,6 +17,8 @@
     * [Age Of Money](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/age-of-money.md)
     * [Inflows & Outflows](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/inflows-and-outflows.md)
     * [Scheduled Transactions](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/scheduled-transactions.md)
+    * [Running Balance](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/running-balance.md)
+    * [Transfer Transactions](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/transfer-transactions.md)
     * [Payees](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/payees.md)
     * [Transaction Memo](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/transaction-memo.md)
     * [Income Vs Expense Report](timeless-money-management-principles/always-budget-your-money/budgeting-concepts/income-vs-expense-report.md)
