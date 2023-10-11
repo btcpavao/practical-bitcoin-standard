@@ -1,5 +1,9 @@
 # When To Rent And When To Own
 
+* on a full Bitcoin standard, we want to avoid the habit of jumping into ownership of something that will always decrease in price in terms of bitcoin over time.
+* the habit of jumping into ownership as quickly as possible stems from the fiat standard that urged us to get rid of our liquidity that's losing purchasing power over time as quickly as possible
+* full Bitcoin standard turns this habit on it's head, and now we no longer need to own something in order to fully or partially offset the loss of purchasing power over time.
+* this is why on a full Bitcoin standard, we want to know exactly when to own and when to rent, and make our decisions accordingly
 * difference between ownership & possession
 * rent when you need to use the good for a defined period of time
 
