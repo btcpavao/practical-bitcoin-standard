@@ -1,5 +1,7 @@
-# Rule Of Thirds: Cash, Land & Capital
+# Ownership & Rule Of Thirds: Cash, Land & Capital
 
+* strict Bitcoin standard needs us to rethink the composition of our net worth, which should primary rely on our cash balance being the dominant part of it
+* this is different from fiat standard in which we are incentivized to avoid having too much of liquid cash balance because it is losing purchasing power over time, and instead incentivizes us to have larger proportion of our net worth in non - liquid assets that can somewhat preserve their purchasing power. by doing so, we monetized hard assets that have low spatial and scale salability, in order to gain higher salability across time.
 * most salable and liquid part of the net worth -> cash
 * if your cash is comprises less than a third of total net worth, you will lack liquidity
 * little liquidity means little ability for Giving -> means little ability for growing spirit of generosity -> means little ability for growing inflows

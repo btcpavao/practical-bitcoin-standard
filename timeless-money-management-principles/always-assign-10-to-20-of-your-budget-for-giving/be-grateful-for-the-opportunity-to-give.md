@@ -1,6 +1,9 @@
 # Be Grateful For The Opportunity To Give
 
-* whenever we make a transaction from our Giving category, it is boosting our spirit of generosity
-* we want to always understand that by doing this, we may or may not actually produce a benefit to the recipient. but 100% of the time, we are going to produce benefit for our spiritual schematic - which will increase in spirit of generosity
-* thus we are not even looking for recognition in form of "thank you" from the recipient, let alone expect anything in return. in fact, we should feel gratitude that we even had the opportunity to make this giving transaction
-* our spirit of generosity will keep growing every time we make a transaction from Giving category, and if we keep being grateful for the opportunity to do so, we'll feel more contentment about our net worth, and overall optimism about our future
+Our spirit of generosity is increased each time we make a transaction from our Giving category.
+
+We should always keep in mind that this action may or may not result in a benefit for the recipient. But always and without fail, we will generate benefit for our spiritual blueprint, leading to a growth in spirit of generosity.
+
+As a result, we are not even looking for a "thank you" from the recipient, let alone seeking anything in return. In fact, we should be grateful that we had the opportunity to practice this act of giving.
+
+Every time we make a transaction from the Giving category, our generosity will continue to grow, and if we remain thankful for the chance to do so, we'll feel more satisfied with our net worth and generally more optimistic about the future.
