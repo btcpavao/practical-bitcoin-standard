@@ -1,6 +1,6 @@
 # Spirit Of Freedom
 
-A place where you are fully in control of how you utilize your ultimate resource: time.e
+A place where you are fully in control of how you utilize your ultimate resource: time.
 
 By staying debt-free, the spirit of freedom grows with time.
 
