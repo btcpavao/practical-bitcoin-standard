@@ -3,9 +3,9 @@
 ## Introduction
 
 * [The Goal Of This](README.md)
-* [How I Upgraded From Fiat To Bitcoin Standard](introduction/how-i-upgraded-from-fiat-to-bitcoin-standard/README.md)
-  * [Money In Every Day Life](introduction/how-i-upgraded-from-fiat-to-bitcoin-standard/money-in-every-day-life.md)
-  * [What Do You Use As Money?](introduction/how-i-upgraded-from-fiat-to-bitcoin-standard/what-do-you-use-as-money.md)
+* [My Bitcoin Story, From Beginning To Full Bitcoin Standard](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard/README.md)
+  * [Money In Every Day Life](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard/money-in-every-day-life.md)
+  * [What Do You Use As Money?](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard/what-do-you-use-as-money.md)
 
 ## Timeless Money Management Principles
 

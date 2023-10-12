@@ -1,4 +1,4 @@
-# How I Upgraded From Fiat To Bitcoin Standard
+# My Bitcoin Story, From Beginning To Full Bitcoin Standard
 
 I first heard about Bitcoin in 2012 but didn't find it interesting. I thought it was just some digital currency for gamers. I found out in 2013 that the FBI shut down Silk Road, the place where they used Bitcoin for buying and selling. The U.S. government's involvement added to my level of interest. It showed that Bitcoin wasn't just a code that could be changed by its creators, but was actually used in real commerce. Illegal, but real.
 
@@ -8,7 +8,7 @@ My entrepreneurial pursuits took a backseat during the summer of 2014 as I exper
 
 Then I read more about it. I realized the network was still operational even after the shutdown of Silk Road and the bankruptcy of Mt. Gox exchange. I decided I’ll definitely try to get some Bitcoin to experiment with this time. Fortunately, where I live in Croatia, there was a small Bitcoin exchange that was just getting started. I purchased around $20 worth of Bitcoin in July 2014, when the exchange rate was around $600 per BTC.
 
-After receiving my first Bitcoin transaction from the exchange, I researched it further on Bitcointalk.org forums, but as summer drew to a close, my attention shifted back to my entrepreneurial venture. By the winter of 2014, I had practically forgotten about my Bitcoin experiment. I was completely absorbed in a project that eventually turned into a startup with six cofounders in 2015.
+After receiving my first Bitcoin transaction from the exchange, I researched it further on Bitcointalk.org forums, but as summer drew to a close, my attention shifted back to my entrepreneurial venture. By the time the winter of 2014 rolled around, I had practically forgotten about my Bitcoin experiment as I became increasingly preoccupied with work.
 
 It wasn’t until late 2017 that I suddenly realized Bitcoin was trading around $15,000 per BTC, whereas I distinctly recall purchasing it for around $600 per BTC. This was the moment that made me become so fascinated by the phenomenon, and I think of it as the start of my journey down the rabbit hole.
 
