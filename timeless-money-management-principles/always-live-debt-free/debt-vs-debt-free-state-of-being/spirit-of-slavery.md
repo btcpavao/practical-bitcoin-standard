@@ -1,5 +1,13 @@
 # Spirit Of Slavery
 
+Spiritually, the borrower is a slave of the lender. Slavery here is defined as not having freedom on deciding how to utilize time. There is the extent to which this freedom is reduced, and it's measured in the amount of time you will need to allocate for servicing the debt for the duration of the debt.&#x20;
+
+People can intuitively sense this spirit in you by watching how you spend your money, do your job, and spend your free time. In general, the longer and more deeply in debt you are, the less free time you will have, the more stressful working life will be, and the more tightly you will have to restrict your spending.
+
+Spirit of slavery gives off a subtle energy of desperation that other people can sense. This aura will keep inflow opportunities away. No one likes to deal with the desperate because it makes them feel bad if they do nothing to help. An answer for this is to make giving a regular habit.
+
+When a person lacks a well-established giving practice and senses desperation emanating from the spirit of slavery in another person, they will seek to avoid or minimize economic interaction with that person.
+
 The spirit of slavery means you can't fully control how you spend your time. Your time will be partially or fully used to service the debt.
 
 The spirit of slavery gets stronger the longer you're in debt. Once you eliminate debt, it stops growing. The longer you stay out of debt, the slower it'll grow back if you decide to get into debt again.
