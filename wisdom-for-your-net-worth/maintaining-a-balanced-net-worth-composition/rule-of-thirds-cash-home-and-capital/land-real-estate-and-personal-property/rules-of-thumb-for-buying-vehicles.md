@@ -1,9 +1,6 @@
-# Owning Large Durable Goods
+# Ownership Of Large Durable Goods
 
-* first: don't exceed rule of thirds
-* large durable goods are part of Land and/or Capital segments of your net worth
-* perform cost of ownership before buying
-* regularly update value of Land and/or Capital after buying to keep track of the depreciation rate
+First and foremost, do not exceed the rule of thirds. Large durable goods are part of your net worth's Land and/or Capital segments. Before purchasing, calculate the total cost of ownership. After purchasing, update the value of the land and/or capital on a regular basis to keep track of the depreciation rate.
 
 The market value of all vehicles you own (cars, motorcycles, boats, or anything with a motor inside) should not exceed six months of your average inflows.
 

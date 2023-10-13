@@ -1,12 +1,20 @@
 # Ownership & Rule Of Thirds: Cash, Land & Capital
 
-* strict Bitcoin standard needs us to rethink the composition of our net worth, which should primary rely on our cash balance being the dominant part of it
-* this is different from fiat standard in which we are incentivized to avoid having too much of liquid cash balance because it is losing purchasing power over time, and instead incentivizes us to have larger proportion of our net worth in non - liquid assets that can somewhat preserve their purchasing power. by doing so, we monetized hard assets that have low spatial and scale salability, in order to gain higher salability across time.
-* most salable and liquid part of the net worth -> cash
-* if your cash is comprises less than a third of total net worth, you will lack liquidity
-* little liquidity means little ability for Giving -> means little ability for growing spirit of generosity -> means little ability for growing inflows
-* little liquidity will tempt you to leverage your assets as collateral, which will bring you back into debt and start growth of spirit of slavery, confusion & restlessness
-* this is why it's always best to keep at least a third of your net worth in cash. if you keep more than third in cash, it's no problem and in fact it can help you grow it faster because you'll have higher Giving budget
+A strict Bitcoin standard requires us to reconsider the composition of our net worth, which should rely primarily on our cash balance as the dominant component.
+
+This differs from the fiat standard, in which we are encouraged to avoid having too much liquid cash balance because it loses purchasing power over time, and instead encourages us to have a larger proportion of our net worth in non-liquid assets that can retain some of their purchasing power.
+
+We monetized hard assets with low spatial and scale salability in order to gain higher salability over time.
+
+Cash is the most salable and liquid component of one's net worth.
+
+You will lack liquidity if your cash is less than one-third of your total net worth.
+
+Little liquidity means little ability to give -> little ability to grow spirit of generosity -> little ability to grow inflows.
+
+Little liquidity will tempt you to use your assets as collateral, which will put you back in debt and start the growth of spirit of slavery, confusion & restlessness.
+
+This is why you should always keep at least a third of your net worth in cash. It's not a problem if you keep more than a third in cash; in fact, it can help you grow it faster because you'll have a higher Giving budget.
 
 Consider your net worth as having an ideal balance between three distinct segments. If these segments are the right size in relation to one another, your total net worth will increase in the fastest, most sustainable, and most pleasurable manner.
 

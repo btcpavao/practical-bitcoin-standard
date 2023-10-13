@@ -1,10 +1,14 @@
 # Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving
 
-* on a gold standard, keeping a lot of liqudity on hand in gold meant high cost of storage, security, insurance and transfer.
-* on a fiat standard, keeping a lot of liquidity on hand in fiat cash (physical paper notes or digitally in bank accounts) means losing a lot of purchasing power over time due to increase in fiat money supply & risk of censorship
-* if your giving budget drops below 1,7% of your total net worth, giving transactions won't have effect on growth of spirit of generosity
-* giving budget between 1,7% and 3,3% of total net worth will have reduced effect on growth of spirit of generosity
-* giving budget above 6,7% of total net worth will have progressively stronger effect on growth of spirit of generosity
+On a gold standard, keeping a large amount of liquidity in gold meant paying a high cost for storage, security, insurance, and transfer.
+
+On a fiat standard, having a lot of fiat cash on hand (either physical notes or digitally in bank accounts) means that your purchasing power will go down over time as the fiat money supply rises.
+
+Giving transactions have no effect on the growth of the spirit of generosity if your giving budget falls below 1.7% of your total net worth.
+
+Giving budgets ranging from 1.7% to 3.3% of total net worth will have a reduced impact on the growth of the spirit of generosity.
+
+Giving budgets exceeding 6.7% of total net worth will have a progressively stronger effect on the growth of the spirit of generosity.
 
 You need a lot of liquidity in your net worth to avoid feeling like your giving transactions are too difficult.
 

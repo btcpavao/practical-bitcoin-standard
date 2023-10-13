@@ -1,5 +1,7 @@
 # Cash Balance
 
-* the most salable and liquid part of your net worth
-* ideally use Bitcoin for this, and exchange it for fiat when you need to pay fiat denominated obligations
-* this should be the largest part of your net worth, at least a third, but preferably even more
+Cash is the most liquid and salable component of your net worth.
+
+Use Bitcoin for this, ideally, and convert it to fiat when you have obligations denominated in fiat.
+
+Cash (Bitcoin) should be the majority of your net worth, at least one-third, preferably more.
