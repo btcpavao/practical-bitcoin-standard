@@ -1,3 +1,7 @@
+---
+description: Consumption goods / leisure time.
+---
+
 # Land (Real Estate & Personal Property)
 
 Ownership of Land in the context of this manual includes ownership of the actual land, real estate (buildings) on it, and all large durable goods on it (furniture, household appliances, art, electronics, vehicles, and so on).

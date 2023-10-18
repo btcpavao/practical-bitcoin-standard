@@ -1,3 +1,7 @@
+---
+description: Production goods / labor time.
+---
+
 # Capital
 
 Capital is defined as all goods not used for consumption but for the production of consumption goods.

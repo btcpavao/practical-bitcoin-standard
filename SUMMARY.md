@@ -77,13 +77,13 @@
   * [During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/bull-markets-pay-for-future-outflows.md)
   * [During Periods Of Higher Volatility, Increase The Frequency Of Purchasing Power Reconciliation](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
 * [Maintaining A Balanced Net Worth Composition](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/README.md)
-  * [Assessing Your Net Worth & Balancing It](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/assessing-your-net-worth-and-balancing-it.md)
-  * [Ownership & Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/README.md)
+  * [How To Balance Your Net Worth Composition](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/assessing-your-net-worth-and-balancing-it.md)
+  * [Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/README.md)
     * [Land (Real Estate & Personal Property)](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/README.md)
       * [Ownership Of Large Durable Goods](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/rules-of-thumb-for-buying-vehicles.md)
     * [Cash Balance](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/cash-balance.md)
     * [Capital](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/capital.md)
-  * [Why And How To Calculate & Track The Cost Of Ownership](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/owning-things-requires-calculating-cost-of-ownership.md)
+  * [The Cost Of Ownership](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/owning-things-requires-calculating-cost-of-ownership.md)
   * [When To Rent And When To Own](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/renting-things.md)
 
 ## Conclusion

@@ -1,4 +1,8 @@
-# Why And How To Calculate & Track The Cost Of Ownership
+---
+description: Why And How To Calculate & Track The Cost Of Ownership
+---
+
+# The Cost Of Ownership
 
 The depreciation rate is the difference between the price of a new item and the price after it has been used, measured over time.
 
