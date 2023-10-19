@@ -3,9 +3,8 @@
 ## Introduction
 
 * [The Goal Of This](README.md)
-* [My Bitcoin Story, From Beginning To Full Bitcoin Standard](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard/README.md)
-  * [Money In Every Day Life](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard/money-in-every-day-life.md)
-  * [What Do You Use As Money?](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard/what-do-you-use-as-money.md)
+* [Money In Every Day Life](introduction/money-in-every-day-life.md)
+* [My Bitcoin Story, From Beginning To Full Bitcoin Standard](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard.md)
 
 ## Timeless Money Management Principles
 
