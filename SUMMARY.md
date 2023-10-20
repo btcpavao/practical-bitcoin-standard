@@ -3,7 +3,7 @@
 ## Introduction
 
 * [The Goal Of This](README.md)
-* [Money In Every Day Life](introduction/money-in-every-day-life.md)
+* [Different Forms Of Money We Use And Where Bitcoin Fits In](introduction/different-forms-of-money-we-use-and-where-bitcoin-fits-in.md)
 * [My Bitcoin Story, From Beginning To Full Bitcoin Standard](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard.md)
 
 ## Timeless Money Management Principles

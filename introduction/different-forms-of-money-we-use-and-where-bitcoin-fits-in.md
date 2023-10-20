@@ -1,4 +1,17 @@
-# Money In Every Day Life
+# Different Forms Of Money We Use And Where Bitcoin Fits In
+
+* humans have physical and non-physical aspect (spiritual, metaphysical)&#x20;
+* because they differ in non-physical aspects, humans exchange with each other&#x20;
+* exchange increases value for both parties, because value is subjective
+* direct exchange has double coincidence of wants problem&#x20;
+* medium of exchange is a solution to double coincidence of wants problem&#x20;
+* anything can be used as medium of exchange&#x20;
+* medium of exchange can be measured in terms of it’s salability (marketability, ease of which it can be sold without a significant loss of it's value)&#x20;
+* salability is the difference between bid ask spread&#x20;
+* salability across time - Bitcoin is the best (predictable supply schedule, decreases over time in 33 halvings)&#x20;
+* salability across space - Bitcoin is the best (can send it anywhere where there is internet connection without loss of value)&#x20;
+* salability across scales - Bitcoin is the best (micropayments all the way to massive payments)&#x20;
+* salability across goods - Fiat is the best, but Bitcoin is on it’s path to growth to be accepted directly. Bitcoin/Fiat liquidity grows over time, and compresses bid-ask spread
 
 I'll start by defining what money means in this manual so that it can be as helpful as possible to its readers. You should know this because you probably use some things as money that you wouldn't if Bitcoin was your primary money.
 
@@ -36,7 +49,7 @@ Think of this manual as a guide on cultivating a "spiritual money tree" with thr
 2. **Becoming and Staying Debt-Free**: This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This process stops the growth of the spirit of slavery and restlessness while fostering the growth of the spirit of freedom and peace.
 3. **Establishing a Giving Practice**: This step is focused on increasing our inflows. By practicing generosity, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to boost our inflows.
 
-## **What Do You Use As Money?**
+## **What Moneys Do You Use?**
 
 It is critical to understand that money is a medium of exchange and that anything can be used as such.
 
