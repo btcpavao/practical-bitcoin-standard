@@ -70,20 +70,19 @@
 
 ## Wisdom For Your Net Worth
 
-* [Using Bitcoin As Primary Money](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/README.md)
-  * [Managing Bitcoin Cash Balance: Purchasing Power Reconciliation](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
-  * [During Periods When Purchasing Power Keeps Dropping: Reduce Outflows, Increase Inflows](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
-  * [During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/bull-markets-pay-for-future-outflows.md)
-  * [During Periods Of Higher Volatility, Increase The Frequency Of Purchasing Power Reconciliation](wisdom-for-your-net-worth/using-bitcoin-as-primary-money/handle-bitcoin-volatility-with-budget-reconciliation-and-rebalancing.md)
-* [Maintaining A Balanced Net Worth Composition](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/README.md)
-  * [How To Balance Your Net Worth Composition](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/assessing-your-net-worth-and-balancing-it.md)
-  * [Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/README.md)
-    * [Land (Real Estate & Personal Property)](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/README.md)
-      * [Ownership Of Large Durable Goods](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/rules-of-thumb-for-buying-vehicles.md)
-    * [Cash Balance](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/cash-balance.md)
-    * [Capital](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/rule-of-thirds-cash-home-and-capital/capital.md)
-  * [The Cost Of Ownership](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/owning-things-requires-calculating-cost-of-ownership.md)
-  * [When To Rent And When To Own](wisdom-for-your-net-worth/maintaining-a-balanced-net-worth-composition/renting-things.md)
+* [How To Use Bitcoin As Primary Money](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/README.md)
+  * [How To Reconcile Changes In Bitcoin's Purchasing Power](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
+  * [When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
+  * [When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/bull-markets-pay-for-future-outflows.md)
+* [How To Manage Bitcoin And Other Parts Of Your Net Worth](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/README.md)
+  * [Rule Of Thirds: Cash, Land & Capital](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/README.md)
+    * [Land (Real Estate & Personal Property)](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/README.md)
+      * [Ownership Of Large Durable Goods](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/rules-of-thumb-for-buying-vehicles.md)
+      * [The Cost Of Ownership](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/owning-things-requires-calculating-cost-of-ownership.md)
+      * [When To Rent And When To Own](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/renting-things.md)
+    * [Cash Balance: Bitcoin](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/cash-balance-bitcoin.md)
+    * [Capital](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/capital.md)
+  * [How To Balance Your Net Worth Composition](wisdom-for-your-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/assessing-your-net-worth-and-balancing-it.md)
 
 ## Conclusion
 
