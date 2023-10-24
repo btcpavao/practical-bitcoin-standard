@@ -71,6 +71,7 @@
 ## Wisdom For Your Net Worth
 
 * [How To Use Bitcoin As Primary Money](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/README.md)
+  * [Bitcoin Standard Incentivizes Net Income Growth](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/bitcoin-standard-incentivizes-net-income-growth.md)
   * [How To Reconcile Changes In Bitcoin's Purchasing Power](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
   * [When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
   * [When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows](wisdom-for-your-net-worth/how-to-use-bitcoin-as-primary-money/bull-markets-pay-for-future-outflows.md)

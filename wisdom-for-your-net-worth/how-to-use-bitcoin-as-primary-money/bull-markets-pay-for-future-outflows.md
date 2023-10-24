@@ -1,8 +1,8 @@
-# During Periods When Purchasing Power Keeps Increasing: Look For Ways To Pay For Future Outflows
+# When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows
 
 If you adhere to a strict bitcoin standard, you will unavoidably experience periods of bitcoin purchasing power appreciation, also known as bull markets. If you also maintain a zero-based budget, you'll see that your budget grows during these times and you have additional money to assign to your categories.
 
-At this point, you should review your budgeting history and make a note of your outflows. Consider how many of these outflows you will likely repeat in the future. If you have been using zero-based budgeting for the previous six months, you can probably predict your outflows for the following six. If you use zero-based budgeting for two years, you may anticipate your outflows for the following two.
+At this point, you should review your budgeting history and make a note of your outflows. Consider how many of these outflows you will likely repeat in the future. If you have been budgeting for the previous six months, you can approximate your outflows for the following six. If you did it for two years, you may anticipate the following two years.
 
 Because the future is uncertain, this act of projecting future outflows will never be precise. However, as a practice, it is still very useful because you at least have an idea of what you can expect in terms of what you find valuable to spend money on and how much it is likely to cost.
 

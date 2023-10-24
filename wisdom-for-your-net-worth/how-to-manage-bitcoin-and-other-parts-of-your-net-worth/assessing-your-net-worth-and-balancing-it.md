@@ -1,4 +1,4 @@
-# Assessing Your Net Worth & Balancing It
+# How To Balance Your Net Worth Composition
 
 Increase in cash (Bitcoin) purchasing power -> opportunity to increase Land & Capital (up to, but no more than, one-third of net worth in each).
 
@@ -13,3 +13,5 @@ You should always keep track of the items you own and their current market price
 Your total net worth is the sum of the current market prices of all the assets you own, minus all your liabilities (debts). We've already established that the first step you should take is to run a zero-based budget, the second is to eliminate all debt, and the third is to establish a giving practice from your liquid budget. So at this point, your net worth should have zero debts.
 
 The goal of balancing the structure of your net worth is to ensure that its growth remains at its optimal pace over time. Achieving this may sometimes require liquidating (selling) part of your Capital or Land assets, and moving that into Cash. At other times, it might mean buying Capital or Land, but only up to a value of one-third of your total net worth for each.
+
+Your net worth composition will also change with changes in Bitcoin purchasing power.
