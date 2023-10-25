@@ -1,23 +1,33 @@
 # Different Forms Of Money We Use And Where Bitcoin Fits In
 
-* we use money daily, but for the most part, people don't think too deep about it.
 * many books have been written about money
-* this manual will use functional definition of money presented by the Austrian school of economics: money is widely used medium of exchange
+* this manual will use functional definition of money presented by the Austrian school of economics: money is a medium of exchange, and anything can be used as money
 * after functionally defining money, we'll focus on best practices for managing it, drawn from millenia of wisdom
-* why do people use money? because they are value things differently from one another, so they exchange.
-* humans are both physical and meta-physical beings (metaphysical = spiritual in the context of this guide)
-* humans valuation of things happens in their spiritual aspect &#x20;
-* when humans exchange with each other, their subjective valuation increases
-* humans can exchange directly, for example: person A has a lot of oranges, and person B has a lot of apples. A wants to exchange some of his oranges for apples and B wants to exchange some of his apples for oranges. they will perform the exchange which ends up benefiting both.
-* this exchange is mutually beneficial
-* direct exchange runs into a double coincidence of wants problem: for example: person A has a lot of oranges, and person B has a lot of apples. person A wants to exchange some of his oranges for apples, but person B doesn't want oranges, he wants to exchange his apples for bananas. if person A then finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as medium of exchange. in other words, A acquired bananas not because he wanted bananas, but because his intention was to exchange them for what he really wanted, which is apples. in this scenario, A used bananas as medium of exchange, i.e. money.&#x20;
-* medium of exchange is a solution to double coincidence of wants problem&#x20;
-* anything can be used as medium of exchange, but some things perform this function better than others
-* medium of exchange can be measured in terms of it’s salability (marketability, ease of which it can be sold without a significant loss of it's value).&#x20;
-* salability is the difference between bid ask spread.
-* salability can be analysed across four different aspects: time, space, scales and goods.
-* salability across time - how much does the thing used as medium of exchange increase or decrease in value across the unit of time between exchange. Bitcoin is the best (predictable supply schedule, decreases over time in 33 halvings)&#x20;
-* salability across space - how much does the thing used as medium of exchange increase or decrease in value across the unit of space between exchange. Bitcoin is the best (can send it anywhere where there is internet connection without loss of value)&#x20;
+* why do people use money? because they are value things differently from one another, so they want to exchange with each other
+* we use money daily, but for the most part, people don't think too deep about it
+* humans are both physical and meta-physical beings (metaphysical = psyschological or spiritual in the context of this guide)
+* we value things differently because of our spiritual differences
+* we exchange what we value less for what we value more
+* we can exchange directly, for example: person A has a lot of oranges, and person B has a lot of apples. A wants to exchange some of his oranges for apples and B wants to exchange some of his apples for oranges. they will perform the exchange which ends up benefiting both.
+* after the exchange, A and B value what they have more than before exchange, and thus exchange is mutually beneficial.
+* voluntary exchange increases subjective value for everybody involved in the exchange.
+* when we exchange directly, we can run into a problem of double coincidence of wants.
+  * for example: person A has a lot of oranges, and person B has a lot of apples. person A wants to exchange some of his oranges for apples, but person B doesn't want oranges, he wants to exchange his apples for bananas.
+* we solve the problem of double coincidence of wants by using a medium of exchange.
+  * for example: if person A  finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as medium of exchange. in other words, A acquired bananas not because he wanted bananas, but because his intention was to exchange them for what he really wanted, which is apples. in this scenario, A used bananas as medium of exchange, i.e. money. &#x20;
+* anything can be used as medium of exchange / money, but some things perform this function better than others
+* medium of exchange / money effectiveness can be measured in terms of it’s salability (marketability, how easy / hard is it to exchange for what we actually want)
+* salability can be viewed in four different aspects: time, space, scales and goods
+* salability across time - how much does the thing used as medium of exchange / money increase or decrease in value across the unit of time between exchange
+  * most people understand that government issued fiat money loses purchasing power / value over time
+  * this is why they use many different things as medium of exchange / money that has higher salability across time than government issued fiat currencies. examples are real estate, government bonds, stocks, precious metals, art etc
+  * Bitcoin has superior salability across time, because of it's predictable and immutable supply issuance schedule of hard capped 21 million until the year 2140
+* salability across space - how much does the thing used as medium of exchange increase or decrease in value across the unit of space between exchange.&#x20;
+  * most people use electronic bank transfers to move fiat across space
+  * depending on the number of counterparties needed to perform the move, it can cost anywhere from 0 up to few hundred USD to perform the move.
+  * fiat movement across space is permission based, i.e. it can be censored/stopped/reversed
+  * fiat movement across space is never really finally settled due to it being issued through debt
+  * Bitcoin has superior salability across space because it can be sent anywhere where there is Internet connection in a permissionless and censorship resistant manner, and make final settlement in hours for a very small mining fee compared to the transaction size it can support
 * salability across scales - how much does the thing used as medium of exchange increase or decrease in value depending on the size of exchange. Bitcoin is the best (micropayments all the way to massive payments)
 * salability across goods - how widely does the thing used as medium of exchange desired / accepted as such. for now in the most parts of the world, government issued fiat money is most widely desired/accepted as medium of exchange, but Bitcoin is rapidly growing in this regard. we can see this in growing number of exchanges, liquidity and compressing bid-ask spreads between Bitcoin and government issued fiat moneys
 
