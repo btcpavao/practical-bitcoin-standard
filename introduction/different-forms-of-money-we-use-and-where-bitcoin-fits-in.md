@@ -1,17 +1,25 @@
 # Different Forms Of Money We Use And Where Bitcoin Fits In
 
-* humans have physical and non-physical aspect (spiritual, metaphysical)&#x20;
-* because they differ in non-physical aspects, humans exchange with each other&#x20;
-* exchange increases value for both parties, because value is subjective
-* direct exchange has double coincidence of wants problem&#x20;
+* we use money daily, but for the most part, people don't think too deep about it.
+* many books have been written about money
+* this manual will use functional definition of money presented by the Austrian school of economics: money is widely used medium of exchange
+* after functionally defining money, we'll focus on best practices for managing it, drawn from millenia of wisdom
+* why do people use money? because they are value things differently from one another, so they exchange.
+* humans are both physical and meta-physical beings (metaphysical = spiritual in the context of this guide)
+* humans valuation of things happens in their spiritual aspect &#x20;
+* when humans exchange with each other, their subjective valuation increases
+* humans can exchange directly, for example: person A has a lot of oranges, and person B has a lot of apples. A wants to exchange some of his oranges for apples and B wants to exchange some of his apples for oranges. they will perform the exchange which ends up benefiting both.
+* this exchange is mutually beneficial
+* direct exchange runs into a double coincidence of wants problem: for example: person A has a lot of oranges, and person B has a lot of apples. person A wants to exchange some of his oranges for apples, but person B doesn't want oranges, he wants to exchange his apples for bananas. if person A then finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as medium of exchange. in other words, A acquired bananas not because he wanted bananas, but because his intention was to exchange them for what he really wanted, which is apples. in this scenario, A used bananas as medium of exchange, i.e. money.&#x20;
 * medium of exchange is a solution to double coincidence of wants problem&#x20;
-* anything can be used as medium of exchange&#x20;
-* medium of exchange can be measured in terms of it’s salability (marketability, ease of which it can be sold without a significant loss of it's value)&#x20;
-* salability is the difference between bid ask spread&#x20;
-* salability across time - Bitcoin is the best (predictable supply schedule, decreases over time in 33 halvings)&#x20;
-* salability across space - Bitcoin is the best (can send it anywhere where there is internet connection without loss of value)&#x20;
-* salability across scales - Bitcoin is the best (micropayments all the way to massive payments)&#x20;
-* salability across goods - Fiat is the best, but Bitcoin is on it’s path to growth to be accepted directly. Bitcoin/Fiat liquidity grows over time, and compresses bid-ask spread
+* anything can be used as medium of exchange, but some things perform this function better than others
+* medium of exchange can be measured in terms of it’s salability (marketability, ease of which it can be sold without a significant loss of it's value).&#x20;
+* salability is the difference between bid ask spread.
+* salability can be analysed across four different aspects: time, space, scales and goods.
+* salability across time - how much does the thing used as medium of exchange increase or decrease in value across the unit of time between exchange. Bitcoin is the best (predictable supply schedule, decreases over time in 33 halvings)&#x20;
+* salability across space - how much does the thing used as medium of exchange increase or decrease in value across the unit of space between exchange. Bitcoin is the best (can send it anywhere where there is internet connection without loss of value)&#x20;
+* salability across scales - how much does the thing used as medium of exchange increase or decrease in value depending on the size of exchange. Bitcoin is the best (micropayments all the way to massive payments)
+* salability across goods - how widely does the thing used as medium of exchange desired / accepted as such. for now in the most parts of the world, government issued fiat money is most widely desired/accepted as medium of exchange, but Bitcoin is rapidly growing in this regard. we can see this in growing number of exchanges, liquidity and compressing bid-ask spreads between Bitcoin and government issued fiat moneys
 
 I'll start by defining what money means in this manual so that it can be as helpful as possible to its readers. You should know this because you probably use some things as money that you wouldn't if Bitcoin was your primary money.
 
