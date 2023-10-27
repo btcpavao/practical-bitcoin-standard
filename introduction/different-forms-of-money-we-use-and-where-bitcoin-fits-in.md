@@ -35,7 +35,7 @@ I'll start by defining what money means in this manual so that it can be as help
 
 We humans are at the same time similar and different from other species in many ways. We are similar to other species in physical aspects. For example, we, like many other species are mammals, we have a pair of limbs, ten fingers on both hands, two sets of eyes and two sets of ears. We use our bodies to eat, drink, sleep, mate, and have bodily functions.&#x20;
 
-As much as we are similar physically, we are completely different from other species from a metaphysical or spiritual perspective. Bear in mind, the term "spiritual" is used here to refer to non-physical characteristics that cannot be measured like size, weight or volume. Here, "spiritual" refers to the intangible (metaphysical) parts of a human being, such as their optimism, kindness, loyalty, courage, perseverance, hope, resourcefulness, or creativity.&#x20;
+As much as we are similar physically, we are completely different from other species from a metaphysical or spiritual perspective. Bear in mind, the term "spiritual" is used here to refer to non-physical characteristics that cannot be measured like size, weight or volume. Here, "spiritual" refers to the intangible (metaphysical) parts of a human being, such as their accountability, discipline, responsibility, optimism, kindness, loyalty, courage, perseverance, hope, resourcefulness, or creativity.&#x20;
 
 In this guide, you'll read about concepts like the "spirit of freedom," the "spirit of slavery," the "spirit of peace," etc. We're referring to these intangible human qualities that we can either foster and grow or stifle and eliminate.
 
