@@ -1,10 +1,14 @@
-# The Purpose Of This Manual
+---
+description: Work in progress; draft phase
+---
+
+# The Goal Of This
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from all the other cryptocurrencies (or as Bitcoiners like to call them, [colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
 
 You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." Depending on your Bitcoin story and when your "get off zero" moment occurred, you may already have a large Bitcoin position.
 
-I'm also assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in bitcoin, and you are likely not converting all your fiat to bitcoin immidiately after the funds clear.
+I'm also assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in bitcoin, and you are likely not converting all your fiat to bitcoin immediately after the funds clear.
 
 You're probably not used to converting bitcoin to fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall in a bear market.&#x20;
 

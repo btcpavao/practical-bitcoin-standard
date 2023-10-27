@@ -1,6 +1,5 @@
 # Different Forms Of Money We Use And Where Bitcoin Fits In
 
-* many books have been written about money
 * this manual will use functional definition of money presented by the Austrian school of economics: money is a medium of exchange, and anything can be used as money
 * after functionally defining money, we'll focus on best practices for managing it, drawn from millenia of wisdom
 * why do people use money? because they are value things differently from one another, so they want to exchange with each other
