@@ -34,7 +34,7 @@ I'll start by defining what money means in this manual so that it can be as help
 
 We humans are at the same time similar and different from other species in many ways. We are similar to other species in physical aspects. For example, we, like many other species are mammals, we have a pair of limbs, ten fingers on both hands, two sets of eyes and two sets of ears. We use our bodies to eat, drink, sleep, mate, and have bodily functions.&#x20;
 
-As much as we are similar physically, we are completely different from other species from a metaphysical or spiritual perspective. Bear in mind, the term "spiritual" is used here to refer to non-physical characteristics that cannot be measured like size, weight or volume. Here, "spiritual" refers to the intangible (metaphysical) parts of a human being, such as their accountability, discipline, responsibility, optimism, kindness, loyalty, courage, perseverance, hope, resourcefulness, or creativity.&#x20;
+As much as we are similar physically, we are completely different from other species from a metaphysical or spiritual perspective. Bear in mind, the term "spiritual" is used here to refer to non-physical characteristics that cannot be measured like size, weight or volume. Here, "spiritual" refers to the intangible (metaphysical) parts of a human being, such as their accountability, discipline, patience, responsibility, generosity, optimism, kindness, loyalty, courage, perseverance, hope, resourcefulness, or creativity.&#x20;
 
 In this guide, you'll read about concepts like the "spirit of freedom," the "spirit of slavery," the "spirit of peace," etc. We're referring to these intangible human qualities that we can either foster and grow or stifle and eliminate.
 
@@ -63,8 +63,8 @@ This manual is designed to impart wisdom on how to alter our spiritual schematic
 Think of this manual as a guide on cultivating a "spiritual money tree" with three components: roots (zero-based budgeting), trunk and branches (becoming and remaining debt-free), and leaves and fruits (establishing a giving practice). Alternatively, you can envision it as a blueprint for constructing a house, with the foundation being zero-based budgeting, the base ensuring freedom from debt, and the visible structure establishing a giving practice.
 
 1. **Zero-Based Budgeting**: This practice grants us full control over our money by determining its opportunity cost and managing it in the dimension of time.
-2. **Becoming and Staying Debt-Free**: This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This process stops the growth of the spirit of slavery and restlessness while fostering the growth of the spirit of freedom and peace.
-3. **Establishing a Giving Practice**: This step is focused on increasing our inflows. By practicing generosity, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to boost our inflows.
+2. **Becoming and Staying Debt-Free**: This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This stops the growth of the spirits of slavery, restlesness and confusion and fosters growth of the spirits of freedom, peace and clarity.
+3. **Establishing a Giving Practice**: This step is focused on increasing our inflows. By practicing giving, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to grow our inflows.
 
 ## **What Moneys Do You Use?**
 
