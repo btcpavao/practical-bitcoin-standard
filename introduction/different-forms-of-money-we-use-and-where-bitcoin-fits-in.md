@@ -1,7 +1,7 @@
 # Different Forms Of Money We Use And Where Bitcoin Fits In
 
-* this manual will use functional definition of money presented by the Austrian school of economics: money is a medium of exchange, and anything can be used as money
-* after functionally defining money, we'll focus on best practices for managing it, drawn from millenia of wisdom
+* this manual will use functional definition of money presented by the Austrian school of economics: money is a medium of exchange
+* anything can be used as medium of exchange
 * why do people use money? because they are value things differently from one another, so they want to exchange with each other
 * we use money daily, but for the most part, people don't think too deep about it
 * humans are both physical and meta-physical beings (metaphysical = psyschological or spiritual in the context of this guide)
@@ -29,6 +29,7 @@
   * Bitcoin has superior salability across space because it can be sent anywhere where there is Internet connection in a permissionless and censorship resistant manner, and make final settlement in hours for a very small mining fee compared to the transaction size it can support
 * salability across scales - how much does the thing used as medium of exchange increase or decrease in value depending on the size of exchange. Bitcoin is the best (micropayments all the way to massive payments)
 * salability across goods - how widely does the thing used as medium of exchange desired / accepted as such. for now in the most parts of the world, government issued fiat money is most widely desired/accepted as medium of exchange, but Bitcoin is rapidly growing in this regard. we can see this in growing number of exchanges, liquidity and compressing bid-ask spreads between Bitcoin and government issued fiat moneys
+* after functionally defining money, we'll focus on best practices for managing it, drawn from millenia of wisdom
 
 I'll start by defining what money means in this manual so that it can be as helpful as possible to its readers. You should know this because you probably use some things as money that you wouldn't if Bitcoin was your primary money.
 
