@@ -65,7 +65,7 @@
   * [Giving Increases Happiness](money-management-wisdom/always-plan-10-20-of-your-money-for-giving/giving-increases-happiness.md)
   * [What Is Considered Giving?](money-management-wisdom/always-plan-10-20-of-your-money-for-giving/what-is-considered-giving.md)
   * [How To Give?](money-management-wisdom/always-plan-10-20-of-your-money-for-giving/how-to-give.md)
-  * [Budgeting Giving Category](money-management-wisdom/always-plan-10-20-of-your-money-for-giving/budgeting-giving-category.md)
+  * [Giving In Your Budget](money-management-wisdom/always-plan-10-20-of-your-money-for-giving/budgeting-giving-category.md)
   * [Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving](money-management-wisdom/always-plan-10-20-of-your-money-for-giving/keep-at-least-a-third-of-your-net-worth-in-liquid-budget-for-giving.md)
 
 ## Bitcoin And Net Worth

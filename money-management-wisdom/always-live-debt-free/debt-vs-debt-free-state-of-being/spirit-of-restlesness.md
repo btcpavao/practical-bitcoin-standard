@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Spirit of Restlesness
 
 Being in a state of debt means constantly worrying about making the next payment on time. This produces the spirit of restlessness.

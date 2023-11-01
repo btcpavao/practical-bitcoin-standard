@@ -1,4 +1,8 @@
-# Debt Reduces Capacity For Generating Inflows And Increases Wasteful Outflows
+---
+description: Work in progress; draft phase
+---
+
+# Debt Reduces Your Capacity For Generating Inflows And Increases Your Wasteful Outflows
 
 This may be an obvious point, but it should still be stated explicitly. When you spend on credit (or enter a state of debt), you are still spending money; you are not receiving the item for free.
 

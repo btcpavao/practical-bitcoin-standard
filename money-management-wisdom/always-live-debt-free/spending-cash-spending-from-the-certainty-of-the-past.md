@@ -1,4 +1,8 @@
-# Debt-Free Means Spending From The Certainty Of The Past
+---
+description: Work in progress; draft phase
+---
+
+# Always Spend From The Certainty Of The Past
 
 Spending money you already have means you are fully aware of its opportunity cost (because your money is already budgeted).
 

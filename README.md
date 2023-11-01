@@ -2,7 +2,15 @@
 description: Work in progress; draft phase
 ---
 
-# The Goal Of This
+# The Purpose Of This Guide
+
+* Who is this for?
+* written for Bitcoiners, not crypto people
+* someone who read both The Bitcoin Standard and The Fiat Standard
+* dollar cost averages into Bitcoin
+* tried making more bitcoin by trading
+* may or may not have debt (most will have at least some debt)
+* doesn't want to spend his Bitcoin
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from all the other cryptocurrencies (or as Bitcoiners like to call them, [colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
 

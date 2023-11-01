@@ -1,4 +1,8 @@
-# Navigating The Time Dimension Of Money
+---
+description: Work in progress; draft phase
+---
+
+# Our Money Exists In Time Continuum: We Plan Its Future By Looking Into Its Past
 
 When we look at our current money situation, it's like looking at a still photo, a snapshot. We know how much money we have right now.&#x20;
 

@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Mission: 180 Days Of Budgeting Practice
 
 Start by setting up your budget according to the instructions provided in the previous chapter. Then, make sure to keep track of all your inflows and outflows for a continuous period of 180 days. After this six-month period, you should be prepared to answer the following questions:

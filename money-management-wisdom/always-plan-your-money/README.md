@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Always Plan Your Money
 
 * why? because we want to make decisions about our money deliberately, before we actually spend it

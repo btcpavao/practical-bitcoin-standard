@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # How To Give?
 
 Giving smaller amounts more frequently is preferable to larger amounts less frequently.

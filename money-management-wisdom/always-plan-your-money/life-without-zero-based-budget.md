@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Why Practice Budgeting?
 
 One of the major misconceptions about budgeting is the belief that it solely involves reducing spending or tracking expenses. In reality, budgeting is about allocating our money, giving it a specific plan or purpose before we spend it. "Planning" might be a more accurate term, or even "economizing." Also, budgeting is a process of managing money, it's not a particular destination we arrive at and stay there.

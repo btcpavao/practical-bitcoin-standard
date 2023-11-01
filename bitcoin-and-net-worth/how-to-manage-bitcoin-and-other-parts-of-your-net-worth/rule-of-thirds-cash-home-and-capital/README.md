@@ -1,4 +1,8 @@
-# Ownership & Rule Of Thirds: Cash, Land & Capital
+---
+description: Work in progress; draft phase
+---
+
+# Rule Of Thirds: Cash, Land & Capital
 
 A strict Bitcoin standard requires us to reconsider the composition of our net worth, which should rely primarily on our cash balance as the dominant component.
 

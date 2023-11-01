@@ -1,4 +1,8 @@
-# Paying With Credit Is Spending From The Uncertainty Of The Future
+---
+description: Work in progress; draft phase
+---
+
+# Never Spend From The Uncertainty Of The Future
 
 Why is it never a good idea to use credit or get into debt? Fundamentally, because the future is uncertain.
 

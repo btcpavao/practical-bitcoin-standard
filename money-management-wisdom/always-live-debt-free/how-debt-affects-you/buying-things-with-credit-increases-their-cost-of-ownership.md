@@ -1,4 +1,8 @@
-# Debt Increases The Cost Of Ownership
+---
+description: Work in progress; draft phase
+---
+
+# Debt Increases Your Cost Of Ownership
 
 We take better care of things we own outright.
 

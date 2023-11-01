@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # How To Reconcile Changes In Bitcoin's Purchasing Power
 
 We're accustomed to using fiat money as our cash balance, whether it's physical cash in our wallets or money in our checking and immediately available savings accounts. Most bitcoiners view Bitcoin as their "investment," "retirement fund," or "long-term savings" and treat it as an illiquid asset on their balance sheet.

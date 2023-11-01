@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows
 
 If you adhere to a strict bitcoin standard, you will unavoidably experience periods of bitcoin purchasing power appreciation, also known as bull markets. If you also maintain a zero-based budget, you'll see that your budget grows during these times and you have additional money to assign to your categories.

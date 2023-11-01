@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Your Debt Generates Economic Distortions
 
 * real estate monetization

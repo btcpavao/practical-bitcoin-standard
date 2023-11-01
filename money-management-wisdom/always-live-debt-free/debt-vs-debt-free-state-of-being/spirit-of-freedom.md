@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Spirit Of Freedom
 
 A place where you are fully in control of how you utilize your ultimate resource: time.

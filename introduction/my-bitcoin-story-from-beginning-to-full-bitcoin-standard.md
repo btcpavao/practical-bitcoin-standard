@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # My Bitcoin Story, From Beginning To Full Bitcoin Standard
 
 I first heard about Bitcoin in 2012 but didn't find it interesting. I thought it was just some digital currency for gamers. I found out in 2013 that the FBI shut down Silk Road, the place where they used Bitcoin for buying and selling. The U.S. government's involvement added to my level of interest. It showed that Bitcoin wasn't just a code that could be changed by its creators, but was actually used in real commerce. Illegal, but real.

@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Spirit of Peace
 
 When you don't have to worry about your next debt payment, you can sleep peacefully and find serenity.

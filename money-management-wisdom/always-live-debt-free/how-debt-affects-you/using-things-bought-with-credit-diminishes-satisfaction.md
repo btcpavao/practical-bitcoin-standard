@@ -1,4 +1,8 @@
-# Debt Decreases Ownership Satisfaction
+---
+description: Work in progress; draft phase
+---
+
+# Debt Decreases Your Ownership Satisfaction
 
 The time you put into working to save for something increases your satisfaction with the item when you buy it.
 

@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Outflows Are Increased Because Of Interest, Opportunity Cost & Misallocation
 
 Spending credit is always more expensive than spending cash because humans have a positive time preference, which means they prefer present money to future money. The cost of spending future money is expressed in the interest rate.

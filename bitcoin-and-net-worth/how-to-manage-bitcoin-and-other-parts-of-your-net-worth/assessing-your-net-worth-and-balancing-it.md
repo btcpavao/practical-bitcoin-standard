@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # How To Balance Your Net Worth Composition
 
 Increase in cash (Bitcoin) purchasing power -> opportunity to increase Land & Capital (up to, but no more than, one-third of net worth in each).

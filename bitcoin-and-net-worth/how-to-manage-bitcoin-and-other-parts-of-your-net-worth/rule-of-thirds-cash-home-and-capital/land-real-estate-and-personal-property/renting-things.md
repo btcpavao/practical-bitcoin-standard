@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # When To Rent And When To Own
 
 On a full Bitcoin standard, we want to avoid the habit of rushing into ownership of something that will continue to decline in value in terms of bitcoin over time.

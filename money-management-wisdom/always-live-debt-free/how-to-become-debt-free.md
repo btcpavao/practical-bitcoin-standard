@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # How To Become Debt-Free?
 
 We can usually read and hear about three different debt-reduction strategies.

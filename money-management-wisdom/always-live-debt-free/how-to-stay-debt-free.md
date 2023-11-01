@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # How To Stay Debt-Free?
 
 * never use credit cards

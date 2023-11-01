@@ -1,4 +1,8 @@
-# Bear Markets: Reduce Outflows, Increase Inflows
+---
+description: Work in progress; draft phase
+---
+
+# When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows
 
 Assume that your bitcoin purchasing power will decline by 10% per month for the next eight months. Consider knowing this was going to happen. You'd be smart to sell bitcoin for fiat and then buy it back later for a bargain, wouldn't you? Right?
 

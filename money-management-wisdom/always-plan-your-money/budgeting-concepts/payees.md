@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Payees
 
 Payee is any party (person or legal entity) with whom we make incoming or outgoing transactions.

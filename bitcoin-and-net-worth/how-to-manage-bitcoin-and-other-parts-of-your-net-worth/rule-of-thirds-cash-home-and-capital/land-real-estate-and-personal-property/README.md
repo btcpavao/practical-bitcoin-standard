@@ -1,5 +1,5 @@
 ---
-description: Consumption goods / leisure time.
+description: Work in progress; draft phase
 ---
 
 # Land (Real Estate & Personal Property)

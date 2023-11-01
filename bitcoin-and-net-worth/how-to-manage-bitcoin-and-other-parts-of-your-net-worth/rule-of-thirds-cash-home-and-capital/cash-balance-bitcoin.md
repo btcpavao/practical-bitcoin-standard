@@ -1,4 +1,8 @@
-# Cash Balance
+---
+description: Work in progress; draft phase
+---
+
+# Cash Balance: Bitcoin
 
 Cash is the most liquid and salable component of your net worth.
 

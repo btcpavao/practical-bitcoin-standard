@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Be Grateful For The Opportunity To Give
 
 Our spirit of generosity is increased each time we make a transaction from our Giving category.

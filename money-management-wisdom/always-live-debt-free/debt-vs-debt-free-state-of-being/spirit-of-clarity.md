@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Spirit of Clarity
 
 Spirit of clarity manifests as a heightened awareness of the value of each purchase you make, for you. If you consider its value for you is greater than the expense, you will choose to buy it. if not, you won’t.

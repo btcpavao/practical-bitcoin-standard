@@ -1,6 +1,8 @@
-# Debt Steals Purchasing Power From The Poor
+---
+description: Work in progress; draft phase
+---
 
-
+# Your Debt Steals Purchasing Power From The Poor
 
 When you take out a bank loan, you create new fiat money.
 

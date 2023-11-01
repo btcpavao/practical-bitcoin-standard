@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Inflows & Outflows
 
 Inflow refers to money coming in.&#x20;

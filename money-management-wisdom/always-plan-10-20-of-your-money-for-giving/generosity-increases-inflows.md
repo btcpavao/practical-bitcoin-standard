@@ -1,4 +1,8 @@
-# Spirit Of Generosity Increases Inflows
+---
+description: Work in progress; draft phase
+---
+
+# Giving Increases Capacity For Generating Inflows
 
 If you earned your money through a voluntary, consensual exchange with another person, that person (your employer, client, or customer) valued the good or service you provided more than the money he paid you for it. As a result, the act of earning money is valuable in and of itself, and you are already acting morally when you are earning money. Voluntary exchange generates value for both parties.
 

@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Different Forms Of Money We Use And Where Bitcoin Fits In
 
 * this manual will use functional definition of money presented by the Austrian school of economics: money is a medium of exchange

@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone
 
 When a commercial bank extends credit, it effectively increases the money supply.

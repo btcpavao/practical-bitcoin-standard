@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Spirit Of Slavery
 
 Spiritually, the borrower is a slave of the lender. Slavery here is defined as not having freedom on deciding how to utilize time. There is the extent to which this freedom is reduced, and it's measured in the amount of time you will need to allocate for servicing the debt for the duration of the debt.&#x20;

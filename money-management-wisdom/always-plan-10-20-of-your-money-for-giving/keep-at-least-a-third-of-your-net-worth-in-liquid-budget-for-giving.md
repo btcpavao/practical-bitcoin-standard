@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving
 
 On a gold standard, keeping a large amount of liquidity in gold meant paying a high cost for storage, security, insurance, and transfer.

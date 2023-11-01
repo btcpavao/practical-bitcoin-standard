@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Spirit of Confusion
 
 The main cause of the spirit of confusion is your choice to spend money from the uncertain future.

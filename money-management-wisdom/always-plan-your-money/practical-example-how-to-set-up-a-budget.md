@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # How To Make A Zero Based Budget
 
 You can create a zero-based budget by just using pen and paper, or zero-budgeting software (I recommend [YNAB](https://www.ynab.com/)).&#x20;

@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Running Balance
 
 * this is the amount of money you have in your account

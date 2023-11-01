@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways
 
 You may believe that you are profiting from the difference between the interest rate you are paying on debt and the annual growth rate of bitcoin.

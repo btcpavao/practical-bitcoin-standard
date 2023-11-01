@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Bitcoin Standard Incentivizes Net Income Growth
 
 * Fiat standard incentivizes us to keep net income negative. We want to spend more than we earn in the present, and get into longer and longer debt duration, so that we have negative balance. This way we are effectively shorting fiat, because we are paying of nominal debt amount with debased money.

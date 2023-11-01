@@ -1,6 +1,8 @@
+---
+description: Work in progress; draft phase
+---
+
 # Net Worth
-
-
 
 Your net worth is the sum of your assets minus your debts (liabilities).
 

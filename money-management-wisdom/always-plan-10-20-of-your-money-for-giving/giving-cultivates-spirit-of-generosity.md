@@ -1,3 +1,7 @@
+---
+description: Work in progress; draft phase
+---
+
 # Giving Cultivates Spirit Of Generosity
 
 You grow the spirit of generosity each and every time you make a financial transaction without expecting anything in return (defined as a giving transaction, that is, a transaction that deducted money from your budget's Giving category).
