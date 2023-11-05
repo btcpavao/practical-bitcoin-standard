@@ -42,4 +42,9 @@ For all other categories in your budget, consider the following ideas:
 
 **Travel / Vacation:** Take advantage of your increased purchasing power to plan for future trips. Shop around and compare prices for your planned travels in the future. Generally, paying for your trip further in advance results in lower costs. Last-minute arrangements tend to be the most expensive, so use your resources to secure deals that you can pay for now but will enjoy in the future.
 
-Make sure to assess your total net worth and decide if you want to allocate some of your cash into your home and/or capital. Remember not to exceed one-third of your total net worth in your home and no more than one-third in capital.
+## Net Worth Composition Rebalancing
+
+Make sure to assess your total net worth composition and decide if you want to rebalance it, by spending some of your cash (Bitcoin) and inreasing Land and Capital parts of your net worth. Remember not to exceed one-third of your total net worth in your Land and no more than one-third in Capital.
+
+* if you rebalance your Bitcoin into Land and Capital in bull market, and you get Land and Capital to one third each, think about what you'll do if your Bitcoin purchasing power drops in the subsequent bear market. would you rebalance some of the Land and Capital back to Bitcoin, or you'd rather keep increasing your Bitcoin position with your net income.
+* it may be wise to not allocate Bitcoin into Land and Capital all the way to one third of total net worth each, if you feel you'll have higher net income if you keep higher portion of your net worth in Bitcoin, so your Giving budget being larger will have stronger effect on spirit of generosity growth

@@ -70,11 +70,6 @@
 
 ## Bitcoin And Net Worth
 
-* [How To Use Bitcoin As Your Primary Money](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/README.md)
-  * [Bitcoin Standard Incentivizes Net Income Growth](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bitcoin-standard-incentivizes-net-income-growth.md)
-  * [How To Reconcile Changes In Bitcoin's Purchasing Power](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
-  * [When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
-  * [When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
 * [How To Manage Bitcoin And Other Parts Of Your Net Worth](bitcoin-and-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/README.md)
   * [Rule Of Thirds: Cash, Land & Capital](bitcoin-and-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/README.md)
     * [Land (Real Estate & Personal Property)](bitcoin-and-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/land-real-estate-and-personal-property/README.md)
@@ -84,6 +79,11 @@
     * [Cash Balance: Bitcoin](bitcoin-and-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/cash-balance-bitcoin.md)
     * [Capital](bitcoin-and-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/rule-of-thirds-cash-home-and-capital/capital.md)
   * [How To Balance Your Net Worth Composition](bitcoin-and-net-worth/how-to-manage-bitcoin-and-other-parts-of-your-net-worth/assessing-your-net-worth-and-balancing-it.md)
+* [How To Use Bitcoin As Your Primary Money](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/README.md)
+  * [Bitcoin Standard Incentivizes Net Income Growth](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bitcoin-standard-incentivizes-net-income-growth.md)
+  * [How To Reconcile Changes In Bitcoin's Purchasing Power](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
+  * [When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
+  * [When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
 
 ## Conclusion
 
