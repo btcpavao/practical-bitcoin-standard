@@ -85,6 +85,12 @@ You will also learn how to think about non-Bitcoin assets ownership and why & ho
 
 If you've never heard of these concepts before, there is a lot to learn.&#x20;
 
-This manual is a work in progress, so please send any feedback you may have to pavao@hey.com. If you want personalized advice, please use [this link to schedule a call](https://calendly.com/btcpavao/practical-bitcoin-standard). If you would like to support this work, you can send sats to one of the following lightning addresses: [btcpavao@walletofsatoshi.com](lightning:lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyarrwpshvct0mdrxgm), [btcpavao@getalby.com](https://getalby.com/p/btcpavao), or [btcpavao@stacker.news](lightning:lnurl1dp68gurn8ghj7um5v93kketj9ehx2amn9uh8wetvdskkkmn0wahz7mrww4excup0vf6xxurpwesk72f89wh).
+This manual is a work in progress, so please send any feedback you may have to pavao@hey.com. If you want personalized advice, please use [this link to schedule a call](https://calendly.com/btcpavao/practical-bitcoin-standard). If you would like to support this work, you can send sats to one of the following lightning addresses:&#x20;
+
+* [btcpavao@walletofsatoshi.com](lightning:lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyarrwpshvct0mdrxgm)
+* [btcpavao@getalby.com](https://getalby.com/p/btcpavao)
+* [btcpavao@stacker.news](lightning:lnurl1dp68gurn8ghj7um5v93kketj9ehx2amn9uh8wetvdskkkmn0wahz7mrww4excup0vf6xxurpwesk72f89wh)
+
+<figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
 I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
