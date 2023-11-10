@@ -4,6 +4,8 @@ description: Work in progress; draft phase
 
 # Rule Of Thirds: Cash, Land & Capital
 
+* money, consumption goods, production goods
+
 A strict Bitcoin standard requires us to reconsider the composition of our net worth, which should rely primarily on our cash balance as the dominant component.
 
 This differs from the fiat standard, in which we are encouraged to avoid having too much liquid cash balance because it loses purchasing power over time, and instead encourages us to have a larger proportion of our net worth in non-liquid assets that can retain some of their purchasing power.
