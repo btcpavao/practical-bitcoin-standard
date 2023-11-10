@@ -9,7 +9,7 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You identify as a Bitcoiner, not "crypto investor"
 * You have read both "The Bitcoin Standard" and "The Fiat Standard" by Saifedean Ammous.
 * You practice dollar-cost averaging into Bitcoin.
-* You've attempted to grow your Bitcoin holdings through trading, but haven't found much success in doing so. You'd rather buy and hold.
+* You may have attempted to grow your Bitcoin stack through trading, but haven't found much success in doing so. [You'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
 * You may or may not be dealing with some form of debt.
 * You are hesitant to spend your Bitcoin.
 
