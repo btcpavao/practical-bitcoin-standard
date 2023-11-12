@@ -4,7 +4,7 @@ description: Work in progress; draft phase
 
 # Useful Tools
 
-* Budgeting Software
+* [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K)
 * Books
 * Courses
 * Bitcoin Wallets
