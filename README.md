@@ -93,4 +93,6 @@ This manual is a work in progress, so please send any feedback you may have to p
 
 <figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Bitcoin.svg.png" alt="" width="188"><figcaption><p>Support with Bitcoin (On-chain or Lightning), powered by <a href="https://www.opennode.com/">Opennode</a></p></figcaption></figure>
+
 I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
