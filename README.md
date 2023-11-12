@@ -93,6 +93,6 @@ This manual is a work in progress, so please send any feedback you may have to p
 
 <figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Bitcoin.svg.png" alt="" width="188"><figcaption><p>Support with Bitcoin (On-chain or Lightning), powered by <a href="https://www.opennode.com/">Opennode</a></p></figcaption></figure>
+[![](https://app.opennode.com/donate-with-bitcoin.svg)](https://checkout.opennode.com/p/bc2ae9f7-4df4-4def-949d-84b4905c4333) Support with Bitcoin (On-chain or Lightning), powered by [Opennode](https://www.opennode.com/).
 
 I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
