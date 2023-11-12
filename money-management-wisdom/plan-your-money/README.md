@@ -4,6 +4,10 @@ description: Work in progress; draft phase
 
 # Plan Your Money
 
+* [ ] screencast tutorials
+
+<!---->
+
 * the first and most important principle is to always have a plan for all of your money, before you spend any of it
 * this is not just do-it-once activity, rather, it's a continuous process of planning and adjusting the plan as you go. the practice is called zero-based budgeting.
 * why? because we want to make decisions about our money deliberately, before we actually spend it
