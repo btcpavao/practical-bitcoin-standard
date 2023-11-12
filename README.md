@@ -6,7 +6,7 @@ description: Work in progress; draft phase
 
 If you recognize yourself in any of the following statements, this guide is for you:
 
-* You identify as a Bitcoiner, not "crypto investor"
+* You understand the difference between Bitcoin and "crypto".
 * You have read both "The Bitcoin Standard" and "The Fiat Standard" by Saifedean Ammous.
 * You practice dollar-cost averaging into Bitcoin.
 * You may have attempted to grow your Bitcoin stack through trading, but haven't found much success in doing so. [You'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
