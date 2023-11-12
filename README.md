@@ -95,4 +95,10 @@ This manual is a work in progress, so please send any feedback you may have to p
 
 [![](https://app.opennode.com/donate-with-bitcoin.svg)](https://checkout.opennode.com/p/bc2ae9f7-4df4-4def-949d-84b4905c4333) Support with Bitcoin (On-chain or Lightning), powered by [Opennode](https://www.opennode.com/).
 
+
+
+<figure><img src=".gitbook/assets/Bitcoin Logo" alt="Bitcoin Logo" width="188"><figcaption><p>Support with Bitcoin (On-chain or Lightning), powered by <a href="https://www.opennode.com/">Opennode</a>.</p></figcaption></figure>
+
+
+
 I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
