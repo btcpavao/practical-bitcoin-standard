@@ -4,7 +4,7 @@
 
 * [The Purpose Of This Guide](README.md)
 * [Different Forms Of Money We Use And Where Bitcoin Fits In](introduction/different-forms-of-money-we-use-and-where-bitcoin-fits-in.md)
-* [My Bitcoin Story, From Beginning To Full Bitcoin Standard](introduction/my-bitcoin-story-from-beginning-to-full-bitcoin-standard.md)
+* [My Story, From Zero To Full Bitcoin Standard](introduction/my-story-from-zero-to-full-bitcoin-standard.md)
 
 ## Money Management Wisdom
 
