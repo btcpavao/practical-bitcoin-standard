@@ -85,7 +85,7 @@ You will also learn how to think about non-Bitcoin assets ownership and why & ho
 
 If you've never heard of these concepts before, there is a lot to learn.&#x20;
 
-This manual is a work in progress, so please send any feedback you may have to pavao@hey.com. If you want personalized advice, please use [this link to schedule a call](https://calendly.com/btcpavao/practical-bitcoin-standard). If you would like to support this work, you can send sats to one of the following lightning addresses:&#x20;
+This manual is a work in progress, so please send any feedback you may have to pavao@hey.com. If you want personalized advice, please use [this link to schedule a call](https://calendly.com/btcpavao/practical-bitcoin-standard). If you would like to support this work, please use one of the following lightning addresses:&#x20;
 
 * [btcpavao@walletofsatoshi.com](lightning:lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyarrwpshvct0mdrxgm)
 * [btcpavao@getalby.com](https://getalby.com/p/btcpavao)
@@ -93,12 +93,6 @@ This manual is a work in progress, so please send any feedback you may have to p
 
 <figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
-[![](https://app.opennode.com/donate-with-bitcoin.svg)](https://checkout.opennode.com/p/bc2ae9f7-4df4-4def-949d-84b4905c4333) Support with Bitcoin (On-chain or Lightning), powered by [Opennode](https://www.opennode.com/).
-
-
-
-<figure><img src=".gitbook/assets/Bitcoin Logo" alt="Bitcoin Logo" width="188"><figcaption><p>Support with Bitcoin (On-chain or Lightning), powered by <a href="https://www.opennode.com/">Opennode</a>.</p></figcaption></figure>
-
-
+Alternatively, [please use this Opennode link.](https://checkout.opennode.com/p/bc2ae9f7-4df4-4def-949d-84b4905c4333)
 
 I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
