@@ -21,3 +21,9 @@ description: Work in progress; draft phase
 * Credit Card Payment Category Targets
   * Pay Off Balance By Date
   * Pay Specific Amount Each Month
+
+***
+
+Progress bars on / off - explanation how to use;
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2023-11-15 at 09.37.03@2x.png" alt=""><figcaption></figcaption></figure>

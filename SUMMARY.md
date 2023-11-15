@@ -14,6 +14,8 @@
   * [Our Money Exists In Time Continuum: We Plan Its Future By Looking Into Its Past](money-management-wisdom/plan-your-money/our-money-exists-in-time-continuum-we-plan-its-future-by-looking-into-its-past.md)
   * [Budgeting Concepts](money-management-wisdom/plan-your-money/budgeting-concepts/README.md)
     * [Age Of Money](money-management-wisdom/plan-your-money/budgeting-concepts/age-of-money.md)
+    * [Categories](money-management-wisdom/plan-your-money/budgeting-concepts/categories.md)
+    * [Category Groups](money-management-wisdom/plan-your-money/budgeting-concepts/category-groups.md)
     * [Inflows & Outflows](money-management-wisdom/plan-your-money/budgeting-concepts/inflows-and-outflows.md)
     * [Scheduled Transactions](money-management-wisdom/plan-your-money/budgeting-concepts/scheduled-transactions.md)
     * [Running Balance](money-management-wisdom/plan-your-money/budgeting-concepts/running-balance.md)
