@@ -10,8 +10,8 @@
 
 * [Plan Your Money](money-management-wisdom/plan-your-money/README.md)
   * [Why Practice Budgeting?](money-management-wisdom/plan-your-money/life-without-zero-based-budget.md)
-  * [Our Money Has Opportunity Cost: We Decide It By Categorizing It](money-management-wisdom/plan-your-money/budget-categories-opportunity-cost-of-your-money.md)
-  * [Our Money Exists In Time Continuum: We Plan Its Future By Looking Into Its Past](money-management-wisdom/plan-your-money/our-money-exists-in-time-continuum-we-plan-its-future-by-looking-into-its-past.md)
+  * [Budget Categories Express Money Opportunity Cost](money-management-wisdom/plan-your-money/budget-categories-opportunity-cost-of-your-money.md)
+  * [Budgeting Reveals Time Dimension Of Money](money-management-wisdom/plan-your-money/budgeting-reveals-time-dimension-of-money.md)
   * [Budgeting Concepts](money-management-wisdom/plan-your-money/budgeting-concepts/README.md)
     * [Age Of Money](money-management-wisdom/plan-your-money/budgeting-concepts/age-of-money.md)
     * [Assets](money-management-wisdom/plan-your-money/budgeting-concepts/assets.md)
