@@ -2,7 +2,7 @@
 description: Work in progress; draft phase
 ---
 
-# Cash Balance: Bitcoin
+# Keep At Least A Third In Bitcoin
 
 Cash is the most liquid and salable component of your net worth.
 

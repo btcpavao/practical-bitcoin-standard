@@ -1,8 +1,4 @@
----
-description: Production goods / labor time.
----
-
-# Capital
+# Keep No More Than A Third In Production Assets
 
 Capital is defined as all goods not used for consumption but for the production of consumption goods.
 
