@@ -77,13 +77,13 @@
   * [How To Reconcile Changes In Bitcoin's Purchasing Power](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
   * [When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
   * [When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
-* [Balanced Net Worth Composition](bitcoin-and-net-worth/balanced-net-worth-composition/README.md)
-  * [Keep No More Than A Third In Consumption Assets](bitcoin-and-net-worth/balanced-net-worth-composition/keep-no-more-than-a-third-in-consumption-assets/README.md)
-    * [Ownership Of Large Durable Goods](bitcoin-and-net-worth/balanced-net-worth-composition/keep-no-more-than-a-third-in-consumption-assets/rules-of-thumb-for-buying-vehicles.md)
-    * [When To Rent And When To Own](bitcoin-and-net-worth/balanced-net-worth-composition/keep-no-more-than-a-third-in-consumption-assets/renting-things.md)
-    * [The Cost Of Ownership](bitcoin-and-net-worth/balanced-net-worth-composition/keep-no-more-than-a-third-in-consumption-assets/owning-things-requires-calculating-cost-of-ownership.md)
-  * [Keep No More Than A Third In Production Assets](bitcoin-and-net-worth/balanced-net-worth-composition/keep-no-more-than-a-third-in-production-assets.md)
-  * [Keep At Least A Third In Bitcoin](bitcoin-and-net-worth/balanced-net-worth-composition/keep-at-least-a-third-in-bitcoin.md)
+* [Balanced Net Worth Composition On A Bitcoin Standard](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/README.md)
+  * [Keep No More Than A Third Of Your Net Worth In Consumption Assets](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/README.md)
+    * [Ownership Tracking](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/rules-of-thumb-for-buying-vehicles.md)
+    * [Renting And Owning](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/renting-things.md)
+    * [The Cost Of Ownership](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/owning-things-requires-calculating-cost-of-ownership.md)
+  * [Keep No More Than A Third Of Your Net Worth In Production Assets](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-production-assets.md)
+  * [Keep At Least A Third Of Your Net Worth In Bitcoin](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-at-least-a-third-of-your-net-worth-in-bitcoin.md)
 
 ## Conclusion
 
