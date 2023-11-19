@@ -8,9 +8,9 @@ You can create a zero-based budget by just using pen and paper, or zero-budgetin
 
 Here's a step-by-step guide:
 
-**Pen and Paper Method:**
+**Pen and Paper (Envelope) Method:**
 
-* Start with a simple thought exercise. You have $100 in total, so you want to assign amounts to three different categories.&#x20;
+* Start with a simple thought exercise. You have $100 in total, so you want to assign amounts to three different categories. Each category is one envelope.
 * For example, "I have $100, so I'm going to assign $30 to Category 1, $40 to Category 2, and $30 to Category 3."
 * Imagine spending $10 from one of the categories. Let's say you spend $10 from Category 2. You are now left with a total of $90.
 * Adjust the category balance. In this case, update Category 2 to show that you have $40 - $10 = $30 remaining in that category.
