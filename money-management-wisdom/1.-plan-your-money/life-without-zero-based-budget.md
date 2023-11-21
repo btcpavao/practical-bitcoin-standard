@@ -42,5 +42,7 @@ Some common challenges and bad habits we get when not practicing budgeting inclu
 4. Underestimating the emotional toll of handling money unwisely.
 5. Lacking a sense of control over our money.
 6. Having a generally higher time preference (preferring immediate rewards over delayed gratification).
+7. Not understanding the concept of opportunity cost.
+8. Not understanding time dimension of money.
 
 The more we practice budgeting, the better we'll become at it. There is no set time limit for when we ought to stop practicing it because if we continue for ten years, we will have refined our skills and will be able to make accurate plans for the next ten years.
