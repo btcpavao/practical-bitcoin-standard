@@ -2,12 +2,13 @@
 description: Work in progress; draft phase
 ---
 
-# The Purpose Of This Guide
+# The Big Purpose
 
 If you recognize yourself in any of the following statements, this guide is for you:
 
 * You understand the difference between Bitcoin and "crypto".
-* You have read both "The Bitcoin Standard" and "The Fiat Standard" by Saifedean Ammous.
+* You are "Bitcoin-only".
+* You have read "The Bitcoin Standard" by Saifedean Ammous, and consider it authoritative work on economics of Bitcoin.
 * You practice dollar-cost averaging into Bitcoin.
 * You may have attempted to grow your Bitcoin stack through trading, but haven't found much success in doing so. [You'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
 * You may or may not be dealing with some form of debt.
