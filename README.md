@@ -10,9 +10,16 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You are "Bitcoin-only".
 * You have read "The Bitcoin Standard" by Saifedean Ammous, and consider it authoritative work on economics of Bitcoin.
 * You practice dollar-cost averaging into Bitcoin.
+* You keep some fiat as "dry-powder" for when Bitcoin drops to "buy the dip".
 * You may have attempted to grow your Bitcoin stack through trading, but haven't found much success in doing so. [You'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
-* You may or may not be dealing with some form of debt.
+* You have and use credit card(s).
+* You have a mortgage.
+* You have an auto loan or lease.
+* You have student loan debt.
 * You are hesitant to spend your Bitcoin.
+* You are affraid to sell your Bitcoin.
+* You believe there is a good debt and bad debt.
+* You plan for retirement.
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from "crypto" ([colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [Fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
 
