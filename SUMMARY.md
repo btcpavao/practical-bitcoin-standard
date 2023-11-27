@@ -84,6 +84,7 @@
     * [The Cost Of Ownership](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/owning-things-requires-calculating-cost-of-ownership.md)
   * [Keep No More Than A Third Of Your Net Worth In Production Assets](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-production-assets.md)
   * [Keep At Least A Third Of Your Net Worth In Bitcoin](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-at-least-a-third-of-your-net-worth-in-bitcoin.md)
+  * [Three Types Of Goods: Monetary, Consumption, Capital](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/three-types-of-goods-monetary-consumption-capital.md)
 
 ## Conclusion
 
