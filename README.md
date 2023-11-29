@@ -23,6 +23,8 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You have an idea of how much you spend on a daily basis, but you don't have exact figures.
 * You plan for retirement.
 * You tried to "orange pill" your family and close friends, but they didn't take your advice as seriously as you would have liked.
+* You are willing to allocate even more of your money to Bitcoin, but your partner/spouse is not really on the same page.
+* You like to call your current job "fiat job", and don't have much of direct Bitcoin inflow streams.
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from "crypto" ([colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [Fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
 
