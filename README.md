@@ -17,7 +17,7 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You have an auto loan or lease.
 * You have student loan debt.
 * You are hesitant to spend your Bitcoin.
-* You are affraid to sell your Bitcoin.
+* You're (sort of) afraid to sell your Bitcoin in any significant amount.
 * You believe there is a good debt and bad debt.
 * You'd jump at the chance to take out a zero-interest loan and use it to buy more bitcoin.
 * You have an idea of how much you spend on a daily basis, but you don't have exact figures.
