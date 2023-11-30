@@ -2,7 +2,15 @@
 description: Work in progress; draft phase
 ---
 
-# Our Money Exists In Time Continuum: We Plan Its Future By Looking Into Its Past
+# Budgeting Reveals Us Time Dimension Of Our Money
+
+* the total amount of money we have can be looked through lens of time
+* there is money we own in the present, that we made in the past
+* there is money we own in the future, that we haven't yet made
+* in the present moment, we can decide to transact with already made money from the past, or with money from the future we haven't made
+* we have exact certainty about the money we made in the past
+* we have complete uncertainty about the money that we haven't made, from the future
+* this is because the nature of time is such that we will never know exactly how much time we have left to live and make money. thus, we never know how much money we are going to own in the future
 
 When we look at our current money situation, it's like looking at a still photo, a snapshot. We know how much money we have right now.&#x20;
 
