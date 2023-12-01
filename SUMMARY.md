@@ -3,7 +3,7 @@
 ## Introduction
 
 * [The Big Purpose](README.md)
-* [Bitcoin And Other Moneys](introduction/bitcoin-and-other-moneys.md)
+* [Bitcoin As Your Primary Money](introduction/bitcoin-as-your-primary-money.md)
 * [My Path To Full Bitcoin Standard](introduction/my-path-to-full-bitcoin-standard.md)
 
 ## Money Management Wisdom
@@ -72,17 +72,18 @@
 
 ## Bitcoin And Net Worth
 
-* [Use Bitcoin As Your Primary Money](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/README.md)
-  * [Bitcoin Standard Incentivizes Net Income Growth](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/bitcoin-standard-incentivizes-net-income-growth.md)
-  * [How To Reconcile Changes In Bitcoin's Purchasing Power](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
-  * [When Bitcoin Purchasing Power Drops Reduce Your Outflows And Increase Your Inflows](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
-  * [When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows](bitcoin-and-net-worth/use-bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
+* [How To Use Bitcoin As Your Primary Money](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/README.md)
+  * [Keep Your Average Net Income Positive](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/keep-your-average-net-income-positive.md)
+  * [Frequently Reconcile Changes In Bitcoin's Purchasing Power](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/managing-bitcoin-cash-balance-purchasing-power-reconciliation.md)
+  * [When Bitcoin Purchasing Power Decreases, Increase Your Net Income](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bear-markets-reduce-outflows-increase-inflows.md)
+  * [When Bitcoin Purchasing Power Increases, Decrease Your Net Income](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
+  * [Understand The Difference Between Monetary, Consumer And Capital Goods](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/understand-the-difference-between-monetary-consumer-and-capital-goods.md)
 * [Balanced Net Worth Composition On A Bitcoin Standard](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/README.md)
-  * [Keep No More Than A Third Of Your Net Worth In Consumption Assets](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/README.md)
-    * [Ownership Tracking](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/rules-of-thumb-for-buying-vehicles.md)
-    * [Renting And Owning](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/renting-things.md)
-    * [The Cost Of Ownership](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-assets/owning-things-requires-calculating-cost-of-ownership.md)
-  * [Keep No More Than A Third Of Your Net Worth In Production Assets](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-production-assets.md)
+  * [Keep No More Than A Third Of Your Net Worth In Consumption Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/README.md)
+    * [Non-Monetary Goods Ownership Tracking](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/rules-of-thumb-for-buying-vehicles.md)
+    * [Renting And Owning Non-Monetary. Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/renting-things.md)
+    * [Non-Monetary Goods Cost Of Ownership](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/owning-things-requires-calculating-cost-of-ownership.md)
+  * [Keep No More Than A Third Of Your Net Worth In Production Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-production-goods.md)
   * [Keep At Least A Third Of Your Net Worth In Bitcoin](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-at-least-a-third-of-your-net-worth-in-bitcoin.md)
   * [Three Types Of Goods: Monetary, Consumption, Capital](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/three-types-of-goods-monetary-consumption-capital.md)
 
