@@ -2,11 +2,11 @@
 description: Work in progress; draft phase
 ---
 
-# When Bitcoin Purchasing Power Increases Look For Ways To Pay For Future Outflows
+# When Bitcoin Purchasing Power Increases, Decrease Your Net Income
 
 * if you keep your budget updated, you will have insight into your expense rate (per month, average and across every category)
 * in bull markets, you use your expense rate data to plan your future expense rate, and then pay for future expenses in advance
-* this is so you can increase your future net income rate, by reducing your expense rate, because you already it in advance
+* this is so you can increase your future net income rate, by reducing your expense rate, because you already paid for it in advance
 
 If you adhere to a strict bitcoin standard, you will unavoidably experience periods of bitcoin purchasing power appreciation, also known as bull markets. If you also maintain a zero-based budget, you'll see that your budget grows during these times and you have additional money to assign to your categories.
 
