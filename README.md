@@ -47,7 +47,7 @@ Let's talk about the elephant in the room: Bitcoin and it's high volatility.
 
 Bitcoin is a very different kind of money from fiat we all use every day. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of fiat has steadily declined.
 
-You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (November 2023), 1 Bitcoin is worth about $35,000. So, 10,000 bitcoins, equivalent to about $350 million today, could buy around 23 million pizzas. It's pretty amazing that Bitcoin's purchasing power increased so significantly in less than 14 years.
+You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (November 2023), 1 bitcoin is worth about $35,000. So, 10,000 bitcoins, equivalent to about $350 million today, could buy around 12 million pizzas. It's pretty amazing that Bitcoin's purchasing power increased so significantly in less than 14 years.
 
 But this increase in purchasing power came with even more well-known volatility.
 
