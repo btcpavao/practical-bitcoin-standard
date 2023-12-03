@@ -79,6 +79,7 @@
   * [When Bitcoin Purchasing Power Increases, Decrease Your Net Income](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/bull-markets-pay-for-future-outflows.md)
   * [Understand The Difference Between Monetary, Consumer And Capital Goods](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money/understand-the-difference-between-monetary-consumer-and-capital-goods.md)
 * [Balanced Net Worth Composition On A Bitcoin Standard](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/README.md)
+  * [Cash Is Trash In The Fiat Standard. In The Bitcoin Standard, Cash Is King.](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/cash-is-trash-in-the-fiat-standard.-in-the-bitcoin-standard-cash-is-king..md)
   * [Keep No More Than A Third Of Your Net Worth In Consumption Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/README.md)
     * [Non-Monetary Goods Ownership Tracking](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/rules-of-thumb-for-buying-vehicles.md)
     * [Renting And Owning Non-Monetary. Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods/renting-things.md)
