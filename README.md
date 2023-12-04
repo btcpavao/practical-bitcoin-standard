@@ -6,12 +6,12 @@ description: Work in progress; draft phase
 
 If you recognize yourself in any of the following statements, this guide is for you:
 
-* You understand the difference between Bitcoin and "crypto".
-* You are "Bitcoin-only".
-* You have read "The Bitcoin Standard" by Saifedean Ammous, and consider it authoritative work on economics of Bitcoin.
+* You know the difference between Bitcoin and _crypto_.
+* You are Bitcoin-only.
+* You have read The Bitcoin Standard.
 * You practice dollar-cost averaging into Bitcoin.
-* You keep some fiat as "dry-powder" in case Bitcoin "dumps" so you can "buy the dip".
-* You attempted to grow your Bitcoin stack through trading, but haven't found much success in doing so. [You'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
+* You keep some fiat as dry-powder in case Bitcoin dumps so you can buy the dip.
+* You attempted to grow your Bitcoin stack through trading, but [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
 * You have and use credit card(s).
 * You have a mortgage.
 * You have an auto loan or lease.
@@ -19,12 +19,12 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You are hesitant to spend your Bitcoin.
 * You're (sort of) afraid to sell your Bitcoin in any significant amount.
 * You believe there is a good debt and bad debt.
-* You'd jump at the chance to take out a zero-interest loan and use it to buy more bitcoin.
-* You have an idea of how much you spend on a daily basis, but you don't have exact figures.
+* If the opportunity presents itself, you'd probably take out a zero-interest loan and use it to buy more Bitcoin.
+* You have a rough idea of how much you make and spend, but you don't have exact figures.
 * You plan for retirement.
-* You tried to "orange pill" your family and close friends, but they didn't take your advice as seriously as you would have liked.
+* You tried orange pilling your family and close friends, but they didn't take your advice as seriously as you would have liked.
 * You are willing to allocate even more of your money to Bitcoin, but your partner/spouse is not really on the same page.
-* You like to call your current job "fiat job", and don't have much of direct Bitcoin inflow streams.
+* You like to call your current work "fiat job", and don't have much of direct Bitcoin inflow streams.
 * Because of Bitcoin's high volatility, you do not advise people to go all in.
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from "crypto" ([colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [Fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
