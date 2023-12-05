@@ -2,7 +2,11 @@
 description: Work in progress; draft phase
 ---
 
-# When To Rent And When To Own
+# Renting Vs Owning Non-Monetary Goods
+
+* I've seen many examples in my family and friends of the hesitancy to rent, and a bias for ownership of non-monetary goods
+* this stems from the natural inclination in the fiat standard, to minimize the amount of cash we hold over time, since it's a melting ice cube
+* the opposite happens on the Bitcoin standard. we are more hesitant to enter into ownership, since owning non-Bitcoin assets will inevitably incur the opportunity cost of increased purchasing power of Bitcoin in the future. thus, we are inclined to be much more deliberate on what we want to own. this is why renting is likely to become more normalized on the Bitcoin standard
 
 On a full Bitcoin standard, we want to avoid the habit of rushing into ownership of something that will continue to decline in value in terms of bitcoin over time.
 
