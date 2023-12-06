@@ -10,7 +10,7 @@
 
 * [1. Plan Your Money](money-management-wisdom/1.-plan-your-money/README.md)
   * [Why Practice Budgeting?](money-management-wisdom/1.-plan-your-money/life-without-zero-based-budget.md)
-  * [Categorizing Our Money To Define Its Opportunity Cost](money-management-wisdom/1.-plan-your-money/budget-categories-opportunity-cost-of-your-money.md)
+  * [Categorizing Our Money Defines Its Opportunity Cost](money-management-wisdom/1.-plan-your-money/budget-categories-opportunity-cost-of-your-money.md)
   * [Budgeting Allows Us To See Our Money's Time Dimension](money-management-wisdom/1.-plan-your-money/budgeting-allows-us-to-see-our-moneys-time-dimension.md)
   * [Budgeting Concepts](money-management-wisdom/1.-plan-your-money/budgeting-concepts/README.md)
     * [Age Of Money](money-management-wisdom/1.-plan-your-money/budgeting-concepts/age-of-money.md)
