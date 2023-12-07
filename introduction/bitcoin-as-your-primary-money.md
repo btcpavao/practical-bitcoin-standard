@@ -2,31 +2,37 @@
 description: Work in progress; draft phase
 ---
 
-# Bitcoin And Other Moneys
+# Bitcoin As Your Primary Money
 
 ## Why do we use money in the first place?
 
-* this manual will use functional definition of money presented by the Austrian school of economics: money is a medium of exchange
-* anything can be used as medium of exchange
-* why do people use money? because they are value things differently from one another, so they want to exchange with each other
-* we use money daily, but for the most part, people don't think too deep about it
-* humans are both physical and meta-physical beings (metaphysical = psyschological or spiritual in the context of this guide)
-* we value things differently because of our spiritual differences
-* we exchange what we value less for what we value more
-* we can exchange directly, for example: person A has a lot of oranges, and person B has a lot of apples. A wants to exchange some of his oranges for apples and B wants to exchange some of his apples for oranges. they will perform the exchange which ends up benefiting both.
-* after the exchange, A and B value what they have more than before exchange, and thus exchange is mutually beneficial.
-* voluntary exchange increases subjective value for everybody involved in the exchange.
-* when we exchange directly, we can run into a problem of double coincidence of wants.
-  * for example: person A has a lot of oranges, and person B has a lot of apples. person A wants to exchange some of his oranges for apples, but person B doesn't want oranges, he wants to exchange his apples for bananas.
-* we solve the problem of double coincidence of wants by using a medium of exchange.
-  * for example: if person A  finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as medium of exchange. in other words, A acquired bananas not because he wanted bananas, but because his intention was to exchange them for what he really wanted, which is apples. in this scenario, A used bananas as medium of exchange, i.e. money. &#x20;
-* anything can be used as medium of exchange / money, but some things perform this function better than others
-* medium of exchange / money effectiveness can be measured in terms of it’s salability (marketability, how easy / hard is it to exchange for what we actually want)
-* salability can be viewed in four different aspects: time, space, scales and goods
-* salability across time - how much does the thing used as medium of exchange / money increase or decrease in value across the unit of time between exchange
-  * most people understand that government issued fiat money loses purchasing power / value over time
-  * this is why they use many different things as medium of exchange / money that has higher salability across time than government issued fiat currencies. examples are real estate, government bonds, stocks, precious metals, art etc
-  * Bitcoin has superior salability across time, because of it's predictable and immutable supply issuance schedule of hard capped 21 million until the year 2140
+This manual will employ the Austrian school of economics' functional definition of money: money is a medium of exchange. We can use anything as a medium of exchange.
+
+Why do we use money? Because we value goods & services differently, we want to exchange them with others. Although we use money on a daily basis, most people don't give it much thought.
+
+Humans are both physical and metaphysical beings (for the purposes of this guide, metaphysical refers to psychological or spiritual).
+
+Our spiritual differences cause us to value things differently. We exchange something we value less for something we value more.
+
+We may engage in a direct exchange, such as when person A has an abundance of oranges and person B has an abundance of apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They'll carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before the exchange, so the exchange is mutually beneficial.
+
+Subjective value is increased for all parties involved in a voluntary exchange.
+
+When we exchange directly, we can run into a problem of double coincidence of wants. For instance, Person A has an abundance of oranges, while Person B has an abundance of apples. Person B prefers to exchange his apples for bananas instead of oranges, while Person A would like to exchange some of his oranges for apples.
+
+By using a medium of exchange, we are able to solve the problem of double coincidence of wants. For example, if person A finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as a medium of exchange. In other words, A obtained bananas not because he wanted them, but because he intended to exchange them for what he truly wanted, which was apples. In this scenario, A used bananas as a medium of exchange, or money.
+
+Anything can serve as a means of exchange or money, but some goods are more effective at doing so than others.
+
+The effectiveness of a medium of exchange / money can be measured in terms of its salability (marketability, how easy / difficult it is to exchange for what we actually want).
+
+Salability can be measured with respect to four distinct dimensions: time, space, scales, and goods.
+
+Salability over time is the degree to which a good used as a medium of exchange increases or decreases in value over the interval of time between exchange.
+
+* most people understand that government issued fiat money loses purchasing power / value over time
+* this is why they use many different things as medium of exchange / money that has higher salability across time than government issued fiat currencies. examples are real estate, government bonds, stocks, precious metals, art etc
+* Bitcoin has superior salability across time, because of it's predictable and immutable supply issuance schedule of hard capped 21 million until the year 2140
 * salability across space - how much does the thing used as medium of exchange increase or decrease in value across the unit of space between exchange.&#x20;
   * most people use electronic bank transfers to move fiat across space
   * depending on the number of counterparties needed to perform the move, it can cost anywhere from 0 up to few hundred USD to perform the move.
