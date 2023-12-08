@@ -4,6 +4,10 @@ description: Work in progress; draft phase
 
 # How To Make A Zero Based Budget
 
+* simplest version: set up two categories: 1) essentials and 2) discretionary spending
+* practice moving money from essentials to discretionary, back and forth
+* practice entering transactions
+
 You can create a zero-based budget by just using pen and paper, or software (I recommend [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K)).&#x20;
 
 Here's a step-by-step guide:
