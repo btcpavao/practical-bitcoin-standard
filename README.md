@@ -13,9 +13,13 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You keep some fiat as dry-powder in case Bitcoin dumps so you can buy the dip.
 * You attempted to grow your Bitcoin stack through trading, but [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
 * You have and use credit card(s).
+* You have a personal loan.
+* You use line of credit.
+* There are moments when your checking account goes overdraft.
 * You have a mortgage.
 * You have an auto loan or lease.
 * You have student loan debt.
+* You have used or plan to use a home equity line of credit.&#x20;
 * You are hesitant to spend your Bitcoin.
 * You're (sort of) afraid to sell your Bitcoin in any significant amount.
 * You believe there is a good debt and bad debt.
