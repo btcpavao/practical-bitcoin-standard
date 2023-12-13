@@ -4,11 +4,11 @@ description: Work in progress; draft phase
 
 # The Big Purpose
 
-If you recognize yourself in any of the following statements, this guide is for you:
+I'm writing this guidebook to share my experience as well as tips and tricks for living on a full Bitcoin standard. Readers should already have some Bitcoin. So, if you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
 * You know the difference between Bitcoin and _crypto_.
 * You are Bitcoin-only.
-* You have read The Bitcoin Standard.
+* You have read [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
 * You practice dollar-cost averaging into Bitcoin.
 * You keep some fiat as dry-powder in case Bitcoin dumps so you can buy the dip.
 * You attempted to grow your Bitcoin stack through trading, but [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
@@ -31,7 +31,7 @@ If you recognize yourself in any of the following statements, this guide is for 
 * You like to call your current work "fiat job", and don't have much of direct Bitcoin inflow streams.
 * Because of Bitcoin's high volatility, you do not advise people to go all in.
 * Sometimes you feel like you don't own enough Bitcoin.
-* "Fiat is for spending, Bitcoin is for saving" sounds reasonable.
+* "_Fiat is for spending, Bitcoin is for saving_" sounds reasonable.
 
 I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from "crypto" ([colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [Fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
 
