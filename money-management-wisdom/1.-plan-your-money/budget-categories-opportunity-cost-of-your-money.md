@@ -1,8 +1,4 @@
----
-description: Work in progress; draft phase
----
-
-# Our Money Has Opportunity Cost: We Decide It By Categorizing It
+# Categore Your Money To Define Its Opportunity Cost
 
 In order to gain full control over our money, we first have to decide it's opportunity cost. Without budgeting, our money opportunity cost remains undecided. Let's illustrate this through an example story.
 

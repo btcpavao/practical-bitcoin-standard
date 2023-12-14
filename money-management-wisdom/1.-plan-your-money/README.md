@@ -1,8 +1,4 @@
----
-description: Work in progress; draft phase
----
-
-# Plan Your Money
+# 1. Plan Your Money
 
 The first and most important rule is to always have a plan in place for all of your money before spending any of it.
 

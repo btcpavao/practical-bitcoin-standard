@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Bitcoin As Your Primary Money
 
 ## Why do we use money in the first place?

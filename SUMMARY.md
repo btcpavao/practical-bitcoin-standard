@@ -10,8 +10,8 @@
 
 * [1. Plan Your Money](money-management-wisdom/1.-plan-your-money/README.md)
   * [Why Practice Budgeting?](money-management-wisdom/1.-plan-your-money/life-without-zero-based-budget.md)
-  * [Categorizing Our Money Defines Its Opportunity Cost](money-management-wisdom/1.-plan-your-money/budget-categories-opportunity-cost-of-your-money.md)
-  * [Budgeting Allows Us To See Our Money's Time Dimension](money-management-wisdom/1.-plan-your-money/budgeting-allows-us-to-see-our-moneys-time-dimension.md)
+  * [Categore Your Money To Define Its Opportunity Cost](money-management-wisdom/1.-plan-your-money/budget-categories-opportunity-cost-of-your-money.md)
+  * [Budgeting Allows You To See Your Money's Time Dimension](money-management-wisdom/1.-plan-your-money/budgeting-allows-you-to-see-your-moneys-time-dimension.md)
   * [Budgeting Concepts](money-management-wisdom/1.-plan-your-money/budgeting-concepts.md)
   * [How To Make A Zero Based Budget](money-management-wisdom/1.-plan-your-money/practical-example-how-to-set-up-a-budget.md)
   * [Mission: 180 Days Of Budgeting Practice](money-management-wisdom/1.-plan-your-money/mission-180-days-of-budgeting-practice.md)

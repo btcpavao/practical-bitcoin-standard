@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # The Big Purpose
 
 I'm writing this guidebook to share my experience as well as tips and tricks for living on a full Bitcoin standard. Readers should already have some Bitcoin. So, if you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
