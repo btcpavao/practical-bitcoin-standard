@@ -2,7 +2,11 @@
 description: Work in progress; draft phase
 ---
 
-# Your Debt Steals Purchasing Power From The Poor
+# How Your Debt Affects Others
+
+If you incur debt through the creation of fiat money, it affects others who are forced by the state to hold fiat debt instruments.
+
+## Your Debt Steals Purchasing Power From The Poor
 
 When you take out a bank loan, you create new fiat money.
 
@@ -17,3 +21,11 @@ Thus, when you incur debt through any of the fiat-licensed institutions, you eff
 Your credit risk will eventually manifest as widespread price inflation.
 
 Inflation is the most regressive form of taxation because it disproportionately affects the poor. Poor people have the majority of their net worth in liquid fiat cash, whereas wealthy people have only a small portion of their net worth in liquid cash.
+
+## Your Debt Generates Economic Distortions
+
+* real estate monetization
+* capital misallocation
+* business boom & bust cycles
+* price signal distortion
+* worsens economic calculation

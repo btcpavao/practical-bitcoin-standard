@@ -2,7 +2,9 @@
 description: Work in progress; draft phase
 ---
 
-# How To Become Debt-Free?
+# How To Become And Stay Debt-Free?
+
+## Become Debt-Free
 
 We can usually read and hear about three different debt-reduction strategies.
 
@@ -15,3 +17,15 @@ The third method is debt consolidation, which involves taking on new debt with a
 My advice is to sell off whatever assets you can and pay off your debt as soon as possible because you will benefit most from spending the least amount of time in debt. This is because, after that, you can proceed to the next phase, which will increase your inflows, by allocating 10% to 20% of your budget to the Giving category.
 
 If you are not convinced about it, I would advise you to continue managing your budget and attempting to make ends meet while retaining your Bitcoin. You can try any of the three mentioned strategies to speed up the process, but ultimately I think the volatility of Bitcoin will eventually force you to decide to simply pay off your debt for good, even if it means big change in your lifestyle.
+
+## Stay Debt-Free
+
+* never use credit cards
+* never borrow money under any circumstance
+* only spend from the past
+* have at least a third of your net worth in cash balance (high liquidity / salability) -> read about it later in Wisdom For Your Net Worth
+* whenever you get the bill, pay it immidiately, the same day you get it
+* have at least 3 to 6 months of your regular expenses in savings before you decide to purchase something outside of that
+* never try to collect airline miles or fall for cashback offers by credit cards
+* never try to get "deals" by making payments instead of purchasing the thing outright
+* never fall for foolish idea that "there is good debt and bad debt". all debt will have same spiritual consequences which you want to avoid at all costs
