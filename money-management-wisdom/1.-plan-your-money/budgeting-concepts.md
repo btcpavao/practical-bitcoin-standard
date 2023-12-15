@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Budgeting Concepts
 
 ### Age Of Money

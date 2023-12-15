@@ -1,10 +1,7 @@
----
-description: Work in progress; draft phase
----
-
 # How To Make A Zero Based Budget
 
-* simplest version: set up two categories: 1) essentials and 2) discretionary spending
+To get a feel for how the method works, I think you should start with the simplest budget possible. Take two envelopes and write "essentials" on one and "discretionary" on the other. These are your two main categories.
+
 * practice moving money from essentials to discretionary, back and forth
 * practice entering transactions
 
