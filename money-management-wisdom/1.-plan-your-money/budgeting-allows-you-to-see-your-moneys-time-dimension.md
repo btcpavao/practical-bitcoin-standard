@@ -1,16 +1,18 @@
----
-description: Work in progress; draft phase
----
+# Budgeting Allows You To See Your Money's Time Dimension
 
-# Budgeting Reveals Us Time Dimension Of Our Money
+The total amount of money we have can be viewed through the lens of time.
 
-* the total amount of money we have can be looked through lens of time
-* there is money we own in the present, that we made in the past
-* there is money we own in the future, that we haven't yet made
-* in the present moment, we can decide to transact with already made money from the past, or with money from the future we haven't made
-* we have exact certainty about the money we made in the past
-* we have complete uncertainty about the money that we haven't made, from the future
-* this is because the nature of time is such that we will never know exactly how much time we have left to live and make money. thus, we never know how much money we are going to own in the future
+We have money in the present that we earned in the past.
+
+We own money in the future that we have not yet earned.
+
+We can choose to transact in the present with money that we have already earned in the past or with money that we have not yet earned in the future.
+
+We know with absolute certainty how much money we have made in the past.
+
+The money that we have yet to earn in the future is completely uncertain.
+
+This is due to the fact that we can never be certain of how much time we have left to live and earn money because of the nature of time. As a result, we can never predict how much money we will have in the future.
 
 When we look at our current money situation, it's like looking at a still photo, a snapshot. We know how much money we have right now.&#x20;
 
