@@ -1,8 +1,4 @@
----
-description: Work in progress; draft phase
----
-
-# Bitcoin Standard Incentivizes Net Income Growth
+# Keep Your Average Net Income Positive
 
 The Fiat standard encourages us to keep our net income negative. We want to spend more money than we bring in right now and accumulate debt over time to get a negative fiat balance. Because we are paying off nominal debt with debased money, we are effectively shorting fiat. Unfortunately, while this approach works for some, it comes at the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, the majority of people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
 

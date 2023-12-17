@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Giver Gets More Benefit From Giving Than The Recipient
 
 We should set aside 10% to 20% of our budget for the Giving category. We should also keep this portion of our budget assigned to the Giving category at all times. So when we spend from it, we recalculate 10% to 20% of what is left in our total budget and move money from other categories to Giving in order to adjust it back. When we spend money from other categories, we recalculate 10% to 20% of what is left in our total budget and adjust the amount in the Giving category.

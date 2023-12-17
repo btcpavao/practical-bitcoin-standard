@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Giving Increases Risk Tolerance
 
 In our professional lives, we will constantly come across opportunities to take risks with favorable rewards.

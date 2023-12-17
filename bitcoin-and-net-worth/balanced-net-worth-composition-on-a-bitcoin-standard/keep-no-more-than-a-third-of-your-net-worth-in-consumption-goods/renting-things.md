@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Renting Vs Owning Non-Monetary Goods
 
 * I've seen many examples in my family and friends of the hesitancy to rent, and a bias for ownership of non-monetary goods

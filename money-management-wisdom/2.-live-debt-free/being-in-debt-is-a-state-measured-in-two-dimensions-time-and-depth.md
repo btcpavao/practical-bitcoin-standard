@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Being In Debt Is A State Measured In Two Dimensions: Time And Depth
 
 When you are in debt, there are two factors that determine the level of slavery your spirit will develop. The first and most significant factor is the length of time spent in debt. This period is measured from the moment that you incurred debt to the moment you became debt-free. For instance, you could be in debt for seven days, seven months, or seven years. The longer one remains in debt, the deeper the spirit of slavery becomes rooted.

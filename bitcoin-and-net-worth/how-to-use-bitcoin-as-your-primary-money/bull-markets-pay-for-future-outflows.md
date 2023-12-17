@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # When Bitcoin Purchasing Power Increases, Decrease Your Net Income
 
 If you keep your budget up to date, you will be able to see your expense rate (per month, average, and across all categories).

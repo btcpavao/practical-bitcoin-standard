@@ -1,8 +1,4 @@
----
-description: Work in progress; draft phase
----
-
-# Ownership Of Large Durable Goods
+# Non-Monetary Goods Ownership Tracking
 
 First and foremost, do not exceed the rule of thirds. Large durable goods are part of your net worth's Land and/or Capital segments. Before purchasing, calculate the total cost of ownership. After purchasing, update the value of the land and/or capital on a regular basis to keep track of the depreciation rate.
 

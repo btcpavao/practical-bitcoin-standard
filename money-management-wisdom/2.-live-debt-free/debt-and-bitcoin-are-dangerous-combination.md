@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Debt And Bitcoin Are Dangerous Combination
 
 Having both debt and Bitcoin on your balance sheet is extremely risky for your net worth management. Staying in debt during Bitcoin bull runs could lead you to FOMO into more debt in order to increase your Bitcoin exposure. Staying in debt during Bitcoin bear markets could lead you to panic and reduce your Bitcoin exposure in order to stay solvent and avoid bankruptcy.&#x20;

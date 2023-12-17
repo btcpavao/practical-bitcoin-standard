@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving
 
 * if giving budget falls below 1/60 of total net worth value, it's not going to affect growth of spirit of generosity

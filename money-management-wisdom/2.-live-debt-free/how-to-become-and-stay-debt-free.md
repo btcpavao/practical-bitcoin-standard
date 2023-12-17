@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # How To Become And Stay Debt-Free?
 
 ## Become Debt-Free

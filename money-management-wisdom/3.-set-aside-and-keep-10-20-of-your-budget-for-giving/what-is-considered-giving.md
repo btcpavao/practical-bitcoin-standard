@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # What Is Considered Giving?
 
 giving is any transaction for which you do not expect anything in return

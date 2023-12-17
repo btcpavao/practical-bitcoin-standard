@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Two States Of Being (In Debt And Debt-Free) Generate 6 Different Spirits
 
 Spending credit taints a person's psychospiritual makeup with the spirits of slavery, restlesness and confusion.&#x20;

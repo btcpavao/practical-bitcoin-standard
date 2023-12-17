@@ -1,7 +1,3 @@
----
-description: Work in progress; draft phase
----
-
 # Giving In Your Budget
 
 I recommend naming one category in your budget "Giving" and keeping it at 10% to 20% of your current budgeting amount (cash balance).
