@@ -19,3 +19,16 @@ Your total net worth is the sum of the current market prices of all the assets y
 The goal of balancing the structure of your net worth is to ensure that its growth remains at its optimal pace over time. Achieving this may sometimes require liquidating (selling) part of your Capital or Land assets, and moving that into Cash. At other times, it might mean buying Capital or Land, but only up to a value of one-third of your total net worth for each.
 
 Your net worth composition will also change with changes in Bitcoin purchasing power.
+
+### The Fiat Standard Way: Cash Is Trash
+
+* in the fiat standard, the more liquid cash we keep on our balance sheet, the more purchasing power we lose over time, due to increase in money supply through fiat debt creation
+* this is why most people are used to keeping as little cash on hand as possible
+
+### The Bitcoin Standard Way: Cash Is King
+
+* keeping your cash balance in Bitcoin increases it's purchasing power over time
+* at the same time, you have high liquidity
+
+
+
