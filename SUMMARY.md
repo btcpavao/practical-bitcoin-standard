@@ -38,11 +38,7 @@
 ## Bitcoin And Net Worth
 
 * [How To Use Bitcoin As Your Primary Money](bitcoin-and-net-worth/how-to-use-bitcoin-as-your-primary-money.md)
-* [Balanced Net Worth Composition On A Bitcoin Standard](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/README.md)
-  * [Keep No More Than A Third Of Your Net Worth In Consumption Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-consumption-goods.md)
-  * [Keep No More Than A Third Of Your Net Worth In Production Goods](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-no-more-than-a-third-of-your-net-worth-in-production-goods.md)
-  * [Keep At Least A Third Of Your Net Worth In Bitcoin](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/keep-at-least-a-third-of-your-net-worth-in-bitcoin.md)
-  * [Three Types Of Goods: Monetary, Consumption, Production](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard/three-types-of-goods-monetary-consumption-production.md)
+* [Balanced Net Worth Composition On A Bitcoin Standard](bitcoin-and-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard.md)
 
 ## Conclusion
 

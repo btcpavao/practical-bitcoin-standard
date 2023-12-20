@@ -1,4 +1,46 @@
-# Keep No More Than A Third Of Your Net Worth In Consumption Goods
+# Balanced Net Worth Composition On A Bitcoin Standard
+
+### Three Types Of Goods: Monetary, Consumption, Production
+
+It's important to understand we can use any thing for any of the three purposes.
+
+* monetary goods: used as a medium of exchange
+* consumption goods: used for consumption
+* production (capital) goods: used for production of monetary & consumption goods
+
+we can divide goods according to their spatial and temporal characteristics into movable and immovable (spatial) and durable and non-durable (perishable) - temporal
+
+The main point is to always have enough cash on hand in your net worth so that you can grow it in the best way possible. If you adopt a full Bitcoin standard, Bitcoin is going to be a part of your cash balance, so you will practice zero-based budgeting with it.&#x20;
+
+The best way to grow net worth overall is to follow the rule of thirds, and make sure that no more than a third of our assets are in Land and no more than a third are in Capital.
+
+Increase in cash (Bitcoin) purchasing power -> opportunity to increase Land & Capital (up to, but no more than, one-third of net worth in each).
+
+Period of decreasing cash (Bitcoin) purchasing power -> opportunity for decreasing Land & Capital (if they exceed a third of net worth in each) by liquidating a portion back to cash (Bitcoin).
+
+The goal of balancing is to always have at least one-third in cash (Bitcoin) to maximize the Giving portion of the budget (we are only budgeting cash, not illiquid assets).
+
+For example, a $1 million net worth with only 5% cash (Bitcoin) will have only 0.5% - 1% ($5,000 to $10,000) in the Giving portion of a budget. The same $1 million net worth that has at least 33,3% in cash (Bitcoin) will have at least 3,3% to 6,7% ($33k to $66k) in the Giving category. The same net worth of 80% cash (Bitcoin) will have 8% to 16% ($80k to $160k) in Giving category. The last one will grow at the fastest rate due to the fastest rate of growth of the spirit of generosity.
+
+You should always keep track of the items you own and their current market prices. This is especially important for more expensive items like real estate and vehicles, but it's also very useful to do it for less expensive items you own.
+
+Your total net worth is the sum of the current market prices of all the assets you own, minus all your liabilities (debts). We've already established that the first step you should take is to run a zero-based budget, the second is to eliminate all debt, and the third is to establish a giving practice from your liquid budget. So at this point, your net worth should have zero debts.
+
+The goal of balancing the structure of your net worth is to ensure that its growth remains at its optimal pace over time. Achieving this may sometimes require liquidating (selling) part of your Capital or Land assets, and moving that into Cash. At other times, it might mean buying Capital or Land, but only up to a value of one-third of your total net worth for each.
+
+Your net worth composition will also change with changes in Bitcoin purchasing power.
+
+### The Fiat Standard Way: Cash Is Trash
+
+* in the fiat standard, the more liquid cash we keep on our balance sheet, the more purchasing power we lose over time, due to increase in money supply through fiat debt creation
+* this is why most people are used to keeping as little cash on hand as possible
+
+### The Bitcoin Standard Way: Cash Is King
+
+* keeping your cash balance in Bitcoin increases it's purchasing power over time
+* at the same time, you have high liquidity
+
+### Keep No More Than A Third Of Your Net Worth In Consumption Goods
 
 Ownership of consumption assets in the context of this manual includes ownership of the actual land, real estate (buildings) on it, and all large durable goods on it (furniture, household appliances, art, electronics, vehicles, and so on).
 
@@ -75,3 +117,28 @@ When you buy something, keep track of its depreciation in your budget. When you 
 Assume that figure is $500; you adjust it in your budget. This is something you keep doing while using the item. You keep doing this while using the item. Remember that using the item frequently results in additional maintenance costs over time. If, after two years of use, your phone's battery loses 30% of its charge, you may choose to replace the battery rather than the phone itself.
 
 Cars, on the other hand, require a once (or better, twice) yearly maintenance schedule to ensure they run reliably and for a longer period of time. You should budget for these ongoing maintenance costs and keep track of the depreciation of your possessions as you go.
+
+### Keep No More Than A Third Of Your Net Worth In Production Goods
+
+Capital is defined as all goods not used for consumption but for the production of consumption goods.
+
+In this practical context, we define Capital as all large durable goods (movable or immovable), as well as anything else used to generate cash flow and/or used during working hours (labor).
+
+As an example, consider a merchant's inventory stock. tools for a car mechanic. A programmer's laptop.
+
+Goods may be used as both consumption and capital goods.
+
+For example, if you own a car that you use both for leisure and for work, you should account for its value in both the Land and Capital parts of your net worth.
+
+By definition, Capital also includes all financial instruments such as stocks, bonds, and investment vehicles such as mutual funds, index funds, and so on.
+
+On a strict Bitcoin standard, consider whether you are using an investment vehicle as money. In today's fiat standard, there are many investment vehicles that are practically monetized, such as automatically rebalanced broad stock indexes like SP500 index fund. If you use any of these, consider upgrading their monetary use to Bitcoin.
+
+### Keep At Least A Third Of Your Net Worth In Bitcoin
+
+Cash is the most liquid and salable component of your net worth.
+
+Use Bitcoin for this, ideally, and convert it to fiat when you have obligations denominated in fiat.
+
+Cash (Bitcoin) should be the majority of your net worth, at least one-third, preferably more.
+
