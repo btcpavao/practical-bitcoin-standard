@@ -2,8 +2,9 @@
 
 There will always be those who have more than we do, and those who have less.
 
-* we can compare our situation with those that have more than we do, and this is going to generate feeling of lack and envy, and will eat into our sense of happiness overall
-* or we can practice giving, which will always generate that we have more than we need, and will boost our sense of happiness overall
+We can compare our circumstances to those of others who are in a better position than us, which will make us feel inadequate and envious and lower our general level of happiness.
+
+Alternatively, we can practice giving, which will always make us feel as though we have more than we need and will make us happier all around.
 
 The feeling of having and producing value that other people can benefit from is what makes us happy when we practice giving. When we give, we feel like we have something valuable to offer others, which makes us happy.
 
