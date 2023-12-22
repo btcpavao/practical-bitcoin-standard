@@ -26,18 +26,29 @@ Salability can be measured with respect to four distinct dimensions: time, space
 
 Salability over time is the degree to which a good used as a medium of exchange increases or decreases in value over the interval of time between exchange.
 
-* most people understand that government issued fiat money loses purchasing power / value over time
-* this is why they use many different things as medium of exchange / money that has higher salability across time than government issued fiat currencies. examples are real estate, government bonds, stocks, precious metals, art etc
-* Bitcoin has superior salability across time, because of it's predictable and immutable supply issuance schedule of hard capped 21 million until the year 2140
-* salability across space - how much does the thing used as medium of exchange increase or decrease in value across the unit of space between exchange.&#x20;
-  * most people use electronic bank transfers to move fiat across space
-  * depending on the number of counterparties needed to perform the move, it can cost anywhere from 0 up to few hundred USD to perform the move.
-  * fiat movement across space is permission based, i.e. it can be censored/stopped/reversed
-  * fiat movement across space is never really finally settled due to it being issued through debt
-  * Bitcoin has superior salability across space because it can be sent anywhere where there is Internet connection in a permissionless and censorship resistant manner, and make final settlement in hours for a very small mining fee compared to the transaction size it can support
-* salability across scales - how much does the thing used as medium of exchange increase or decrease in value depending on the size of exchange. Bitcoin is the best (micropayments all the way to massive payments)
-* salability across goods - how widely does the thing used as medium of exchange desired / accepted as such. for now in the most parts of the world, government issued fiat money is most widely desired/accepted as medium of exchange, but Bitcoin is rapidly growing in this regard. we can see this in growing number of exchanges, liquidity and compressing bid-ask spreads between Bitcoin and government issued fiat moneys
-* after functionally defining money, we'll focus on best practices for managing it, drawn from millenia of wisdom
+Most people understand that government-issued fiat money loses purchasing power / value over time.
+
+This is why they use a variety of mediums of exchange / money that have a higher salability over time than government-issued fiat currencies. Some examples include government bonds, stocks, real estate, precious metals, and artwork.
+
+Due to its fixed supply issuance schedule, which caps at 21 million units until the year 2140, Bitcoin has greater salability over time.
+
+Salability across space is the degree to which the object being exchanged has a value increase or decrease over the unit of space between exchanges.
+
+To move money across space, most people use electronic bank transfers.
+
+The cost of performing the move can range from 0 to a few hundred USD, depending on the number of counterparties required.
+
+It is possible to censor, stop, or reverse the flow of fiat across space.
+
+Since fiat is issued through debt, its movement across space is never truly settled.
+
+Because it can be sent anywhere with an Internet connection in a permissionless, censorship-resistant manner and make final settlement in a matter of hours for a relatively small mining fee relative to the transaction size it can support, Bitcoin has superior salability across space.
+
+Salability across scales is the degree to which the value of an item used as a medium of exchange rises or falls with the size of the exchange. When it comes to small and large payments, Bitcoin is the best.
+
+Salability across goods refers to the extent to which a given good or service is desired or recognized as such. Currently, government-issued fiat money is the most popular and widely accepted form of payment in most parts of the world, although Bitcoin is quickly gaining traction in this space. This is evident in the expanding number of exchanges, liquidity, and contracting bid-ask spreads between government-issued fiat currencies and Bitcoin.
+
+After providing a functional definition of money, we will examine management best practices derived from millennia of experience.
 
 I'll start by defining what money means in this manual so that it can be as helpful as possible to its readers. You should know this because you probably use some things as money that you wouldn't if Bitcoin was your primary money.
 
