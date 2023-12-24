@@ -11,7 +11,7 @@ I'm writing this guidebook to share my experience as well as tips and tricks for
 * You have and use credit card(s).
 * You have a personal loan.
 * You use line of credit.
-* There are moments when your checking account goes overdraft.
+* Your checking account may occasionally go overdraft.
 * You have a mortgage.
 * You have an auto loan or lease.
 * You have student loan debt.
