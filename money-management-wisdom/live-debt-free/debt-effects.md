@@ -1,8 +1,10 @@
-# How Your Debt Affects You
+# Debt Effects
+
+## How Your Debt Affects You
 
 Your debt affects your spiritual blueprint. It has an impact on your ability to generate inflows. It has an impact on how you generate outflows.
 
-## Debt Reduces Your Capacity For Generating Inflows And Increases Your Wasteful Outflows
+### Debt Reduces Your Capacity For Generating Inflows And Increases Your Wasteful Outflows
 
 This may be an obvious point, but it should still be stated explicitly. When you spend on credit (or enter a state of debt), you are still spending money; you are not receiving the item for free.
 
@@ -46,7 +48,7 @@ At a debt-to-assets ratio of 100 percent, all of your time is spent servicing de
 
 This is where you begin to incur significant opportunity costs, because there will be risks greater than zero that will yield a higher return than what you have, but you cannot take them.
 
-## Debt Decreases Your Ownership Satisfaction
+### Debt Decreases Your Ownership Satisfaction
 
 The time you put into working to save for something increases your satisfaction with the item when you buy it.
 
@@ -83,3 +85,31 @@ Taking less care of a debt-purchased item means deferring maintenance costs into
 Because of this effect, the depreciation curve on something you bought with debt will be steeper than the one you own outright and properly maintain in the best condition possible.
 
 Even worse, you don't really feel like you own the thing for the duration of the debt, but when you finally pay it off, it has depreciated so much that owning it doesn't feel as good as it would if you bought it with savings.
+
+## How Your Debt Affects Others
+
+If you incur debt through the creation of fiat money, it affects others who are forced by the state to hold fiat debt instruments.
+
+### Your Debt Steals Purchasing Power From The Poor
+
+When you take out a bank loan, you create new fiat money.
+
+Fiat money ceases to exist when you repay the loan or default on it.
+
+The only reason this system works is because of the state's violent coercion, which mandates the use of fiat money in the marketplace through legal tender laws, tax collection in fiat money, and mandates that large financial institutions hold a certain amount of government bonds in their portfolios.
+
+This effectively means that the only reason debt is monetized globally is due to state coercion.
+
+Thus, when you incur debt through any of the fiat-licensed institutions, you effectively leverage the state's coercive power to transfer your credit risk to the fiat-money holders.
+
+Your credit risk will eventually manifest as widespread price inflation.
+
+Inflation is the most regressive form of taxation because it disproportionately affects the poor. Poor people have the majority of their net worth in liquid fiat cash, whereas wealthy people have only a small portion of their net worth in liquid cash.
+
+### Your Debt Generates Economic Distortions
+
+* real estate monetization
+* capital misallocation
+* business boom & bust cycles
+* price signal distortion
+* worsens economic calculation
