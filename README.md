@@ -1,6 +1,6 @@
 # The Big Purpose
 
-I'm writing this guidebook to share my experience as well as tips and tricks for living on a full Bitcoin standard. Readers should already have some Bitcoin. So, if you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
+I'm writing this guidebook to share my experience about living on a full Bitcoin standard. If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
 * You know the difference between Bitcoin and _crypto_.
 * You are Bitcoin-only.
