@@ -2,6 +2,8 @@
 
 This is the second step we should take: becoming and remaining debt-free. The main goal is to eliminate wasteful outflows.
 
+***
+
 ## Your Money Exists In The Past And In The Future
 
 ### Never Spend Your Future Money
@@ -34,6 +36,8 @@ For instance, if you see something with a $5,000 manufacturer’s suggested reta
 
 And this is without even considering the value of your potential to increase your inflows as a result of not growing a spirit of slavery, restlessness, and confusion, but rather a spirit of freedom, peace, and clarity over the time you'd otherwise be in debt.
 
+***
+
 ## Being In Debt Is A State Measured In Two Dimensions: Time And Depth
 
 When you are in debt, there are two factors that determine the level of slavery your spirit will develop. The first and most significant factor is the length of time spent in debt. This period is measured from the moment that you incurred debt to the moment you became debt-free. For instance, you could be in debt for seven days, seven months, or seven years. The longer one remains in debt, the deeper the spirit of slavery becomes rooted.
@@ -44,7 +48,7 @@ It is essentially impossible to completely avoid incurring debt because, even wi
 
 Likewise, when your regular bills arrive, get into a habit of paying them off immediately, rather than waiting to do it. Let's say you receive the bill for last month's electricity usage on the first of the following month, with a due date of the 15th. Do not delay making the payment until the 15th; instead, make the payment immediately on the 1st. Always return to the first principle stated above: the time spent in debt breeds the spirit of slavery. Eventually, you will not want to delay paying off your debts for any longer than absolutely necessary.
 
-## Age Your Money
+### Age Your Money
 
 The older your money, the more financial peace you have. Debt reduces the age of money. Higher age of money equals lower time preference. A higher age of money allows for more time to research the purchase, resulting in a better purchase. With a higher age of money, you will enjoy your purchases more because there was more time spent planning, anticipating, and overall appreciation.
 
@@ -61,6 +65,8 @@ If you keep watering it, it will get bigger, stronger, grow roots and a trunk, a
 When you owe money (i.e. have a liability on your balance sheet), you begin to "water" the seed of the spirit of slavery, restlesness and confusion.
 
 When you have no liabilities, that is, you owe no money to anyone, you begin to "water" the spirit of freedom, peace and clarity.
+
+***
 
 ## In Debt Spirits
 
@@ -118,6 +124,8 @@ However, if you try to liquidate the thing and pay off the debt, you may find th
 
 The spirit of confusion will make it more difficult for you to realistically mark to market the value of the item you purchased with debt. Because you know that just looking at it will make things more confusing, you won't want to.
 
+***
+
 ## Debt-Free Spirits
 
 ### Spirit Of Freedom
@@ -154,13 +162,15 @@ As your spirit of clarity grows over time, you will continue gaining a more heig
 
 The spirit of clarity will help you keep tabs on your belongings. Once you value an item less than the money it can sell for, you’ll choose to sell it. This will help you keep fine-tuning your net worth composition.
 
+***
+
 ## Debt Effects
 
-## How Your Debt Affects You
+### How Your Debt Affects You
 
 Your debt affects your spiritual blueprint. It has an impact on your ability to generate inflows. It has an impact on how you generate outflows.
 
-### Debt Reduces Your Capacity For Generating Inflows And Increases Your Wasteful Outflows
+#### Debt Reduces Your Capacity For Generating Inflows And Increases Your Wasteful Outflows
 
 This may be an obvious point, but it should still be stated explicitly. When you spend on credit (or enter a state of debt), you are still spending money; you are not receiving the item for free.
 
@@ -176,7 +186,7 @@ However, the true calculation for this automobile is as follows: First, if you p
 
 You should also calculate the depreciation of the vehicle over the next seven years and understand that the rate will likely be lower if you purchase the vehicle with cash instead of credit. This is due to the fact that, in general, we tend to care for things more when we own them outright, as opposed to gradually gaining partial ownership as the item is used. There is a reason why leased and financed automobiles are typically in poorer condition after being driven by owners who took on debt to acquire them, compared to the same automobiles driven by cash-paying owners who took better care of them throughout their use. The same is true for any other item you purchase with credit.
 
-### Your Outflows Are Increased Because Of Interest, Opportunity Cost & Misallocation
+#### Your Outflows Are Increased Because Of Interest, Opportunity Cost & Misallocation
 
 Spending credit is always more expensive than spending cash because humans have a positive time preference, which means they prefer present money to future money. The cost of spending future money is expressed in the interest rate.
 
@@ -188,7 +198,7 @@ There is a third, frequently overlooked cost of using credit: the opportunity co
 
 The third cost of spending credit should also be calculated in terms of the appreciation of purchasing power if the money was saved in bitcoin throughout the duration of the debt.
 
-### Your Inflows Are Reduced Because of Lower Risk Tolerance
+#### Your Inflows Are Reduced Because of Lower Risk Tolerance
 
 Your inventory of time is the most valuable asset you have. You take on some level of risk whenever you choose to invest your time in a potential business opportunity; however, you do so with the goal of increasing both the quantity and the quality of your available time.
 
@@ -204,7 +214,7 @@ At a debt-to-assets ratio of 100 percent, all of your time is spent servicing de
 
 This is where you begin to incur significant opportunity costs, because there will be risks greater than zero that will yield a higher return than what you have, but you cannot take them.
 
-### Debt Decreases Your Ownership Satisfaction
+#### Debt Decreases Your Ownership Satisfaction
 
 The time you put into working to save for something increases your satisfaction with the item when you buy it.
 
@@ -232,7 +242,7 @@ You also don't have a full sense of ownership yet, so you don't take good care o
 
 After a while, you end up with a car that is gradually becoming a burden rather than a joy.
 
-### Debt Increases Your Cost Of Ownership
+#### Debt Increases Your Cost Of Ownership
 
 We take better care of things we own outright.
 
@@ -242,11 +252,11 @@ Because of this effect, the depreciation curve on something you bought with debt
 
 Even worse, you don't really feel like you own the thing for the duration of the debt, but when you finally pay it off, it has depreciated so much that owning it doesn't feel as good as it would if you bought it with savings.
 
-## How Your Debt Affects Others
+### How Your Debt Affects Others
 
 If you incur debt through the creation of fiat money, it affects others who are forced by the state to hold fiat debt instruments.
 
-### Your Debt Steals Purchasing Power From The Poor
+#### Your Debt Steals Purchasing Power From The Poor
 
 When you take out a bank loan, you create new fiat money.
 
@@ -262,7 +272,7 @@ Your credit risk will eventually manifest as widespread price inflation.
 
 Inflation is the most regressive form of taxation because it disproportionately affects the poor. Poor people have the majority of their net worth in liquid fiat cash, whereas wealthy people have only a small portion of their net worth in liquid cash.
 
-### Your Debt Generates Economic Distortions
+#### Your Debt Generates Economic Distortions
 
 * real estate monetization
 * capital misallocation
@@ -270,13 +280,15 @@ Inflation is the most regressive form of taxation because it disproportionately 
 * price signal distortion
 * worsens economic calculation
 
+***
+
 ## Debt And Bitcoin Are Dangerous Combination
 
 Having both debt and Bitcoin on your balance sheet is extremely risky for your net worth management. Staying in debt during Bitcoin bull runs could lead you to FOMO into more debt in order to increase your Bitcoin exposure. Staying in debt during Bitcoin bear markets could lead you to panic and reduce your Bitcoin exposure in order to stay solvent and avoid bankruptcy.&#x20;
 
 The only wise way is to pay off all of your debts first, and then begin accumulating Bitcoin with zero debt on your balance sheet.
 
-## If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways
+### If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways
 
 You may believe that you are profiting from the difference between the interest rate you are paying on debt and the annual growth rate of bitcoin.
 
@@ -292,7 +304,7 @@ Even though your interest rate is a fixed percentage, your perception of the val
 
 You might not stick to your plan if bitcoin gets too volatile. If it rises and you haven't paid off your debt, you may feel compelled to take on even more debt in an effort to "chase the pump." The added pressure of having to keep making payments on an asset you can no longer afford means that you'll be less happy with your possessions than you would be if you didn't have any debt to worry about.
 
-## When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone
+### When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone
 
 When a commercial bank extends credit, it effectively increases the money supply.
 

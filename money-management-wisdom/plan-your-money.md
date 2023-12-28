@@ -20,6 +20,8 @@ Our spending decisions in the present will always be planned ahead of time.
 
 It is one of three steps required before we can upgrade to full Bitcoin standard, i.e. use Bitcoin as our primary money.
 
+***
+
 ## Why Practice Budgeting?
 
 One of the major misconceptions about budgeting is the belief that it solely involves reducing spending or tracking expenses. In reality, budgeting is about allocating our money, giving it a specific plan or purpose before we spend it. "Planning" might be a more accurate term, or even "economizing." Also, budgeting is a process of managing money, it's not a particular destination we arrive at and stay there.
@@ -261,6 +263,8 @@ As we do this, we naturally begin using past budgeting information to adjust our
 
 We'll also learn how to use savings goals. For example, if we want to save $20,000 for a car and we already have $2,000 in our Transport category, we can set a goal to save $20,000. Then, our $2,000 in the Transportation category means we're 10% closer to our savings goal. We can also contextualize our goals in dimension of time. In this example, if we want to reach our $20,000 target in the next two years, we will realize that we have to assign $750 in Transportation category each month for the next 24 months to get there.
 
+***
+
 ## Budgeting Concepts
 
 ### Age Of Money
@@ -390,6 +394,8 @@ Memo is where you can describe the transaction. In most cases, I simply record t
 
 * a transaction that you are doing by moving money between accounts in your budget
 * example: moving money from one checking account to another one
+
+***
 
 ## How To Make A Zero Based Budget
 

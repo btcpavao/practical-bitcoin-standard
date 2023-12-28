@@ -3,8 +3,6 @@
 ## Introduction
 
 * [The Big Purpose](README.md)
-* [Bitcoin As Your Primary Money](introduction/bitcoin-as-your-primary-money.md)
-* [My Path To Full Bitcoin Standard](introduction/my-path-to-full-bitcoin-standard.md)
 
 ## Money Management Wisdom
 
