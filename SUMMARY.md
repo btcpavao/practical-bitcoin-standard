@@ -8,10 +8,7 @@
 
 ## Money Management Wisdom
 
-* [Plan Your Money](money-management-wisdom/plan-your-money/README.md)
-  * [Why Practice Budgeting?](money-management-wisdom/plan-your-money/life-without-zero-based-budget.md)
-  * [Budgeting Concepts](money-management-wisdom/plan-your-money/budgeting-concepts.md)
-  * [How To Make A Zero Based Budget](money-management-wisdom/plan-your-money/practical-example-how-to-set-up-a-budget.md)
+* [Plan Your Money](money-management-wisdom/plan-your-money.md)
 * [Live Debt-Free](money-management-wisdom/live-debt-free/README.md)
   * [Your Money Exists In The Past And In The Future](money-management-wisdom/live-debt-free/your-money-exists-in-the-past-and-in-the-future.md)
   * [Being In Debt Is A State Measured In Two Dimensions: Time And Depth](money-management-wisdom/live-debt-free/being-in-debt-is-a-state-measured-in-two-dimensions-time-and-depth.md)
