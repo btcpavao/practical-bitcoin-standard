@@ -9,16 +9,8 @@
 ## Money Management Wisdom
 
 * [Plan Your Money](money-management-wisdom/plan-your-money.md)
-* [Live Debt-Free](money-management-wisdom/live-debt-free/README.md)
-  * [Your Money Exists In The Past And In The Future](money-management-wisdom/live-debt-free/your-money-exists-in-the-past-and-in-the-future.md)
-  * [Being In Debt Is A State Measured In Two Dimensions: Time And Depth](money-management-wisdom/live-debt-free/being-in-debt-is-a-state-measured-in-two-dimensions-time-and-depth.md)
-  * [Debt Effects](money-management-wisdom/live-debt-free/debt-effects.md)
-  * [Debt And Bitcoin Are Dangerous Combination](money-management-wisdom/live-debt-free/debt-and-bitcoin-are-dangerous-combination.md)
-* [Set Aside And Keep 10-20% Of Your Budget For Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving/README.md)
-  * [What Is Considered Giving?](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving/what-is-considered-giving.md)
-  * [How To Give?](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving/how-to-give.md)
-  * [Giving In Your Budget](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving/budgeting-giving-category.md)
-  * [Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving/keep-at-least-a-third-of-your-net-worth-in-liquid-budget-for-giving.md)
+* [Live Debt-Free](money-management-wisdom/live-debt-free.md)
+* [Set Aside And Keep 10-20% Of Your Budget For Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)
 
 ## Bitcoin And Net Worth
 
