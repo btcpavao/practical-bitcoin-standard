@@ -18,5 +18,3 @@
 ## Conclusion
 
 * [Actionable Advice](conclusion/actionable-advice.md)
-* [Useful Tools](conclusion/useful-tools.md)
-* [Acknowledgements](conclusion/acknowledgements.md)
