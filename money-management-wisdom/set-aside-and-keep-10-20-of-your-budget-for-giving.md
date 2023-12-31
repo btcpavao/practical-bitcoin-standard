@@ -78,7 +78,7 @@ We have a deep understanding that everyone benefits from our agency in the world
 
 ## What Is Considered Giving?
 
-giving is any transaction for which you do not expect anything in return
+Giving is any action you do without expecting anything in return.
 
 When you give, you should do so without expecting anything in return. Your giving should not result in a liability on the beneficiary's balance sheet. So don't keep track of transactions from the giving category as your assets.
 
