@@ -2,13 +2,9 @@
 
 ### Three Types Of Goods: Monetary, Consumption, Production
 
-It's important to understand we can use any thing for any of the three purposes.
+It's important to understand that goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital).
 
-* monetary goods: used as a medium of exchange
-* consumption goods: used for consumption
-* production (capital) goods: used for production of monetary & consumption goods
-
-we can divide goods according to their spatial and temporal characteristics into movable and immovable (spatial) and durable and non-durable (perishable) - temporal
+We can also divide goods according to their spatial and temporal characteristics. Spatial characteristics are divided into into movable and immovable. Temporal characteristics are divided into and durable and non-durable (perishable).
 
 The main point is to always have enough cash on hand in your net worth so that you can grow it in the best way possible. If you adopt a full Bitcoin standard, Bitcoin is going to be a part of your cash balance, so you will practice zero-based budgeting with it.&#x20;
 
