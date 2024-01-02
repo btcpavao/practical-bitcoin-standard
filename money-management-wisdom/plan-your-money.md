@@ -392,8 +392,9 @@ Memo is where you can describe the transaction. In most cases, I simply record t
 
 ### Transfer Transactions
 
-* a transaction that you are doing by moving money between accounts in your budget
-* example: moving money from one checking account to another one
+A transfer transaction is one in which you move money from one account in your budget to another. This type of transaction has no effect on how your money is assigned to budget categories. It also has no effect on the total amount of money you have.
+
+An example of this type of transaction is moving your money from one checking account at the same bank to another. Transferring money from one account to another can sometimes result in a transfer fee.
 
 ***
 
@@ -401,7 +402,8 @@ Memo is where you can describe the transaction. In most cases, I simply record t
 
 To get a feel for how the method works, I think you should start with the simplest budget possible. Take two envelopes and write "essentials" on one and "discretionary" on the other. These are your two main categories.
 
-* practice moving money from essentials to discretionary, back and forth
+Then, the idea is to start practicing moving money from one envelope to another, back and forth.
+
 * practice entering transactions
 
 You can create a zero-based budget by just using pen and paper, or software (I recommend [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K)).&#x20;
