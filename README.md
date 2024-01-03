@@ -1,6 +1,8 @@
 # The Big Purpose
 
-I'm writing this guidebook to share my experience about living on a full Bitcoin standard. If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
+This is a how-to guide for bringing your life up to full Bitcoin standard. This means using Bitcoin as your primary money. Using Bitcoin as your primary money means converting all of your current money substitutes to Bitcoin, as well as all of your income. It also means converting Bitcoin to fiat currency on a regular basis for everyday expenses.
+
+If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
 * You know the difference between Bitcoin and _crypto_.
 * You are Bitcoin-only.
