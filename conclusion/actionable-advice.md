@@ -15,7 +15,6 @@ For a deeper understanding of the economics of Bitcoin, I recommend reading all 
 * [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K)
 * Books
 * Courses
-* Bitcoin Wallets
 * Bitcoin Purchasing Power Reconciliation Spreadsheet
 * Note on Bitcoin/Fiat Exchange Options
 
