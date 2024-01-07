@@ -1,5 +1,7 @@
 # The Big Purpose
 
+## Introduction
+
 This is a how-to guide for bringing your life up to full Bitcoin standard. This means using Bitcoin as your primary money by converting all of your current money substitutes to Bitcoin, as well as all of your income. It also means converting Bitcoin to Fiat on a regular basis for everyday expenses.
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
@@ -47,6 +49,8 @@ I will show you that using Bitcoin as your primary money is not only possible to
 
 To do this right, though, you'll need to make sure you have a solid understanding of how to handle money in general. And I'm not talking about learning extremely complex and arcane financial knowledge. I'm talking about going back to the most basic rules about money that people have always known and following the best practices that have been passed down from generation to generation for thousands of years.
 
+## Bitcoin's high volatility
+
 Let's talk about the elephant in the room: Bitcoin and it's high volatility.
 
 Bitcoin is a very different kind of money from fiat we all use every day. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of fiat has steadily declined.
@@ -72,6 +76,8 @@ It means converting all of your current and incoming money to Bitcoin or making 
 Today, you can use a variety of services and exchanges, such as Bitcoin debit cards, which convert Bitcoin to Fiat at the time of purchase and pay the merchant in fiat. If you don't have access to this, you can still use Bitcoin as your primary money, but you'll need to plan your exchanges back to fiat money in advance. For instance, if you need to pay your rent in Fiat next week, you can simply convert the amount you need to pay from Bitcoin to Fiat couple of days in advance.
 
 But in order to do this safely and effectively and embrace high Bitcoin volatility, you must first learn, implement, and consistently practice three money management principles: planning your money through zero-based budgeting practice, living debt-free, and consistently separating a part of your budget (10-20%) for giving. These timeless principles are founded on millennia of wisdom and are extremely important today, and even more so if you intend to use Bitcoin as your primary money because such a potent, but still largely misunderstood technology can have both extremely positive and extremely negative effects on your financial life. I'll go into details on why & how to practically implement each money management principle.
+
+## Bitcoin is powerful technology in it's early years of adoption
 
 Bitcoin today, in my opinion, is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to safely handle it. Most people today have at least heard of Bitcoin, but the vast majority still does not have any, and an even smaller proportion of those who do actually use Bitcoin as their primary money. This is mostly because they don't really know how to handle Bitcoin's purchasing power volatility safely and effectively.
 
@@ -140,6 +146,8 @@ When we exchange directly, we can run into a problem of double coincidence of wa
 By using a medium of exchange, we are able to solve the problem of double coincidence of wants. For example, if person A finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as a medium of exchange. In other words, A obtained bananas not because he wanted them, but because he intended to exchange them for what he truly wanted, which was apples. In this scenario, A used bananas as a medium of exchange, or money.
 
 Anything can serve as a means of exchange or money, but some goods are more effective at doing so than others.
+
+### Effectiveness of a medium of exchange
 
 The effectiveness of a medium of exchange / money can be measured in terms of its salability (marketability, how easy / difficult it is to exchange for what we actually want).
 
