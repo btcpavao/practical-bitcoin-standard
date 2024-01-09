@@ -285,15 +285,30 @@ The Tracking section  is for monitoring the market value of our assets that are 
 
 ### Budget Categories
 
-* spending or saving priorities
-* specifically, they represent opportunity cost of your money
+Budget categories are the areas in which you assign your money. For example, when you buy anything that you consider to be groceries, you enter the transaction and choose the Groceries category.
+
+The main purpose of Categories in your budget is to specifically represent the opportunity cost of your money.
 
 ### Category Groups
 
-It is useful to group similar categories together in a Category Group.
+It is useful to group similar categories together in a Category Group. For example, you can create two major Category Groups: Essentials and Discretionary.
 
-* for example, you can create two main Category Groups: Essentials and Discretionary
-* then, you can break down the categories that you consider essential (neccessary, non-negotiable, needed) and group them together under Essentials, and do the same for Discretionary
+Then, you may organize the categories you consider essential (necessary, non-negotiable, needed) and group them together under Essentials, and do the same for Discretionary.
+
+For example, you may have something like this:
+
+**Essentials Category Group**
+
+* Shelter & Utilities
+* Groceries
+* Transportation
+* Clothing
+
+**Discretionary Category Group**
+
+* Hobbies
+* Vacation
+* Restaurants
 
 ### Debts (Liabilities)
 
