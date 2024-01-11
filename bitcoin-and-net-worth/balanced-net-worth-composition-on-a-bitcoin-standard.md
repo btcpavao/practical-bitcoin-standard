@@ -28,13 +28,13 @@ Your net worth composition will also change with changes in Bitcoin purchasing p
 
 ### The Fiat Standard Way: Cash Is Trash
 
-* in the Fiat standard, the more liquid cash we keep on our balance sheet, the more purchasing power we lose over time, due to increase in money supply through fiat debt creation
-* this is why most people are used to keeping as little cash on hand as possible
+In the Fiat standard, the more liquid cash we keep on our balance sheet, the more purchasing power we lose over time, due to an increase in the money supply through fiat debt creation.
+
+This is why most people are used to keeping as little cash on hand as possible.
 
 ### The Bitcoin Standard Way: Cash Is King
 
-* keeping your cash balance in Bitcoin increases it's purchasing power over time
-* at the same time, you have high liquidity
+Keeping your cash balance in Bitcoin increases its purchasing power over time. At the same time, you have high liquidity.
 
 ### Keep No More Than A Third Of Your Net Worth In Consumption Goods
 
