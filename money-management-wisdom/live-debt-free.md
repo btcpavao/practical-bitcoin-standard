@@ -279,6 +279,8 @@ Inflation is the most regressive form of taxation because it disproportionately 
 * business boom & bust cycles
 * price signal distortion
 * worsens economic calculation
+* helps fund warfare & welfare state
+* contributes to civilizational decline
 
 ***
 
