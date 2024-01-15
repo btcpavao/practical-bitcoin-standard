@@ -1,12 +1,16 @@
 # How To Use Bitcoin As Your Primary Money
 
-If we consistently apply the three fundamental money management principles discussed previously for at least 180 days, we can begin using Bitcoin as our primary money.
+If you consistently applied the three fundamental money management principles discussed previously for at least 180 days, you can begin using Bitcoin as your primary money.
 
 ### Keep Your Average Net Income Positive
 
-The Fiat standard encourages us to keep our net income negative. We want to spend more money than we bring in right now and accumulate debt over time to get a negative fiat balance. Because we are paying off nominal debt with debased money, we are effectively shorting fiat. Unfortunately, while this approach works for some, it comes at the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, the majority of people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
+The Fiat standard encourages you to keep your net income negative.&#x20;
 
-The Bitcoin standard incentivizes us to accumulate cash position by growing net income (inflows minus outflows) over time. This is because our cash (savings) will increase in purchasing power over time.
+It incentivizes you to spend more money than you bring in right now and accumulate debt over time to get a negative fiat balance. Then, because you are paying off nominal debt with debased money, you are effectively shorting fiat.&#x20;
+
+Unfortunately, while this approach works for some, it comes at the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, many people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
+
+The Bitcoin standard encourages you to build your cash position by increasing net income (inflows minus outflows) over time. This is because your cash (savings) will increase in purchasing power over time, effectively providing you with an additional source of inflow.
 
 There are 5 ways to increase your net income.
 
