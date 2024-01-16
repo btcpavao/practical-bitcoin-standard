@@ -6,11 +6,9 @@ This is a how-to guide for bringing your life up to full Bitcoin standard. This 
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
-* You know the difference between Bitcoin and _crypto_.
-* You are Bitcoin-only.
 * You have read [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
 * You practice dollar-cost averaging into Bitcoin.
-* You keep some fiat as dry-powder in case Bitcoin dumps so you can buy the dip.
+* You keep some Fiat as dry-powder in case Bitcoin dumps so you can buy the dip.
 * You attempted to grow your Bitcoin stack through trading, but [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
 * You have and use credit card(s).
 * You have personal loan(s).
@@ -28,18 +26,16 @@ If you own some Bitcoin and recognize yourself in any of the following statement
 * You plan for retirement.
 * You tried orange pilling your family and close friends, but they didn't take your advice as seriously as you would have liked.
 * You are willing to allocate even more of your money to Bitcoin, but your partner/spouse is not really on the same page.
-* You like to call your current work "fiat job", and don't have much of direct Bitcoin inflow streams.
+* You like to call your current work "Fiat job", and don't have much of direct Bitcoin inflow streams.
 * Because of Bitcoin's high volatility, you do not advise people to go all in.
 * Sometimes you feel like you don't own enough Bitcoin.
 * "_Fiat is for spending, Bitcoin is for saving_" sounds reasonable.
 
-I'll assume that if you are reading this, you are already well-versed in Bitcoin and own it. I'll also assume you know what sets Bitcoin apart from "crypto" ([colloquially](https://youtu.be/vf1dym16poc?si=xryyftPxeWf8j1Q5), [shitcoins](https://coinmarketcrap.co/)) that followed it. Finally, I'll assume you are aware of at least some of the problems the world is facing as a result of [Fiat money](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474).
-
 You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." Depending on your journey with Bitcoin and when your "get off zero" moment occurred, you may have a Bitcoin position that is large or small relative to your total net worth.
 
-I'm also assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in Bitcoin, and you are likely not converting all your Fiat to Bitcoin immediately after the funds clear.
+I'm assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in Bitcoin, and you are likely not converting all your Fiat to Bitcoin immediately after the funds clear.
 
-You're probably not used to converting Bitcoin to Fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall in a bear market.&#x20;
+You're also likely not used to converting Bitcoin to Fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall in a bear market.&#x20;
 
 You might have some credit obligations, such as a mortgage, car loan, a student loan or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you're treading carefully when it comes to deciding how and when to invest in it. You think about Bitcoin as a "buy and hold" asset, instead of "exchange Fiat to Bitcoin money". And you kind of don't want to sell your Bitcoin because you know it's going up forever.
 
@@ -63,7 +59,9 @@ But I only began studying Bitcoin seriously in late 2017, because I completely f
 
 And then I witnessed 2020 halving, and Bitcoin following up all the way to around $60k in Spring of 2021 (1200% increase), then drop back down to around $30k during the Summer of 2021 (50% decrease), only to climb back up to almost $70k in November of 2021. Then I saw it go down again in 2022, all the way down to previous cycle all time high of $20k in Summer of 2022, and retrace down even more to $15k-$16k in November of 2022, which is a retracement of around 80 percent from its high point.&#x20;
 
-It was a wild ride, and I'm currently looking at the $42,902/BTC price in January of 2024, which is roughly 1000% percent increase over the past five years I'm following it closely.
+It was a wild ride.&#x20;
+
+I'm currently looking at the $42,902/BTC price in January of 2024, which is roughly 1000% percent increase over the past five years I'm following it closely.
 
 I've also heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice was along the lines of "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average."&#x20;
 
