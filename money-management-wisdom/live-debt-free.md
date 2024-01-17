@@ -272,7 +272,7 @@ Your credit risk will eventually manifest as widespread price inflation.
 
 Inflation is the most regressive form of taxation because it disproportionately affects the poor. Poor people have the majority of their net worth in liquid fiat cash, whereas wealthy people have only a small portion of their net worth in liquid cash.
 
-#### Your Debt Generates Economic Distortions
+#### Your Debt Generates Economic Distortions & Societal Decline
 
 * real estate monetization
 * capital misallocation
