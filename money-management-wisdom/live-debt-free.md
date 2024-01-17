@@ -274,9 +274,9 @@ Inflation is the most regressive form of taxation because it disproportionately 
 
 #### Your Debt Generates Economic Distortions & Societal Decline
 
-* real estate monetization
-* capital misallocation
-* business boom & bust cycles
+* real estate monetization (overbuilding, ghost cities, building quality decline)
+* capital misallocation (zombie companies)
+* business boom & bust cycles (financial crises)
 * price signal distortion
 * worsens economic calculation
 * helps fund warfare & welfare state
