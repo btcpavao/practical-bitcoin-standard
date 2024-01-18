@@ -43,7 +43,7 @@ If you recognize yourself in any of this, this manual is for you.
 
 I will show you that using Bitcoin as your primary money is not only possible today but is the best way to use Bitcoin overall. This basically means "going all in on Bitcoin" and stopping using Fiat money as a hedge against Bitcoin volatility, altogether. It also means converting all of your current money substitutes, like real estate, stocks & bonds portfolios into Bitcoin.
 
-To do this right, though, you'll need to make sure you have a solid understanding of how to handle money in general. And I'm not talking about learning extremely complex and arcane financial knowledge. I'm talking about going back to the most basic rules about money that people have always known and following the best practices that have been passed down from generation to generation for thousands of years.
+To do this right, though, you'll need to make sure you have a solid understanding of how to handle money in general. I'm not talking about learning complex and arcane financial knowledge. All it really comes down to is getting back to time-tested, universally-recognized money wisdom.
 
 ## Bitcoin's high volatility
 
