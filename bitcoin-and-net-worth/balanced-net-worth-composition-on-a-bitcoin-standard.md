@@ -62,9 +62,11 @@ For example, if your car is worth $10,000 and you use it 20% of the time ffor le
 
 ### Renting Vs Owning Non-Monetary Goods
 
-* I've seen many examples in my family and friends of the hesitancy to rent, and a bias for ownership of non-monetary goods
-* this stems from the natural inclination in the fiat standard, to minimize the amount of cash we hold over time, since it's a melting ice cube
-* the opposite happens on the Bitcoin standard. we are more hesitant to enter into ownership, since owning non-Bitcoin assets will inevitably incur the opportunity cost of increased purchasing power of Bitcoin in the future. thus, we are inclined to be much more deliberate on what we want to own. this is why renting is likely to become more normalized on the Bitcoin standard
+I've seen many examples in my family and friends of the hesitancy to rent, and a bias toward ownership of non-monetary goods.
+
+In the Fiat standard, this originates from our natural desire to reduce the amount of cash we hold over time. This is because fiat money loses purchasing power over time, just like an ice cube melts over time.
+
+The opposite happens on the Bitcoin standard. We are more hesitant to take on ownership because owning non-Bitcoin assets will inevitably result in the opportunity cost of increased Bitcoin purchasing power in the future. As a result, we are more likely to think carefully about what we want to own. This is why renting is likely to become more normalized under the Bitcoin standard.
 
 On a full Bitcoin standard, we want to avoid the habit of rushing into ownership of something that will continue to decline in value in terms of bitcoin over time.
 
