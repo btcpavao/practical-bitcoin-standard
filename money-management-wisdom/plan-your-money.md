@@ -404,8 +404,6 @@ Spending Trends is a helpful visual representation of your monthly total spendin
 
 Progress bars on / off - explanation how to use;
 
-<figure><img src="../.gitbook/assets/CleanShot 2023-11-15 at 09.37.03@2x.png" alt=""><figcaption></figcaption></figure>
-
 ### Transaction Memo
 
 Memo is where you can describe the transaction. In most cases, I simply record the transaction's details and include a list of the goods I bought on the invoice. You can use this field to go into much greater detail about the transaction. The more descriptive you are, the more insight you will gain upon revisiting the transaction in the future.

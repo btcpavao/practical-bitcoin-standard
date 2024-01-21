@@ -256,7 +256,7 @@ Even worse, you don't really feel like you own the thing for the duration of the
 
 If you incur debt through the creation of fiat money, it affects others who are forced by the state to hold fiat debt instruments.
 
-#### Your Debt Steals Purchasing Power From The Poor
+#### Your Debt "Steals" Purchasing Power From The Poor
 
 When you take out a bank loan, you create new fiat money.
 
@@ -275,7 +275,7 @@ Inflation is the most regressive form of taxation because it disproportionately 
 #### Your Debt Generates Economic Distortions & Societal Decline
 
 * real estate monetization (overbuilding, ghost cities, building quality decline)
-* capital misallocation (zombie companies)
+* capital misallocation (zombie companies, "climate crisis" grifts, "fiat hysteria" adjacent parasitic business models)
 * business boom & bust cycles (financial crises)
 * price signal distortion
 * worsens economic calculation
