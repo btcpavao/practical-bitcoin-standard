@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a how-to guide for bringing your life up to full Bitcoin standard. This means using Bitcoin as your primary money by converting all of your current money substitutes to Bitcoin, as well as all of your income. It also means converting Bitcoin to Fiat on a regular basis for everyday expenses.
+This is a how-to guide for bringing your life up to the full Bitcoin standard. This means turning all of your current money and all of your income into Bitcoin and using Bitcoin as your primary type of money. It also entails routinely exchanging Bitcoin for Fiat money to pay for regular expenses.
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
