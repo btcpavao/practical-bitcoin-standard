@@ -274,13 +274,17 @@ Inflation is the most regressive form of taxation because it disproportionately 
 
 #### Your Debt Generates Economic Distortions & Societal Decline
 
+If the negative effects of debt on yourself aren't convincing enough, try meditating and reflecting on what your debt does to others. You can easily accomplish this by simply observing the world around you and drawing logical conclusions. Reading [Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe) by Saifedean Ammous will help with this.
+
 * real estate monetization (overbuilding, ghost cities, building quality decline)
-* capital misallocation (zombie companies, "climate crisis" grifts, "fiat hysteria" adjacent parasitic business models)
+* capital misallocation (zombie companies, "climate crisis" grifts, "fiat hysteria" state adjacent parasitic business models, fiat food industrial complex, pharma-industrial complex, military-industrial complex, fiat academia/media complex)
 * business boom & bust cycles (financial crises)
-* price signal distortion
-* worsens economic calculation
-* helps fund warfare & welfare state
-* contributes to civilizational decline
+* price signal distortions -> worsens economic calculation
+* contributes to funding of state wars
+* contributes to funding of state run welfare programs that perpetuate poverty&#x20;
+* grows state bureaucracy & overall regulatory burden that hamper innovation
+* contributes to funding of "fiat fuels" and overall energy use decline
+* contributes to overall civilizational decline
 
 ***
 
