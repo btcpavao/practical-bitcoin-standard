@@ -280,6 +280,7 @@ If the negative effects of debt on yourself aren't convincing enough, try medita
 * capital misallocation (zombie companies, "climate crisis" grifts, "fiat hysteria" state adjacent parasitic business models, fiat food industrial complex, pharma-industrial complex, military-industrial complex, fiat academia/media complex)
 * business boom & bust cycles (financial crises)
 * price signal distortions -> worsens economic calculation
+* state protectionism / lowers competitiveness
 * contributes to funding of state wars
 * contributes to funding of state run welfare programs that perpetuate poverty&#x20;
 * grows state bureaucracy & overall regulatory burden that hamper innovation
