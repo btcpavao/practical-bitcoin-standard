@@ -2,7 +2,15 @@
 
 ### Three Types Of Goods: Monetary, Consumption, Production
 
-It's important to understand that goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital).
+It's important to understand that goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
+
+Let's take the example of a house. A house is an economic good. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production). Let us now consider an example in which we use our house for more than just personal living space during our leisure time. Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and capital good.
+
+Finally, let us assume that we intend to sell this house at some point in the future, so we will consider its future price increase. If we keep this in mind, we are using the house for monetary purposes in addition to consumption and capital.
+
+We can also use the house exclusively for one purpose at a time. For example, if we only use this house for income-generating purposes (such as renting it out), it is considered a capital good.
+
+If we buy a house only to sell it later, without intending to live in it or rent it (or do any other income-generating activities with it), we can consider it a monetary good.
 
 We can also divide goods according to their spatial and temporal characteristics. Spatial characteristics are divided into into movable and immovable. Temporal characteristics are divided into and durable and non-durable (perishable).
 
