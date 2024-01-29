@@ -4,6 +4,8 @@
 
 This is a how-to guide for bringing your life up to the full Bitcoin standard. This means converting all of your current money and income to Bitcoin and becoming used to regularly exchanging Bitcoin for Fiat to cover regular expenses.
 
+Living on the full Bitcoin standard entails being very comfortable with Bitcoin's high purchasing power volatility. In fact, it means utilizing Bitcoin's purchasing power volatility to your advantage. You can accomplish this by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
+
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
 * You have read [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
