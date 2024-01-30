@@ -6,6 +6,10 @@ This is a how-to guide for bringing your life up to the full Bitcoin standard. T
 
 Living on the full Bitcoin standard entails being very comfortable with Bitcoin's high purchasing power volatility. In fact, it means utilizing Bitcoin's purchasing power volatility to your advantage. You can accomplish this by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
 
+To achieve this properly, I will outline three money practices that will enable you to: 1) gain complete control over your money in terms of opportunity cost and time dimension, 2) eliminate wasteful outflows, and 3) consistently increase your inflows.
+
+Then I'll provide you with a basic framework for thinking about your net worth composition and balance. This will allow you to completely integrate Bitcoin into your financial life and use it as your primary money.
+
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
 * You have read [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
