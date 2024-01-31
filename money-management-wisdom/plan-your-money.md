@@ -458,3 +458,9 @@ Start by setting up your budget according to the instructions provided in the pr
 * Which category comprises the largest percentage of your spending, and what is that percentage?
 * What was your average monthly spending in the past six months?
 * What was your total spending in the past six months?
+
+Remember, you can create a zero-based budget with a physical notebook and pen. The main thing you need to do is enter each transaction you make, including the date, payee, amount, category, and description.
+
+When you understand how this works, it doesn't matter which tool you use. You can also create your budget using any spreadsheet software.
+
+Personally, I prefer using [YNAB](https://www.ynab.com/) software for zero-based budgeting.
