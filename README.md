@@ -2,13 +2,15 @@
 
 ## Introduction
 
-This is a how-to guide for bringing your life up to the full Bitcoin standard. This means converting all of your current money and income to Bitcoin and becoming used to regularly exchanging Bitcoin for Fiat to cover regular expenses.
+This is a guide on how to start using Bitcoin as your primary money. By this, I mean converting all of your current money and income to Bitcoin and becoming used to exchanging Bitcoin for Fiat on an ongoing basis to cover your regular expenses.
 
-Living on the full Bitcoin standard entails being very comfortable with Bitcoin's high purchasing power volatility. In fact, it means utilizing Bitcoin's purchasing power volatility to your advantage. You can accomplish this by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
+Life on the full Bitcoin standard requires being very comfortable with Bitcoin's high purchasing power volatility. In fact, it comes with using Bitcoin's purchasing power volatility to your advantage. This can be achieved by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
 
-To achieve this properly, I will outline three money practices that will enable you to: 1) gain complete control over your money in terms of opportunity cost and time dimension, 2) eliminate wasteful outflows, and 3) consistently increase your inflows.
+If you want to do this properly, I will outline three money practices that will allow you to: 1) gain complete control over your money in terms of opportunity cost and time dimension ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)), 2) eliminate wasteful outflows ([become and stay debt-free](money-management-wisdom/live-debt-free.md)), and 3) consistently increase your inflows ([set aside 10-20% of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
 
 Then I'll provide you with a basic framework for thinking about your net worth composition and balance. This will allow you to completely integrate Bitcoin into your financial life and use it as your primary money.
+
+### Who is this for?
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
@@ -51,7 +53,7 @@ I will show you that using Bitcoin as your primary money is not only possible to
 
 To do this right, though, you'll need to make sure you have a solid understanding of how to handle money in general. I'm not talking about learning complex and arcane financial knowledge. All it really comes down to is getting back to time-tested, universally-recognized money wisdom.
 
-## Bitcoin's high volatility
+### Bitcoin's high volatility
 
 Bitcoin is a very different kind of money from fiat we all use every day. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of fiat has steadily declined.
 
@@ -79,7 +81,7 @@ Today, you can use a variety of services and exchanges, such as Bitcoin debit ca
 
 But in order to do this safely and effectively and embrace high Bitcoin volatility, you must first learn, implement, and consistently practice three money management principles: planning your money through zero-based budgeting practice, living debt-free, and consistently separating a part of your budget (10-20%) for giving. These timeless principles are founded on millennia of wisdom and are extremely important today, and even more so if you intend to use Bitcoin as your primary money because such a potent, but still largely misunderstood technology can have both extremely positive and extremely negative effects on your financial life. I'll go into details on why & how to practically implement each money management principle.
 
-## Bitcoin is powerful technology in it's early years of adoption
+### Bitcoin is powerful technology in it's early years of adoption
 
 Bitcoin today, in my opinion, is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to safely handle it. Most people today have at least heard of Bitcoin, but the vast majority still does not have any, and an even smaller proportion of those who do actually use Bitcoin as their primary money. This is mostly because they don't really know how to handle Bitcoin's purchasing power volatility safely and effectively.
 
@@ -99,7 +101,7 @@ Instead of worrying about how you are going to increase your income, you will le
 
 This manual has two sections.
 
-The first section explains and discusses three fundamental principles of money management that you should implement and practice (as mentioned above: planning your money, living debt-free, and consistently setting aside a portion of your budget for giving). These principles are required, true, and relevant today, just as they were thousands of years ago when neither electricity nor Bitcoin existed. They will continue to hold true despite technological advancements thousands of years in the future.
+The first section explains and discusses three fundamental principles of money management that you should implement and practice (as mentioned above: [planning your money](money-management-wisdom/plan-your-money.md), [living debt-free](money-management-wisdom/live-debt-free.md), and [consistently setting aside a portion of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)). These principles are required, true, and relevant today, just as they were thousands of years ago when neither electricity nor Bitcoin existed. They will continue to hold true despite technological advancements thousands of years in the future.
 
 The second section discusses how to start using Bitcoin as your primary money, assuming you have implemented the three fundamental money management principles. I'm going to show you how to think about Bitcoin as your cash balance which you are going to be budgeting, and regularly  reconciling it's purchasing power and rebalacing your budget accordingly.&#x20;
 
@@ -127,7 +129,7 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 ***
 
-## Bitcoin As Your Primary Money
+### Bitcoin As Your Primary Money
 
 ### Why do we use money in the first place?
 
@@ -213,9 +215,9 @@ This manual is designed to impart wisdom on how to alter our spiritual schematic
 
 Think of this manual as a guide on cultivating a "spiritual money tree" with three components: roots (zero-based budgeting), trunk and branches (becoming and remaining debt-free), and leaves and fruits (establishing a giving practice). Alternatively, you can envision it as a blueprint for constructing a house, with the foundation being zero-based budgeting, the base ensuring freedom from debt, and the visible structure establishing a giving practice.
 
-1. **Zero-Based Budgeting**: This practice grants us full control over our money by determining its opportunity cost and managing it in the dimension of time.
-2. **Becoming and Staying Debt-Free**: This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This stops the growth of the spirits of slavery, restlesness and confusion and fosters growth of the spirits of freedom, peace and clarity.
-3. **Establishing a Giving Practice**: This step is focused on increasing our inflows. By practicing giving, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to grow our inflows.
+1. [**Zero-Based Budgeting**](money-management-wisdom/plan-your-money.md): This practice grants us full control over our money by determining its opportunity cost and managing it in the dimension of time.
+2. [**Becoming and Staying Debt-Free**](money-management-wisdom/live-debt-free.md): This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This stops the growth of the spirits of slavery, restlesness and confusion and fosters growth of the spirits of freedom, peace and clarity.
+3. [**Establishing a Giving Practice**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md): This step is focused on increasing our inflows. By practicing giving, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to grow our inflows.
 
 ### **What Do You Use As Money?**
 
@@ -233,7 +235,7 @@ If you follow the recommendations provided in this guide, you won't need to "hed
 
 ***
 
-## My Path To Full Bitcoin Standard
+### My Path To Full Bitcoin Standard
 
 I first heard about Bitcoin in 2012 but didn't find it interesting. I thought it was just some digital currency for gamers. I found out in 2013 that the FBI shut down Silk Road, the place where they used Bitcoin for buying and selling. The U.S. government's involvement added to my level of interest. It showed that Bitcoin wasn't just a code that could be changed by its creators, but was actually used in real commerce. Illegal, but real.
 
