@@ -6,7 +6,7 @@ This is a guide on how to start using Bitcoin as your primary money. By this, I 
 
 Life on the full Bitcoin standard requires being very comfortable with Bitcoin's high purchasing power volatility. In fact, it comes with using Bitcoin's purchasing power volatility to your advantage. This can be achieved by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
 
-If you want to do this properly, I will outline three money practices that will allow you to: 1) gain complete control over your money in terms of opportunity cost and time dimension ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)), 2) eliminate wasteful outflows ([become and stay debt-free](money-management-wisdom/live-debt-free.md)), and 3) consistently increase your inflows ([set aside 10-20% of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
+If you want to do this properly, I will outline three money practices that will allow you to: 1) gain complete control over your money in terms of opportunity cost and time dimension ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)), 2) eliminate wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)), and 3) consistently increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
 
 Then I'll provide you with a basic framework for thinking about your net worth composition and balance. This will allow you to completely integrate Bitcoin into your financial life and use it as your primary money.
 
