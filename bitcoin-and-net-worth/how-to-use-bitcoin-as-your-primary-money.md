@@ -181,3 +181,13 @@ Make sure to assess your total net worth composition and decide if you want to r
 If, during a bull market, you reallocate a third of your Bitcoin to production (capital) goods and the remaining one-third to consumption goods, consider what you will do if the purchasing power of your Bitcoin decreases during the subsequent bear market. Would you prefer to continue building your Bitcoin position with your net income, or would you prefer to reallocate some of the capital and consumption goods back into Bitcoin?
 
 It might be a good idea to avoid allocating Bitcoin to capital and consumption goods to the full extent of one third of net worth each. You will likely have a higher net income if you hold a greater proportion of your net worth in Bitcoin; therefore, a larger giving budget will likely have a greater impact on the growth of the spirit of generosity.
+
+
+
+### Notes on Bitcoin and debt
+
+In bear markets, you want to be able to increase your inflow. Being debt-free is critical for this. If you are carrying debt during a bear market, you are exactly decreasing your performance at work at a time when you should be increasing your revenue to take advantage of the declining price of Bitcoin.&#x20;
+
+And then this feeds back on itself because the bear market increases your anxiety about your debt, which in turn causes your income to decline (or not grow) while you are still required to make the payments you took out when Bitcoin's value was higher.&#x20;
+
+In the end, you lose out on the chance to raise your net income during a downturn in the market. In a bull market, this increases the risk of experiencing FOMO, and the cycle continues.
