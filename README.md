@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a guide on how to start using Bitcoin as your primary money. By this, I mean converting all of your current money and income to Bitcoin and becoming used to exchanging Bitcoin for Fiat on an ongoing basis to cover your regular expenses. This guide is aimed for experienced Bitcoiners who want to go all in.
+This is a guide on how to start using Bitcoin as your primary money. By this, I mean converting all of your current money and income to Bitcoin and becoming used to exchanging Bitcoin for Fiat on an ongoing basis to cover your regular expenses. This guide is aimed for experienced Bitcoiners who are considering increasing their Bitcoin position even more.
 
 Life on the full Bitcoin standard requires being very comfortable with Bitcoin's high purchasing power volatility. It requires you to learn to use Bitcoin's purchasing power volatility to your advantage. This can be achieved by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
 
