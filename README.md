@@ -4,11 +4,11 @@
 
 This is a guide on how to use Bitcoin as your primary money. By this, I mean converting all of your current money ([in all of its forms](./#what-do-you-use-as-money)) and income to Bitcoin and becoming used to exchanging Bitcoin for Fiat on an ongoing basis to cover your regular expenses. This guide is aimed for experienced Bitcoiners who are considering increasing their Bitcoin position even more.
 
-Life on the full Bitcoin standard requires not only being very comfortable with Bitcoin's high purchasing power volatility, but also use it to your advantage. This can be achieved by spending more during periods of increased purchasing power and less during periods of decreased purchasing power.
+Life on the full Bitcoin standard means being completely at ease with Bitcoin's purchasing power volatility and adjusting your inflow and outflow rates accordingly.
 
-If you want to do this properly, I will outline three money practices that will allow you to: 1) gain complete control over your money in terms of opportunity cost and time dimension ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)), 2) eliminate wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)), and 3) consistently increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
+To help you do this right, I'll guide you through three money practices that will enable you to: 1) become completely in control of your money in terms of time and opportunity cost ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)); 2) stop wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)); and 3) steadily increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
 
-Then I'll provide you with a basic framework for thinking about your net worth composition and balance. This will allow you to completely integrate Bitcoin into your financial life and use it as your primary money.
+I will then give you a framework for thinking about the composition of your net worth on a full Bitcoin standard and how to keep it in balance so that it keeps growing consistently over time.
 
 ### Who is this for?
 
