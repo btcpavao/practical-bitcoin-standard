@@ -47,15 +47,13 @@ You're also likely not used to converting Bitcoin to Fiat to pay for your expens
 
 You might have some credit obligations, such as a mortgage, car loan, a student loan or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you're treading carefully when it comes to deciding how and when to invest in it. You think about Bitcoin as a "buy and hold" asset, instead of "exchange Fiat to Bitcoin money". And you kind of don't want to sell your Bitcoin because you know it's going up forever.
 
-If you recognize yourself in any of this, this manual is for you.
+If you recognize yourself in any of this, this guide is for you.
 
-I will show you that using Bitcoin as your primary money is not only possible today but is the best way to use Bitcoin overall. This basically means "going all in on Bitcoin" and stopping using Fiat money as a hedge against Bitcoin volatility, altogether. It also means converting all of your current money substitutes, like real estate, stocks & bonds portfolios into Bitcoin.
-
-To do this right, though, you'll need to make sure you have a solid understanding of how to handle money in general. I'm not talking about learning complex and arcane financial knowledge. All it really comes down to is getting back to time-tested, universally-recognized money wisdom.
+Using Bitcoin as your primary money is not only possible today but is the best way to use Bitcoin overall. This basically means "going all in on Bitcoin" and stopping using Fiat money as a hedge against Bitcoin volatility, altogether. It also means converting all of your current money substitutes, like real estate, stocks & bonds portfolios into Bitcoin.
 
 ### Bitcoin's high volatility
 
-Bitcoin is a very different kind of money from fiat we all use every day. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of fiat has steadily declined.
+Bitcoin is a very different kind of money from Fiat that we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of Fiat has steadily declined.
 
 You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (January 2024), 1 bitcoin is worth about $43,000. So, 10,000 bitcoins, equivalent to about $430 million today, could buy around 29 million pizzas. It's pretty amazing that Bitcoin's purchasing power increased so significantly in less than 14 years.
 
