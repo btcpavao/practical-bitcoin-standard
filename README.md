@@ -115,7 +115,7 @@ You will also learn how to think about non-Bitcoin assets ownership and why & ho
 
 If you've never heard of these concepts before, there is a lot to learn.&#x20;
 
-This manual is a work in progress, so please send any feedback you may have to pavao@hey.com. If you want personalized advice, please use [this link to schedule a call](https://calendly.com/btcpavao/practical-bitcoin-standard). If you would like to support this work, please use one of the following lightning addresses:&#x20;
+This manual is a work in progress, so please send any feedback you may have to [pavao@hey.com](mailto:pavao@hey.com). If you want personalized advice, please use [this link to schedule a call](https://cal.com/btcpavao/). If you would like to support this work, please use one of the following lightning addresses:&#x20;
 
 * [btcpavao@walletofsatoshi.com](lightning:lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyarrwpshvct0mdrxgm)
 * [btcpavao@getalby.com](https://getalby.com/p/btcpavao)
