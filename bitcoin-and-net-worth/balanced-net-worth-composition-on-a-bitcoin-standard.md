@@ -100,6 +100,8 @@ There is such a thing as "house fever" or "car fever," a condition in which peop
 
 The antidote to this is to consider renting the same house or car for a period of time so you can experience how it feels to use them, and very often you will return to rational consideration of the same house or car, especially after you perform the cost of ownership calculation.
 
+* rent a car story
+
 ### Non-Monetary Goods Cost Of Ownership
 
 The depreciation rate is the difference between the price of a new item and the price after it has been used, measured over time.
