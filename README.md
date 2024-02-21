@@ -2,17 +2,19 @@
 
 ## Introduction
 
-This is a guide on how to use Bitcoin as primary money. By this, I mean converting all of your current money ([in all of its forms](./#what-do-you-use-as-money)) and income to Bitcoin and becoming used to exchanging Bitcoin for Fiat on an ongoing basis to cover your regular expenses. This guide is aimed for experienced Bitcoiners who are considering increasing their Bitcoin position even more.
+This is a guide on how to use Bitcoin as primary money. It is written for experienced Bitcoiners who already have a strong understanding and conviction in Bitcoin and are thinking about "going all in."
 
-Life on the full Bitcoin standard means being completely at ease with Bitcoin's purchasing power volatility and adjusting your inflow and outflow rates accordingly.
+Using Bitcoin as your primary money means converting all of your income—regardless of the currency in which it is received—to Bitcoin and, if at all possible, receiving payments in Bitcoin. It means converting all of your current money ([in all of its forms](./#what-do-you-use-as-money)) to Bitcoin. Lastly, it means becoming used to regularly exchanging Bitcoin for Fiat in order to pay for your regular spending.&#x20;
 
-To help you do this right, I divided this guide in two main sections: Money Management Wisdom and Bitcoin and Net Worth.
+Life on the full Bitcoin standard requires being completely at ease with Bitcoin's purchasing power volatility and adjusting your inflow and outflow rates accordingly.
 
-In the first section, Money Management Wisdom, I'll guide you through three money practices that will enable you to: 1) become completely in control of your money in terms of time and opportunity cost ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)); 2) stop wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)); and 3) steadily increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
+The guide has two sections: Money Management Wisdom and Bitcoin and Net Worth.
 
-In the second section, Bitcoin and Net Worth, I'll give you a framework for thinking about the composition of your net worth on a full Bitcoin standard and how to keep it in balance so that it keeps growing consistently over time.
+In the first section, Money Management Wisdom, it outlines three money practices that will enable you to: 1) become completely in control of your money in terms of time and opportunity cost ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)); 2) stop wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)); and 3) steadily increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
 
-### Who is this for?
+In the second section, Bitcoin and Net Worth, it provides you with a framework for thinking about the composition of your net worth on a full Bitcoin standard and how to keep it in balance so that it keeps growing consistently over time.
+
+### Who is this really for?
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
