@@ -71,7 +71,7 @@ And then I witnessed 2020 halving, and Bitcoin following up all the way to aroun
 
 It was a wild ride.&#x20;
 
-I'm currently looking at the $42,902/BTC price in January of 2024, which is roughly 1000% percent increase over the past five years I'm following it closely.
+I'm currently looking at the $51,511/BTC price in February of 2024, which is roughly 1200% percent increase over the past five years I'm following it closely.
 
 I've also heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice was along the lines of "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average."&#x20;
 
