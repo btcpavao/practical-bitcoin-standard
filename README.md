@@ -85,7 +85,7 @@ But in order to do this safely and effectively and embrace high Bitcoin volatili
 
 ### Bitcoin is powerful technology in it's early years of adoption
 
-Bitcoin today, in my opinion, is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to safely handle it. Most people today have at least heard of Bitcoin, but the vast majority still does not have any, and an even smaller proportion of those who do actually use Bitcoin as their primary money. This is mostly because they don't really know how to handle Bitcoin's purchasing power volatility safely and effectively.
+Bitcoin today, in my opinion, is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to safely handle it. Most people today have at least heard of Bitcoin, but the vast majority still does not own any. An even smaller proportion of those who do actually use Bitcoin as their primary money.
 
 We know that as people became accustomed to electricity, they learned proper ways to handle it safely and effectively, and so the technology spread all around the world. Today, we all teach young children not to approach electrical outlets while holding wet metal objects. We have installed overload and short-circuit protection in our homes and buildings. We are advised not to try and poke holes in our lithium-ion batteries, just to see what happens.
 
