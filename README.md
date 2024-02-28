@@ -59,11 +59,11 @@ Using Bitcoin as your primary money is not only possible today but is the best w
 
 Bitcoin is a very different kind of money from Fiat that we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of Fiat has steadily declined.
 
-You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (January 2024), 1 bitcoin is worth about $43,000. So, 10,000 bitcoins, equivalent to about $430 million today, could buy around 29 million pizzas. It's pretty amazing that Bitcoin's purchasing power increased so significantly in less than 14 years.
+You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (February 2024), 1 bitcoin is worth about $58,260. So, 10,000 bitcoins, equivalent to about $580 million today, could buy around 37 million pizzas. It's pretty amazing that Bitcoin's purchasing power increased so significantly in less than 14 years.
 
 But this increase in purchasing power came with even more well-known volatility.
 
-When I consider my overall experience since my "get off zero" moment (in July 2014, at around $600/BTC), the current Bitcoin exchange rate is 72 times higher than my entry point, in just a bit over 9 years.
+When I consider my overall experience since my "get off zero" moment (in July 2014, at around $600/BTC), the current Bitcoin exchange rate is 97 times higher than my entry point, in just under 10 years.
 
 But I only began studying Bitcoin seriously in late 2017, because I completely forgot about my initial Bitcoin purchase in summer of 2014 until then. I've witnessed Bitcoin price running up all the way to the peak of $20,000 in December 2017, and then dropping down to as low as $3,300 per BTC in November 2018, a retracement of almost 85 percent. Then I witnessed Bitcoin recovering all the way to around $12,000 in summer of 2019, dropping back to around $8-9k range. And then March of 2020 came in, the infamous COVID crash, that slashed the price almost in half (though for a short period), touching $4k-$5k range.
 
@@ -71,7 +71,7 @@ And then I witnessed 2020 halving, and Bitcoin following up all the way to aroun
 
 It was a wild ride.&#x20;
 
-I'm currently looking at the $51,511/BTC price in February of 2024, which is roughly 1200% percent increase over the past five years I'm following it closely.
+I'm currently looking at the $58,260/BTC price in February of 2024, which is roughly 1400% percent increase over the past five years I'm following it closely.
 
 I've also heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice was along the lines of "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average."&#x20;
 
