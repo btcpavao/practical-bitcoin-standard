@@ -135,13 +135,9 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 ### Why do we use money in the first place?
 
-This manual will employ the Austrian school of economics' functional definition of money: money is a medium of exchange. We can use anything as a medium of exchange.
+The Austrian school of economics defines money by its function: a medium of exchange.
 
-Why do we use money? Because we value goods & services differently, we want to exchange them with others. Although we use money on a daily basis, most people don't give it much thought.
-
-Humans are both physical and metaphysical beings (for the purposes of this guide, metaphysical refers to psychological or spiritual).
-
-Our spiritual differences cause us to value things differently. We exchange something we value less for something we value more.
+People use money because they place different valuation on each good and service they want to exchange with others.
 
 We may engage in a direct exchange, such as when person A has an abundance of oranges and person B has an abundance of apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They'll carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before the exchange, so the exchange is mutually beneficial.
 
