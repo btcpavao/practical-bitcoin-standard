@@ -1,6 +1,6 @@
 # Live Debt-Free
 
-This is the second step we should take: becoming and remaining debt-free. The main goal is to eliminate wasteful outflows.
+The second step you should take is becoming and remaining debt-free. The main goal is to eliminate wasteful outflows.
 
 ***
 
