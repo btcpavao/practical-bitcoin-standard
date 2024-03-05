@@ -2,11 +2,13 @@
 
 ## Introduction
 
-This is a guide on how to use Bitcoin as primary money. It’s written for experienced Bitcoiners who already are knowledgeable about and invested in Bitcoin and are considering "_going all in_."
+This is a guide on how to use Bitcoin as your primary money.
 
-Using Bitcoin as your primary money means converting **all** of your income—regardless of the currency in which it is received—to Bitcoin and, if at all possible, receiving payments for the work you do directly in Bitcoin. Next, it means converting all of your current money ([in all of its forms](./#what-do-you-use-as-money)) to Bitcoin. Lastly, it means becoming used to exchanging Bitcoin for Fiat in order to pay for your regular spending.
+This means you are **always** converting **all** of your income—regardless of the currency in which it is received—to Bitcoin and, if possible, receiving payments for the work you do directly in Bitcoin.&#x20;
 
-Life on the full Bitcoin standard requires being completely at ease with Bitcoin's purchasing power volatility and adjusting your inflow and outflow rates accordingly.
+Next, it means converting all of your current [monetary goods](./#what-do-you-use-as-money) to Bitcoin. Lastly, it means becoming used to exchanging Bitcoin for Fiat for your regular spending.
+
+Life on a full Bitcoin standard requires becoming completely at ease with Bitcoin's purchasing power volatility and adjusting your inflow and outflow rates accordingly.
 
 The guide has two sections: _Money Management Wisdom_ and _Bitcoin and Your Net Worth_.
 
