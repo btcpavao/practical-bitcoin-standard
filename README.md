@@ -8,15 +8,13 @@ This means you are **always** converting **all** of your income—regardless of 
 
 Next, it means converting all of your current [monetary goods](./#what-do-you-use-as-money) to Bitcoin. Lastly, it means becoming used to exchanging Bitcoin for Fiat for your regular spending.
 
-Life on a full Bitcoin standard requires becoming completely at ease with Bitcoin's purchasing power volatility and adjusting your inflow and outflow rates accordingly.
-
 The guide has two sections: _Money Management Wisdom_ and _Bitcoin and Your Net Worth_.
 
-In the first section, Money Management Wisdom, it outlines three money practices that will enable you to: 1) become completely in control of your money in terms of time and opportunity cost ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)); 2) stop wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)); and 3) steadily increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
+In the first section, it outlines three money practices that will enable you to: 1) become completely in control of your money in terms of time and opportunity cost ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)); 2) stop wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)); and 3) steadily increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
 
-In the second section, Bitcoin and Your Net Worth, it provides you with a framework for thinking about the composition of your net worth on a full Bitcoin standard and how to keep it in balance so that it grows consistently over time.
+In the second section, it provides you with a framework for thinking about and adjusting the composition of your net worth on a full Bitcoin standard so that it grows consistently and sustainably over time.
 
-### Who is this really for?
+### Who is this guide for?
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
