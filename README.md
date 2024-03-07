@@ -63,7 +63,7 @@ You probably already know about the [famous Bitcoin pizza transaction](https://b
 
 But this increase in purchasing power came with even more well-known volatility.
 
-When I consider my overall experience since my "get off zero" moment (in July 2014, at around $600/BTC), the current Bitcoin exchange rate is 97 times higher than my entry point, in just under 10 years.
+When I consider my overall experience since my "get off zero" moment (in July 2014, at around $600/BTC), the current Bitcoin exchange rate is over 110 times higher than my entry point, in just under 10 years.
 
 But I only began studying Bitcoin seriously in late 2017, because I completely forgot about my initial Bitcoin purchase in summer of 2014 until then. I've witnessed Bitcoin price running up all the way to the peak of $20,000 in December 2017, and then dropping down to as low as $3,300 per BTC in November 2018, a retracement of almost 85 percent. Then I witnessed Bitcoin recovering all the way to around $12,000 in summer of 2019, dropping back to around $8-9k range. And then March of 2020 came in, the infamous COVID crash, that slashed the price almost in half (though for a short period), touching $4k-$5k range.
 
