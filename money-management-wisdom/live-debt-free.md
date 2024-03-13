@@ -8,9 +8,9 @@ The second step you should take is becoming and remaining debt-free. The main go
 
 ### Never Spend Your Future Money
 
-Why is it never a good idea to use credit or get into debt? Fundamentally, because the future is uncertain.
+Why is it never a good idea to get into debt? Simply, because the future is uncertain.
 
-Let's think more deeply about it. What does it mean that the future is uncertain? This simply means that we do not know what will happen in our lives tomorrow, next week, next month, next year, or in ten years. We can plan for and expect some events to happen, but there is no way to know with certainty.
+Let's think more deeply about it. What does it mean that the future is uncertain? It simply means that we do not know what will happen in our lives tomorrow, next week, next month, next year, or in ten years. We can plan for and expect some events to happen, and we can even assign higher or lower probabilities, but at the end of the day, there really is no way to know with certainty.
 
 When one considers uncertainty about the future, they typically associate it with fear of negative outcomes. However, an uncertain future also implies the possibility of positive outcomes. We simply don't know what will happen, when, or how (both good and bad).
 
@@ -54,7 +54,7 @@ The older your money, the more financial peace you have. Debt reduces the age of
 
 ### Two States Of Being (In Debt And Debt-Free) Generate 6 Different Spirits
 
-Spending credit taints a person's psychospiritual makeup with the spirits of slavery, restlesness and confusion.&#x20;
+Spending credit taints a person's psychospiritual makeup with the spirits of slavery, restlesness and confusion.
 
 You can be either "In Debt" or "Debt Free" in your spiritual makeup. They both cultivate the growth of different spirits: when you are in debt, you cultivate the spirit of slavery, restlesness and confusion, and when you are debt-free, you cultivate the spirit of freedom, peace and clarity.
 
@@ -72,7 +72,7 @@ When you have no liabilities, that is, you owe no money to anyone, you begin to 
 
 ### Spirit Of Slavery
 
-Spiritually, the borrower is a slave of the lender. Slavery here is defined as not having freedom on deciding how to utilize time. There is the extent to which this freedom is reduced, and it's measured in the amount of time you will need to allocate for servicing the debt for the duration of the debt.&#x20;
+Spiritually, the borrower is a slave of the lender. Slavery here is defined as not having freedom on deciding how to utilize time. There is the extent to which this freedom is reduced, and it's measured in the amount of time you will need to allocate for servicing the debt for the duration of the debt.
 
 People can intuitively sense this spirit in you by watching how you spend your money, do your job, and spend your free time. In general, the longer and more deeply in debt you are, the less free time you will have, the more stressful working life will be, and the more tightly you will have to restrict your spending.
 
@@ -282,7 +282,7 @@ If the negative effects of debt on yourself aren't convincing enough, try medita
 * price signal distortions -> worsens economic calculation
 * state protectionism / lowers competitiveness
 * contributes to funding of state wars
-* contributes to funding of state run welfare programs that perpetuate poverty&#x20;
+* contributes to funding of state run welfare programs that perpetuate poverty
 * grows state bureaucracy & overall regulatory burden that hamper innovation
 * contributes to funding of "fiat fuels" and overall energy use decline
 * contributes to overall civilizational decline
@@ -291,7 +291,7 @@ If the negative effects of debt on yourself aren't convincing enough, try medita
 
 ## Debt And Bitcoin Are Dangerous Combination
 
-Having both debt and Bitcoin on your balance sheet is extremely risky for your net worth management. Staying in debt during Bitcoin bull runs could lead you to FOMO into more debt in order to increase your Bitcoin exposure. Staying in debt during Bitcoin bear markets could lead you to panic and reduce your Bitcoin exposure in order to stay solvent and avoid bankruptcy.&#x20;
+Having both debt and Bitcoin on your balance sheet is extremely risky for your net worth management. Staying in debt during Bitcoin bull runs could lead you to FOMO into more debt in order to increase your Bitcoin exposure. Staying in debt during Bitcoin bear markets could lead you to panic and reduce your Bitcoin exposure in order to stay solvent and avoid bankruptcy.
 
 The only wise way is to pay off all of your debts first, and then begin accumulating Bitcoin with zero debt on your balance sheet.
 
@@ -299,11 +299,11 @@ The only wise way is to pay off all of your debts first, and then begin accumula
 
 You may believe that you are profiting from the difference between the interest rate you are paying on debt and the annual growth rate of bitcoin.
 
-However, if you believe this, you are overlooking or forgetting several issues.&#x20;
+However, if you believe this, you are overlooking or forgetting several issues.
 
-The first is the opportunity cost of your stress as a result of this action.&#x20;
+The first is the opportunity cost of your stress as a result of this action.
 
-The second is the increased cost of ownership because you have less money for maintenance of the item you purchased with debt, resulting in a higher real rate of depreciation.&#x20;
+The second is the increased cost of ownership because you have less money for maintenance of the item you purchased with debt, resulting in a higher real rate of depreciation.
 
 And the third is the opportunity cost of not being able to increase the spirit of generosity and income.
 
