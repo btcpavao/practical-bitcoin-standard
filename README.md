@@ -55,6 +55,12 @@ If you recognize yourself in any of this, this guide is for you.
 
 Using Bitcoin as your primary money is not only possible today but is the best way to use Bitcoin overall. This basically means "going all in on Bitcoin" and stopping using Fiat money as a hedge against Bitcoin volatility, altogether. It also means converting all of your current money substitutes, like real estate, stocks & bonds portfolios into Bitcoin.
 
+This guide is also intended to dispel some of the myths that Bitcoiners who do not fully understand what it means to adopt the full Bitcoin standard propagate. One of the most often heard "myths" is that "you should never spend your Bitcoin". Another one I hear a lot is that Bitcoin is all about increasing the number of sats you own over time. Both of these myths arise from misunderstanding of concepts like opportunity cost and purchasing power, very similar to how many think their house "is going up in value" because it's fiat denominated price increased over time. The truth is that the house, like any other consumable good, is losing value as it is used and consumed; it simply takes longer to recognize the force of entropy at work. The fact that 20 year old house that has been used to live in has increased in Fiat denominated price is proof of Fiat loss of purchasing power, not increase in house value.
+
+Similarly, when someone says "I'm never spending my Bitcoin" but then signs a four-year lease contract to buy a car that costs more than half of his total net worth and more than half of his yearly income, he is actually spending money that could have been converted into Bitcoin, and even worse, is doing so with his future money which is completely uncertain.&#x20;
+
+If someone has $1 in Bitcoin and $99 in Fiat and makes a $20 purchase, he has spent $20 worth of Bitcoin, regardless of whether he used it from his $ balance. Because if he converted all of his $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, he would still have $80 worth of purchasing power in Bitcoin at the end.
+
 ### Bitcoin's high volatility
 
 Bitcoin is a very different kind of money from Fiat that we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of Fiat has steadily declined.
