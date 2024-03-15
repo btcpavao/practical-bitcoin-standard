@@ -6,7 +6,7 @@ The second step you should take is becoming and remaining debt-free. The main go
 
 ## Your Money Exists In The Past And In The Future
 
-### Never Spend Your Future Money
+### Do Not Ever, Under Any Circumstance, Spend Your Future Money
 
 Why is it never a good idea to get into debt? Simply, because the future is uncertain.
 
