@@ -221,7 +221,7 @@ Think of this manual as a guide on cultivating a "spiritual money tree" with thr
 2. [**Becoming and Staying Debt-Free**](money-management-wisdom/live-debt-free.md): This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This stops the growth of the spirits of slavery, restlesness and confusion and fosters growth of the spirits of freedom, peace and clarity.
 3. [**Establishing a Giving Practice**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md): This step is focused on increasing our inflows. By practicing giving, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to grow our inflows.
 
-### **What Do You Use As Money?**
+### **What Do You Use As Your Primary Money?**
 
 It is critical to understand that money is a medium of exchange and that anything can be used as such.
 
