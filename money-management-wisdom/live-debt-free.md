@@ -26,7 +26,7 @@ You might eventually come across a good opportunity that you regretfully miss ou
 
 Furthermore, each time you conduct a transaction, you are performing valuation in the here and now, and that valuation may alter later on. The item you are purchasing now may be more valuable to you than the money you must exchange to obtain it, whereas the same item may be less valuable to you than the money you must exchange for it in the future. Your subjective valuation can and will change due to a variety of factors, none of which you can predict with certainty.
 
-### Always Spend Your Past Money
+### Always Spend Only Your Past Money
 
 Spending money you already have means you are fully aware of its opportunity cost (because your money is already budgeted).
 
