@@ -1,4 +1,4 @@
-# Set Aside And Keep 10-20% Of Your Budget For Giving
+# Set Aside And Keep 10-20% Of Your Budget For Giving
 
 The third step is to create a budget category for giving and ensure that 10% to 20% of our money is always set aside for it. The main goal of this step is to consistently increase our inflows. By making transactions from Giving category, we'll grow our spirit of generosity. Our happiness is directly proportional to the strength of our generosity spirit. The happier we are, the better we will be at providing value to others. And the more value we can provide to others, the greater our earning capacity.
 
@@ -46,7 +46,7 @@ If you earned your money through a voluntary, consensual exchange with another p
 
 Giving money will make you more capable and better at earning money, because it will make you better at serving your customers. Your customers will like you more if you have a generous spirit because you'll be a more enjoyable person to be around. They will be more inclined to provide you with honest feedback on your goods or services, which will have a positive ripple effect on all your business operations down the line.
 
-Also, you won't spend as much time worrying about insignificant problems that can occur in any business. When you make a mistake in business, such as selecting the incorrect partner or supplier or running into a "bad" customer who is dissatisfied with your offering and requests a refund, you will be able to quickly move on from them, learn your lesson, but do so in a way that doesn't use up any of your creative ability. This is due to the fact that you can always consider this expense to be a part of your overall giving. This frees you up to focus on what matters, which is figuring out how to serve your customers more effectively.
+Also, you won't spend as much time worrying about insignificant problems that can occur in any business. When you make a mistake in business, such as choosing the incorrect partner or running into a "bad" customer who is dissatisfied with your offering and requests a refund, you will be able to quickly move on from them, learn your lesson, but do so in a way that doesn't use up any of your creative ability. This is due to the fact that you can always consider this expense to be a part of your overall giving. This frees you up to focus on what matters, which is figuring out how to serve your customers more effectively.
 
 Generous people generally have better moods and a brighter, happier outlook on life. We all enjoy being around them because we don't feel they expect anything from us. They are simply allowing us to benefit from their state of being without taking anything away from them. It's like sunshine: if I enjoy it, it doesn't take away from someone else's enjoyment of it.
 
