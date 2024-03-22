@@ -10,7 +10,7 @@ Finally, let us assume that we intend to sell this house at some point in the fu
 
 We can also use the house exclusively for one purpose at a time. For example, if we only use this house for income-generating purposes (such as renting it out), it is considered a capital good.
 
-If we buy a house only to sell it later, without intending to live in it or rent it (or do any other income-generating activities with it), we can consider it a monetary good.
+We are using a house as a monetary good if we buy it with the sole purpose of selling it in the future, without any intention of living in it, renting it, or engaging in any other income-generating activities with it.
 
 We can also divide goods according to their spatial and temporal characteristics. Spatial characteristics are divided into into movable and immovable. Temporal characteristics are divided into and durable and non-durable (perishable).
 
