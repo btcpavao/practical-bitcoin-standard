@@ -43,13 +43,13 @@ If you own some Bitcoin and recognize yourself in any of the following statement
 * Sometimes you feel like you don't own enough Bitcoin.
 * "_Fiat is for spending, Bitcoin is for saving_" sounds reasonable.
 
-You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." Depending on your journey with Bitcoin and when your "get off zero" moment occurred, you may have a Bitcoin position that is large or small relative to your total net worth.
+You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "_rainy day fund._" Depending on your journey with Bitcoin and when your "_get off zero_" moment occurred, you may have a Bitcoin position that is large or small relative to your total net worth.
 
 I'm assuming that you are still not using Bitcoin as your primary money. That is to say, your income is probably not all paid in Bitcoin, and you are likely not converting all your Fiat to Bitcoin immediately after the funds clear.
 
-You're also likely not used to converting Bitcoin to Fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (fear of missing out) bullish sentiments, as well as the opposite, being a bit uneasy of how low Bitcoin price can fall in a bear market.&#x20;
+You're also likely not used to converting Bitcoin to Fiat to pay for your expenses on a regular basis. If you've been following Bitcoin for a while, you've probably considered it, but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market, and you may have felt FOMO (_fear of missing out_), as well as the opposite, being a bit uneasy of how low Bitcoin price can fall in a bear market.&#x20;
 
-You might have some credit obligations, such as a mortgage, car loan, a student loan or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you're treading carefully when it comes to deciding how and when to invest in it. You think about Bitcoin as a "buy and hold" asset, instead of "exchange Fiat to Bitcoin money". And you kind of don't want to sell your Bitcoin because you know it's going up forever.
+You might have some credit obligations, such as a mortgage, car loan, a student loan or credit card balance. You don't want to be a "_forced seller_" of Bitcoin, so you're treading carefully when it comes to deciding how and when to invest in it. You think about Bitcoin as a "buy and hold" asset, instead of "exchange Fiat to Bitcoin money". And you kind of don't want to sell your Bitcoin because you know it's going up forever.
 
 If you recognize yourself in any of this, this guide is for you.
 
