@@ -1,4 +1,4 @@
-# Set Aside And Keep 10-20% Of Your Budget For Giving
+# Set Aside And Keep 10-20% Of Your Money For Giving
 
 The third step is to create a budget category for giving and ensure that 10% to 20% of our money is always set aside for it. The main goal of this step is to consistently increase our inflows. By making transactions from Giving category, we'll grow our spirit of generosity. Our happiness is directly proportional to the strength of our generosity spirit. The happier we are, the better we will be at providing value to others. And the more value we can provide to others, the greater our earning capacity.
 
@@ -52,7 +52,7 @@ Generous people generally have better moods and a brighter, happier outlook on l
 
 A generous person will always approach business negotiations from a win-win rather than a win-lose perspective. The negotiating party will always pick up on this and adopt it as well. And for a generous person, when they ocassionaly realize the counterparty is trying hard to negotiate down, they may still accept the deal to make the other person happy they won the negotiation. A generous person will always default to a long-term perspective: even if I don't make money on this particular deal - this negotiation is a win for me because it increased my generosity.
 
-This has tremendous business power.
+This also has tremendous business power.
 
 ### Be Grateful For The Opportunity To Give
 
