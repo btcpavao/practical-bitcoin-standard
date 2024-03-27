@@ -18,7 +18,7 @@ There are 5 ways to increase your net income.
 
 **Increase the inflow rate while maintaining the outflow rate constant.** Assume you earn $100,000 per year and spend $90,000. You maintain your spending at $90k per year while increasing your inflows from $100k to $110k per year. This increased your net income from $10,000 to $20,000.
 
-**Increase the inflow rate and decrease the outflow rate.** Assume you earn $100,000 per year and spend $90,000. You reduce your annual spending by $5,000, from $90,000 to $85,000. You also increase your annual inflows by $5k, from $100k to $105k. This increased your net income from $10,000 to $20,000**.**
+**Increase the inflow rate and decrease the outflow rate.** Assume you earn $100,000 per year and spend $90,000. You reduce your annual spending by $5,000, from $90,000 to $85,000. You also increase your annual inflows by $5k, from $100k to $105k. This increased your net income from $10,000 to $20,000\*\*.\*\*
 
 **Increase both the inflow and outflow rates, but increase the inflow rate more than the outflow rate.** Assume you earn $100,000 per year and spend $90,000. You increase your spending by $10k from $90k to $100k per year and your inflows by $20k from $100k to $120k per year. Your net income increased from $10,000 to $20,000.
 
@@ -26,13 +26,13 @@ There are 5 ways to increase your net income.
 
 Don't be concerned with the nominal amount of Bitcoin you own; instead, consider changes in purchasing power and net income. If you do this correctly, your net income will increase over time. And, as your Bitcoin savings grow, their purchasing power appreciation will contribute to net income growth by increasing your overall inflow rate (due to purchasing power reconciliation).
 
-For example, if you earn $60k per year and spend $50k per year, it makes no difference whether the Bitcoin exchange rate is $30k/BTC or $60k/BTC in terms of your net income and purchasing power. An increase in the value of Bitcoin means that your savings purchasing power has increased, but not necessarily your net income. Similarly, a decline in the purchasing power of Bitcoin does not always translate into a decline in your net income. In fact, when Bitcoin's purchasing power falls, you'll be incentivized to increase your net income.&#x20;
+For example, if you earn $60k per year and spend $50k per year, it makes no difference whether the Bitcoin exchange rate is $30k/BTC or $60k/BTC in terms of your net income and purchasing power. An increase in the value of Bitcoin means that your savings purchasing power has increased, but not necessarily your net income. Similarly, a decline in the purchasing power of Bitcoin does not always translate into a decline in your net income. In fact, when Bitcoin's purchasing power falls, you'll be incentivized to increase your net income.
 
 You will certainly increase your net income if you follow the principles outlined in the first section of the guide (keep a zero-based budget, stay debt-free, and set aside 10-20% of your budget for giving) and make sure your net worth composition is balanced (keep at least a third in Bitcoin, and no more than a third in Land and Capital, each).
 
 ### Frequently Reconcile Changes In Bitcoin's Purchasing Power
 
-We're accustomed to using fiat money as our cash balance, whether it's physical cash in our wallets or money in our checking and immediately available savings accounts. Most bitcoiners view Bitcoin as their "investment," "retirement fund," or "long-term savings" and treat it as an illiquid asset on their balance sheet.
+We're accustomed to using Fiat money as our cash balance, whether it's physical cash in our wallets or money in our checking and immediately available savings accounts. Most bitcoiners view Bitcoin as their "investment," "retirement fund," or "long-term savings" and treat it as an illiquid asset on their balance sheet.
 
 If you've successfully implemented the previous three steps as a rock-solid foundation (running a zero-based budget for at least 180 days, eliminating all debt from your balance sheet, and establishing a regular giving practice with 10% to 20% of your budget), you should strongly consider treating Bitcoin as part of your cash balance and transitioning to the full Bitcoin standard.
 
@@ -94,15 +94,15 @@ How often should you perform this reconciliation? It's up to you, but I recommen
 
 "Bitcoin is too volatile!" you'll often hear. "Just dollar cost average and don't touch your stack."
 
-Many well-intentioned Bitcoiners recommend, especially to newcomers, adopting a "stacking sats" approach. Ideally, they suggest that newcomers set up (ideally an automatic) "dollar-cost averaging" (DCA) plan by deciding on two fixed elements: the amount they wish to invest (for example, $50) and a recurring time period (say, every month).&#x20;
+Many well-intentioned Bitcoiners recommend, especially to newcomers, adopting a "stacking sats" approach. Ideally, they suggest that newcomers set up (ideally an automatic) "dollar-cost averaging" (DCA) plan by deciding on two fixed elements: the amount they wish to invest (for example, $50) and a recurring time period (say, every month).
 
 By doing so, you can "set it and forget it," you are buying Bitcoin regularly, whether the price is increasing or decreasing, thus averaging out the fluctuations. This strategy has indeed outperformed doing the same into other popular savings instruments like investing in stock indexes, bonds, real estate, and precious metals.
 
 Nonetheless, this strategy has several risks that are rarely discussed, and I'll list them here:
 
-**1. You will experience feeling of greed (FOMO, fear of missing out) in a bull market.**&#x20;
+**1. You will experience feeling of greed (FOMO, fear of missing out) in a bull market.**
 
-When the true Bitcoin bull market begins, typically some time after the "halvings" due to the new marginal supply being cut in half, it's very likely auto-DCA bitcoiners will feel "underinvested" in Bitcoin. Whatever the amount of fiat they still have, they will start to fear that the Bitcoin price will run away from them.&#x20;
+When the true Bitcoin bull market begins, typically some time after the "halvings" due to the new marginal supply being cut in half, it's very likely auto-DCA bitcoiners will feel "underinvested" in Bitcoin. Whatever the amount of fiat they still have, they will start to fear that the Bitcoin price will run away from them.
 
 This is where auto-DCA services will typically market them their "smash buy" and "boost" features, which are meant to alleviate this FOMO feeling by doubling down or increasing their DCA rate. However, this can quickly lead to unwise decisions, because it is extremely difficult to resist the temptation to allocate a larger portion of one's portfolio to Bitcoin during a bull run.
 
@@ -110,11 +110,11 @@ Consequently, many people are compelled to let go of their auto-DCA strategy at 
 
 This behavior is precisely the opposite of what you should be doing during a bull market. You should be focusing on planning for your future outflows and utilizing the appreciation of your Bitcoin savings, even if you feel underinvested in Bitcoin, to cover them. Essentially, during a bull market, your time should be spent using your past budgeting data to better plan for the future, rather than trying to earn more money at your job and studying Bitcoin price action to make up for the opportunity cost incurred during the bear market.
 
-**2. Your inflows and outflows are in flux, but your strategy does not reflect this.**&#x20;
+**2. Your inflows and outflows are in flux, but your strategy does not reflect this.**
 
-Essentially, if you begin your auto-DCA strategy with the intention of putting it on autopilot and "setting it and forgetting it," you are not taking into account changes to your future inflows and outflows.&#x20;
+Essentially, if you begin your auto-DCA strategy with the intention of putting it on autopilot and "setting it and forgetting it," you are not taking into account changes to your future inflows and outflows.
 
-If your inflows increase, you'll be tempted to adjust the amount you allocate, and if they decrease, you'll want to reduce them and/or spread them out over time. Essentially, the only way to truly "set it and forget it" is to set it to a very small number that is evenly distributed across maximum time intervals. If your dollar cost average is only $1 per year, you can likely sustain this for the rest of your life, but the gains will be negligible, despite Bitcoin's volatile and intense path to becoming the dominant form of money.&#x20;
+If your inflows increase, you'll be tempted to adjust the amount you allocate, and if they decrease, you'll want to reduce them and/or spread them out over time. Essentially, the only way to truly "set it and forget it" is to set it to a very small number that is evenly distributed across maximum time intervals. If your dollar cost average is only $1 per year, you can likely sustain this for the rest of your life, but the gains will be negligible, despite Bitcoin's volatile and intense path to becoming the dominant form of money.
 
 Also, a "set it and forget it" mentality is detrimental to your long-term approach to learning how to properly manage your money. You are in a constant state of change, as is your time preference and your valuation of different goods and services.
 
@@ -182,12 +182,10 @@ If, during a bull market, you reallocate a third of your Bitcoin to production (
 
 It might be a good idea to avoid allocating Bitcoin to capital and consumption goods to the full extent of one third of net worth each. You will likely have a higher net income if you hold a greater proportion of your net worth in Bitcoin; therefore, a larger giving budget will likely have a greater impact on the growth of the spirit of generosity.
 
-
-
 ### Notes on Bitcoin and debt
 
-In bear markets, you want to be able to increase your inflow. Being debt-free is critical for this. If you are carrying debt during a bear market, you are exactly decreasing your performance at work at a time when you should be increasing your revenue to take advantage of the declining price of Bitcoin.&#x20;
+In bear markets, you want to be able to increase your inflow. Being debt-free is critical for this. If you are carrying debt during a bear market, you are exactly decreasing your performance at work at a time when you should be increasing your revenue to take advantage of the declining price of Bitcoin.
 
-And then this feeds back on itself because the bear market increases your anxiety about your debt, which in turn causes your income to decline (or not grow) while you are still required to make the payments you took out when Bitcoin's value was higher.&#x20;
+And then this feeds back on itself because the bear market increases your anxiety about your debt, which in turn causes your income to decline (or not grow) while you are still required to make the payments you took out when Bitcoin's value was higher.
 
 In the end, you lose out on the chance to raise your net income during a downturn in the market. In a bull market, this increases the risk of experiencing FOMO, and the cycle continues.
