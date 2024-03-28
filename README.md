@@ -18,13 +18,14 @@ In the second section, it provides you with a framework for thinking about and a
 
 If you own some Bitcoin and recognize yourself in any of the following statements, this guide is for you.
 
-* You have read [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
+* You have read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe).
+* You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB), have a basic technical understanding about how the Bitcoin system works, and feel confident enough to answer simple technical questions about Bitcoin.
 * You practice dollar-cost averaging into Bitcoin.
-* You keep some Fiat as dry-powder in case Bitcoin dumps so you can buy the dip.
-* You attempted to grow your Bitcoin stack through trading, but [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
+* You keep some Fiat as "dry-powder" for buying more Bitcoin on the price corrections.
+* You attempted to grow your Bitcoin stack through trading, but ultimately decided [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
 * You have and use credit card(s).
-* You have personal loan(s).
-* You use line(s) of credit.
+* You have and use personal loan(s).
+* You (sometimes) use line(s) of credit.
 * Your checking account occasionally goes into overdraft.
 * You have a mortgage.
 * You have an auto loan or lease.
