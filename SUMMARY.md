@@ -7,7 +7,7 @@
 ## Money Management Wisdom
 
 * [Plan Your Money](money-management-wisdom/plan-your-money.md)
-* [Live Debt-Free](money-management-wisdom/live-debt-free.md)
+* [Live 100% Debt-Free](money-management-wisdom/live-debt-free.md)
 * [Set Aside And Keep 10-20% Of Your Money For Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)
 
 ## Bitcoin And Your Net Worth
