@@ -12,8 +12,8 @@
 
 ## Bitcoin And Your Net Worth
 
-* [How To Use Bitcoin As Your Primary Money](bitcoin-and-your-net-worth/how-to-use-bitcoin-as-your-primary-money.md)
-* [Balanced Net Worth Composition On A Bitcoin Standard](bitcoin-and-your-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard.md)
+* [Use Bitcoin As Your Primary Money](bitcoin-and-your-net-worth/how-to-use-bitcoin-as-your-primary-money.md)
+* [Balance Your Net Worth Composition](bitcoin-and-your-net-worth/balanced-net-worth-composition-on-a-bitcoin-standard.md)
 
 ## Conclusion
 
