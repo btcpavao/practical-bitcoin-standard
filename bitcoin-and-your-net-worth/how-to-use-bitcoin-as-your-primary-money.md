@@ -1,14 +1,14 @@
-# How To Use Bitcoin As Your Primary Money
+# Use Bitcoin As Your Primary Money
 
 If you consistently applied the three money management principles discussed previously for at least 180 days, you can begin using Bitcoin as your primary money. Please understand that if you try to do what I'm about to explain before you've consistently practiced the previous three principles, you're likely to make serious mistakes due to Bitcoin's volatility.
 
 ### Keep Your Average Net Income Positive & Accumulate Cash Position
 
-The Fiat standard encourages you to keep your net income negative, and accumulate non-cash assets.
+The Fiat standard encourages you to keep your net income negative, and accumulate non-cash assets (consumption & production).
 
 It encourages you to spend more than you earn in the present because you are spending future money, which is likely to have less purchasing power than it does now.
 
-Unfortunately, while this approach works for some, it comes at the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, many people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
+This comes with the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, many people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
 
 The Bitcoin standard encourages you to build your cash position by increasing your average net income (inflows minus outflows) over time. This is because your cash (savings held in Bitcoin) will increase in purchasing power over time, effectively providing you with an additional source of inflow.
 
