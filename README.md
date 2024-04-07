@@ -6,7 +6,7 @@ This is a guide on how to use Bitcoin as your primary money.
 
 This means converting your income to Bitcoin and, if possible, receiving payments directly in Bitcoin.&#x20;
 
-It also means converting all of your current [monetary goods](./#what-do-you-use-as-money) to Bitcoin. Lastly, it means becoming used to exchanging Bitcoin for Fiat for your regular spending
+It also means converting all of your current [monetary goods](./#what-do-you-use-as-money) to Bitcoin. Lastly, it means becoming used to exchanging Bitcoin for Fiat for your regular spending.
 
 The guide has two sections: _Money Management Wisdom_ and _Bitcoin and Your Net Worth_.
 
