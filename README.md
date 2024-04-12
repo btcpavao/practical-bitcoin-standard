@@ -52,7 +52,7 @@ You're also likely not used to converting Bitcoin to Fiat to pay for your expens
 
 You might have some credit obligations, such as a mortgage, car loan, a student loan or credit card balance. You don't want to be a "_forced seller_" of Bitcoin, so you're treading carefully when it comes to deciding how and when to invest in it. You think about Bitcoin as a "buy and hold" asset, instead of "exchange Fiat to Bitcoin money". And you kind of don't want to sell your Bitcoin because you know it's going up forever.
 
-If you recognize yourself in any of this, this guide is for you.
+If you can recognize yourself in any of these statements, this guide is for you.
 
 Using Bitcoin as your primary money is not only possible today but is the best way to use Bitcoin overall. This basically means "_going all in on Bitcoin_" and stopping using Fiat money as a hedge against Bitcoin volatility, altogether. It also means converting all of your current money substitutes, like real estate, stocks & bonds portfolios into Bitcoin.
 
