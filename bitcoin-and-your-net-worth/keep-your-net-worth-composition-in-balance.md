@@ -1,10 +1,10 @@
-# Balance Your Net Worth Composition
+# Keep Your Net Worth Composition In Balance
 
 ### Three Types Of Goods: Monetary, Consumption, Production
 
 It's important to understand that goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
 
-Let's use the example of a house as an economic good. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be basically using it as a consumption good).&#x20;
+Let's use the example of a house. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be basically using it as a consumption good).&#x20;
 
 Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and capital good.
 
@@ -72,7 +72,7 @@ For example, if your car is worth $10,000 and you use it 20% of the time for lei
 
 I've seen many examples in my family and friends of the hesitancy to rent, and a bias toward ownership of non-monetary goods.
 
-In the Fiat standard, this originates from our natural desire to reduce the amount of cash we hold over time. This is because fiat money loses purchasing power over time, just like an ice cube melts over time.
+In the Fiat standard, this originates from our desire to reduce the amount of cash we hold, due to its loss of purchasing power over time.
 
 The opposite happens on the Bitcoin standard. We are more hesitant to take on ownership because owning non-Bitcoin assets will inevitably result in the opportunity cost of increased Bitcoin purchasing power in the future. As a result, we are more likely to think carefully about what we want to own. This is why renting is likely to become more normalized under the Bitcoin standard.
 
