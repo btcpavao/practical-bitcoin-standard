@@ -1,6 +1,6 @@
 # Keep 10-20% Of Your Money Assigned For Giving
 
-The third step is to create a budget category for giving and ensure that 10% to 20% of our money is always set aside for it. The main goal of this step is to consistently increase our inflows. By making transactions from Giving category, we'll grow our spirit of generosity. Our happiness is directly proportional to the strength of our generosity spirit. The happier we are, the better we will be at providing value to others. And the more value we can provide to others, the greater our earning capacity.
+The third step is to create a budget category for giving and ensure that 10% to 20% of your money is always set aside for it. The main goal of this step is to consistently increase your inflows. By making transactions from Giving category, you'll grow your spirit of generosity. Your happiness is directly proportional to the strength of your generosity spirit. The happier you are, the better you will be at providing value to others. And the more value you can provide to others, the greater your earning capacity.
 
 ### Giver Gets More Benefit From Giving Than The Recipient
 
