@@ -50,9 +50,7 @@ Also, you won't spend as much time worrying about insignificant problems that ca
 
 Generous people generally have better moods and a brighter, happier, and more optimistic view on life. We all enjoy being around them because we don't feel they expect anything from us. It's like sunshine: if I enjoy it, it doesn't take away from someone else's enjoyment of it.
 
-A generous person will always approach business negotiations from a win-win rather than a win-lose perspective. The negotiating party will always pick up on this and adopt it as well. And for a generous person, when they ocassionaly realize the counterparty is trying hard to negotiate down, they may still accept the deal to make the other person happy they won the negotiation. A generous person will always default to a long-term perspective: even if I don't make money on this particular deal - this negotiation is a win for me because it increased my generosity.
-
-This also has tremendous business power.
+A generous person will always approach business negotiations from a win-win rather than a win-lose perspective. The negotiating party will always pick up on this and adopt it as well. And for a generous person, when they ocassionaly realize the counterparty is trying hard to negotiate down, they may still accept the deal to make the other person happy they won the negotiation. A generous person will always default to a long-term perspective and reframe the situation into something along these lines: "Even if I don't make money on this particular deal - this negotiation is a win for me because it increased my spirit of generosity."
 
 ### Be Grateful For The Opportunity To Give
 
