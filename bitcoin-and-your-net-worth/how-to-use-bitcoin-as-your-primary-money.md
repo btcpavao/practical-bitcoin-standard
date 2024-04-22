@@ -1,6 +1,6 @@
 # Use Bitcoin As Your Primary Money
 
-If you consistently applied the three money management principles discussed previously for at least 180 days, you can begin using Bitcoin as your primary money. Please understand that if you try to do what I'm about to explain before you've consistently practiced the previous three principles, you're likely to make serious mistakes due to Bitcoin's volatility.
+If you consistently applied the three money management principles discussed previously for at least 180 days, you are ready to begin using Bitcoin as your primary money.
 
 ### Keep Your Average Net Income Positive & Accumulate Cash Position
 
