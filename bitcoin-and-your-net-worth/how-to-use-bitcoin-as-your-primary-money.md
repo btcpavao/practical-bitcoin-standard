@@ -2,7 +2,7 @@
 
 If you consistently applied the three money management principles discussed previously for at least 180 days, you are ready to begin using Bitcoin as your primary money.
 
-### Keep Your Average Net Income Positive & Accumulate Cash Position
+### Keep Your Average Net Income Positive & Accumulate Cash Position (In Bitcoin)
 
 The Fiat standard encourages you to keep your net income negative, and accumulate non-cash assets (consumption & production).
 
