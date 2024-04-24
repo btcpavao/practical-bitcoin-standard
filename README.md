@@ -60,7 +60,7 @@ This guide is also intended to dispel some of the myths that Bitcoiners who do n
 
 Similarly, when someone says "I'm never spending my Bitcoin" but then signs a four-year lease contract to buy a car that costs more than half of his total net worth and more than half of his yearly income, he is actually spending money that could have been converted into Bitcoin, and even worse, is doing so with his future money which is completely uncertain.&#x20;
 
-If someone has $1 in Bitcoin and $99 in Fiat and makes a $20 purchase, he has spent $20 worth of Bitcoin, regardless of whether he used it from his $ balance. Because if he converted all of his $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, he would still have $80 worth of purchasing power in Bitcoin at the end.
+If someone has $1 in Bitcoin and $99 in Fiat and makes a $20 purchase, he has spent $20 worth of Bitcoin (at the time of purchase), regardless of whether he made payment from his $ balance. Because if he converted all of his $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, he would still have $80 worth of purchasing power in Bitcoin at the end.
 
 ### Bitcoin's high volatility
 
