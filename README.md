@@ -66,7 +66,7 @@ If someone has $1 in Bitcoin and $99 in Fiat and makes a $20 purchase, he has sp
 
 Bitcoin is a very different kind of money from Fiat that we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of Fiat has steadily declined.
 
-You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (March 2024), 1 bitcoin is worth about $66,915. So, 10,000 bitcoins, equivalent to about $669 million today, could buy around 45 million pizzas.
+You probably already know about the [famous Bitcoin pizza transaction](https://bitcointalk.org/index.php?topic=137.0). In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (April 2024), 1 bitcoin is worth about $66,915. So, 10,000 bitcoins, equivalent to about $669 million today, could buy around 45 million pizzas.
 
 But this increase in purchasing power came with even more well-known volatility.
 
@@ -142,13 +142,13 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 The Austrian school of economics defines money by its function: a medium of exchange.
 
-People use money because they place different valuation on each good and service they want to exchange with others.
+People exchange goods and services with each other because they value them differently from each other. Exchanging goods and services directly quickly runs into a problem of double coincidence of wants.&#x20;
 
-We may engage in a direct exchange, such as when person A has an abundance of oranges and person B has an abundance of apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They'll carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before the exchange, so the exchange is mutually beneficial.
+For example, person A has an abundance of oranges and person B has an abundance of apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They'll carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before the exchange, so the exchange is mutually beneficial.
 
 Subjective value is increased for all parties involved in a voluntary exchange.
 
-When we exchange directly, we can run into a problem of double coincidence of wants. For instance, Person A has an abundance of oranges, while Person B has an abundance of apples. Person B prefers to exchange his apples for bananas instead of oranges, while Person A would like to exchange some of his oranges for apples.
+For instance, Person A has an abundance of oranges, while Person B has an abundance of apples. Person B prefers to exchange his apples for bananas instead of oranges, while Person A would like to exchange some of his oranges for apples.
 
 By using a medium of exchange, we are able to solve the problem of double coincidence of wants. For example, if person A finds someone to exchange his oranges for bananas, only to then exchange bananas for apples with person B, person A used bananas as a medium of exchange. In other words, A obtained bananas not because he wanted them, but because he intended to exchange them for what he truly wanted, which was apples. In this scenario, A used bananas as a medium of exchange, or money.
 
