@@ -146,6 +146,6 @@ Giving budgets exceeding 6.7% of total net worth will have a progressively stron
 
 You need a lot of liquidity in your net worth to avoid feeling like your giving transactions are too difficult.
 
-To put it another way, hold onto at least one-third of your net worth in cash (we'll go over how to use Bitcoin as your primary money and cash balance later).
+To put it another way, hold onto at least one-third of your net worth in money (we'll go over how to use Bitcoin as your primary money and cash balance later).
 
 This is to ensure that there is sufficient liquidity to carry out giving transactions without hesitation.
