@@ -39,7 +39,7 @@ If you own some Bitcoin and recognize yourself in any of the following statement
 * You plan for retirement.
 * You tried orange pilling your family and close friends, but they didn't take your advice as seriously as you would have liked.
 * You are willing to allocate even more of your money to Bitcoin, but your partner/spouse is not really on the same page.
-* You have a _Fiat job_, and don't have much of direct Bitcoin inflow streams.
+* You have a _Fiat job_, and don't have direct Bitcoin inflow streams.
 * Because of Bitcoin's high volatility, you do not advise people to go all in.
 * Sometimes you feel like you don't own enough Bitcoin.
 * "_Fiat is for spending, Bitcoin is for saving_" sounds reasonable.
