@@ -28,7 +28,7 @@ Don't be concerned with the nominal amount of Bitcoin you own. The important thi
 
 For example, if you earn $60k per year and spend $50k per year, it makes no difference whether the Bitcoin exchange rate is $30k/BTC or $60k/BTC in terms of your net income and purchasing power. An increase in the value of Bitcoin means that your savings purchasing power has increased, but not necessarily your net income. Similarly, a decline in the purchasing power of Bitcoin does not always translate into a decline in your net income.
 
-You will certainly increase your net income if you follow the principles outlined in the first section of the guide (keep a zero-based budget, stay debt-free, and set aside 10-20% of your budget for giving) and make sure your net worth composition is balanced (keep at least a third in Bitcoin, and no more than a third in Land and Capital, each).
+You will certainly increase your net income if you follow the principles outlined in the first section of the guide (keep a zero-based budget, stay debt-free, and set aside 10-20% of your budget for giving) and make sure your net worth composition is balanced (keep at least a third in Bitcoin, and no more than a third in consumption and capital goods, each).
 
 ### Frequently Reconcile Changes In Bitcoin's Purchasing Power
 
