@@ -88,7 +88,7 @@ Today, you can use a variety of services and exchanges, such as Bitcoin debit ca
 
 But in order to do this safely and effectively and embrace high Bitcoin volatility, you must first learn, implement, and consistently practice three money management principles: planning your money through zero-based budgeting practice, living debt-free, and consistently separating a part of your budget (10-20%) for giving. These timeless principles are founded on millennia of wisdom and are extremely important today, and even more so if you intend to use Bitcoin as your primary money because such a potent, but still largely misunderstood technology can have both extremely positive and extremely negative effects on your financial life. I'll go into details on why & how to practically implement each money management principle.
 
-### Bitcoin is powerful technology in it's early years of adoption
+### Bitcoin is powerful technology in early adoption phase
 
 Bitcoin today, in my opinion, is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to safely handle it. Most people today have at least heard of Bitcoin, but the vast majority still does not own any. An even smaller proportion of those who do actually use Bitcoin as their primary money.
 
