@@ -10,7 +10,7 @@ It encourages you to spend more than you earn in the present because you are spe
 
 This comes with the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, many people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
 
-The Bitcoin standard encourages you to build your cash position by increasing your average net income (inflows minus outflows) over time. This is because your cash (savings held in Bitcoin) will increase in purchasing power over time, effectively providing you with an additional source of inflow.
+The Bitcoin standard encourages you to build your cash position by increasing your average net income (inflows minus outflows) over time. Your cash (savings held in Bitcoin) will increase in purchasing power over time, effectively providing you with an additional source of inflow.
 
 There are 5 ways to increase your net income.
 
