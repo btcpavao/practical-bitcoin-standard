@@ -1,2 +1,8 @@
 # Bitcoin Price Expectations Management
 
+* price volatility, is it completely random?
+* patterns and cycles
+* sentiment estimation: fear & greed
+* check if there is leverage in the market
+* power law theory
+* ultimately, go back to your budget & use models just to get a sense where we are
