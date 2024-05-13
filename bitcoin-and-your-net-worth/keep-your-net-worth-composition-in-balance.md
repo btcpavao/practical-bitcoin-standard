@@ -8,7 +8,7 @@ Let's use the example of a house. Depending on how we use the house, this econom
 
 Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and capital good.
 
-Let's say we our plan is to sell this house at some point in the future. If we purchase the house with the intention of selling it later and we don't plan to live in it or use it for any kind of production, we are effectively using the house as a monetary good.
+Let's say our plan is to sell this house at some point in the future. If we purchase the house with the intention of selling it later and we don't plan to live in it or use it for any kind of production, we are effectively using the house as a monetary good.
 
 We can also use the house exclusively for one purpose at a time. For example, if we only use this house for income-generating purposes (such as renting it out), it is considered a capital good.
 
