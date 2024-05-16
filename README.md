@@ -144,7 +144,7 @@ The Austrian school of economics defines money by its function: a medium of exch
 
 People exchange goods and services with each other because they value them differently from each other. Exchanging goods and services directly quickly runs into a problem of double coincidence of wants.&#x20;
 
-For example, person A has an abundance of oranges and person B has an abundance of apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They'll carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before the exchange, so the exchange is mutually beneficial.
+For example, person A has oranges and person B has apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They'll carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before the exchange, so the exchange is mutually beneficial.
 
 Subjective value is increased for all parties involved in a voluntary exchange.
 
