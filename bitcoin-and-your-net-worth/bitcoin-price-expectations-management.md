@@ -1,9 +1,10 @@
 # Bitcoin Price Expectations Management
 
-* price volatility, is it completely random?
+* purpose of this guide: learn to adjust your finances to the price volatility
+* can we predict future price? just like with weather in the future, we can't predict it exactly, but we can have high confidence in our prediction
 * patterns and cycles
-* sentiment estimation: fear & greed
-* check if there is leverage in the market
+* market sentiment estimation: fear & greed
+* as long as we can see people getting into Bitcoin while having debt on their balance sheets, expect higher volatility
 * focus on price & time
 * power law theory - explanation
 * ultimately, go back to your budget & use power law theory just to get a sense where we are
