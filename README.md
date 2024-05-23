@@ -12,7 +12,7 @@ The guide has two sections: _Money Management Wisdom_ and _Bitcoin and Your Net 
 
 The first section outlines three practices that will enable you to: 1) get full control of your money in terms of time and opportunity cost ([**run a zero-based budget**](money-management-wisdom/plan-your-money.md)); 2) stop all wasteful outflows ([**become and stay debt-free**](money-management-wisdom/live-debt-free.md)); and 3) steadily increase your inflows ([**set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)).
 
-Second section discusses a framework for thinking about and adjusting the composition of your net worth as Bitcoin continues to monetize. You will learn to look at your net worth as being composed of three parts: 1) money, 2) consumption goods and capital (production) goods.
+Second section discusses a framework for thinking about and adjusting the composition of your net worth as Bitcoin continues to monetize. You will learn to look at your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods and capital (production) goods.
 
 ### Who is this guide for?
 
