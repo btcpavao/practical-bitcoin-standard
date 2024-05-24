@@ -76,7 +76,7 @@ I only began studying Bitcoin seriously in late 2017, as I mostly forgot about m
 
 Then I witnessed 2020 halving, and Bitcoin following up all the way to around $60k in Spring of 2021 (1200% increase), then drop back down to around $30k during the Summer of 2021 (50% decrease), only to climb back up to almost $70k in November of 2021. Then I saw it go down again in 2022, all the way down to previous cycle all time high of $20k in Summer of 2022, and retrace down even more to $15k-$16k in November of 2022, which is a retracement of around 80 percent from its high point.
 
-I'm currently looking at the $66,915/BTC price in March of 2024, which is roughly 1693% percent increase over the past five years I'm following it closely.
+I'm currently looking at the $68,174/BTC price in May of 2024, which is roughly 765% percent increase over the past five years I'm following it closely.
 
 I've also heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice was along the lines of "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average."&#x20;
 
