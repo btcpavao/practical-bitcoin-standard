@@ -2,7 +2,7 @@
 
 ### Understand The Difference Between Three Types Of Goods: Monetary, Consumption, Production
 
-It's important to understand that goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
+Economic goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
 
 Let's use the example of a house. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be basically using it as a consumption good).&#x20;
 
