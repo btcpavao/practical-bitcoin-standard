@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [The Big Purpose](README.md)
+* [The Purpose](README.md)
 
 ## Money Management Wisdom
 
