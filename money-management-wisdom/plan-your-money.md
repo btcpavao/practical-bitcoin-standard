@@ -1,6 +1,6 @@
 # Plan Your Money
 
-The first and most important rule is to always have a plan in place for all of your money before spending any of it.
+The first and most important rule is to always have a plan in place for all of your money before spending any of it. I can't stress enough how important this is.
 
 This is not a one-time activity; rather, it is a continuous process of planning and adjusting the plan as you go. The method is known as zero-based budgeting.
 
