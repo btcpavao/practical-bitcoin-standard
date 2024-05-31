@@ -40,7 +40,7 @@ And this is without even considering the value of your potential to increase you
 
 ## Being In Debt Is A State Measured In Two Dimensions: Time And Depth
 
-When you are in debt, there are two factors that determine the level of slavery your spirit will develop. The first and most significant factor is the length of time spent in debt. This period is measured from the moment that you incurred debt to the moment you became debt-free. For instance, you could be in debt for seven days, seven months, or seven years. The longer one remains in debt, the deeper the spirit of slavery becomes rooted.
+When you are in debt, you grow negative spirits, and there are two factors that determine the level of their growth. The first and most significant factor is the length of time spent in debt. This period is measured from the moment that you incurred debt to the moment you became debt-free. For instance, you could be in debt for seven days, seven months, or seven years. The longer one remains in debt, the deeper the spirit of slavery becomes rooted.
 
 The second dimension of debt is the depth of your debt, which is the ratio between the value of your assets and liabilities. If you have $100,000 in assets and $80,000 in debt, you are 80% in debt. If your liabilities exceed the value of your assets, such as if you have $100,000 in assets but $150,000 in debt, you have negative net worth.
 
@@ -256,7 +256,7 @@ Even worse, you don't really feel like you own the thing for the duration of the
 
 If you incur debt through the creation of fiat money, it affects others who are forced by the state to hold fiat debt instruments.
 
-#### Your Debt "Steals" Purchasing Power From The Poor
+#### Your Debt "Steals" Purchasing Power From People Who Hold Fiat
 
 When you take out a bank loan, you create new fiat money.
 
