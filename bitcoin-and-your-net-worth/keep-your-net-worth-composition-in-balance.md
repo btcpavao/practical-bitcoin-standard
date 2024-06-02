@@ -4,7 +4,7 @@
 
 Economic goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
 
-Let's use the example of a house. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be basically using it as a consumption good).&#x20;
+Let's use the example of an economic good: a house. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be basically using it as a consumption good).&#x20;
 
 Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and capital good.
 
