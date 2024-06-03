@@ -6,7 +6,7 @@ If you consistently applied the three money management principles discussed prev
 
 The Fiat standard encourages you to keep your net income negative, and accumulate non-cash assets (consumption & production).
 
-It encourages you to spend more than you earn in the present because you are spending future money, which is likely to have less purchasing power than it does now.
+It encourages you to spend more than you earn in the present because you are spending your future money, which is likely to have less purchasing power than it does now.
 
 This comes with the cost of generating negative spirits (slavery, restlesness and confusion). Because of this, many people who, by Fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
 
