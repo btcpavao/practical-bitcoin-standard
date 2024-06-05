@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This open source guidebook is a collection of principles, tips & tricks and wisdom I gained living on a full Bitcoin standard for the past couple of years. It is essentially a guide on how to hyperbitcoinize your own balance sheet, or in other words, how to not just "invest in Bitcoin", but actually use it as your primary money.
+This is an open source guidebook with a collection of principles I learned living on a full Bitcoin standard for the past couple of years. It is essentially a guide on how to hyperbitcoinize your own balance sheet, or in other words, how to not just "invest in Bitcoin", but actually use it as your primary money.
 
 This means converting all of your income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also means liquidating and converting all of your current [monetary goods](./#what-do-you-use-as-money) to Bitcoin. Lastly, it means becoming used to exchanging Bitcoin for Fiat for your regular spending.
 
