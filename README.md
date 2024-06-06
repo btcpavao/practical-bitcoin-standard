@@ -60,7 +60,7 @@ Similarly, when someone says "_I'm never spending my Bitcoin_" but then signs a 
 
 If someone has $1 in Bitcoin and $99 in Fiat and makes a $20 purchase, he has spent $20 worth of Bitcoin (at the time of purchase), regardless of whether he made payment from his $ balance. Because if he converted all of his $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, he would still have $80 worth of purchasing power in Bitcoin at the end.
 
-### Bitcoin's high volatility
+### Bitcoin's purchasing power volatility
 
 Bitcoin is a very different kind of money from Fiat that we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly while that of Fiat has steadily declined.
 
