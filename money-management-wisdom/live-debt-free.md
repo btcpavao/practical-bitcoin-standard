@@ -8,63 +8,61 @@ The second step you should take is becoming and remaining debt-free. The main go
 
 ### Do Not Ever, Under Any Circumstance, Spend Your Future Money
 
-Why is it never a good idea to get into debt? Simply, because the future is uncertain.
+Simply put, because the future is uncertain.
 
-Let's think more deeply about it. What does it mean that the future is uncertain? It simply means that we do not know what will happen in our lives tomorrow, next week, next month, next year, or in ten years. We can plan for and expect some events to happen, and we can even assign higher or lower probabilities, but at the end of the day, there really is no way to know with certainty.
+**The Nature of Uncertainty**
 
-When one considers uncertainty about the future, they typically associate it with fear of negative outcomes. However, an uncertain future also implies the possibility of positive outcomes. We simply don't know what will happen, when, or how (both good and bad).
+The future's uncertainty means we cannot predict what will happen tomorrow, next week, next month, next year, or even in ten years. While we can plan and assign probabilities to certain events, we can never know with certainty what will occur.
 
-This is why it is fundamentally unwise to spend your future money. Simply said, you have no knowledge how much money you will earn or have in the future.
+**The Implications of Uncertainty**
 
-On the other hand, we know for certain what will happen if you spend from the future. Until you pay off the debt, your present cash outflows will increase.
+Uncertainty often evokes fear of negative outcomes, but it also implies the potential for positive outcomes. We don't know what will happen, when, or how—whether good or bad. This inherent uncertainty makes it fundamentally unwise to spend future money.
 
-This increase in your present cash outflows can be a problem in two different ways.
+**The Risk of Spending Future Money**
 
-A negative event that might happen in the future (which, once again, you are unaware of) such as losing your job or seeing a decline in your cash inflows as a result of any unfavorable circumstance (losing the job, your clients filing for bankruptcy, getting sick, etc.). A reduction in income will make your debt situation worse since you run a higher risk of defaulting on your debt, which typically has a domino effect of negative consequences in other parts of your life. For example, money problems in marriages are one of the main causes of divorces around the world. A situation like this amplifies the bad impacts.
+When you incur debt, you commit to future cash outflows without knowing your future income. This decision can create two main problems:
 
-On the flipside, you might eventually come across a good opportunity that you regretfully miss out on because you are generally unable to take calculated risks with your income. For example, you may come across an opportunity to switch careers or start a new business. Both of these things could reduce or stop your income for a while (let's say for a year or two), but after this decrease, your income could double, triple, or grow by orders of magnitude more than what you make now. However, you are incurring this opportunity cost because you simply cannot afford to take the risk - because your cash outflows are already determined by the payments you must make.
+1. **Increased Present Cash Outflows:**
+   * **Negative Events:** If a negative event occurs, such as losing your job, facing a decline in income, or experiencing a health issue, your debt situation worsens. Reduced income increases the risk of defaulting on your debt, leading to a cascade of negative consequences. For instance, financial stress is a major cause of marital problems and divorces, further amplifying the negative impacts.
+   * **Missed Opportunities:** On the flip side, debt can prevent you from seizing positive opportunities. For example, you might miss out on a chance to switch careers or start a new business because you cannot afford to take the risk. These opportunities might temporarily reduce your income but could eventually lead to significant financial growth. Debt limits your ability to take such calculated risks, as your cash outflows are already committed to debt payments.
+2. **Subjective Valuation Changes:**
+   * Each time you make a transaction, you assess its value in the present. This valuation can change over time. An item you purchase today might seem worth the money now, but in the future, you might value the money more than the item. Subjective valuations fluctuate due to various unpredictable factors, making it risky to commit future money.
 
-Furthermore, each time you conduct a transaction, you are performing valuation in the here and now, and that valuation may alter later on. The item you are purchasing now may be more valuable to you than the money you must exchange to obtain it, whereas the same item may be less valuable to you than the money you must exchange for it in the future. Your subjective valuation can and will change due to a variety of factors, none of which you can predict with certainty.
+**Conclusion**
+
+Given the uncertainty of the future and the potential for both negative and positive outcomes, it is unwise to get into debt. Debt increases your present financial obligations, making it harder to adapt to negative events and seize positive opportunities. Additionally, your subjective valuation of purchases can change, further complicating the decision to spend future money. Therefore, it is prudent to avoid debt whenever possible to maintain financial flexibility and stability.
 
 ### Always Spend Only Your Past Money
 
-Spending money you already have means you are fully aware of its opportunity cost (because your money is already budgeted).
+Spending money you already have means you are fully aware of its opportunity cost because your money is already budgeted. You will always get a better deal when paying with cash compared to using credit, and you will avoid paying interest over time. Additionally, you should consider the future purchasing power of these savings if invested in Bitcoin.
 
-You will always receive a better deal when paying with cash for whatever you are purchasing than when using credit, and you will avoid paying the interest rate over time. When you add up these two, you should consider their future purchasing power if you were to save them in Bitcoin.
+For example, if you see an item with a $5,000 manufacturer’s suggested retail price (MSRP) and decide to buy it with cash, you may be able to negotiate the price down to around $4,500. On the other hand, if you finance it over five years, you would end up paying about $6,000 in total, or $100 a month. The $1,500 price difference should be adjusted for its opportunity cost if it were saved in Bitcoin over those five years. Even if we assume that Bitcoin's growth rate slows to ten times less than its historical trend, we are still looking at a compound annual growth rate (CAGR) of about 15%.
 
-For instance, if you see something with a $5,000 manufacturer’s suggested retail price (MSRP, or sticker price) and decide to buy it with cash, you may be able to negotiate the price down to around $4,500. If, on the other hand, you were to finance it over, say, five years, you would pay about $6,000 total, or $100 a month. But the $1,500 price difference should be adjusted for it's opportunity cost if it were saved in Bitcoin over 5 years. We are still talking about an annual compound annual growth rate (CAGR) of about 15%, even if we assume that Bitcoin will continue to grow at a rate ten times slower than its historical trend.
-
-And this is without even considering the value of your potential to increase your inflows as a result of not growing a spirit of slavery, restlessness, and confusion, but rather a spirit of freedom, peace, and clarity over the time you'd otherwise be in debt.
+Furthermore, this analysis does not even consider the value of your potential to increase your inflows. By avoiding debt, you cultivate a spirit of freedom, peace, and clarity, rather than a spirit of slavery, restlessness, and confusion. This positive mindset can significantly impact your ability to grow your income over time.
 
 ***
 
 ## Being In Debt Is A State Measured In Two Dimensions: Time And Depth
 
-When you are in debt, you grow negative spirits, and there are two factors that determine the level of their growth. The first and most significant factor is the length of time spent in debt. This period is measured from the moment that you incurred debt to the moment you became debt-free. For instance, you could be in debt for seven days, seven months, or seven years. The longer one remains in debt, the deeper the spirit of slavery becomes rooted.
+When you are in debt, you grow negative spirits, and there are two factors that determine the level of their growth. The first and most significant factor is the length of time spent in debt. This period is measured from the moment you incurred debt to the moment you became debt-free. For instance, you could be in debt for seven days, seven months, or seven years. The longer one remains in debt, the deeper the spirit of slavery becomes rooted.
 
-The second dimension of debt is the depth of your debt, which is the ratio between the value of your assets and liabilities. If you have $100,000 in assets and $80,000 in debt, you are 80% in debt. If your liabilities exceed the value of your assets, such as if you have $100,000 in assets but $150,000 in debt, you have negative net worth.
+The second dimension of debt is the depth of your debt, which is the ratio between the value of your assets and liabilities. If you have $100,000 in assets and $80,000 in debt, you are 80% in debt. If your liabilities exceed the value of your assets, such as if you have $100,000 in assets but $150,000 in debt, you have a negative net worth.
 
-It is essentially impossible to completely avoid incurring debt because, even without entering into a formal debt contract with a lender, you generate liabilities during normal financial transactions. For instance, when you visit a restaurant, you typically consume the meal first and pay afterward. If you begin your meal at 7 p.m., finish it at 9 p.m., and then wait one hour to pay the bill, you are responsible for paying for one hour. It is preferable to pay when you finish your dinner at 9 p.m. and settle the bill immediately.
+It is essentially impossible to completely avoid incurring debt because, even without entering into a formal debt contract with a lender, you generate liabilities during normal financial transactions. For instance, when you visit a restaurant, you typically consume the meal first and pay afterward. If you begin your meal at 7 p.m., finish it at 9 p.m., and then wait one hour to pay the bill, you are responsible for paying for that one hour. It is preferable to pay when you finish your dinner at 9 p.m. and settle the bill immediately.
 
-Likewise, when your regular bills arrive, get into a habit of paying them off immediately, rather than waiting to do it. Let's say you receive the bill for last month's electricity usage on the first of the following month, with a due date of the 15th. Do not delay making the payment until the 15th; instead, make the payment immediately on the 1st. Always return to the first principle stated above: the time spent in debt breeds the spirit of slavery. Eventually, you will not want to delay paying off your debts for any longer than absolutely necessary.
+Likewise, when your regular bills arrive, get into the habit of paying them off immediately, rather than waiting to do it. Let's say you receive the bill for last month's electricity usage on the first of the following month, with a due date of the 15th. Do not delay making the payment until the 15th; instead, make the payment immediately on the 1st. Always return to the first principle stated above: the time spent in debt breeds the spirit of slavery. Eventually, you will not want to delay paying off your debts any longer than absolutely necessary.
 
 ### Age Your Money
 
-The older your money, the more financial peace you have. Debt reduces the age of money. Higher age of money equals lower time preference. A higher age of money allows for more time to research the purchase, resulting in a better purchase. With a higher age of money, you will enjoy your purchases more because there was more time spent planning, anticipating, and overall appreciation.
+The older your money, the more financial peace you have. Debt reduces the age of money. A higher age of money equals a lower time preference. A higher age of money allows for more time to research the purchase, resulting in a better purchase. With a higher age of money, you will enjoy your purchases more because more time was spent planning, anticipating, and overall appreciating them.
 
 ### Two States Of Being (In Debt And Debt-Free) Generate 6 Different Spirits
 
-Spending credit taints a person's psychospiritual makeup with the spirits of slavery, restlesness and confusion.
+Spending credit taints a person's psychospiritual makeup with the spirits of slavery, restlessness, and confusion. You can be either "In Debt" or "Debt Free" in your spiritual makeup. Each state cultivates the growth of different spirits: when you are in debt, you cultivate the spirits of slavery, restlessness, and confusion; when you are debt-free, you cultivate the spirits of freedom, peace, and clarity.
 
-You can be either "In Debt" or "Debt Free" in your spiritual makeup. They both cultivate the growth of different spirits: when you are in debt, you cultivate the spirit of slavery, restlesness and confusion, and when you are debt-free, you cultivate the spirit of freedom, peace and clarity.
+There is no such thing as "good" or "bad" debt, but there is a specific psychospiritual mechanism that one state cultivates over the other. It may be helpful to imagine your soul as soil, with seeds of various spirits inside that are lying dormant. When a seed is watered (in this metaphor, watering the seed is analogous to a specific practice), it sprouts and begins to grow. If you keep watering it, it will get bigger, stronger, grow roots and a trunk, and eventually produce fruit.
 
-There is no such thing as "good" or "bad" debt, but there is a specific psychospiritual mechanism that one state cultivates over the other. It may be helpful to imagine your soul as a soil, with seeds of various spirits inside that are kind of laying there, dormant. When a seed is watered (in this metaphor, watering the seed is analogous to a specific practice), it sprouts and begins to grow.
-
-If you keep watering it, it will get bigger, stronger, grow roots and a trunk, and eventually produce fruit.
-
-When you owe money (i.e. have a liability on your balance sheet), you begin to "water" the seed of the spirit of slavery, restlesness and confusion.
-
-When you have no liabilities, that is, you owe no money to anyone, you begin to "water" the spirit of freedom, peace and clarity.
+When you owe money (i.e., have a liability on your balance sheet), you begin to "water" the seed of the spirit of slavery, restlessness, and confusion. When you have no liabilities, that is, you owe no money to anyone, you begin to "water" the spirit of freedom, peace, and clarity.
 
 ***
 
