@@ -199,42 +199,42 @@ We'll also learn how to use savings goals. For example, if we want to save $20,0
 
 ### Age Of Money
 
-The age of money is the average time between earning and spending your money, measured in days. In other words, how long did the money you used to make a transaction sit around in your accounts, on average.
+The "age of money" refers to the average number of days between earning and spending your money. Essentially, it measures how long, on average, your money remains in your accounts before being used for transactions.
 
-The greater this number, the simpler it is to manage money in general. The longer our money ages, the more time we have to make decisions about its opportunity cost. The longer we age our money, the more the time dimension of money is revealed.
+A higher age of money indicates easier overall money management. The longer your money sits in your accounts, the more time you have to consider its opportunity cost and make informed decisions.
 
-If this is your first time budgeting, don't get too caught up in the age of money number. If you follow the principles outlined in this guidebook, your money age will increase naturally over time.
+If you're new to budgeting, don't worry too much about the age of money. By following the principles in this guidebook, your money's age will naturally increase over time.
 
 ### Assets
 
-Assets include everything we own.&#x20;
+Assets include everything we own, such as money in bank accounts, Bitcoin, investments, stocks, bonds, real estate, artwork, and cars. These assets are categorized into two sections: Budget and Tracking.
 
-These include money in bank accounts, Bitcoin, investments, stocks, bonds, real estate, artwork, cars, and so forth. Budget and Tracking are the two distinct sections where assets are grouped. Every liquid and highly salable asset — what we would call money — that we use to allocate to budget categories is included in the budgeting section, which is also where we track our inflows and outflows.&#x20;
+The Budget section includes all liquid and highly salable assets, essentially what we consider money, which we allocate to various budget categories. This section also tracks our inflows and outflows.
 
-The Tracking section  is for monitoring the market value of our assets that are not included in our budget categories and are less liquid / salable than cash. These include, for instance, automobiles and real estate, non-liquid investments like bond & stock portfolios, private equity and so on.
+The Tracking section monitors the market value of assets not included in our budget categories and those that are less liquid or salable than cash. These assets include automobiles, real estate, non-liquid investments like bond and stock portfolios, private equity, and similar items.
 
 ### Budget Categories
 
-Budget categories are the areas in which you assign your money. For example, when you buy anything that you consider to be groceries, you enter the transaction and choose the Groceries category.
+Budget categories are the areas to which you assign your money. For example, when you purchase groceries, you enter the transaction under the Groceries category.
 
-The main purpose of Categories in your budget is to specifically represent the opportunity cost of your money.
+The main purpose of these categories in your budget is to clearly represent the opportunity cost of your money.
 
 ### Category Groups
 
 It is useful to group similar categories together in a Category Group. For example, you can create two major Category Groups: Essentials and Discretionary.
 
-Then, you may organize the categories you consider essential (necessary, non-negotiable, needed) and group them together under Essentials, and do the same for Discretionary.
+In the Essentials Category Group, you can organize necessary, non-negotiable, and needed categories. Similarly, you can group non-essential, flexible spending categories under Discretionary.
 
-For example, you may have something like this:
+Here is an example:
 
-**Essentials Category Group**
+**Essentials Category Group:**
 
 * Shelter & Utilities
 * Groceries
 * Transportation
 * Clothing
 
-**Discretionary Category Group**
+**Discretionary Category Group:**
 
 * Hobbies
 * Vacation
@@ -242,73 +242,59 @@ For example, you may have something like this:
 
 ### Debts (Liabilities)
 
-Debts (liabilities) include everything we owe. For example, cash loans, credit card balances, auto loans, student loans, mortgages, leases, home equity lines of credit, and any other secured or unsecured debts we have. These are monitored based on their current balance.
+Debts (liabilities) include everything we owe. Examples are cash loans, credit card balances, auto loans, student loans, mortgages, leases, home equity lines of credit, and any other secured or unsecured debts. These are monitored based on their current balances.
 
 ### Income Vs Expense Report
 
-The Income v Expense report displays all of your budget inflows and outflows over time and can be filtered by budget category and budget account. You will be able to see all of your income sources as well as all of your expenses organized by category. Here you can see the total income and total expenses for the whole budget period, as well as the average monthly income and average monthly expenses.
+The Income vs. Expense report displays all your budget inflows and outflows over time and can be filtered by budget category and budget account. This report shows all your income sources and expenses organized by category. You can view the total income and total expenses for the entire budget period, as well as the average monthly income and average monthly expenses.
 
 ### Inflows & Outflows
 
-Inflow refers to money coming in.&#x20;
+Inflow refers to money coming in, while outflow refers to money going out. We can compare our inflow and outflow levels over time. If more money comes in than goes out, you will have a positive net income. Conversely, if outflows are higher than inflows, you will have a negative net income. Your average net income is calculated over time.
 
-Outflow refers to money going out.&#x20;
-
-Our inflow and outflow levels can be compared over time.&#x20;
-
-If more money comes in than goes out, you will have a positive net income. When outflows are higher than inflows, you have negative net income.&#x20;
-
-Your average net income is calculated over time.&#x20;
-
-Task: Check your income and expenses once a week. Take a look at your net income. Limit your search to a single category.
+**Task:** Check your income and expenses once a week. Review your net income and limit your search to a single category.
 
 ### Net Income
 
-Net income is the difference between your income and expenses. It can be viewed as part of the Income vs. Expense Report and is calculated as the total net income for the duration of the budget, or per month on average for the selected duration.
+Net income is the difference between your income and expenses. It can be viewed as part of the Income vs. Expense Report. Net income is calculated as the total net income for the entire budget duration or as the average monthly net income for the selected period.
 
 ### Net Worth
 
-Your net worth is the sum of your assets minus your debts (liabilities).
-
-For example, if you own a $100,000 house, a $15,000 car, $10,000 in your bank account, and $5,000 in investments, your assets are worth $130,000. If you also have a $4,000 credit card balance, a $80,000 mortgage, and a $10,000 car loan, you should subtract your $94,000 liabilities from your $130,000 assets to get your net worth, which is $36,000 in this case.
-
-Net worth can be tracked over time.
+Your net worth is the sum of your assets minus your debts (liabilities). For example, if you own a $100,000 house, a $15,000 car, $10,000 in your bank account, and $5,000 in investments, your assets total $130,000. If you also have a $4,000 credit card balance, an $80,000 mortgage, and a $10,000 car loan, you should subtract your $94,000 in liabilities from your $130,000 in assets to get your net worth, which is $36,000 in this case. Net worth can be tracked over time.
 
 ### Payees
 
-Payee is any party (person or legal entity) with whom we make incoming or outgoing transactions.
+A payee is any party (person or legal entity) with whom we make incoming or outgoing transactions.
 
-Why should we keep track of our payees? Because we need to know precisely where our inflows and outflows occur, so we can make better decisions about who we transact with over time.
+Why should we keep track of our payees? It allows us to know exactly where our inflows and outflows occur, enabling us to make better decisions about who we transact with over time.
 
 ### Running Balance
 
-The running balance is the amount of money in your account that is readily available when needed. It is possible to hold money in multiple accounts.
+The running balance is the amount of money in your account that is readily available when needed. You can hold money in multiple accounts, and every time you make a transaction from an account, the running balance changes.
 
-Every time you make a transaction from an account, the running balance number changes.
+**Cleared balance** is the total of all transactions that are not currently pending.
 
-_Cleared balance_ is the total of all transactions that are not currently pending.
+**Uncleared balance** includes transactions that you manually entered but are still pending clearance.
 
-_Uncleared balance_: transactions that you manually entered but are pending clearance.
+**Working balance** is the sum of cleared and uncleared transactions, representing the money you have available to spend.
 
-_Working balance_: the sum of cleared and uncleared transactions; the money you have available to spend.
-
-_Scheduled transactions_: running balance is useful when you need to know how much money you'll need in the account from which you'll be making transactions in the future.
+**Scheduled transactions:** The running balance is useful for understanding how much money you'll need in the account for future transactions.
 
 ### Scheduled Transactions
 
-Scheduled transactions are all the ones that will happen in the future. Let's say we know that our rent is due on the 15th of next month, but today is the 1st of the month. We should enter a scheduled transaction for the 15th.
+Scheduled transactions are those that are set to occur in the future. For example, if we know our rent is due on the 15th of next month and today is the 1st, we should enter a scheduled transaction for the 15th.
 
-Some transactions are recurring. For example, we may have a monthly internet bill. You can create recurring transactions in your budget, and once you pay them, they will appear in the budget's scheduled transactions.
+Some transactions are recurring, such as a monthly internet bill. You can create these recurring transactions in your budget, and once you pay them, they will appear in the budget's scheduled transactions.
 
 Both inflows and outflows can be set up as scheduled transactions.
 
 ### Spending Totals
 
-You can filter the spending totals report by time period, account, and category to see a visual breakdown of your expenses. This is useful if, for instance, you wish to determine which category has the largest amount relative to your total expenses over the particular duration of time.
+You can filter the spending totals report by time period, account, and category to see a visual breakdown of your expenses. This is useful if you want to determine which category has the largest amount relative to your total expenses over a specific duration.
 
 ### Spending Trends
 
-Spending Trends is a helpful visual representation of your monthly total spending by category. This is useful for examining how your spending has changed over time.
+Spending Trends is a helpful visual representation of your monthly total spending by category. This tool is useful for examining how your spending patterns have changed over time.
 
 ### Targets
 
@@ -334,47 +320,52 @@ Spending Trends is a helpful visual representation of your monthly total spendin
 
 ### Transaction Memo
 
-Memo is where you can describe the transaction. In most cases, I simply record the transaction's details and include a list of the goods I bought on the invoice. You can use this field to go into much greater detail about the transaction. The more descriptive you are, the more insight you will gain upon revisiting the transaction in the future.
+The memo field is where you can describe the transaction. In most cases, I record the transaction details and include a list of the goods I bought on the invoice. You can use this field to provide much greater detail about the transaction. The more descriptive you are, the more insight you will gain when revisiting the transaction in the future.
 
 ### Transfer Transactions
 
-A transfer transaction is one in which you move money from one account in your budget to another. This type of transaction has no effect on how your money is assigned to budget categories. It also has no effect on the total amount of money you have.
+A transfer transaction is one in which you move money from one account in your budget to another. This type of transaction does not affect how your money is assigned to budget categories or the total amount of money you have.
 
-An example of this type of transaction is moving your money from one checking account at the same bank to another. Transferring money from one account to another can sometimes result in a transfer fee.
+An example of a transfer transaction is moving money from one checking account to another at the same bank. Note that transferring money between accounts can sometimes result in a transfer fee.
 
 ***
 
 ## How To Make A Zero Based Budget
 
-To get a feel for how the method works, I think you should start with the simplest budget possible. Take two envelopes and write "essentials" on one and "discretionary" on the other. These are your two main categories.
+To understand how the method works, it's best to start with a simple budget. Here's a step-by-step guide using both the pen and paper (envelope) method and the YNAB software:
 
-Then, the idea is to start practicing moving money from one envelope to another, back and forth.
+#### Pen and Paper (Envelope) Method:
 
-Start your practice by entering couple of transactions in your "envelope budget".
+1. **Set Up Your Envelopes:**
+   * Take two envelopes and label one "Essentials" and the other "Discretionary." These are your main categories.
+2. **Practice Moving Money:**
+   * Begin by practicing moving money between envelopes. This will help you get comfortable with budgeting.
+3. **Create a Zero-Based Budget:**
+   * Write down a scenario where you have $100 in total.
+   * Assign amounts to three different categories. For example, "I have $100, so I'm going to assign $30 to Category 1, $40 to Category 2, and $30 to Category 3."
+4. **Record Transactions:**
+   * Imagine spending $10 from one of the categories. For example, if you spend $10 from Category 2, you now have $90 left in total.
+   * Adjust the balance in Category 2: $40 - $10 = $30 remaining.
+5. **Repeat for Further Expenses:**
+   * Continue this process for any additional expenses or income adjustments. This manual tracking helps you stay aware of your budget.
 
-You can create a zero-based budget by just using pen and paper, or software (I recommend [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K)).&#x20;
+#### Using YNAB:
 
-Here's a step-by-step guide:
+1. **Count Your Money:**
+   * Start by counting all the money you have right now, including cash, checking accounts, savings accounts, etc.
+2. **Enter Balances into YNAB:**
+   * Write down or enter these amounts into YNAB. For example, if you have $34 in your wallet, add an account named "Wallet" with a balance of $34.
+   * Similarly, add your checking account. If it has $2,344.42, add an account named "Checking Account" with a balance of $2,344.42.
+3. **Add All Accounts:**
+   * Add any other accounts where you have money. YNAB will sum up all the balances from your accounts, showing the total amount available to assign.
+4. **Assign Money to Categories:**
+   * Delete the template categories in YNAB and create your own categories.
+   * Assign your money to these categories until everything is allocated.
+5. **Track Assets and Liabilities:**
+   * For assets and liabilities not part of your cash balance, list them separately to track your net worth.
+   * Add tracking accounts for items like the value of your home (asset) and any outstanding loans (liabilities).
 
-**Pen and Paper (Envelope) Method:**
-
-* Start with a simple thought exercise. You have $100 in total, so you want to assign amounts to three different categories. Each category is one envelope.
-* For example, "I have $100, so I'm going to assign $30 to Category 1, $40 to Category 2, and $30 to Category 3."
-* Imagine spending $10 from one of the categories. Let's say you spend $10 from Category 2. You are now left with a total of $90.
-* Adjust the category balance. In this case, update Category 2 to show that you have $40 - $10 = $30 remaining in that category.
-* Repeat this process for any further expenses or income adjustments.
-* This method allows you to manually track and adjust your budget using pen and paper.
-
-**Using** [**YNAB**](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K)**:**
-
-* Start by counting all the money you have right now, including cash, checking accounts, savings accounts...
-* Write down or enter these amounts into [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K). For example, if you have $34 in your wallet, add account with a name "Wallet" and enter $34 as your current account balance.
-* If you have, as an example, $2,344.42 in your checking account, add account with a name "Checking account" and enter $2,344.42 as your current account balance.
-* Proceed with adding any other accounts you can think of, where you have some money.
-* [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K) will automatically add up all the balances from your various checking and savings accounts, and will show you total amount of money you have ready to assign.
-* Now, you need to assign this money to categories. Start by deleting all the template categories you have in [YNAB](https://ynab.com/referral/?ref=uG2RTVYBHGoOcJ8K), and create couple of categories on your own.
-* Assign money to these categories, until everything is assigned.
-* For assets and liabilities that are not part of your cash balance, list them separately to track your net worth. These can include things like the value of your home (asset) and any outstanding loans (liabilities). Do this by adding tracking accounts.
+By starting with these simple steps, you'll get a feel for budgeting and be able to track your income and expenses effectively.
 
 ### Mission: 180 Days Of Budgeting Practice
 
@@ -391,6 +382,4 @@ Start by setting up your budget according to the instructions provided in the pr
 
 Remember, you can create a zero-based budget with a physical notebook and pen. The main thing you need to do is enter each transaction you make, including the date, payee, amount, category, and description.
 
-When you understand how this works, it doesn't matter which tool you use. You can also create your budget using any spreadsheet software.
-
-Personally, I prefer using [YNAB](https://www.ynab.com/) software for zero-based budgeting.
+Once you understand how this works, it doesn't matter which tool you use. You can also create your budget using any spreadsheet software. Personally, I prefer using YNAB software for zero-based budgeting.
