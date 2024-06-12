@@ -70,57 +70,39 @@ When you owe money (i.e., have a liability on your balance sheet), you begin to 
 
 ### Spirit Of Slavery
 
-Spiritually, the borrower is a slave of the lender. Slavery here is defined as not having freedom on deciding how to utilize time. There is the extent to which this freedom is reduced, and it's measured in the amount of time you will need to allocate for servicing the debt for the duration of the debt.
+Spiritually, the borrower is a slave to the lender. Slavery here is defined as the lack of freedom in deciding how to utilize time. The extent of this freedom reduction is measured by the amount of time needed to service the debt over its duration.
 
-People can intuitively sense this spirit in you by watching how you spend your money, do your job, and spend your free time. In general, the longer and more deeply in debt you are, the less free time you will have, the more stressful working life will be, and the more tightly you will have to restrict your spending.
+People can intuitively sense this spirit in you by observing how you spend your money, perform your job, and use your free time. Generally, the longer and deeper you are in debt, the less free time you will have, the more stressful your working life will be, and the more tightly you will need to restrict your spending.
 
-Spirit of slavery gives off a subtle energy of desperation that other people can sense. This aura will keep inflow opportunities away. No one likes to deal with the desperate because it makes them feel bad if they do nothing to help. An answer for this is to make giving a regular habit.
+The spirit of slavery emits a subtle energy of desperation that others can sense. This aura repels opportunities because no one likes to deal with desperation, as it makes them feel bad if they do nothing to help. A solution to this is to make giving a regular habit.
 
-When a person lacks a well-established giving practice and senses desperation emanating from the spirit of slavery in another person, they will seek to avoid or minimize economic interaction with that person.
+When a person lacks a well-established giving practice and senses desperation from the spirit of slavery in another, they will seek to avoid or minimize economic interaction with that person.
 
-The spirit of slavery means you can't fully control how you spend your time. Your time will be partially or fully used to service the debt.
+The spirit of slavery means you can't fully control how you spend your time; it will be partially or fully used to service the debt. The spirit of slavery grows stronger the longer you're in debt. Once you eliminate debt, it stops growing. The longer you stay out of debt, the slower it will grow back if you decide to incur debt again.
 
-The spirit of slavery gets stronger the longer you're in debt. Once you eliminate debt, it stops growing. The longer you stay out of debt, the slower it'll grow back if you decide to get into debt again.
+Imagine it as an obstacle that arises when you lose the spirit of freedom. Instead of being surrounded by fruitful trees, your environment is filled with thorns and weeds. The presence of the spirit of slavery intensifies every challenge you encounter. It consumes your sense of pleasure and magnifies your hardships.
 
-Imagine it as an obstacle that arises when you lose the spirit of freedom. Rather than being surrounded by fruitful trees, it filled your environment with thorns and weeds. The presence of the spirit of slavery intensifies every challenge you encounter. The spirit of slavery consumes your sense of pleasure and intensifies your hardships.
+Can you decide to dedicate the next six months of your life to a business venture that has an 80% chance of doubling your income in just one year? If you're already in debt for over a year and still have more than six months of payments to go, then it's unlikely to happen.
 
-Can you decide to dedicate the next six months of your life to a business venture that has an 80% chance of doubling your income in just one year? If you're already in debt for over a year and still have over 6 months of payments to go, then it's not happening.
+Because of this, the spirit of slavery incurs opportunity costs on both your future and past inflows during your time in debt. Once you attain a debt-free state, the opportunity cost vanishes, leading to higher inflows and lower outflows over time as the spirit of freedom grows.
 
-Because of this, the spirit of slavery brings about opportunity cost on both your future inflows and your past inflows during your time in debt. Once you attain a debt-free state, the opportunity cost vanishes, leading to higher inflows and lower outflows over time as the spirit of freedom grows.
-
-Once you are debt-free for at least one year, you can dedicate the following six months to a business venture with an 80% chance of doubling your income in a year.
-
-Even if the inflow doesn't double (20% chance), you can repeat the process with the same time frames and odds. This time, since you'll have been out of debt for two years, you'll be able to plan your decisions for up to two years.
+Once you are debt-free for at least one year, you can dedicate the following six months to a business venture with an 80% chance of doubling your income in a year. Even if the inflow doesn't double (20% chance), you can repeat the process with the same time frames and odds. This time, having been out of debt for two years, you'll be able to plan your decisions for up to two years.
 
 ### Spirit Of Restlesness
 
-Being in a state of debt means constantly worrying about making the next payment on time. This produces the spirit of restlessness.
+Being in a state of debt means constantly worrying about making the next payment on time, which produces a spirit of restlessness. The stability of your income source is crucial because debt repayment is your top priority. If your income source encounters financial difficulties, it will directly affect you. Whether you are consciously aware of it or not, this fuels your restlessness.
 
-The stability of your income source is crucial because debt repayment is your top priority. If your source of income encounters financial difficulties, it will directly affect you. Regardless of your conscious awareness, this will fuel your restlessness.
-
-Your spirit of restlessness affects those around you.
-
-Restlessness leads to impatience.
-
-It disturbs sleep and negatively affects health.
-
-It lowers the overall ability to earn money.
+Your spirit of restlessness also affects those around you. Restlessness leads to impatience, disturbs sleep, and negatively impacts your health. Ultimately, it lowers your overall ability to earn money.
 
 ### Spirit Of Confusion
 
-The main cause of the spirit of confusion is your choice to spend money from the uncertain future.
+The main cause of the spirit of confusion is the choice to spend money from an uncertain future. Humans can only make valuations in the present, informed by the certainty of their previous valuations. When you spend future money, you become confused about the value of what you bought. This is because you performed a present valuation on a present item using future money, but in the future, your valuation can change completely.
 
-Humans can only make valuations in the present, and they can be informed by the certainty of their previous valuations.
+Confusion raises the cost of ownership of the purchased item because you are less likely to properly care for it. You don't properly care for it because it is not truly yours until you pay it off. During the payoff period, your valuation of the item may change, and you may value the money you are paying more than the item itself.
 
-When you spend from the future, you get confused about the value of what you bought. This is because you performed present valuation on the present thing you bought, but did so with future money. But in the future, your valuation can change completely.
+If you try to liquidate the item to pay off the debt, you may find that its depreciation, combined with reduced ongoing maintenance costs, has increased the cost of ownership so much that you cannot completely pay off the debt by selling the item. In other words, you are "underwater," as the asset you are trying to liquidate is worth less than your debt.
 
-Confusion raises the cost of ownership of the item you purchased because you are less likely to properly care for it. You are not properly caring for it because it is not truly yours until you pay it off.
-
-Nevertheless, your valuation of the thing may change during the payoff period, and you may value the money you are paying for it more than the thing itself.
-
-However, if you try to liquidate the thing and pay off the debt, you may find that the depreciation of the thing, combined with your reduced ongoing maintenance costs, increased the cost of ownership so much that you are unable to pay off the debt completely by simply liquidating the thing. In other words, you are "underwater," as the asset you are attempting to liquidate is worth less than your debt.
-
-The spirit of confusion will make it more difficult for you to realistically mark to market the value of the item you purchased with debt. Because you know that just looking at it will make things more confusing, you won't want to.
+The spirit of confusion makes it more difficult to realistically assess the value of the item you purchased with debt. Knowing that examining the situation will only add to the confusion, you may avoid confronting it altogether.
 
 ***
 
