@@ -108,37 +108,19 @@ The spirit of confusion makes it more difficult to realistically assess the valu
 
 ## Debt-Free Spirits
 
-### Spirit Of Freedom
+The spirit of freedom is a state where you are fully in control of how you utilize your ultimate resource: time. By staying debt-free, the spirit of freedom grows with time. Think of it as an asset, similar to a tree that flourishes and bears more fruit as it grows, as long as you remain debt-free. It needs time to grow. When you enter a state of debt, the growth of your spirit of freedom stops, and it resumes once you get out of debt.
 
-A place where you are fully in control of how you utilize your ultimate resource: time.
-
-By staying debt-free, the spirit of freedom grows with time.
-
-View it as an asset, akin to a tree that flourishes and bears more fruit as it grows, as long as you remain debt-free. It needs time to grow. When you enter a state of debt, the growth of your spirit of freedom stops, and it resumes when you get out of debt.
-
-The more spirit of freedom you have, the greater your ability to decide how to utilize your time.
-
-If your spirit of freedom is one year old, you have the ability to decide how you spend your time for up to a year. If it's "ten years old," you can determine how to allocate your time for the next ten years.
+The more spirit of freedom you have, the greater your ability to decide how to utilize your time. If your spirit of freedom is one year old, you have the ability to decide how you spend your time for up to a year. If it’s ten years old, you can determine how to allocate your time for the next ten years.
 
 The longer you stay out of debt, the better you become at understanding and utilizing your remaining time in the future.
 
 ### Spirit Of Peace
 
-When you don't have to worry about your next debt payment, you can sleep peacefully and find serenity.
-
-When you have the spirit of peace, you can appreciate what you have more.
-
-Spirit of peace allows you to be fully present.
-
-The spirit of peace has the power to heal both your mind and body, leading to improved overall health.
-
-Your spirit of peace will bring peace to those around you.
+When you don't have to worry about your next debt payment, you can sleep peacefully and find serenity. When you have the spirit of peace, you can appreciate what you have more. The spirit of peace allows you to be fully present. The spirit of peace has the power to heal both your mind and body, leading to improved overall health. Your spirit of peace will bring peace to those around you.
 
 ### Spirit Of Clarity
 
-Spirit of clarity manifests as a heightened awareness of the value of each purchase you make, for you. If you consider its value for you is greater than the expense, you will choose to buy it. if not, you won’t.
-
-As your spirit of clarity grows over time, you will continue gaining a more heightened awareness of the value of your purchases for you.
+The spirit of clarity manifests as a heightened awareness of the value of each purchase you make. If you consider its value for you to be greater than the expense, you will choose to buy it. If not, you won’t. As your spirit of clarity grows over time, you will continue gaining a more heightened awareness of the value of your purchases for you.
 
 The spirit of clarity will help you keep tabs on your belongings. Once you value an item less than the money it can sell for, you’ll choose to sell it. This will help you keep fine-tuning your net worth composition.
 
@@ -148,51 +130,41 @@ The spirit of clarity will help you keep tabs on your belongings. Once you value
 
 ### How Your Debt Affects You
 
-Your debt affects your spiritual blueprint. It has an impact on your ability to generate inflows. It has an impact on how you generate outflows.
+Your debt affects your spiritual blueprint. It impacts your ability to generate inflows and influences how you manage outflows.
 
-#### Debt Reduces Your Capacity For Generating Inflows And Increases Your Wasteful Outflows
+This may seem obvious, but it should still be stated explicitly: when you spend on credit or enter a state of debt, you are still spending money; you are not receiving the item for free.
 
-This may be an obvious point, but it should still be stated explicitly. When you spend on credit (or enter a state of debt), you are still spending money; you are not receiving the item for free.
+Often, we miss this point because we mistakenly believe that if we purchase something on credit, even if we don't have enough money to pay for it in full, we are getting it without having to pay for it. However, we will be making payments for it; they will just be spaced out over the length of the debt.
 
-Often, we miss this point because we mistakenly believe that if we purchase something on credit, even if we don't have enough money to pay for it in full, we are going to get it without having to pay for it. However, we will be making payments for it; they will just be spaced out over the length of the debt.
-
-The fact that we have not yet made a single payment for this item, however, gives us the impression that we received it for free. Even when we begin paying for it, we still have the impression that we obtained it without actually paying for it. Do you get what I mean?
+The fact that we have not yet made a single payment for this item gives us the impression that we received it for free. Even when we begin paying for it, we still have the impression that we obtained it without actually paying for it. Do you see what I mean?
 
 Suppose that you have $10,000 in your bank account and make $4,000 per month. You are looking at a new automobile with a price tag of $50,000. You clearly cannot afford it; even if you emptied your entire bank account, you would still be $40,000 short. However, if the cost of this vehicle is presented to you as $650 per month over the next 84 months, you will only compare two numbers: your current monthly income of $4,000 and the monthly outflow of $650 for this car. Suddenly, it appears that you may be able to purchase and begin driving this vehicle. But there is a great deal of confusion here.
 
-Starting out in this massive confusion, you will try to rationalize why you should actually go for it. You will use this car to get to work, your old car is in need of repairs, this new car will be better and more reliable, etc., you will earn more money in the future, and you really want it now.
+Starting out in this massive confusion, you will try to rationalize why you should actually go for it. You will use this car to get to work, your old car is in need of repairs, this new car will be better and more reliable, etc. You will earn more money in the future, and you really want it now.
 
-However, the true calculation for this automobile is as follows: First, if you paid with cash, you would likely receive a price reduction, perhaps between 5 and 10 percent. And if you multiply $650 payments by 84 months, you'll end up paying $54,600 for the car, as opposed to $47,600 (5% discount) or $45,000 (10% discount). We're talking about a $7,000 to $8,600 difference over 84 months. After that, you must determine the opportunity cost of holding onto this difference if it was saved in bitcoin. At the time of writing, if you held $83 difference per month ($7,000 / 84), your purchasing power would increase 450%, resulting in around $36,000 worth of bitcoin, and if you do the same calculation for 10% discount ($102 per month, $8,600 divided by 84 months), you would end up with around $44,000 worth of bitcoin.
+However, the true calculation for this automobile is as follows: First, if you paid with cash, you would likely receive a price reduction, perhaps between 5 and 10 percent. If you multiply $650 payments by 84 months, you'll end up paying $54,600 for the car, as opposed to $47,600 (5% discount) or $45,000 (10% discount). We're talking about a $7,000 to $8,600 difference over 84 months.
 
-You should also calculate the depreciation of the vehicle over the next seven years and understand that the rate will likely be lower if you purchase the vehicle with cash instead of credit. This is due to the fact that, in general, we tend to care for things more when we own them outright, as opposed to gradually gaining partial ownership as the item is used. There is a reason why leased and financed automobiles are typically in poorer condition after being driven by owners who took on debt to acquire them, compared to the same automobiles driven by cash-paying owners who took better care of them throughout their use. The same is true for any other item you purchase with credit.
+After that, you must determine the opportunity cost of holding onto this difference if it was saved in Bitcoin. At the time of writing, if you held an $83 difference per month ($7,000 / 84), your purchasing power would increase 450%, resulting in around $36,000 worth of Bitcoin. If you do the same calculation for a 10% discount ($102 per month, $8,600 divided by 84 months), you would end up with around $44,000 worth of Bitcoin.
+
+You should also calculate the depreciation of the vehicle over the next seven years and understand that the rate will likely be lower if you purchase the vehicle with cash instead of credit. This is because, in general, we tend to care for things more when we own them outright, as opposed to gradually gaining partial ownership as the item is used. There is a reason why leased and financed automobiles are typically in poorer condition after being driven by owners who took on debt to acquire them compared to the same automobiles driven by cash-paying owners who took better care of them throughout their use. The same is true for any other item you purchase with credit.
 
 #### Your Outflows Are Increased Because Of Interest, Opportunity Cost & Misallocation
 
-Spending credit is always more expensive than spending cash because humans have a positive time preference, which means they prefer present money to future money. The cost of spending future money is expressed in the interest rate.
+Spending credit is always more expensive than spending cash because humans have a positive time preference, meaning they prefer present money to future money. The cost of spending future money is expressed in the interest rate.
 
-The price you pay over the life of the debt has two opportunity cost sources: the amount you would save if you paid for the same item with cash and the total interest you will pay over the life of the debt.
+The price you pay over the life of the debt has two opportunity cost sources: the amount you would save if you paid for the same item with cash and the total interest you will pay over the life of the debt. Your opportunity cost should be calculated in terms of the appreciation of purchasing power if the money was saved in Bitcoin throughout the duration of the debt.
 
-Your opportunity cost should be calculated in terms of the appreciation of purchasing power if the money was saved in bitcoin throughout the duration of the debt.
-
-There is a third, frequently overlooked cost of using credit: the opportunity cost of financial decisions made under the influence of the spirits of slavery, restlessness and confution rather than the spirits of freedom, peace and clarity. For instance, your next 30 years of inflows and outflows, as well as decisions regarding your net worth balance, will look very different and have very different outcomes if you a) have 50% of your net worth in debts and b) you have no debts.
-
-The third cost of spending credit should also be calculated in terms of the appreciation of purchasing power if the money was saved in bitcoin throughout the duration of the debt.
+There is a third, frequently overlooked cost of using credit: the opportunity cost of financial decisions made under the influence of the spirits of slavery, restlessness, and confusion rather than the spirits of freedom, peace, and clarity. For instance, your next 30 years of inflows and outflows, as well as decisions regarding your net worth balance, will look very different and have very different outcomes if you a) have 50% of your net worth in debts or b) have no debts.
 
 #### Your Inflows Are Reduced Because of Lower Risk Tolerance
 
-Your inventory of time is the most valuable asset you have. You take on some level of risk whenever you choose to invest your time in a potential business opportunity; however, you do so with the goal of increasing both the quantity and the quality of your available time.
+Your inventory of time is the most valuable asset you have. You take on some level of risk whenever you choose to invest your time in a potential business opportunity; however, you do so with the goal of increasing both the quantity and quality of your available time.
 
-Risk and return are facets of the same coin.
+Risk and return are facets of the same coin. Even with zero risk and a positive return of X, there is still an opportunity cost associated with taking greater than zero risk and gaining greater than X return. Because of this, there is no real way to avoid taking risks.
 
-Even with zero risk and a positive return of X, there is still an opportunity cost associated with taking greater than zero risk and gaining greater than X return. Because of this, there is no real way to avoid taking risks.
+There are opportunities, both positive and negative, and both involve taking a risk. Every claim on your future time (debt) diminishes your ability to take risks with your time. At a debt-to-assets ratio of 100 percent, all of your time is spent servicing debt, and you cannot afford to take any risks with your time.
 
-There are opportunities, both positive and negative, and both involve taking a risk.
-
-Every claim on your future time (debt) diminishes your ability to take risks with your time.
-
-At a debt-to-assets ratio of 100 percent, all of your time is spent servicing debt, and you cannot afford to take any risks with your time.
-
-This is where you begin to incur significant opportunity costs, because there will be risks greater than zero that will yield a higher return than what you have, but you cannot take them.
+This is where you begin to incur significant opportunity costs because there will be risks greater than zero that will yield a higher return than what you have, but you cannot take them.
 
 #### Debt Decreases Your Ownership Satisfaction
 
