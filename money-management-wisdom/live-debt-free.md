@@ -168,41 +168,23 @@ This is where you begin to incur significant opportunity costs because there wil
 
 #### Debt Decreases Your Ownership Satisfaction
 
-The time you put into working to save for something increases your satisfaction with the item when you buy it.
+The time you put into working to save for something increases your satisfaction with the item when you buy it. This is because we care about the things we invest in. Our time investment in something makes it more valuable to us.
 
-This is because we care about the things we invest in. Our time investment in something makes it more valuable to us.
+Consider the following scenario: you buy a car after saving for it for seven years. You were carefully setting aside a portion of your income for this savings goal over the course of these seven years, and you also had time to learn everything you could about the car and alternatives. The fact that you waited seven years to buy this car will make it more enjoyable and make you feel like you've upgraded from whatever you were driving before you bought it.
 
-Consider the following scenario: you buy a car after saving for it for seven years. You were carefully setting aside a portion of your income for this savings goal over the course of these seven years, and you also had time to learn everything you could about the car and alternatives.
+You were able to research everything about it because of the time it took you to save up for it. You were able to get a price reduction by paying cash. Additionally, when you began using it, you took care of it by assigning enough money to cover the cost of ownership. All of this influenced the overall ownership experience.
 
-The fact that you waited seven years to buy this car will make it more enjoyable and make you feel like you've upgraded from whatever you were driving before you bought it.
+Now compare this to a situation in which you buy the car on credit now and pay it off over the next seven years. First and foremost, you will not have the sense of building up to the purchase of the car, the anticipation, and the time you put into saving for it. This gives you a completely different feeling than if you had saved up for it.
 
-You were able to research everything about it because of the time it took you to save up for it.
+However, once you begin using the car, you start paying for it and investing your time in it. The feeling of liking the car increases because you are working for it and paying for it in installments, but this is offset by the discovery of flaws in the car that you didn't have time to research and investigate because you jumped into debt quickly beforehand.
 
-You were able to get a price reduction by paying cash.
-
-Additionally, when you began using it, you took care of it by assigning enough money to cover the cost of ownership.
-
-All of this influenced the overall ownership experience.
-
-Now compare this to a situation in which you buy the car on credit now and pay it off over the next 7 years.
-
-First and foremost, you will not have the sense of building up to the purchase of the car, the anticipation and time you put into saving for it. This is going to give you a completely different feeling than if you saved up for it.
-
-However, once you begin using the car, you begin paying for it and investing your time in it. Now the feeling of liking the car increases because you are working for it and paying for it in installments, but it is offset by the feeling of discovering some flaws in the car that you didn't have time to research and investigate because you jumped into debt quickly before hand.
-
-You also don't have a full sense of ownership yet, so you don't take good care of the car. This simply raises the cost of ownership in terms of the depreciation curve, and you begin to avoid looking into the actual market value of the car in relation to your overall debt balance for it (it may already be underwater).
-
-After a while, you end up with a car that is gradually becoming a burden rather than a joy.
+You also don't have a full sense of ownership yet, so you don't take good care of the car. This raises the cost of ownership in terms of the depreciation curve, and you begin to avoid looking into the actual market value of the car in relation to your overall debt balance for it (it may already be underwater). After a while, you end up with a car that is gradually becoming a burden rather than a joy.
 
 #### Debt Increases Your Cost Of Ownership
 
-We take better care of things we own outright.
+We take better care of things we own outright. Taking less care of a debt-purchased item means deferring maintenance costs into the future, which will only increase them later. Because of this effect, the depreciation curve on something you bought with debt will be steeper than on an item you own outright and properly maintain in the best condition possible.
 
-Taking less care of a debt-purchased item means deferring maintenance costs into the future, which will only increase them later.
-
-Because of this effect, the depreciation curve on something you bought with debt will be steeper than the one you own outright and properly maintain in the best condition possible.
-
-Even worse, you don't really feel like you own the thing for the duration of the debt, but when you finally pay it off, it has depreciated so much that owning it doesn't feel as good as it would if you bought it with savings.
+Even worse, you don't really feel like you own the item during the duration of the debt, and when you finally pay it off, it has depreciated so much that owning it doesn't feel as satisfying as it would if you had bought it with savings.
 
 ### How Your Debt Affects Others
 
@@ -210,101 +192,93 @@ If you incur debt through the creation of fiat money, it affects others who are 
 
 #### Your Debt "Steals" Purchasing Power From People Who Hold Fiat
 
-When you take out a bank loan, you create new fiat money.
+When you take out a bank loan, you create new fiat money. Fiat money ceases to exist when you repay the loan or default on it. The only reason this system works is because of the state's violent coercion, which mandates the use of fiat money in the marketplace through legal tender laws, tax collection in fiat money, and requirements for large financial institutions to hold a certain amount of government bonds in their portfolios.
 
-Fiat money ceases to exist when you repay the loan or default on it.
-
-The only reason this system works is because of the state's violent coercion, which mandates the use of fiat money in the marketplace through legal tender laws, tax collection in fiat money, and mandates that large financial institutions hold a certain amount of government bonds in their portfolios.
-
-This effectively means that the only reason debt is monetized globally is due to state coercion.
-
-Thus, when you incur debt through any of the fiat-licensed institutions, you effectively leverage the state's coercive power to transfer your credit risk to the fiat-money holders.
-
-Your credit risk will eventually manifest as widespread price inflation.
+This effectively means that the only reason debt is monetized globally is due to state coercion. Thus, when you incur debt through any of the fiat-licensed institutions, you effectively leverage the state's coercive power to transfer your credit risk to fiat money holders. Your credit risk will eventually manifest as widespread price inflation.
 
 Inflation is the most regressive form of taxation because it disproportionately affects the poor. Poor people have the majority of their net worth in liquid fiat cash, whereas wealthy people have only a small portion of their net worth in liquid cash.
 
-#### Your Debt Generates Economic Distortions & Societal Decline
+If the negative effects of debt on yourself aren't convincing enough, try meditating and reflecting on what your debt does to others. You can easily accomplish this by simply observing the world around you and drawing logical conclusions. Reading "Fiat Standard" and "Principles of Economics" by Saifedean Ammous will help with this.
 
-If the negative effects of debt on yourself aren't convincing enough, try meditating and reflecting on what your debt does to others. You can easily accomplish this by simply observing the world around you and drawing logical conclusions. Reading [Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe) by Saifedean Ammous will help with this.
+Debt-induced economic distortions and societal decline include:
 
-* real estate monetization (overbuilding, ghost cities, building quality decline)
-* capital misallocation (zombie companies, "climate crisis" grifts, "fiat hysteria" state adjacent parasitic business models, fiat food industrial complex, pharma-industrial complex, military-industrial complex, fiat academia/media complex)
-* business boom & bust cycles (financial crises)
-* price signal distortions -> worsens economic calculation
-* state protectionism / lowers competitiveness
-* contributes to funding of state wars
-* contributes to funding of state run welfare programs that perpetuate poverty
-* grows state bureaucracy & overall regulatory burden that hamper innovation
-* contributes to funding of "fiat fuels" and overall energy use decline
-* contributes to overall civilizational decline
+* **Real Estate Monetization**: Overbuilding, ghost cities, and declining building quality.
+* **Capital Misallocation**: Zombie companies, "climate crisis" grifts, "fiat hysteria," state-adjacent parasitic business models, fiat food industrial complex, pharma-industrial complex, military-industrial complex, fiat academia/media complex.
+* **Business Boom & Bust Cycles**: Financial crises resulting from mismanaged debt.
+* **Price Signal Distortions**: Worsened economic calculations due to inaccurate market signals.
+* **State Protectionism**: Lowered competitiveness due to state intervention.
+* **Funding of State Wars**: Debt contributes to the financing of state-led wars.
+* **State Welfare Programs**: Funding welfare programs that perpetuate poverty.
+* **State Bureaucracy Growth**: Increased regulatory burden hampers innovation.
+* **Funding of "Fiat Fuels"**: Contributing to overall energy use decline.
+* **Civilizational Decline**: Overall societal decline driven by misallocated resources and distorted economic incentives.
+
+By incurring debt, you contribute to these broader economic and societal issues, exacerbating problems that affect everyone.
 
 ***
 
-## Debt And Bitcoin Are Dangerous Combination
+## Debt and Bitcoin Are a Dangerous Combination
 
-Having both debt and Bitcoin on your balance sheet is extremely risky for your net worth management. Staying in debt during Bitcoin bull runs could lead you to FOMO into more debt in order to increase your Bitcoin exposure. Staying in debt during Bitcoin bear markets could lead you to panic and reduce your Bitcoin exposure in order to stay solvent and avoid bankruptcy.
+Having both debt and Bitcoin on your balance sheet is extremely risky for your net worth management. Staying in debt during Bitcoin bull runs could lead you to FOMO (fear of missing out) into more debt to increase your Bitcoin exposure. Staying in debt during Bitcoin bear markets could lead you to panic and reduce your Bitcoin exposure to stay solvent and avoid bankruptcy.
 
-The only wise way is to pay off all of your debts first, and then begin accumulating Bitcoin with zero debt on your balance sheet.
+The only wise approach is to pay off all your debts first and then begin accumulating Bitcoin with zero debt on your balance sheet.
 
-### If You Have Debt And Hold Bitcoin, You Risk Losing In Multiple Ways
+### If You Have Debt And Hold Bitcoin, You Risk Losing in Multiple Ways
 
-You may believe that you are profiting from the difference between the interest rate you are paying on debt and the annual growth rate of bitcoin.
+You may believe that you are profiting from the difference between the interest rate you are paying on debt and the annual growth rate of Bitcoin. However, if you believe this, you are overlooking or forgetting several issues.
 
-However, if you believe this, you are overlooking or forgetting several issues.
+1. **Opportunity Cost of Stress**: The stress resulting from this strategy has a significant opportunity cost. Managing debt and Bitcoin simultaneously can be mentally taxing and can affect your overall well-being.
+2. **Increased Cost of Ownership**: Having less money for maintenance of the item you purchased with debt results in a higher real rate of depreciation. This means the item may lose value faster than if you had purchased it outright.
+3. **Missed Opportunities for Generosity and Income**: Debt restricts your ability to increase the spirit of generosity and income. When you are burdened by debt, you have fewer resources and less freedom to invest in opportunities that could enhance your income and personal growth.
 
-The first is the opportunity cost of your stress as a result of this action.
+Moreover, your perception of the value of the item you financed may shift over time. If your initial assessment of a product is off, you may end up with something you don't like but are still obligated to pay for.
 
-The second is the increased cost of ownership because you have less money for maintenance of the item you purchased with debt, resulting in a higher real rate of depreciation.
+Additionally, Bitcoin's volatility can derail your plans. If Bitcoin's value rises and you haven't paid off your debt, you may feel compelled to take on even more debt to "chase the pump." Conversely, if Bitcoin's value drops, you may panic and sell at a loss to stay solvent.
 
-And the third is the opportunity cost of not being able to increase the spirit of generosity and income.
+The added pressure of having to make payments on an asset you can no longer afford means you'll be less satisfied with your possessions than you would be if you didn't have any debt to worry about. The only wise approach is to pay off all your debts first and then begin accumulating Bitcoin with zero debt on your balance sheet.
 
-Even though your interest rate is a fixed percentage, your perception of the value of the item that you financed may shift over time. When your initial assessment of a product is off, you may end up with something you don't like but are stuck paying for anyway.
+### When You Become Debt-Free, the Transition from Fiat to Bitcoin Standard Eases for Everyone
 
-You might not stick to your plan if bitcoin gets too volatile. If it rises and you haven't paid off your debt, you may feel compelled to take on even more debt in an effort to "chase the pump." The added pressure of having to keep making payments on an asset you can no longer afford means that you'll be less happy with your possessions than you would be if you didn't have any debt to worry about.
+When a commercial bank extends credit, it effectively increases the money supply. Conversely, when you pay off a loan or go into default, the money supply decreases. By repaying your bank loan, you reduce the supply of fiat money, boosting the purchasing power of those who still have fiat in their cash accounts. For everyone else, you raise the interest rate on borrowing, which lowers their desire to do so.
 
-### When You Become Debt-Free, Transition From Fiat To Bitcoin Standard Eases For Everyone
+Living debt-free for as long as possible helps lessen the need for the printing of new fiat money. By being debt-free, you indirectly increase the cost of borrowing for all borrowers, which discourages debt accumulation.
 
-When a commercial bank extends credit, it effectively increases the money supply.
+People convert their current money to Bitcoin (increasing the Bitcoin spot price), but they can also convert their credit to Bitcoin (leveraged Bitcoin buying, going into debt to buy Bitcoin, or buying Bitcoin while still having debt on the balance sheet). However, credit-funded Bitcoin purchases result in more extreme parabolic price movements, which, when exhausted (when users can no longer take on additional debt), lead to even more extreme Bitcoin price crashes due to the liquidation cascade effect.
 
-When you pay off a loan or go into default, the money supply decreases.
+Without debt, the process of monetizing Bitcoin would be more stable. The greater demand you have for holding Bitcoin cash balance makes it more valuable, which encourages others to follow suit. If you do this without incurring debt, it becomes even more appealing for lenders to sell their loans and invest in Bitcoin instead.
 
-When you repay your bank loan, you reduce the supply of fiat money, boosting the purchasing power of those who still have fiat in their cash accounts. For everyone else, you raised the interest rate on borrowing, which lowered their desire to do so.
+If people had less debt, there would be less capital misallocation and less government funding, leading to more accurate free market signals and, ultimately, a more prosperous civilization.
 
-You can do your part to lessen the need for the printing of new fiat money by living debt-free for as long as possible. You being debt-free indirectly increases the cost of borrowing for all borrowers.
+There are three commonly discussed debt-reduction strategies:
 
-People convert their current money to bitcoin (increasing the bitcoin spot price), but they can also convert their credit to bitcoin (leveraged bitcoin buying, going into debt to buy bitcoin, or buying bitcoin while still having debt on the balance sheet).
+1. **Debt Snowball Method**:
+   * Order your debts from smallest to largest.
+   * Make the minimum payment on all but the smallest debt, where you pay the most.
+   * This method builds momentum by paying off small debts first, providing motivation to tackle the next one.
+   * If you only have a choice between these three methods, I'd recommend this one.
+2. **Debt Avalanche Method**:
+   * Order your debts by the size of their interest rates.
+   * Pay the minimum on all but the debt with the highest interest rate, where you pay the most.
+   * Mathematically, this is the quickest way to get out of debt.
+   * However, it can be the most difficult to maintain psychologically.
+3. **Debt Consolidation**:
+   * Take on new debt with a single interest rate and duration to pay off all your existing debts with different maturities and interest rates.
+   * This is the easiest method, but it often involves choosing a longer maturity term for your debt, resulting in smaller monthly payments but keeping you in debt for a longer period.
 
-Credit-funded Bitcoin purchases, however, result in more extreme parabolic price movements, which, when exhausted (when users can no longer take on additional debt), result in even more extreme Bitcoin price crashes due to the liquidation cascade effect.
+**My advice**: Sell off whatever assets you can and pay off your debt as soon as possible. You will benefit most from spending the least amount of time in debt. After that, you can proceed to the next phase, which will increase your inflows by allocating 10% to 20% of your budget to the Giving category.
 
-Without debt, the process of monetising bitcoin would be more stable.
+If you are not convinced about this approach, I would advise you to continue managing your budget and attempting to make ends meet while retaining your Bitcoin. You can try any of the three mentioned strategies to speed up the process. However, the volatility of Bitcoin may eventually force you to decide to pay off your debt for good, even if it means a big change in your lifestyle.
 
-The greater demand you have for holding bitcoin cash balance makes it more valuable, which encourages others to follow suit. If you do this without incurring debt, it becomes even more appealing for lenders to sell their loans and invest in bitcoin instead. If people had less debt, there would be less capital misallocation and less government funding, leading to more free market signal and ultimately more civilization.
+**Stay Debt-Free**
 
-### How To Become And Stay Debt-Free?
+* **Never use credit cards.**
+* **Never borrow money under any circumstance.**
+* **Never use "buy now, pay later" schemes.**
+* **Only spend money from the past.**
+* **Have at least a third of your net worth in cash balance (high liquidity/salability).**
+* **Pay invoices immediately upon receipt.**
+* **Never try to collect airline miles or fall for cashback offers by credit cards.**
+* **Never try to get "deals" by making payments instead of purchasing the item outright.**
+* **Never fall for the idea that "there is good debt and bad debt." All debt will have the same spiritual consequences, which you want to avoid at all costs.**
 
-#### Become Debt-Free
-
-We can usually read and hear about three different debt-reduction strategies.
-
-The first is the debt snowball method, in which you order your debts from smallest to largest and make the minimum payment on all but the smallest, where you pay the most. The goal is to build momentum by paying off small debts first, so you can get "the kick" and be more motivated to pile on the next in line. If you only have a choice between these three methods, I'd go with this one.
-
-The second method is the debt avalanche method, in which you order your debts by the size of their interest rates and pay the minimum on all but the debt with the highest interest rates, where you pay the most. Just mathematically speaking, this will be the quickest way out of debt out of the three. The disadvantage is that it is the most difficult to maintain psychologically.
-
-The third method is debt consolidation, which involves taking on new debt with a single interest rate and duration to pay off all of your existing debts with different maturities and interest rates. This is the easiest, but the main drawback is that you will probably want to choose a longer maturity term for your debt because you will psychologically prefer to have a smaller monthly payment amount. This will keep you in debt for the longest period of time.
-
-My advice is to sell off whatever assets you can and pay off your debt as soon as possible because you will benefit most from spending the least amount of time in debt. This is because, after that, you can proceed to the next phase, which will increase your inflows, by allocating 10% to 20% of your budget to the Giving category.
-
-If you are not convinced about it, I would advise you to continue managing your budget and attempting to make ends meet while retaining your Bitcoin. You can try any of the three mentioned strategies to speed up the process, but ultimately I think the volatility of Bitcoin will eventually force you to decide to simply pay off your debt for good, even if it means big change in your lifestyle.
-
-#### Stay Debt-Free
-
-* never use credit cards
-* never borrow money under any circumstance
-* never use "buy now, pay later" schemes
-* only spend money from the past
-* have at least a third of your net worth in cash balance (high liquidity / salability)
-* the moment you receive an invoice, pay it immediately
-* never try to collect airline miles or fall for cashback offers by credit cards
-* never try to get "deals" by making payments instead of purchasing the thing outright
-* never fall for foolish idea that "there is good debt and bad debt". all debt will have same spiritual consequences which you want to avoid at all costs
+By following these guidelines, you can achieve and maintain a debt-free lifestyle, allowing you to focus on building wealth and improving your financial well-being.
