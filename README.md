@@ -14,7 +14,7 @@ The second section discusses a framework for thinking about and adjusting the co
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
-* You have read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe).
+* You have already read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe).
 * You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB) and have at least a basic technical understanding about how the Bitcoin system works.
 * You practice dollar-cost averaging into Bitcoin.
 * You keep some fiat currency as "dry powder" for buying more Bitcoin during price corrections.
