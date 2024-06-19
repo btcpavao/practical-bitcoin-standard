@@ -52,76 +52,48 @@ We have a deep understanding that everyone benefits from our agency in the world
 
 ## What Is Considered Giving?
 
-Giving is any action you do without expecting anything in return.
+By "Giving," I mean any financial transaction you make without expecting anything in return. Your giving should not result in a liability on the beneficiary's balance sheet. Therefore, do not keep track of transactions in the giving category as your assets.
 
-When you give, you should do so without expecting anything in return. Your giving should not result in a liability on the beneficiary's balance sheet. So don't keep track of transactions from the giving category as your assets.
+If the recipient of your generosity later wishes to repay it, accept it only if they insist, making it clear that you do not expect anything in return.
 
-If the recipient of your generosity later wishes to repay it, accept it only if they insist, and make it clear that you do not expect anything in return.&#x20;
-
-Here are some of the ways you can give: direct financial assistance, charity, gifts, tips, loans without expectation of payback, investments without expectation of return, donations, sponsorships with no contractual obligations for promotional benefits.
+Here are some ways you can give: direct financial assistance, charity, gifts, tips, loans without expectation of repayment, investments without expectation of return, donations, and sponsorships with no contractual obligations for promotional benefits.
 
 ## How To Give?
 
-Giving smaller amounts more frequently is preferable to larger amounts less frequently.
-
-Never go a year without making a single transaction from the Giving category.
+Giving smaller amounts more frequently is preferable to giving larger amounts less frequently. Never go a year without making at least one transaction from the Giving category.
 
 Family comes first, then friends, then acquaintances, then the local community, and so on. The closer people are to your circle, the higher the priority.
 
-If the giving is for charity, the best way is for the beneficiary to be unaware that you are a benefactor. You must always consider the dignity of the benefactor. Always keep the dignity of the benefactor in mind.
-
-If the above is not possible (because the beneficiary will know who you are), the second best option is to give as an investment in their business (with no expectation of a return on your end).
+If the giving is for charity, the best way is for the beneficiary to be unaware that you are the benefactor. Always consider and maintain the dignity of the beneficiary. If anonymity is not possible, the second-best option is to give as an investment in their business (with no expectation of a return on your end).
 
 Third, offer a no-interest loan with no expected return date (and no expectations of return on your end).
 
-The third option is to provide a loan with no interest and no projected return date, along with no expectations of return from you.
-
-This is a lifelong journey that you should continue and get better and wiser about over time; there is no end point to this practice.
+This is a lifelong journey that you should continue and improve upon over time; there is no endpoint to this practice.
 
 ## Giving In Your Budget
 
-Always have a category in your budget named: "Giving" and keep it at 10% to 20% of your current budgeting amount (cash balance).
+Always have a category in your budget named "Giving" and keep it at 10% to 20% of your current budgeting amount (cash balance). For example, if you have $10,000 in cash, you should allocate $1,000 to $2,000 to the Giving category. When you spend from your Giving category, such as buying a $100 gift, subtract that amount from your Giving category, reducing it to $900 or $1,900.
 
-For example, if you have $10,000 in cash, you should allocate $1,000 to $2,000 to the Giving category.
+However, when you make transactions from other categories, you should rebalance the amount you assign to Giving, because Giving should always be 10% to 20% of your cash balance. For instance, if you pay your rent and utilities for the month (e.g., $600) after purchasing the gift, your total cash balance drops from $10,000 to $9,300 ($100 from Giving and $600 from Shelter). This means that your new Giving category target should be 10% to 20% of $9,300, or between $930 and $1,860.
 
-When you spend from your Giving category, for example, if you buy a $100 gift, you should subtract that from your Giving category, which means it will be $900 or $1,900.
+By calculating your Giving category in this manner, you cannot completely deplete it unless you spend all your money simultaneously. This approach is deliberate, as your giving budget must always be available and must adjust according to your current cash balance.
 
-However, when you make transactions from other categories, you should rebalance the amount you assign to Giving, because Giving should always be 10% to 20% of your cash balance.
+For example, say you start with $10,000 in money (Bitcoin) and allocate $2,000 to Giving. If Bitcoin falls 50% in purchasing power, and you do not let your $2,000 in Giving decrease, you’d have $3,000 left in the rest of the budget. That means your Giving would account for 40% of your total budget, which is too much. However, if your total net worth remains around $200k because you own a $195k house (so $195k in the house and $5k in money -> Bitcoin), your Giving budget should be at least 1/60th of your total net worth, not just 1/100th.
 
-So, if you pay your rent and utilities for the month (for example, $600) after purchasing the gift, your total cash balance drops from $10,000 to $9,300 ($100 from Giving and $600 from Shelter). This means that your new Giving category target should be 10% to 20% of $9,300, or between $930 and $1,860.
+At the end of the day, I believe that money is ultimately not mine; rather, it belongs to God. I only manage and steward it. To properly manage it, I must approach it with balance, keeping at least a third of my net worth in money and a tenth to a fifth of that money in Giving at all times.
 
-You will notice that by calculating your Giving category in this manner, you cannot completely deplete it unless you spend all of your money at the same time. This is deliberate, because your giving budget must always be available to you and must adjust in accordance with your current cash balance.
+So, in the example above, the proper course of action would be to sell the $195k house and allocate between $20k and $40k to Giving. If you wanted to buy and own a house to live in, you could only buy something up to $66k in price (1/3rd of $200k net worth). Then, you’d be left with $134k in money, so your Giving budget would be between $13.4k and $26.8k. If you wanted to buy some capital assets, you could purchase up to $66k worth, leaving you with $68k in money. In that case, you would allocate between $6.8k and $13.6k to Giving.
 
-For example, say I start with $10,000 in money (Bitcoin) and allocate $2000 to giving. If Bitcoin falls 50% in purchasing power, and I do not let my $2000 in giving decrease, I'd have $3000 left in the rest of the budget. That means my giving would account for 40% of total budget, which is too much.
+In this situation, if you wanted to increase your inflows, you'd be more inclined to rent rather than own, simply to keep more of your net worth in money (Bitcoin), allowing you to have a larger Giving budget and grow your spirit of generosity at a faster rate.
 
-But to make it more interesting, say my total net worth may still be around $200k because I may own a $195k house (so $195k in house and $5k in money -> Bitcoin). But in this case, regardless of me keeping 40% of my budget in Giving category, when I make transactions from it, they won’t really affect the growth of the spirit of generosity because my giving budget is still only 1/100th of my total net worth and should be at least 1/60th.
+I also believe that a person can only do this properly once they are debt-free. The Bible quote "The borrower is a slave to the lender" reflects true divine wisdom. Therefore, I do not believe it is possible to cultivate a spirit of generosity while in debt. For this reason, I advise paying off debt before beginning the practice of giving. Giving money while in debt can result in resentment toward the lender. It will also slow down one's debt repayment. The longer one is in debt, the stronger the spirit of slavery, confusion, and restlessness grows, causing a slew of other negative consequences.
 
-At the end of the day, I believe that money is ultimately not mine; rather, it belongs to God. I only manage and steward it. To properly manage it, I must approach it with balance, keeping at least a third of my net worth in money and a tenth to a fifth of money in Giving at all times.
-
-So in the example above, the proper course of action for me would be to sell $195k house, and then allocate between $20k and $40k to giving in my budget. If I wanted to buy and own a house I’d live in, I could only buy something up to $66k in price (1/3rd of $200k net worth). Then, I’d be left with $134k in money, so my giving budget would be between $13,4k and $26,8k. If I wanted to buy some capital assets, I’d buy up to $66k worth of it, which would leave me with $68k in money. In that case, I would have between $6,8k and $13,6k in giving.
-
-In this situation, if I wanted to increase my inflows, I'd be more inclined to rent rather than own, simply to keep more of my net worth in money (Bitcoin) so I can have a larger giving budget and grow my spirit of generosity at a faster rate.
-
-I also believe that a person can only do this properly once he is debt-free. I think a Bible quote “Borrower is a slave to the lender” is true divine wisdom. Therefore, I do not believe it is possible to cultivate a spirit of generosity while in debt. For this reason, I advise paying off debt prior to beginning giving practice. Giving money while in debt can result in resentment toward the lender. It will also slow down one's debt repayment. And the longer one is in debt, the stronger the spirit of slavery, confusion, and restlessness grows, causing a slew of other negative consequences.
-
-So to add to the example above, let's say I had the same net worth, $200k, but this time I also had debt. For example, I owned a $395k house, had $5k in money (Bitcoin), and owed $200k on my mortgage. This $200k debt would have a wide range of negative effects. So I'd start by selling the $395k house, paying off the $200k in debt, and then proceeding as described above. If I decided to pay back that debt over time (which I wouldn't recommend for the reason that negative spirits caused by the state of debt grow with time one stays in the state of debt), then I'd remove giving category from the budget, and do either debt snowball or debt avalanche strategy.
+So, to add to the example above, let's say you had the same net worth, $200k, but also had debt. For example, you owned a $395k house, had $5k in money (Bitcoin), and owed $200k on your mortgage. This $200k debt would have a wide range of negative effects. You should start by selling the $395k house, paying off the $200k in debt, and then proceeding as described above. If you decided to pay back that debt over time (which I wouldn't recommend because the negative spirits caused by debt grow over time), then you should remove the Giving category from the budget and use either the debt snowball or debt avalanche strategy.
 
 ## Keep At Least A Third Of Your Net Worth In Liquid Budget For Giving
 
-If your giving budget is less than 1/60 of your total net worth, it will have no effect on the growth of your spirit of generosity.
+If your giving budget is less than 1/60th of your total net worth, it will have no effect on the growth of your spirit of generosity. On a gold standard, maintaining a large amount of liquidity in gold meant paying high costs for storage, security, insurance, and transfer. On a fiat standard, holding a lot of fiat cash (either physical notes or digitally in bank accounts) means that your purchasing power will decrease over time as the fiat money supply rises.
 
-On a gold standard, keeping a large amount of liquidity in gold meant paying a high cost for storage, security, insurance, and transfer.
+Giving transactions have no effect on the growth of the spirit of generosity if your giving budget falls below 1.7% of your total net worth. Giving budgets ranging from 1.7% to 3.3% of total net worth will have a reduced impact on the growth of the spirit of generosity. Giving budgets exceeding 6.7% of total net worth will have a progressively stronger effect on the growth of the spirit of generosity.
 
-On a fiat standard, having a lot of fiat cash on hand (either physical notes or digitally in bank accounts) means that your purchasing power will go down over time as the fiat money supply rises.
-
-Giving transactions have no effect on the growth of the spirit of generosity if your giving budget falls below 1.7% of your total net worth.
-
-Giving budgets ranging from 1.7% to 3.3% of total net worth will have a reduced impact on the growth of the spirit of generosity.
-
-Giving budgets exceeding 6.7% of total net worth will have a progressively stronger effect on the growth of the spirit of generosity.
-
-You need a lot of liquidity in your net worth to avoid feeling like your giving transactions are too difficult.
-
-To put it another way, hold onto at least one-third of your net worth in money (we'll go over how to use Bitcoin as your primary money and cash balance later).
-
-This is to ensure that there is sufficient liquidity to carry out giving transactions without hesitation.
+You need a lot of liquidity in your net worth to avoid feeling like your giving transactions are too difficult. To put it another way, hold onto at least one-third of your net worth in money (we'll discuss how to use Bitcoin as your primary money and cash balance later). This ensures sufficient liquidity to carry out giving transactions without hesitation.
