@@ -1,12 +1,12 @@
 # Keep Your Net Worth Composition In Balance
 
-### Understand The Difference Between Three Types Of Goods: Monetary, Consumption, Production
+### Understand the Difference Between Three Types of Goods: Monetary, Consumption, and Production
 
-Economic goods can have three use cases: 1) monetary - medium of exchange, 2) consumption and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
+Economic goods can have three use cases: 1) monetary - medium of exchange, 2) consumption, and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
 
-Let's use the example of an economic good: a house. Depending on how we use the house, this economic good may be monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be basically using it as a consumption good).&#x20;
+Let's use the example of an economic good: a house. Depending on how we use the house, this economic good may be a monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be using it as a consumption good).
 
-Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and capital good.
+Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and a capital good.
 
 Let's say our plan is to sell this house at some point in the future. If we purchase the house with the intention of selling it later and we don't plan to live in it or use it for any kind of production, we are effectively using the house as a monetary good.
 
@@ -14,11 +14,11 @@ We can also use the house exclusively for one purpose at a time. For example, if
 
 We are using a house as a monetary good if we buy it with the sole purpose of selling it in the future, without any intention of living in it, renting it, or engaging in any other income-generating activities with it.
 
-We can also divide goods according to their spatial and temporal characteristics. Spatial characteristics are divided into into movable and immovable. Temporal characteristics are divided into and durable and non-durable (perishable).
+We can also divide goods according to their spatial and temporal characteristics. Spatial characteristics are divided into movable and immovable. Temporal characteristics are divided into durable and non-durable (perishable).
 
-The main point is to always have enough cash on hand in your net worth so that you can grow it in the best way possible. If you adopt a full Bitcoin standard, Bitcoin is going to be a part of your cash balance, so you will practice zero-based budgeting with it.&#x20;
+The main point is to always have enough cash on hand in your net worth so that you can grow it in the best way possible. If you adopt a full Bitcoin standard, Bitcoin is going to be a part of your cash balance, so you will practice zero-based budgeting with it.
 
-The best way to grow net worth overall is to follow the rule of thirds, and make sure that no more than a third of our assets are in Land and no more than a third are in Capital.
+The best way to grow net worth overall is to follow the rule of thirds and make sure that no more than a third of our assets are in Land and no more than a third are in Capital.
 
 Increase in cash (Bitcoin) purchasing power -> opportunity to increase Land & Capital (up to, but no more than, one-third of net worth in each).
 
@@ -26,13 +26,13 @@ Period of decreasing cash (Bitcoin) purchasing power -> opportunity for decreasi
 
 The goal of balancing is to always have at least one-third in cash (Bitcoin) to maximize the Giving portion of the budget (we are only budgeting cash, not illiquid assets).
 
-For example, a $1 million net worth with only 5% cash (Bitcoin) will have only 0.5% - 1% ($5,000 to $10,000) in the Giving portion of a budget. The same $1 million net worth that has at least 33,3% in cash (Bitcoin) will have at least 3,3% to 6,7% ($33k to $66k) in the Giving category. The same net worth of 80% cash (Bitcoin) will have 8% to 16% ($80k to $160k) in Giving category. The last one will grow at the fastest rate due to the fastest rate of growth of the spirit of generosity.
+For example, a $1 million net worth with only 5% cash (Bitcoin) will have only 0.5% - 1% ($5,000 to $10,000) in the Giving portion of a budget. The same $1 million net worth that has at least 33.3% in cash (Bitcoin) will have at least 3.3% to 6.7% ($33k to $66k) in the Giving category. The same net worth of 80% cash (Bitcoin) will have 8% to 16% ($80k to $160k) in the Giving category. The last one will grow at the fastest rate due to the fastest rate of growth of the spirit of generosity.
 
 You should always keep track of the items you own and their current market prices. This is especially important for more expensive items like real estate and vehicles, but it's also very useful to do it for less expensive items you own.
 
 Your total net worth is the sum of the current market prices of all the assets you own, minus all your liabilities (debts). We've already established that the first step you should take is to run a zero-based budget, the second is to eliminate all debt, and the third is to establish a giving practice from your liquid budget. So at this point, your net worth should have zero debts.
 
-The goal of balancing the structure of your net worth is to ensure that its growth remains at its optimal pace over time. Achieving this may sometimes require liquidating (selling) part of your Capital or Land assets, and moving that into Cash. At other times, it might mean buying Capital or Land, but only up to a value of one-third of your total net worth for each.
+The goal of balancing the structure of your net worth is to ensure that its growth remains at its optimal pace over time. Achieving this may sometimes require liquidating (selling) part of your Capital or Land assets and moving that into Cash. At other times, it might mean buying Capital or Land, but only up to a value of one-third of your total net worth for each.
 
 Your net worth composition will also change with changes in Bitcoin purchasing power.
 
