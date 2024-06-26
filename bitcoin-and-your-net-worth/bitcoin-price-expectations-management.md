@@ -4,6 +4,7 @@
 * can we predict future price? just like with weather in the future, we can't predict it exactly, but we can have high confidence in our prediction
 * patterns and cycles
 * market sentiment estimation: fear & greed
+* choppy sideways price movement
 * as long as we can see people getting into Bitcoin while having debt on their balance sheets, expect higher volatility
 * focus on price & time
 * power law theory - explanation
