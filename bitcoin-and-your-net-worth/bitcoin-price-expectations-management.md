@@ -1,6 +1,6 @@
 # Bitcoin Price Expectations Management
 
-* purpose of this guide: learn to adjust your finances to Bitcoin volatility, instead of trying to hedge against it
+* purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
 * can we predict future price? just like with weather in the future, we can't predict it exactly, but we can have high confidence in our prediction
 * patterns and cycles
 * market sentiment estimation: fear & greed
