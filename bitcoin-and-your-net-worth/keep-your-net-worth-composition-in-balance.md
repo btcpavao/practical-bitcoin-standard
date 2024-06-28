@@ -66,43 +66,21 @@ Remember the rule of thirds: allocate no more than one-third of your net worth t
 
 For example, if your car is worth $10,000 and you use it 20% of the time for leisure and 80% of the time for work, you should consider that it contributes $2,000 to the value of your consumption goods and $8,000 to the value of your capital goods.
 
-4o
-
 **Example net worth composition decision making process:**
 
-### Renting Vs Owning Non-Monetary Goods
+I've seen many examples among my family and friends of hesitancy to rent and a bias toward owning non-monetary goods.
 
-I've seen many examples in my family and friends of the hesitancy to rent, and a bias toward ownership of non-monetary goods.
+In the fiat standard, this hesitancy originates from our desire to reduce the amount of cash we hold due to its loss of purchasing power over time. The opposite occurs under the Bitcoin standard, where we are more hesitant to take on ownership because owning non-Bitcoin assets results in the opportunity cost of increased Bitcoin purchasing power in the future. Consequently, we are more likely to think carefully about what we want to own, making renting more normalized under the Bitcoin standard.
 
-In the Fiat standard, this originates from our desire to reduce the amount of cash we hold, due to its loss of purchasing power over time.
+On a full Bitcoin standard, we want to avoid the habit of rushing into ownership of something that will continue to decline in value in terms of Bitcoin over time. This habit of rushing into ownership stems from the fiat standard, which urged us to get rid of our liquidity, which was losing purchasing power over time, as soon as possible. The full Bitcoin standard reverses this habit, eliminating the need to own something to offset the loss of purchasing power over time.
 
-The opposite happens on the Bitcoin standard. We are more hesitant to take on ownership because owning non-Bitcoin assets will inevitably result in the opportunity cost of increased Bitcoin purchasing power in the future. As a result, we are more likely to think carefully about what we want to own. This is why renting is likely to become more normalized under the Bitcoin standard.
+This is why, on a full Bitcoin standard, we need to know when to own and when to rent to make informed decisions. We must understand the distinction between ownership and possession. When you need to use a product for a set period, you should rent it.
 
-On a full Bitcoin standard, we want to avoid the habit of rushing into ownership of something that will continue to decline in value in terms of bitcoin over time.
+We established a method for calculating and tracking the cost of ownership (depreciation, maintenance). This helps you see if owning something fits with your other budget goals and net worth. Renting something instead of buying it might provide the same benefits without the cost of ownership. Renting means paying the owner for the use of something for a set period.
 
-The habit of rushing into ownership stems from the fiat standard, which urged us to get rid of our liquidity, which was losing purchasing power over time, as soon as possible.
+Renting can be a very effective tool for increasing your net worth because you can get the value of something if you plan your usage over time. By running a zero-based budget regularly, you will better understand the value you can derive over time by using the item without necessarily owning it.
 
-The full Bitcoin standard reverses this habit, and we no longer need to own something to fully or partially offset the loss of purchasing power over time.
-
-This is why, on a full Bitcoin standard, we want to know when to own and when to rent, so we can make informed decisions.
-
-We want to understand the distinction between ownership and possession. When you need to use a product for a set period of time, you should rent it.
-
-We established a method for calculating and tracking the cost of ownership (depreciation, maintenance).&#x20;
-
-This will help you see if owning something fits in with your other budget goals and net worth. If you rent something instead of buying it, you might get the same benefits without having to pay the cost of ownership.&#x20;
-
-Renting means paying the owner for the use of something for a set period of time.&#x20;
-
-Renting can be a very effective tool for increasing your net worth because you can get the value of something if you plan your usage over time. If you run a zero-based budget on a regular basis, you will gain a better understanding of the type of value you can derive over time by using the thing without necessarily owning it.&#x20;
-
-Consider renting items in the "Land" and "Capital" categories.
-
-Proper framework: "For how long do I plan to use this item, and for what purpose?" rather than "I want to own this item."&#x20;
-
-There is such a thing as "house fever" or "car fever," a condition in which people become fixated on the idea of owning a house or a car they cannot afford (yet), and fall into the trap of going into debt to do so.&#x20;
-
-The antidote to this is to consider renting the same house or car for a period of time so you can experience how it feels to use them, and very often you will return to rational consideration of the same house or car, especially after you perform the cost of ownership calculation.
+Consider renting items in the "Consumption" and "Capital" categories. A proper framework is to ask, "For how long do I plan to use this item, and for what purpose?" rather than "I want to own this item." There is such a thing as "house fever" or "car fever," where people become fixated on owning a house or car they cannot yet afford and fall into the trap of going into debt to do so. The antidote is to consider renting the same house or car for a period to experience how it feels to use them. Often, this leads to a more rational consideration of the purchase, especially after performing the cost of ownership calculation.
 
 * rent a car story
 * rent. a boat story
