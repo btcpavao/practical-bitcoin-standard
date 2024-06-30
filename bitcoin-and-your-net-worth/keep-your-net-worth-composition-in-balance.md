@@ -1,4 +1,4 @@
-# Keep Your Net Worth Composition In Balance
+# Maintain Balance in Your Net Worth Composition
 
 ### Understand the Difference Between Three Types of Goods: Monetary, Consumption, and Production
 
@@ -107,7 +107,7 @@ Assume that figure is $500; you adjust it in your budget. This is something you 
 
 Cars, on the other hand, require a once (or better, twice) yearly maintenance schedule to ensure they run reliably and for a longer period of time. You should budget for these ongoing maintenance costs and keep track of the depreciation of your possessions as you go.
 
-### Keep No More Than A Third Of Your Net Worth In Production Goods
+### Keep No More than One-Third of Your Net Worth in Production Goods
 
 Capital is defined as all goods not used for consumption but for the production of consumption goods.
 
@@ -123,7 +123,7 @@ By definition, Capital also includes all financial instruments such as stocks, b
 
 On a strict Bitcoin standard, consider whether you are using an investment vehicle as money. In today's fiat standard, there are many investment vehicles that are practically monetized, such as automatically rebalanced broad stock indexes like SP500 index fund. If you use any of these, consider upgrading their monetary use to Bitcoin.
 
-### Keep At Least A Third Of Your Net Worth In Bitcoin
+### Keep at Least One-Third of Your Net Worth in Bitcoin
 
 Cash is the most liquid and salable component of your net worth.
 
