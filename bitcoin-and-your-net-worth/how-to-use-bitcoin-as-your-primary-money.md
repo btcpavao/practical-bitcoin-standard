@@ -2,7 +2,7 @@
 
 If you consistently apply the three money management principles discussed previously for at least 180 days, you are ready to begin using Bitcoin as your primary money.
 
-### Keep Your Average Net Income Positive & Accumulate Cash Position (In Bitcoin)
+### Keep Your Average Net Income Positive & Accumulate Cash Position (in Bitcoin)
 
 The fiat standard encourages you to keep your net income negative and accumulate non-cash assets (consumption and production). It encourages you to spend more than you earn in the present because you are spending your future money, which is likely to have less purchasing power than it does now. This comes at the cost of generating negative spirits (slavery, restlessness, and confusion, as discussed earlier). Because of this, many people who, by fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
 
