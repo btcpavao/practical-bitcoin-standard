@@ -14,7 +14,7 @@
 
 * [Use Bitcoin As Your Primary Money](bitcoin-and-your-net-worth/how-to-use-bitcoin-as-your-primary-money.md)
 * [Maintain Balance in Your Net Worth Composition](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md)
-* [Bitcoin Price Expectations Management](bitcoin-and-your-net-worth/bitcoin-price-expectations-management.md)
+* [How to Manage Future Bitcoin Price Expectations](bitcoin-and-your-net-worth/how-to-manage-future-bitcoin-price-expectations.md)
 
 ## Conclusion
 
