@@ -48,7 +48,7 @@ I assume that you are still not using Bitcoin as your primary form of money. In 
 
 You are also likely not accustomed to converting Bitcoin to fiat regularly to pay for your expenses. If you've been following Bitcoin for a while, you've probably considered this but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market and experienced FOMO (fear of missing out), as well as unease about how low Bitcoin prices can fall in a bear market.
 
-You might have some credit obligations, such as a mortgage, car loan, student loan, or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you tread carefully when deciding how and when to invest in it. You think of Bitcoin as a "buy and hold" asset rather than something to exchange fiat for regularly. And you kind of don't want to sell your Bitcoin because you believe its value will continue to rise indefinitely.
+You might have some credit obligations, such as a mortgage, car loan, student loan, or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you tread carefully when deciding how and when to invest in it. You think of Bitcoin as a "buy and hold" asset rather than something you should frequently exchange for Fiat and/or spend. You kind of don't want to touch your Bitcoin stack because you believe its value will continue to rise in the future.
 
 If you recognize yourself in any of these statements, this guide is for you.
 
