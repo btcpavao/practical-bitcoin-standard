@@ -1,4 +1,4 @@
-# Bitcoin Price Expectations Management
+# How to Manage Future Bitcoin Price Expectations
 
 * purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
 * can we predict future price? just like with weather in the future, we can't predict it exactly, but we can have high confidence in our prediction
@@ -6,6 +6,8 @@
 * market sentiment estimation: fear & greed
 * choppy sideways price movement
 * as long as we can see people getting into Bitcoin while having debt on their balance sheets, expect higher volatility
+* what should you do when you feel bearish?
+* what should you do when you feel bullish?
 * focus on price & time
 * power law theory - explanation
 * ultimately, go back to your budget & use power law theory just to get a sense where we are
