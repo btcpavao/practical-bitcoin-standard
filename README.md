@@ -6,7 +6,7 @@ This is an open-source guidebook that contains a collection of principles I lear
 
 This means converting all of your income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also involves liquidating and converting all of your current [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin. Lastly, it requires becoming accustomed to exchanging Bitcoin for fiat currency for your regular spending.
 
-The guide has two sections: 'Money Management Wisdom' and 'Bitcoin and Your Net Worth.'&#x20;
+The guide has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
 
 The first section outlines three practices that will enable you to: 1) gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md), 2) stop all wasteful outflows by [**becoming and staying 100% debt-free**](money-management-wisdom/live-debt-free.md), and 3) steadily increase your capacity for generating inflows by [**always setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
