@@ -2,39 +2,34 @@
 
 ### Understand the Difference Between Three Types of Goods: Monetary, Consumption, and Production
 
-Economic goods can have three use cases: 1) monetary - medium of exchange, 2) consumption, and 3) production (capital). There is nothing inherent in the goods that defines their use. In other words, how we use a good determines its functional definition. Furthermore, we can use the good for two or even all three functions at the same time.
+Economic goods can serve three purposes: 1) as a medium of exchange (monetary use), 2) for personal use (consumption), and 3) for creating other goods or services (production or capital). There is nothing inherent in the goods themselves that dictates their use; rather, it is how we choose to use them that determines their functional role. Additionally, a single good can simultaneously fulfill two or even all three functions.
 
-Let's use the example of an economic good: a house. Depending on how we use the house, this economic good may be a monetary, consumption, or capital (production) good. Let's look at an example in which we use our house for more than just personal living space during our free time (which would be using it as a consumption good).
+Consider the example of a house. Depending on its use, a house can be a monetary good, a consumption good, or a capital good. If we use the house solely as a place to live, it is a consumption good.
 
-Assume we set up a home office or use our garage for income-generating activities. Or suppose we rent out a spare room or apartment in our house that we don't use for living. In all of these cases, the house is considered both a consumption and a capital good.
+However, if we set up a home office or use the garage for income-generating activities, or if we rent out a spare room or apartment within the house, the house serves as both a consumption and a capital good.
 
-Let's say our plan is to sell this house at some point in the future. If we purchase the house with the intention of selling it later and we don't plan to live in it or use it for any kind of production, we are effectively using the house as a monetary good.
+If we buy a house with the intention of selling it in the future and do not plan to live in it or use it for any production, the house functions as a monetary good.
 
-We can also use the house exclusively for one purpose at a time. For example, if we only use this house for income-generating purposes (such as renting it out), it is considered a capital good.
+The house can also be used exclusively for one purpose at a time. For example, if we rent it out entirely, it is considered a capital good. If we buy it solely to sell it in the future without any intention of living in it or generating income from it, we are using it as a monetary good.
 
-We are using a house as a monetary good if we buy it with the sole purpose of selling it in the future, without any intention of living in it, renting it, or engaging in any other income-generating activities with it.
+The key principle is to always maintain enough cash within your net worth to maximize its growth potential through practicing giving transactions with 10-20% of it. If you adopt a full Bitcoin standard, Bitcoin will be the major part of your cash balance because you will hold very little fiat (enough to cover a couple of days, or at most weeks, of your average expenses). Thus, you will practice zero-based budgeting with Bitcoin.
 
-We can also divide goods according to their spatial and temporal characteristics. Spatial characteristics are divided into movable and immovable. Temporal characteristics are divided into durable and non-durable (perishable).
+To grow your net worth effectively, follow the rule of thirds: no more than one-third of your assets should be in consumption assets and no more than one-third in capital assets.
 
-The main point is to always have enough cash on hand in your net worth so that you can grow it in the best way possible. If you adopt a full Bitcoin standard, Bitcoin is going to be a part of your cash balance, so you will practice zero-based budgeting with it.
+* When the purchasing power of your cash (Bitcoin) increases, you can increase your consumption assets and capital, ensuring each does not exceed one-third of your net worth.
+* When the purchasing power of your cash (Bitcoin) decreases, you should reduce your consumption assets and capital if they exceed one-third of your net worth, by liquidating a portion back to cash (Bitcoin).
 
-The best way to grow net worth overall is to follow the rule of thirds and make sure that no more than a third of our assets are in Land and no more than a third are in Capital.
+The aim is to always keep at least one-third of your net worth in cash (Bitcoin) to maximize the Giving portion of your budget. This budget only considers cash, not illiquid assets.
 
-Increase in cash (Bitcoin) purchasing power -> opportunity to increase Land & Capital (up to, but no more than, one-third of net worth in each).
+For example, a $1 million net worth with only 5% in cash (Bitcoin) will allocate only $5,000 to $10,000 (0.5% - 1%) to the Giving portion. Conversely, with at least 33.3% in cash (Bitcoin), the Giving portion increases to $33,000 to $66,000 (3.3% to 6.7%). If 80% of net worth is in cash (Bitcoin), the Giving portion rises to $80,000 to $160,000 (8% to 16%). This last scenario enables the fastest growth rate due to a stronger spirit of generosity.
 
-Period of decreasing cash (Bitcoin) purchasing power -> opportunity for decreasing Land & Capital (if they exceed a third of net worth in each) by liquidating a portion back to cash (Bitcoin).
+Always monitor the items you own and their current market prices. This is crucial for expensive items like real estate and vehicles and also beneficial for less expensive items.
 
-The goal of balancing is to always have at least one-third in cash (Bitcoin) to maximize the Giving portion of the budget (we are only budgeting cash, not illiquid assets).
+Your total net worth is the sum of the current market prices of all your assets minus all liabilities (debts). The first step is to run a zero-based budget, the second is to eliminate all debt, and the third is to establish a giving practice from your liquid budget. At this point, your net worth should have zero debts.
 
-For example, a $1 million net worth with only 5% cash (Bitcoin) will have only 0.5% - 1% ($5,000 to $10,000) in the Giving portion of a budget. The same $1 million net worth that has at least 33.3% in cash (Bitcoin) will have at least 3.3% to 6.7% ($33k to $66k) in the Giving category. The same net worth of 80% cash (Bitcoin) will have 8% to 16% ($80k to $160k) in the Giving category. The last one will grow at the fastest rate due to the fastest rate of growth of the spirit of generosity.
+Balancing the structure of your net worth ensures its growth remains optimal over time. This might involve selling part of your capital or consumption assets to increase cash or buying capital or consumption assets, but only up to one-third of your total net worth for each.
 
-You should always keep track of the items you own and their current market prices. This is especially important for more expensive items like real estate and vehicles, but it's also very useful to do it for less expensive items you own.
-
-Your total net worth is the sum of the current market prices of all the assets you own, minus all your liabilities (debts). We've already established that the first step you should take is to run a zero-based budget, the second is to eliminate all debt, and the third is to establish a giving practice from your liquid budget. So at this point, your net worth should have zero debts.
-
-The goal of balancing the structure of your net worth is to ensure that its growth remains at its optimal pace over time. Achieving this may sometimes require liquidating (selling) part of your Capital or Land assets and moving that into Cash. At other times, it might mean buying Capital or Land, but only up to a value of one-third of your total net worth for each.
-
-Your net worth composition will also change with changes in Bitcoin purchasing power.
+Remember, the composition of your net worth will change with fluctuations in Bitcoin purchasing power.
 
 ### The Fiat Standard Way: Cash Is Trash
 
