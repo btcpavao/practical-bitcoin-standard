@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This is an open-source guidebook that contains a collection of principles I learned while living on a full Bitcoin standard for the past couple of years. It essentially shows you how to 'hyperbitcoinize' your balance sheet, which means not only 'investing in Bitcoin' but also using it as your primary form of money.
+This is an open-source guidebook that contains a collection of principles I learned while living on a full Bitcoin standard for the past couple of years.&#x20;
+
+It essentially shows you how to 'hyperbitcoinize' your balance sheet, which means not only 'investing in Bitcoin' but also using it as your primary form of money.
 
 This means converting all of your income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also involves liquidating and converting all of your current [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin. Lastly, it requires becoming accustomed to exchanging Bitcoin for fiat currency for your regular spending.
 
@@ -13,6 +15,8 @@ The first section outlines three practices that will enable you to: 1) gain full
 The second section discusses a framework for evaluating and adjusting the composition of your net worth as Bitcoin continues to monetize and grow in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods. Then, you will want to follow the so-called "rule of thirds," which simply means: 1) keep **at least** one-third of your net worth in money, 2) keep **no more** than one-third of your net worth in consumption goods/assets, and 3) keep **no more** than one-third of your net worth in capital (production) goods/assets.
 
 ### Who is this guide for?
+
+It is written for people transitioning from a Fiat to a full Bitcoin standard. Are you afraid to sell Bitcoin? Are you bothered by high volatility? Do you have debt? Is your spouse not really on the same page as you? Are you wondering how you can make more money in general?
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
