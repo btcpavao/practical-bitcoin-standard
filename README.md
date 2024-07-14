@@ -4,7 +4,7 @@
 
 This is an open-source guidebook that contains a collection of principles I learned while living on a full Bitcoin standard for the past couple of years.&#x20;
 
-It essentially shows you how to 'hyperbitcoinize' your balance sheet, which means not only 'investing in Bitcoin' but also using it as your primary form of money.
+It shows you how to 'hyperbitcoinize' your balance sheet, which means not only 'investing in Bitcoin' but also using it as your primary form of money.
 
 This means converting all of your income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also involves liquidating and converting all of your current [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin. Lastly, it requires becoming accustomed to exchanging Bitcoin for fiat currency for your regular spending.
 
