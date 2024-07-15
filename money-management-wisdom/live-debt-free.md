@@ -10,13 +10,7 @@ The Fiat standard, as we are all painfully aware, has accustomed us to debt. Loo
 
 ### Do Not Ever, Under Any Circumstance, Spend Your Future Money
 
-Simply put, because the future is uncertain.
-
-**The Nature of Uncertainty**
-
-The future's uncertainty means we cannot predict what will happen tomorrow, next week, next month, next year, or even in ten years. While we can plan and assign probabilities to certain events, we can never know with certainty what will occur.
-
-**The Implications of Uncertainty**
+Simply put, because the future is uncertain. We cannot predict what will happen tomorrow, next week, next month, next year, or even in ten years. While we can plan and assign probabilities to certain events, we can never know with certainty what will occur.
 
 Uncertainty often evokes fear of negative outcomes, but it also implies the potential for positive outcomes. We don't know what will happen, when, or how—whether good or bad. This inherent uncertainty makes it fundamentally unwise to spend future money.
 
