@@ -1,7 +1,7 @@
-# How to Manage Future Bitcoin Price Expectations
+# Managing Future Bitcoin Price Expectations & Handling Volatility
 
 * purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
-* can we predict future price? just like with weather in the future, we can't predict it exactly, but we can have high confidence in our prediction
+* can we predict future price? just like with weather in the future, we can't predict it 100% exactly, but we can have reasonable expectations with varying degrees of confidence
 * patterns and cycles
 * market sentiment estimation: fear & greed
 * choppy sideways price movement
