@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an open-source guidebook that contains a collection of principles I learned while living on a full Bitcoin standard for the past couple of years.&#x20;
+This is a free and open-source guidebook that contains a collection of principles I learned while living on a full Bitcoin standard since late 2020.&#x20;
 
 It shows you how to 'hyperbitcoinize' your balance sheet, which means not only 'investing in Bitcoin' but also using it as your primary form of money.
 
