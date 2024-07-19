@@ -154,7 +154,7 @@ The effectiveness of a medium of exchange, or money, can be measured in terms of
 
 **Salability across scales** is the degree to which the value of an item used as a medium of exchange rises or falls with the size of the exchange. When it comes to small and large payments, Bitcoin is the best.
 
-**Salability across goods** refers to the extent to which a given good or service is desired or recognized as such. Currently, government-issued fiat money is the most popular and widely accepted form of payment in most parts of the world, although Bitcoin is quickly gaining traction in this space. This is evident in the expanding number of exchanges, liquidity, and contracting bid-ask spreads between government-issued fiat currencies and Bitcoin.
+**Salability across goods** refers to the extent to which a given good or service is desired or recognized as such. Currently, government-issued fiat money is unfortunately the most popular and widely accepted form of payment in most parts of the world, although Bitcoin is quickly gaining traction in this space. This is evident in the expanding number of exchanges, liquidity, and contracting bid-ask spreads between government-issued fiat currencies and Bitcoin.
 
 After providing a functional definition of money, we will examine management best practices derived from millennia of experience. I'll start by defining what money means in this manual so that it can be as helpful as possible to its readers. You should know this because you probably use some things as money that you wouldn't if Bitcoin was your primary money.
 
