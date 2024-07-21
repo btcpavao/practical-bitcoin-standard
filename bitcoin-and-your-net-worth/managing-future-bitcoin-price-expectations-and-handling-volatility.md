@@ -4,7 +4,7 @@
 * can we predict future price? just like with weather in the future, we can't predict it 100% exactly, but we can have reasonable expectations with varying degrees of confidence
 * patterns and cycles
 * market sentiment estimation: fear & greed
-* choppy sideways price movement
+* sideways price movement
 * as long as we can see people getting into Bitcoin while having debt on their balance sheets, expect higher volatility
 * what should you do when you feel bearish?
 * what should you do when you feel bullish?
