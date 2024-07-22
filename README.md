@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a free and open-source guidebook that contains a collection of principles I learned while living on a full Bitcoin standard since late 2020. The goal is to help everybody who is transitioning from Fiat to full Bitcoin standard.
+This guide contains a collection of principles I learned while living on a full Bitcoin standard since late 2020.
 
 Living on a full Bitcoin standard means converting all income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also involves liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin. Lastly, it means becoming accustomed to exchanging Bitcoin for Fiat for regular spending.
 
