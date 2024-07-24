@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide contains a collection of principles I learned while living on a full Bitcoin standard since late 2020. The main purpose of this guide is to help everyone who has already started stacking Bitcoin but still has one foot in the fiat world. The final goal is to use Bitcoin as primary money.
+This guide contains a collection of principles I learned while living on a full Bitcoin standard since late 2020. The primary purpose of this guide is to help those who have begun accumulating Bitcoin but still retain a foothold in the Fiat world. The ultimate goal is to transition to using Bitcoin as their main form of money.
 
 Living on a full Bitcoin standard means converting all income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also involves liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin. Lastly, it means becoming accustomed to exchanging Bitcoin for Fiat for regular spending.
 
