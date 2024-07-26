@@ -2,9 +2,13 @@
 
 ## Introduction
 
-This guide contains a collection of principles I learned while living on a full Bitcoin standard since late 2020. It is designed to help those who have started accumulating Bitcoin but still rely on Fiat money and use other assets as money. The ultimate goal is to make Bitcoin their primary form of money.
+This guide shares principles I've learned since switching to a full Bitcoin standard in late 2020. It's aimed at those who are accumulating Bitcoin but still use fiat money and other assets. The goal is to help you make Bitcoin your primary form of money.
 
-Living on a full Bitcoin standard means converting all income to Bitcoin and, if possible, receiving payments directly in Bitcoin. It also involves liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin. Lastly, it means becoming accustomed to exchanging Bitcoin for Fiat for regular spending.
+Living on a full Bitcoin standard means:
+
+* Converting all income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
+* Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
+* Getting used to exchanging Bitcoin for fiat for regular spending.&#x20;
 
 The guide has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
 
