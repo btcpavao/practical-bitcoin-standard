@@ -138,7 +138,7 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 ### Why do we use money in the first place?
 
-The Austrian school of economics defines money by its function: a medium of exchange. People exchange goods and services with each other because they value them differently. However, direct exchange of goods and services quickly encounters the problem of double coincidence of wants.
+The Austrian school of economics defines money by its function: money is anything people use as a medium of exchange. People exchange goods and services with each other because they value them differently. However, direct exchange of goods and services quickly encounters the problem of double coincidence of wants.
 
 For example, person A has oranges and person B has apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They will carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before, making the exchange mutually beneficial.
 
