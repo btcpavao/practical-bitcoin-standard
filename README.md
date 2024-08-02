@@ -18,7 +18,7 @@ The second section discusses a framework for evaluating and adjusting the compos
 
 ### Who is this guide for?
 
-This guide is written for people transitioning from a Fiat to a full Bitcoin standard, who are still struggling with various decisions along the way. _Are you afraid to sell Bitcoin? Are you bothered by high volatility? Do you have debt? Is your spouse not really on the same page as you? Are you wondering how you can make more money in general?_
+This guide is written for those transitioning from a Fiat standard to a full Bitcoin standard and are facing various challenges and decisions during the process. _Are you afraid to sell Bitcoin? Are you bothered by high volatility? Do you have debt? Is your spouse not really on the same page as you? Are you wondering how you can make more money in general?_
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
