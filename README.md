@@ -66,7 +66,7 @@ Similarly, when someone says "I'm never spending my Bitcoin" but then signs a fo
 
 If someone has $1 in Bitcoin and $99 in fiat and makes a $20 purchase, they have spent $20 worth of Bitcoin (at the time of purchase), regardless of whether they made the payment from their fiat balance. Because if they converted all of their $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, they would still have $80 worth of purchasing power in Bitcoin at the end.
 
-### Bitcoin's purchasing power volatility
+### Bitcoin's Purchasing Power Volatility
 
 Bitcoin is a very different kind of money from the fiat currency we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly, while that of fiat has steadily declined.
 
@@ -88,7 +88,7 @@ Today, you can use a variety of services and exchanges, such as Bitcoin debit ca
 
 To do this safely and effectively and embrace Bitcoin's high volatility, you must first learn, implement, and consistently practice three money management principles: planning your money through zero-based budgeting, living debt-free, and consistently setting aside a part of your budget (10-20%) for giving. These timeless principles are founded on millennia of wisdom and are extremely important today. They are even more critical if you intend to use Bitcoin as your primary money because such a potent but still largely misunderstood technology can have both extremely positive and extremely negative effects on your financial life. I'll go into details on why and how to practically implement each money management principle.
 
-### Bitcoin is powerful technology in early adoption phase
+### Bitcoin Is a Powerful Technology in Its Early Adoption Phase
 
 In my opinion, Bitcoin today is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to handle it safely. Similarly, most people today have at least heard of Bitcoin, but the vast majority still do not own any. An even smaller proportion of those who do own Bitcoin actually use it as their primary money, or in other words, live on a full Bitcoin standard.
 
@@ -134,9 +134,9 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 ***
 
-### Bitcoin As Your Primary Money
+### Bitcoin as Your Primary Money
 
-### Why do we use money in the first place?
+### Why Do We Use Money in the First Place?
 
 The Austrian school of economics defines money by its function: money is anything people use as a medium of exchange. People exchange goods and services with each other because they value them differently. However, direct exchange of goods and services quickly encounters the problem of double coincidence of wants.
 
@@ -148,7 +148,7 @@ By using a medium of exchange, we are able to solve the problem of double coinci
 
 Anything can serve as a means of exchange or money, but some goods are more effective at doing so than others.
 
-### Effectiveness of a medium of exchange
+### Effectiveness of a Medium of Exchange
 
 The effectiveness of a medium of exchange, or money, can be measured in terms of its salability (marketability, or how easy/difficult it is to exchange for what we actually want). Salability can be measured with respect to four distinct dimensions: time, space, scales, and goods.
 
@@ -192,7 +192,7 @@ Think of this manual as a guide on cultivating a "spiritual money tree" with thr
 
 **Establishing a Giving Practice**: This step focuses on increasing our inflows. By practicing giving, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to grow our inflows.
 
-### **What Do You Use As Your Primary Money?**
+### What Do You Use as Your Primary Money?
 
 It is critical to understand that money is a medium of exchange and that anything can be used as such. Do you know someone who "invests in real estate," buying properties not to live in or rent out but rather to "store value," with the goal of later selling them for a higher price? If so, then this person is using real estate as money.
 
@@ -206,7 +206,7 @@ If you follow the recommendations provided in this guide, you won't need to "hed
 
 ***
 
-### My Path To Full Bitcoin Standard
+### My Path to the Full Bitcoin Standard
 
 I first heard about Bitcoin in 2012 but didn't find it interesting. I thought it was just some digital currency for gamers. In 2013, I learned that the FBI shut down Silk Road, where Bitcoin was used for buying and selling. The U.S. government's involvement added to my interest, showing that Bitcoin wasn't just a code that could be changed by its creators but was actually used in real commerce, albeit illegal.
 
