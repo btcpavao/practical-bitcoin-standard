@@ -2,7 +2,9 @@
 
 The second step you should take is becoming and remaining debt-free. The main goal is to eliminate wasteful outflows.
 
-The Fiat standard, as we are all painfully aware, has accustomed us to debt. Look around, and you will see it everywhere: credit cards, auto loans, mortgages, companies running negative balances, and finally, states. You see the prices of almost everything creeping up, and all of this is due to a very simple reason—Fiat money is created by issuing debt. Debt is money, and money is debt in the Fiat standard. One of the most fundamental changes you will make while transitioning to a full Bitcoin standard is learning how to live 100% debt-free and eliminating debt from your life altogether and forever.
+The Fiat standard has made us accustomed to living with debt, which is evident in the proliferation of credit cards, auto loans, mortgages, corporate debt, government debt, buy now pay later schemes, overdrafts, personal loans, and leases. Prices creep up because every time a new debt is issued, new Fiat money is created. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, Fiat money is mined by getting into debt. This is why debt is everywhere, and many are unfortunately "drowning" in it.
+
+Being in a debt-free state is like acquiring a metaphysical asset: your calm, free, and clear mind, which will enable you to make correct decisions every single time you interact with your money. Debt is the source of immense waste in your life, and when paired with high Bitcoin volatility, it becomes an extremely dangerous combination. To transition to a full Bitcoin standard, it is essential to learn how to live completely debt-free and eliminate all debt from your life permanently.
 
 ***
 
