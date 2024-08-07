@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide shares principles I've learned since upgrading my financial life to a full Bitcoin standard in late 2020. It's goal is to help people who are currently accumulating Bitcoin but are still not at the point where they use Bitcoin as their primary money.
+This guide shares principles I've learned since upgrading my financial life to a full Bitcoin standard in late 2020. It's goal is to help people who started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money.
 
 Living on a full Bitcoin standard means:
 
