@@ -68,17 +68,17 @@ If someone has $1 in Bitcoin and $99 in fiat and makes a $20 purchase, they have
 
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is a very different kind of money from the fiat currency we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly, while that of fiat has steadily declined.
+Bitcoin is a very different kind of money from the fiat we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly, while that of fiat has steadily declined.
 
 You probably already know about the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (April 2024), 1 Bitcoin is worth about $66,915. So, 10,000 Bitcoins, equivalent to about $669 million today, could buy around 45 million pizzas.
 
-But this increase in purchasing power has come with even more well-known volatility. Since my "get off zero" moment in July 2014, at around $600/BTC, the current Bitcoin exchange rate is over 110 times higher than my entry point, in just under 10 years.
+But this increase in purchasing power has come with even more well-known volatility. Since my "get off zero" moment in July 2014, at around $600/BTC, the current Bitcoin exchange rate is over 100 times higher than my entry point, in just over 10 years.
 
 I only began studying Bitcoin seriously in late 2017, as I mostly forgot about my initial Bitcoin purchase in the summer of 2014 until then. I've witnessed Bitcoin’s price run up to a peak of $20,000 in December 2017 and then drop to as low as $3,300 per BTC in November 2018, a retracement of almost 85 percent. Then I saw Bitcoin recover to around $12,000 in the summer of 2019, only to drop back to around the $8-9k range.
 
 In March 2020, the infamous COVID crash slashed the price almost in half (though for a short period), touching the $4-5k range. Then I witnessed the 2020 halving and Bitcoin's climb to around $60k in the spring of 2021 (a 1200% increase), followed by a drop to around $30k in the summer of 2021 (a 50% decrease), and another climb to almost $70k in November 2021. It then went down again in 2022, reaching the previous cycle's all-time high of $20k in the summer of 2022, and retracing further to $15-16k in November 2022, an approximately 80 percent drop from its high point.
 
-I'm currently observing a $68,174/BTC price in May 2024, which is roughly a 765% increase over the past five years.
+I'm currently observing a $60,000/BTC price in August 2024, which is roughly a 422% increase over the past five years.
 
 I've heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice includes "only buy Bitcoin with money you will not need for at least a couple of years" and "just buy a small amount every month: dollar-cost average." More aggressive approaches involve attempting to trade this volatility by purchasing Bitcoin at low prices and selling it at high prices. While both approaches can be effective for some (though they carry risks that are often overlooked), there is a third approach that I rarely see but have personally found effective over the past three years: using Bitcoin as your primary money.
 
