@@ -5,10 +5,9 @@
 * nocoiners look at bitcoin price chart in linear scale, both for time and price
 * most bitcoiners realize it's better to look at bitcoin price in log scale
 * when you look at the chart from log scale for price and in log scale for time, you notice a pattern: bitcoin grows according to power law
-* patterns and cycles
-* market sentiment estimation: fear & greed
-* sideways price movement
-* as long as we can see people getting into Bitcoin while having debt on their balance sheets, expect higher volatility
+* patterns and cycles: bitcoin monetization periodicity and predictability
+* market sentiment estimation: fear & greed.
+* as long as we can see people getting into Bitcoin while carrying any kind of debt on their balance sheets, expect relatively high volatility and cyclicality to continue
 * what should you do when you feel bearish?
 * what should you do when you feel bullish?
 * focus on price & time
