@@ -1,6 +1,6 @@
 # Live 100% Debt-Free
 
-The second step you should take is becoming and remaining debt-free. The main goal is to eliminate wasteful outflows.
+The second step to take is becoming and remaining debt-free. The main goal is to eliminate wasteful outflows.
 
 The Fiat standard has made us accustomed to living with debt, which is evident in the proliferation of credit cards, auto loans, mortgages, corporate debt, government debt, buy now pay later schemes, overdrafts, personal loans, and leases. Prices creep up because every time a new debt is issued, new Fiat money is created. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, Fiat money is mined by getting into debt. This is why debt is everywhere, and many are unfortunately "drowning" in it.
 
