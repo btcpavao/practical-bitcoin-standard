@@ -1,18 +1,8 @@
 # Plan Your Money
 
-The first and most important rule is to always have a plan in place for all of your money before spending any of it. I can't stress enough how important this is. This is not a one-time activity; rather, it is a continuous process of planning and adjusting the plan as you go. This method is known as zero-based budgeting.
+The first and most important rule is to always have a plan for all of your money before spending any of it. I cannot emphasize enough how crucial this is. Budgeting is not a one-time activity; it’s an ongoing process of planning and adjusting as you go. This approach is known as zero-based budgeting.
 
-**Why do we need to budget our money?**
-
-* **Make Deliberate Decisions:** We want to make deliberate decisions about our money before we spend it.
-* **Understand Opportunity Cost:** By creating budget categories and assigning funds to them, we'll learn about the opportunity cost of our money.
-* **Track Time and Money Relationship:** We’ll discover how time and money are related and begin to track the age of our money.
-* **Analyze Money Behavior:** We will discover the behavior of our money over time and across various categories.
-* **Use Past Data for Planning:** We’ll use past transaction data to better plan our budget.
-* **Plan Further into the Future:** The longer we maintain our budget updated, the further we can plan into the future.
-* **Pre-plan Spending Decisions:** Our spending decisions in the present will always be planned ahead of time.
-
-Zero-based budgeting is one of three steps required before we can upgrade to a full Bitcoin standard, i.e., using Bitcoin as our primary money.
+Budgeting is important because it helps us make intentional spending decisions and understand the trade-offs involved. By setting up budget categories, we can see how our money is used over time and plan more effectively.
 
 ***
 
