@@ -10,7 +10,7 @@ Being in a debt-free state is like acquiring a metaphysical asset: your calm, fr
 
 ## Your Money Exists In The Past And In The Future
 
-### Do Not Ever, Under Any Circumstance, Spend Your Future Money
+### Do Not Ever, Under Any Circumstances, Spend Money From the Future
 
 Simply put, because the future is uncertain. We cannot predict what will happen tomorrow, next week, next month, next year, or even in ten years. While we can plan and assign probabilities to certain events, we can never know with certainty what will occur.
 
@@ -25,8 +25,6 @@ When you incur debt, you commit to future cash outflows without knowing your fut
    * **Missed Opportunities:** On the flip side, debt can prevent you from seizing positive opportunities. For example, you might miss out on a chance to switch careers or start a new business because you cannot afford to take the risk. These opportunities might temporarily reduce your income but could eventually lead to significant financial growth. Debt limits your ability to take such calculated risks, as your cash outflows are already committed to debt payments.
 2. **Subjective Valuation Changes:**
    * Each time you make a transaction, you assess its value in the present. This valuation can change over time. An item you purchase today might seem worth the money now, but in the future, you might value the money more than the item. Subjective valuations fluctuate due to various unpredictable factors, making it risky to commit future money.
-
-**Conclusion**
 
 Given the uncertainty of the future and the potential for both negative and positive outcomes, it is unwise to get into debt. Debt increases your present financial obligations, making it harder to adapt to negative events and seize positive opportunities. Additionally, your subjective valuation of purchases can change, further complicating the decision to spend future money. Therefore, it is prudent to avoid debt whenever possible to maintain financial flexibility and stability.
 
