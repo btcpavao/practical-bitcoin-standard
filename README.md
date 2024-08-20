@@ -2,11 +2,9 @@
 
 ## Introduction
 
-This guide shares principles and best practices I've learned since upgrading to a full Bitcoin standard around October/November in 2020. It's goal is to help people who already started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money.
+This guide shares principles and best practices I've learned since upgrading to a full Bitcoin standard around October/November in 2020. It's goal is to help people who already started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money, which I define as:
 
-Living on a full Bitcoin standard means:
-
-* Converting all income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
+* Converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
 * Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
 * Getting used to exchanging Bitcoin for fiat for regular spending.
 
