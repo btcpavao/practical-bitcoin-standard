@@ -140,7 +140,11 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 ### Why Do We Use Money in the First Place?
 
-The Austrian school of economics defines money by its function: money is anything people use as a medium of exchange. People exchange goods and services with each other because they value them differently. However, direct exchange of goods and services quickly encounters the problem of double coincidence of wants.
+The first point we should address is defining money in the context of this guide. Here, I'll use the definition from the Austrian School of Economics: money is a widely accepted medium of exchange. However, for practical purposes, I'll add a caveat and define money as any economic good that you use not because you intend to consume it or produce something else with it, but because you expect to exchange it for something else at a later time.
+
+Using this definition, we can recognize that many people use a variety of different things as money.
+
+People exchange goods and services with each other because they value them differently. However, direct exchange of goods and services quickly encounters the problem of double coincidence of wants.
 
 For example, person A has oranges and person B has apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They will carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before, making the exchange mutually beneficial.
 
