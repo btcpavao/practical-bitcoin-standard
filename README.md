@@ -136,8 +136,6 @@ I hope you like reading this, and I encourage you to put the suggestions into pr
 
 ***
 
-### Bitcoin as Your Primary Money
-
 ### Why Do We Use Money in the First Place?
 
 The first point we should address is defining money in the context of this guide. Here, I'll use the definition from the Austrian School of Economics: money is a widely accepted medium of exchange. However, for practical purposes, I'll add a caveat and define money as any economic good that you use not because you intend to consume it or produce something else with it, but because you expect to exchange it for something else at a later time.
