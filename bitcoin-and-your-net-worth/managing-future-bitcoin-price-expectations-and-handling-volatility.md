@@ -1,5 +1,11 @@
 # Managing Future Bitcoin Price Expectations & Handling Volatility
 
+Let's be clear: anything you spend today will be worth much more in Bitcoin-denominated terms in 20 years or more. So, in the grand scheme of things, it doesn't really matter how much Bitcoin you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
+
+Understand that you can't really avoid spending Bitcoin in real terms. Whenever you make a purchase, you're spending some of your overall purchasing power, and you can always denominate that amount in Bitcoin according to the exchange rate at the time of the purchase. So, if you spend $100 from your fiat balance, you have spent $100 worth of Bitcoin at the time of the purchase.
+
+It doesn't matter if you made your large purchases during the bull market before the price peaked. What matters is that you made those purchases within your budget, maintained an overall positive net income, and received positive inflows from your reconciliation balance adjustments.
+
 * purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
 * can we predict future price? just like with weather in the future, we can't predict it 100% exactly, but we can have reasonable expectations with varying degrees of confidence
 * nocoiners look at bitcoin price chart in linear scale, both for time and price
