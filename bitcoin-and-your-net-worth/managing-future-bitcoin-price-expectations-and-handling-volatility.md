@@ -1,6 +1,6 @@
 # Managing Future Bitcoin Price Expectations & Handling Volatility
 
-Let's be clear: anything you spend today will be worth much more in Bitcoin-denominated terms in 20 years or more. So, in the grand scheme of things, it doesn't really matter how much Bitcoin you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
+Anything you spend today will be worth much more in Bitcoin-denominated terms in 20 years or more. So, in the grand scheme of things, it doesn't really matter how much Bitcoin you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
 
 Understand that you can't really avoid spending Bitcoin in real terms. Whenever you make a purchase, you're spending some of your overall purchasing power, and you can always denominate that amount in Bitcoin according to the exchange rate at the time of the purchase. So, if you spend $100 from your fiat balance, you have spent $100 worth of Bitcoin at the time of the purchase.
 
