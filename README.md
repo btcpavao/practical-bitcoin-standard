@@ -8,7 +8,7 @@ This guide shares principles and best practices I've learned since upgrading to 
 * Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
 * Getting used to exchanging Bitcoin for fiat for regular spending.
 
-At this point in time (summer 2024), I believe that anyone with a good understanding of Bitcoin can do this, and it would be in their best interest to do so. Technically, the only tool needed is access to a Bitcoin exchange. However, attempting this without proper preparation can be financially risky. In this guide, I will outline essential financial practices to help you prepare for fully adopting the Bitcoin standard.
+As of summer 2024, I believe that anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be financially risky. In this guide, I will outline essential financial practices to help you prepare for fully adopting the Bitcoin standard.
 
 The guide has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
 
