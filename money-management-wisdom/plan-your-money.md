@@ -280,6 +280,8 @@ Both inflows and outflows can be set up as scheduled transactions.
 
 You can filter the spending totals report by time period, account, and category to see a visual breakdown of your expenses. This is useful if you want to determine which category has the largest amount relative to your total expenses over a specific duration.
 
+### Spending Breakdown
+
 ### Spending Trends
 
 Spending Trends is a helpful visual representation of your monthly total spending by category. This tool is useful for examining how your spending patterns have changed over time.
