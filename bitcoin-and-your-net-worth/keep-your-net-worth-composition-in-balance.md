@@ -1,6 +1,6 @@
 # Maintaining Balance in Your Net Worth Composition
 
-### Understand the Difference Between Three Types of Goods: Monetary, Consumption, and Production
+### Understanding the Difference Between Three Types of Goods: Monetary, Consumption, and Production
 
 Economic goods can serve three purposes: 1) as a medium of exchange (monetary use), 2) for personal use (consumption), and 3) for creating other goods or services (production or capital). There is nothing inherent in the goods themselves that dictates their use; rather, it is how we choose to use them that determines their functional role. Additionally, a single good can simultaneously fulfill two or even all three functions.
 
