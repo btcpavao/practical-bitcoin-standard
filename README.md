@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This guide shares principles and best practices I've learned since upgrading to a full Bitcoin standard around October/November in 2020. It's goal is to help people who already started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money, which I define as:
+This guide shares best practices for upgrading to a full Bitcoin standard. It's goal is to help people who already started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money, defined as:
 
 * Converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
 * Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
 * Getting used to exchanging Bitcoin for fiat for regular spending.
 
-As of summer 2024, I believe that anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be financially risky. In this guide, I will outline essential financial practices to help you prepare for fully adopting the Bitcoin standard.
+Anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be very financially risky.
 
 The guide has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
 
