@@ -8,13 +8,13 @@ This guide shares best practices for people who have already started their Bitco
 * Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
 * Getting used to exchanging Bitcoin for fiat for regular spending.
 
-Anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be very financially risky.
+Anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
 
-The guide has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
+The guide aims to address how to do this, and has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
 
-The first section outlines three practices that will enable you to: 1) gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md), 2) stop all wasteful outflows by [**becoming and staying 100% debt-free**](money-management-wisdom/live-debt-free.md), and 3) steadily increase your capacity for generating inflows by [**always setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+The first section outlines three practices for: 1) gaining full control of money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md), 2) stopping all wasteful outflows by [**becoming and staying 100% debt-free**](money-management-wisdom/live-debt-free.md), and 3) steadily increase capacity for generating inflows by [**always setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
-The second section discusses a framework for evaluating and adjusting the composition of your net worth as Bitcoin continues to monetize and grow in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods. Then, you will want to follow the so-called "rule of thirds," which simply means: 1) keep **at least** one-third of your net worth in money, 2) keep **no more** than one-third of your net worth in consumption goods/assets, and 3) keep **no more** than one-third of your net worth in capital (production) goods/assets.
+The second section discusses a framework for evaluating and adjusting the composition of one's net worth as Bitcoin continues to monetize and grow in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods. Then, you will want to follow the so-called "rule of thirds," which simply means: 1) keep **at least** one-third of your net worth in money, 2) keep **no more** than one-third of your net worth in consumption goods/assets, and 3) keep **no more** than one-third of your net worth in capital (production) goods/assets.
 
 ### Who is this guide for?
 
