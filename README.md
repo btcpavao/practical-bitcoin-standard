@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide shares best practices for upgrading to a full Bitcoin standard. It's goal is to help people who already started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money, defined as:
+This guide shares best practices for upgrading to a full Bitcoin standard, and is written for people who already started their Bitcoin journey but are still not at the point where they use Bitcoin as their primary money, defined as:
 
 * Converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
 * Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
