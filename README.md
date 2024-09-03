@@ -2,19 +2,21 @@
 
 ## Introduction
 
-This guide shares best practices for people who have already started their Bitcoin journey but are not yet living on a full Bitcoin standard, defined as:
+This is an open-source guide offering best practices for those who have already begun their Bitcoin journey but are not yet living on a full Bitcoin standard, which is defined as:
 
-* Converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
-* Liquidating and converting all [monetary assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
-* Getting used to exchanging Bitcoin for fiat for regular spending.
+* Always converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
+* Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
+* Becoming very accustomed to exchanging Bitcoin for fiat currency for regular spending.
 
 Anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
 
-The guide aims to address how to do this, and has two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'&#x20;
+This guide aims to address how to do this and is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
-The first section outlines three practices for: 1) gaining full control of money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md), 2) stopping all wasteful outflows by [**becoming and staying 100% debt-free**](money-management-wisdom/live-debt-free.md), and 3) steadily increase capacity for generating inflows by [**always setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+The first section outlines three practices: 1) gaining full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md), 2) eliminating all wasteful spending by becoming[ **and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and 3) steadily increasing your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
-The second section discusses a framework for evaluating and adjusting the composition of one's net worth as Bitcoin continues to monetize and grow in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods. Then, you will want to follow the so-called "rule of thirds," which simply means: 1) keep **at least** one-third of your net worth in money, 2) keep **no more** than one-third of your net worth in consumption goods/assets, and 3) keep **no more** than one-third of your net worth in capital (production) goods/assets.
+The second section presents a framework for evaluating and adjusting the composition of your net worth as Bitcoin continues to monetize and increase in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.&#x20;
+
+The framework encourages following the so-called 'rule of thirds,' which suggests: 1) maintaining **at least** one-third of your net worth in money, 2) allocating **no more** than one-third of your net worth to consumption goods/assets, and 3) allocating **no more** than one-third of your net worth to capital (production) goods/assets.
 
 ### Who is this guide for?
 
@@ -62,15 +64,19 @@ If you recognize yourself in any of these statements, this guide is for you.
 
 Using Bitcoin as your primary form of money is not only possible today but is also, from my experience, the best way to use Bitcoin overall. This essentially means "_going all in on Bitcoin_" and stop using fiat money as a hedge against Bitcoin volatility. It also means converting everything you currently use as money, such as real estate and stock & bond portfolios, into Bitcoin.
 
-This guide also aims to dispel some myths propagated by Bitcoiners who do not fully understand what it means to adopt the full Bitcoin standard. One common myth is that "you should never spend your Bitcoin." Another frequent misconception is that Bitcoin is solely about increasing the number of sats you own over time. Both of these myths arise from a misunderstanding of concepts like opportunity cost and purchasing power, similar to how many people think their house "is going up in value" because its fiat-denominated price has increased over time. The truth is that the house, like any other consumable good, is losing value as it is used and consumed; it simply takes longer to recognize the force of entropy at work. The fact that a 20-year-old house that has been lived in has increased in fiat-denominated price is proof of fiat's loss of purchasing power, not an increase in the house's value.
+This guide also aims to dispel some myths propagated by Bitcoiners who do not fully understand what it means to adopt the full Bitcoin standard. One common myth is that "you should never spend your Bitcoin." Another frequent misconception is that Bitcoin is solely about increasing the number of sats you own over time. Both of these myths arise from a misunderstanding of concepts like opportunity cost and purchasing power, similar to how many people think their house "is going up in value" because its fiat-denominated price has increased over time.&#x20;
 
-Similarly, when someone says "I'm never spending my Bitcoin" but then signs a four-year lease contract to buy a car that costs more than half of their total net worth, they are actually spending money that could have been converted into Bitcoin. Even worse, they are doing so with their future money, which is completely uncertain.
+The truth is that the house, like any other consumable good, is actually depreciating as it is used and consumed. The fact that a 20-year-old house that has been lived in has increased in fiat-denominated price is proof of fiat's loss of purchasing power, not an increase in the house's value.
+
+Similarly, when someone says "I'm never spending my Bitcoin" but then signs a four-year lease contract to buy a car, they are actually spending future money that could have been converted into Bitcoin. Thus, he incurs an opportunity cost in Bitcoin terms, even though he didn't sell any of his current Bitcoin holdings.
 
 If someone has $1 in Bitcoin and $99 in fiat and makes a $20 purchase, they have spent $20 worth of Bitcoin (at the time of purchase), regardless of whether they made the payment from their fiat balance. Because if they converted all of their $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, they would still have $80 worth of purchasing power in Bitcoin at the end.
 
+Making Bitcoin your primary money makes this concept instantly clear on a visceral and tangible level, fundamentally changing your spending behavior.
+
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is a very different kind of money from the fiat we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased significantly, while that of fiat has steadily declined.
+Bitcoin is a very different kind of money from the fiat we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased over million fold, while that of fiat has steadily declined.
 
 You probably already know about the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (April 2024), 1 Bitcoin is worth about $66,915. So, 10,000 Bitcoins, equivalent to about $669 million today, could buy around 45 million pizzas.
 
