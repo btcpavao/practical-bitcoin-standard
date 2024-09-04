@@ -4,7 +4,15 @@ The second step to take is becoming and remaining debt-free. The main goal is to
 
 The Fiat standard has made many accustomed to living with debt, which is evident in the wide proliferation of credit cards, auto loans, mortgages, corporate debt, government debt, buy now pay later schemes, overdrafts, personal loans, and leases. Prices always seem to creep up because every time a new debt is issued, new Fiat money is created, adding to it's total supply. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, Fiat money is mined by getting into debt. This is why debt is everywhere, and many are unfortunately "drowning" in it.
 
-Being in a debt-free state is like acquiring a metaphysical asset: your calm, free, and clear mind, which will enable you to make correct decisions every single time you interact with your money. Debt is the source of immense waste in your life, and when paired with high Bitcoin volatility, it becomes an extremely dangerous combination. To upgrade to a full Bitcoin standard, it is essential to learn how to live completely debt-free and eliminate all debt from your life permanently.
+I'd like you to picture being in debt not as something to be analyzed from a purely mathematical standpoint, but rather from a psychological and spiritual perspective. Being in debt or debt-free inevitably leads to changes in your decision-making qualities, which affect your ability to generate inflows, make wise spending decisions, and more.
+
+Both states, in a sense, grow over time, like a seed that sprouts, takes root, and develops into a tree. One of the most important aspects of analyzing the effect of being in debt or debt-free is the amount of time spent in either state. The effects accumulate and grow stronger over time.
+
+Being in debt is like having a constant drip of poison that slowly spreads throughout the system and accumulates over time. It leads to financial waste, misjudged valuations, and the destruction of productivity. Debt also becomes a source of anxiety, fear, restlessness, and other negative effects that can significantly impact a person's financial well-being over their lifetime.
+
+Being in a debt-free state is like acquiring a metaphysical asset: your calm, free, and clear mind, which will enable you to make correct decisions every single time you interact with your money.&#x20;
+
+Debt is the source of immense waste in your life, and when paired with high Bitcoin volatility, it becomes an extremely dangerous combination. To upgrade to a full Bitcoin standard, it is essential to learn how to live completely debt-free and eliminate all debt from your life permanently.
 
 ***
 
@@ -12,7 +20,7 @@ Being in a debt-free state is like acquiring a metaphysical asset: your calm, fr
 
 ### Do Not Ever, Under Any Circumstances, Spend Money From the Future
 
-Simply put, because the future is uncertain. We cannot predict what will happen tomorrow, next week, next month, next year, or even in ten years. While we can plan and assign probabilities to certain events, we can never know with certainty what will occur.
+Simply put, the future is uncertain, which means nobody can predict what will exactly happen tomorrow, next week, next month, next year, or even in ten years. While we can plan and assign probabilities to certain events, we can never know with certainty what will occur.
 
 Uncertainty often evokes fear of negative outcomes, but it also implies the potential for positive outcomes. We don't know what will happen, when, or how—whether good or bad. This inherent uncertainty makes it fundamentally unwise to spend future money.
 
