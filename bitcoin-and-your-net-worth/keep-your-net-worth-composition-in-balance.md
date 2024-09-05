@@ -16,8 +16,9 @@ The key principle is to always maintain enough cash within your net worth to max
 
 To grow your net worth effectively, follow the rule of thirds: no more than one-third of your assets should be in consumption assets and no more than one-third in capital assets.
 
-* When the purchasing power of your money increases, you can increase your consumption assets and capital, ensuring each does not exceed one-third of your net worth.
-* When the purchasing power of your money decreases, you should reduce your consumption assets and capital if they exceed one-third of your net worth, by liquidating a portion back to money.
+When the purchasing power of your money increases, you can increase your consumption assets and capital, ensuring each does not exceed one-third of your net worth.
+
+When the purchasing power of your money decreases, you should reduce your consumption assets and capital if they exceed one-third of your net worth, by liquidating a portion back to money.
 
 The aim is to always keep at least one-third of your net worth in cash (Bitcoin) to maximize the Giving portion of your budget. This budget only considers cash, not illiquid assets.
 
