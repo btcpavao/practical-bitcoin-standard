@@ -8,7 +8,7 @@ This is an open-source guide offering best practices for those who have already 
 * Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
 * Becoming very accustomed to exchanging Bitcoin for fiat currency for regular spending.
 
-Anyone with a solid understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
+Anyone with an advanced understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
 
 This guide aims to address how to do this and is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
