@@ -52,30 +52,6 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * Sometimes you feel like you don't own enough Bitcoin.
 * "_Fiat is for spending, Bitcoin is for saving_" sounds reasonable.
 
-You might view your Bitcoin as a long-term investment, a piece of your retirement portfolio, or a "rainy day fund." Depending on your journey with Bitcoin and when your "get off zero" moment occurred, your Bitcoin position may be large or small relative to your total net worth.
-
-I assume that you are still not using Bitcoin as your primary form of money. In other words, your income is probably not entirely paid in Bitcoin, and you likely do not convert all your fiat to Bitcoin immediately after the funds clear.
-
-You are also likely not accustomed to converting Bitcoin to fiat regularly to pay for your expenses. If you've been following Bitcoin for a while, you've probably considered this but dismissed it due to Bitcoin's high purchasing power volatility. You may have tried to trade some of your Bitcoin during the bull market and experienced FOMO (fear of missing out), as well as unease about how low Bitcoin prices can fall in a bear market.
-
-You might have some credit obligations, such as a mortgage, car loan, student loan, or credit card balance. You don't want to be a "forced seller" of Bitcoin, so you tread carefully when deciding how and when to invest in it. You think of Bitcoin as a "buy and hold" asset rather than something you should frequently exchange for Fiat and/or spend. You kind of don't want to touch your Bitcoin stack because you believe its value will continue to rise in the future.
-
-If you recognize yourself in any of these statements, this guide is for you.
-
-Using Bitcoin as your primary form of money is not only possible today but is also, from my experience, the best way to use Bitcoin overall. This essentially means "_going all in on Bitcoin_" and stop using fiat money as a hedge against Bitcoin volatility. It also means converting everything you currently use as money, such as real estate and stock & bond portfolios, into Bitcoin.
-
-This guide also aims to dispel some myths propagated by Bitcoiners who do not fully understand what it means to adopt the full Bitcoin standard. One common myth is that "_you should never spend your Bitcoin._"&#x20;
-
-Another frequent misconception is that Bitcoin is solely about increasing the number of sats you own over time. Both of these myths arise from a misunderstanding of concepts like opportunity cost and purchasing power, similar to how many people think their house "is going up in value" because its fiat-denominated price has increased over time.&#x20;
-
-The truth is that the house, like any other consumable good, is actually depreciating as it is used and consumed. The fact that a 20-year-old house that has been lived in has increased in fiat-denominated price is proof of fiat's loss of purchasing power, not an increase in the house's value.
-
-Similarly, when someone says "I'm never spending my Bitcoin" but then signs a four-year lease contract to buy a car, they are actually spending future money that could have been converted into Bitcoin. Thus, he incurs an opportunity cost in Bitcoin terms, even though he didn't sell any of his current Bitcoin holdings.
-
-If someone has $1 in Bitcoin and $99 in fiat and makes a $20 purchase, they have spent $20 worth of Bitcoin (at the time of purchase), regardless of whether they made the payment from their fiat balance. Because if they converted all of their $100 worth of purchasing power to Bitcoin and then decided to spend $20 of it, they would still have $80 worth of purchasing power in Bitcoin at the end.
-
-Making Bitcoin your primary money makes this concept instantly clear on a visceral and tangible level, fundamentally changing your spending behavior.
-
 ### Bitcoin's Purchasing Power Volatility
 
 Bitcoin is a very different kind of money from the fiat we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased over million fold, while that of fiat has steadily declined.
