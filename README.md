@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an open-source guide offering best practices for those who have already begun their Bitcoin journey but are not yet living on a full Bitcoin standard, which is defined as:
+This open-source guide shares best practices for those who have already begun their Bitcoin journey but are not yet living on a full Bitcoin standard, which is defined as:
 
 * Always converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
 * Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
