@@ -6,7 +6,7 @@ This open-source guide shares best practices for those who have already begun th
 
 * Always converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
 * Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
-* Becoming very accustomed to exchanging Bitcoin for fiat currency for regular spending.
+* Becoming accustomed to exchanging Bitcoin for fiat currency for regular spending.
 
 Anyone with an advanced understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
 
