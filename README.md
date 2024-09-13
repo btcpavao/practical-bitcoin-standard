@@ -16,7 +16,7 @@ The first section outlines three practices: 1) gaining full control of your mone
 
 The second section presents a framework for evaluating and adjusting the composition of your net worth as Bitcoin continues to monetize and increase in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.&#x20;
 
-The framework encourages following the so-called 'rule of thirds,' which suggests: 1) maintaining **at least** one-third of your net worth in money, 2) allocating **no more** than one-third of your net worth to consumption goods/assets, and 3) allocating **no more** than one-third of your net worth to capital (production) goods/assets.
+This framework encourages following the so-called 'rule of thirds,' which suggests: 1) maintaining **at least** one-third of your net worth in money, 2) allocating **no more** than one-third of your net worth to consumption goods/assets, and 3) allocating **no more** than one-third of your net worth to capital (production) goods/assets.
 
 ### Who is this guide for?
 
