@@ -8,19 +8,23 @@ This open-source guide shares best practices for living on a full Bitcoin standa
 * Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
 * Becoming accustomed to regularly spending Bitcoin, either by paying with it directly or, more likely, exchanging it for fiat to complete payments.
 
-Anyone with an advanced understanding of Bitcoin can achieve this, and it would be in their best interest to do so. Technically, the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
+Anyone with an advanced understanding of Bitcoin can do this; the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
 
-This guide aims to address how to do this and is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
+The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
-The first section outlines three practices: 1) gaining full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md), 2) eliminating all wasteful spending by becoming[ **and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and 3) steadily increasing your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+The first section outlines three practices:&#x20;
 
-The second section presents a framework for evaluating and adjusting the composition of your net worth as Bitcoin continues to monetize and increase in purchasing power over time. You will learn to view your net worth as being composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.&#x20;
+* 1\) gaining full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
+* 2\) eliminating all wasteful spending by becoming[ **and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
+* 3\) steadily increasing your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+
+The second section presents a framework for evaluating and adjusting the composition of your net worth, which is composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
 
 This framework encourages following the so-called 'rule of thirds,' which suggests: 1) maintaining **at least** one-third of your net worth in money, 2) allocating **no more** than one-third of your net worth to consumption goods/assets, and 3) allocating **no more** than one-third of your net worth to capital (production) goods/assets.
 
 ### Who is this guide for?
 
-This guide is written for bitcoiners transitioning from a Fiat standard to a full Bitcoin standard and are facing various challenges and decisions during the process.&#x20;
+This guide is written for bitcoiners transitioning from a Fiat standard to a full Bitcoin standard and are facing various challenges and decisions during the process.
 
 _Are you afraid to sell Bitcoin? Are you bothered by high volatility? Do you have debt? Is your spouse not really on the same page as you? Are you wondering how you can make more money in general?_
 
