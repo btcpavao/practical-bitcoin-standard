@@ -79,6 +79,73 @@ Renting can be a very effective tool for increasing your net worth because you c
 Consider renting items in the "Consumption" and "Capital" categories. A proper framework is to ask, "For how long do I plan to use this item, and for what purpose?" rather than "I want to own this item." There is such a thing as "house fever" or "car fever," where people become fixated on owning a house or car they cannot yet afford and fall into the trap of going into debt to do so. The antidote is to consider renting the same house or car for a period to experience how it feels to use them. Often, this leads to a more rational consideration of the purchase, especially after performing the cost of ownership calculation.
 
 * rent a car story
+
+Let's calculate the monthly rent payment you can afford if you start with $10,000 in savings (in bitcoin), want to end up with $5,600 after 4 years, and need to pay a 3-month rent deposit upfront, which you will get back at the end of the rental period.
+
+#### Step-by-Step Calculation
+
+1. **Initial Savings**: $10,000
+2. **Target Savings After 4 Years**: $5,600
+3. **Growth Rates**: 48%, 44%, 41%, 38% over 4 years
+4. **Deposit**: 3 months of rent, which will be returned at the end
+
+Let's denote the monthly rent payment as ( R ).
+
+**Initial Adjustment for Deposit**
+
+* **Deposit Amount**: (3R)
+* **Effective Initial Savings After Deposit**: \[ 10,000 - 3R ]
+
+**Year 1**
+
+* **Savings Before Rent**: \[ (10,000 - 3R) \times (1 + 0.48) = 14,800 - 3R \times 1.48 ]
+* **Rent Paid in Year 1**: \[ 12R ]
+* **Savings After Year 1**: \[ 14,800 - 3R \times 1.48 - 12R = 14,800 - 15R ]
+
+**Year 2**
+
+* **Savings Before Rent**: \[ (14,800 - 15R) \times (1 + 0.44) = 21,312 - 15R \times 1.44 ]
+* **Rent Paid in Year 2**: \[ 12R ]
+* **Savings After Year 2**: \[ 21,312 - 15R \times 2.44 ]
+
+**Year 3**
+
+* **Savings Before Rent**: \[ (21,312 - 15R \times 2.44) \times (1 + 0.41) = 30,050.32 - 15R \times 2.44 \times 1.41 ]
+* **Rent Paid in Year 3**: \[ 12R ]
+* **Savings After Year 3**: \[ 30,050.32 - 15R \times 3.85 ]
+
+**Year 4**
+
+* **Savings Before Rent**: \[ (30,050.32 - 15R \times 3.85) \times (1 + 0.38) = 41,469.44 - 15R \times 3.85 \times 1.38 ]
+* **Rent Paid in Year 4**: \[ 12R ]
+* **Savings After Year 4 (Before Deposit Return)**: \[ 41,469.44 - 15R \times 5.23 ]
+
+**Final Adjustment for Deposit Return**
+
+* **Savings After Deposit Return**: \[ 41,469.44 - 15R \times 5.23 + 3R ]
+
+#### Solve for ( R )
+
+We want the final savings to be $5,600:
+
+\[ 41,469.44 - 15R \times 5.23 + 3R = 5,600 ]
+
+\[ 15R \times 5.23 - 3R = 41,469.44 - 5,600 ]
+
+\[ 15R \times 5.23 - 3R = 35,869.44 ]
+
+\[ R \times (15 \times 5.23 - 3) = 35,869.44 ]
+
+\[ R \times 75.45 = 35,869.44 ]
+
+\[ R = \frac{35,869.44}{75.45} ]
+
+\[ R \approx 475.47 ]
+
+#### Conclusion
+
+If you start with $10,000 in savings and need to pay a 3-month rent deposit upfront, you can afford to pay approximately $475.47 per month in rent to end up with $5,600 in savings after 4 years, considering the deposit is returned at the end.
+
 * rent. a boat story
 
 ### Non-Monetary Goods Cost Of Ownership
