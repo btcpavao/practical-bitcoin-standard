@@ -48,7 +48,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You believe there is a good debt and bad debt.
 * If the opportunity presents itself, you'd probably take out a zero-interest loan and use it to buy more Bitcoin.
 * You have a rough idea of how much money you make and spend, but you don't have _exact_ figures.
-* You plan for "retirement".
+* You plan for retirement.
 * You tried orange pilling your family and close friends, but they didn't take your advice as seriously as you would have liked.
 * You are willing to allocate even more of your money to Bitcoin, but your partner/spouse is not really on the same page.
 * You have a _Fiat job_, and don't have direct Bitcoin inflow streams.
