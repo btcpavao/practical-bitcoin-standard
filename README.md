@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This open-source guide shares best practices for living on a full Bitcoin standard, defined as:
+This guide shares best practices for living on a full Bitcoin standard, defined as:
 
 * Always converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
 * Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
