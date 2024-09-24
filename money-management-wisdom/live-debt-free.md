@@ -1,8 +1,8 @@
 # Live 100% Debt-Free
 
-The second step to take is becoming and remaining debt-free. The main goal is to eliminate wasteful outflows & build a proper foundation for our capacity for generating inflows.
+The second step to take is to become and remain debt-free. The main goal is to eliminate wasteful outflows and build a proper foundation for our capacity to generate inflows.
 
-The Fiat standard has made many accustomed to living with debt, which is evident in the wide proliferation of credit cards, auto loans, mortgages, corporate debt, government debt, buy now pay later schemes, overdrafts, personal loans, and leases. Prices always seem to creep up because every time a new debt is issued, new Fiat money is created, adding to it's total supply. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, Fiat money is mined by getting into debt. This is why debt is everywhere, and many are unfortunately "drowning" in it.
+The fiat standard has accustomed many to living with debt, as evidenced by the widespread use of credit cards, auto loans, mortgages, corporate debt, government debt, buy-now-pay-later schemes, overdrafts, personal loans, and leases. Prices always seem to creep up because every time new debt is issued, new fiat money is created, adding to its total supply. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, fiat money is 'mined' by getting into debt. This is why debt is pervasive, and many are unfortunately 'drowning' in it.
 
 I'd like you to picture being in debt not as something to be analyzed from a purely mathematical standpoint, but rather from a psychological and spiritual perspective. Being in debt or debt-free inevitably leads to changes in your decision-making qualities, which affect your ability to generate inflows, make wise spending decisions, and more.
 
@@ -10,9 +10,9 @@ Both states, in a sense, grow over time, like a seed that sprouts, takes root, a
 
 Being in debt is like having a constant drip of poison that slowly spreads throughout the system and accumulates over time. It leads to financial waste, misjudged valuations, and the destruction of productivity. Debt also becomes a source of anxiety, fear, restlessness, and other negative effects that can significantly impact a person's financial well-being over their lifetime.
 
-Being in a debt-free state is like acquiring a metaphysical asset: your calm, free, and clear mind, which will enable you to make correct decisions every single time you interact with your money.&#x20;
+Being in a debt-free state is like acquiring a metaphysical asset: a calm, free, and clear mind, which enables you to make correct decisions every time you interact with your money.
 
-Debt is the source of immense waste in your life, and when paired with high Bitcoin volatility, it becomes an extremely dangerous combination. To upgrade to a full Bitcoin standard, it is essential to learn how to live completely debt-free and eliminate all debt from your life permanently.
+Debt is a source of immense waste in your life, and when paired with high Bitcoin volatility, it becomes an extremely dangerous combination. To transition to a full Bitcoin standard, it is essential to learn how to live completely debt-free and eliminate all debt from your life permanently.
 
 ***
 
