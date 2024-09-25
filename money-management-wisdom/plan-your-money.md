@@ -1,6 +1,6 @@
 # Plan Your Money
 
-The first and most crucial step is to take full control of your money. This means developing the habit of always having a plan for every dollar before spending any of it, which can be achieved by practicing zero-based budgeting.
+The first and most important step is to take full control of your money, considering both time and opportunity cost. This involves developing the habit of planning for all your money before spending any of it, which can be achieved by learning and practicing zero-based budgeting.
 
 ***
 
