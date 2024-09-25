@@ -6,9 +6,11 @@ The first and most important step is to take full control of your money, conside
 
 ## Why Practice Budgeting?
 
-One of the major misconceptions about budgeting is the belief that it solely involves reducing spending or tracking expenses. In reality, budgeting is about allocating our money, giving it a specific plan or purpose before we spend it. "Planning" might be a more accurate term, or even "economizing." Additionally, budgeting is a process of managing money; it is not a particular destination we arrive at and stay.
+Often, when you hear the phrase "living on a budget," it implies cutting costs and generally being frugal. However, zero-based budgeting is something entirely different.
 
-This manual will focus specifically on the practice of zero-based budgeting. In this context, "zero-based" means that we assign all of our money to each budget category until there is no more money to be assigned. For example, if we have $1,000 in our budget and only assign $200 to a category, we still have $800 to assign. The budget is not zero-based until we decide how to assign the remaining $800 to specific category/categories.
+Zero-based budgeting involves assigning all of your money to specific categories before making any spending transactions. "Planning" might be a more accurate term, or even "economizing." Additionally, budgeting is a continuous process of managing money; it is not a fixed destination where we arrive and stay.
+
+In this context, "zero-based" means that we assign all of our money to each budget category until there is no more money to be assigned. For example, if we have $1,000 in our budget and only assign $200 to a category, we still have $800 to assign. The budget is not zero-based until we decide how to assign the remaining $800 to specific category/categories.
 
 **So why bother doing this?**
 
