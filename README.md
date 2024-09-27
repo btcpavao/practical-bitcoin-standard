@@ -8,7 +8,7 @@ This guide outlines the best practices for adopting a full Bitcoin standard, whi
 * Liquidating and converting all monetary or monetized goods and assets into Bitcoin.
 * Getting used to spending Bitcoin regularly, either directly or by exchanging it for fiat currency.
 
-Anyone with an advanced understanding of Bitcoin can do this; the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
+Anyone with a solid understanding of Bitcoin can do this, needing only access to a Bitcoin exchange. However, doing so without proper preparation can be very risky because of Bitcoin's high purchasing power volatility.
 
 The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
