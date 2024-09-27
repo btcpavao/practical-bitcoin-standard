@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This guide shares best practices for living on a full Bitcoin standard, defined as:
+This guide outlines the best practices for adopting a full Bitcoin standard, which involves:
 
-* Always converting **all** income to Bitcoin and, if possible, receiving payments directly in Bitcoin.
-* Liquidating and converting all [monetary or monetized goods/assets](./#what-do-you-use-as-your-primary-money) to Bitcoin.
-* Becoming accustomed to regularly spending Bitcoin, either directly or indirectly by exchanging it for fiat.
+* Converting all income to Bitcoin and, whenever possible, receiving payments directly in Bitcoin.
+* Liquidating and converting all monetary or monetized goods and assets into Bitcoin.
+* Getting used to spending Bitcoin regularly, either directly or by exchanging it for fiat currency.
 
 Anyone with an advanced understanding of Bitcoin can do this; the only tool required is access to a Bitcoin exchange. However, attempting this without proper preparation can be extremely risky due to Bitcoin's high purchasing power volatility.
 
