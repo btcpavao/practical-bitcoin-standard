@@ -4,7 +4,7 @@ If you consistently apply the three money management principles discussed previo
 
 ### Keep Your Average Net Income Positive & Accumulate Cash Position (in Bitcoin)
 
-The fiat standard encourages us to keep our net income negative and accumulate non-cash assets (consumption and production). It encourages us to spend more than we earn in the present because we are spending our future money, which is likely to have less purchasing power than it does now. This comes at the cost of generating negative spirits (slavery, restlessness, and confusion, as discussed earlier). Because of this, many people who, by fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
+The Fiat standard encourages us to keep our net income negative and accumulate non-cash assets (consumption and production). It encourages us to spend more than we earn in the present because we are spending our future money, which is likely to have less purchasing power than it does now. This comes at the cost of generating negative spirits (slavery, restlessness, and confusion, as discussed earlier). Because of this, many people who, by fiat standard, are considered to have high net worth nevertheless bear the burden of perpetual debt.
 
 The Bitcoin standard encourages you to build your cash position by increasing your average net income (inflows minus outflows) over time. Your cash (savings held in Bitcoin) will increase in purchasing power over time, effectively providing you with an additional source of inflow.
 

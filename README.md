@@ -15,10 +15,10 @@ The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoi
 The first section outlines three practices:&#x20;
 
 * 1\) gaining full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
-* 2\) eliminating all wasteful spending by becoming[ **and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
+* 2\) eliminating all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
 * 3\) steadily increasing your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
-The second section presents a framework for evaluating and adjusting the composition of your net worth, which is composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
+The second section presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md), which is composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
 
 This framework encourages following the so-called 'rule of thirds,' which suggests: 1) maintaining **at least** one-third of your net worth in money, 2) allocating **no more** than one-third of your net worth to consumption goods/assets, and 3) allocating **no more** than one-third of your net worth to capital (production) goods/assets.
 
@@ -31,7 +31,7 @@ _Are you afraid to sell Bitcoin? Are you bothered by high volatility? Do you hav
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
 * You have already read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe).
-* You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB) and have at least a basic technical understanding about how the Bitcoin system works.
+* You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB) and have a basic technical understanding about how the Bitcoin system works.
 * You practice dollar-cost averaging into Bitcoin.
 * You keep some fiat currency as "dry powder" for buying more Bitcoin during price corrections.
 * You attempted to grow your Bitcoin stack through trading, but ultimately decided [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
