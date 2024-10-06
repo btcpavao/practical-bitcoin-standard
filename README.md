@@ -8,7 +8,7 @@ This guide outlines the best practices for adopting a full Bitcoin standard, whi
 * Converting everything you currently [use as money](./#what-do-you-use-as-your-primary-money) into Bitcoin.
 * Spending Bitcoin regularly.
 
-Anyone with a solid understanding of Bitcoin can do this, needing only access to a Bitcoin exchange. However, doing so without proper preparation can be very risky because of Bitcoin's high purchasing power volatility.
+If you have access to a Bitcoin exchange and a solid understanding of how Bitcoin works, you can technically adopt a full Bitcoin standard today. However, I strongly suggest that you first learn and apply the money management practices outlined in this guide.
 
 The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
