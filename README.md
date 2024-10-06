@@ -12,15 +12,15 @@ If you have access to a Bitcoin exchange and a solid understanding of how Bitcoi
 
 The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
-The first section outlines three practices:&#x20;
+The first section explains how to:&#x20;
 
-* 1\) gaining full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
-* 2\) eliminating all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
-* 3\) steadily increasing your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+* 1\) gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
+* 2\) eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
+* 3\) steadily increase your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
-The second section presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md), which is composed of three parts: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
+The second section presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md)**.** You will understand how to see your net worth as consisting of three components: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
 
-This framework encourages following the so-called 'rule of thirds,' which suggests: 1) maintaining **at least** one-third of your net worth in money, 2) allocating **no more** than one-third of your net worth to consumption goods/assets, and 3) allocating **no more** than one-third of your net worth to capital (production) goods/assets.
+Then, it will encourage you to follow the so-called 'rule of thirds,' which suggests: 1) keeping **at least one-third** of your net worth in monetary assets, 2) allocating **no more than one-third** of your net worth to consumption goods or assets, and 3) allocating **no more than one-third** of your net worth to capital (production) goods or assets.
 
 ### Who is this guide for?
 
