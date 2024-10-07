@@ -58,7 +58,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is a very different kind of money from the fiat we are used to. Since the launch of the Bitcoin network in January 2009, its purchasing power has increased over million fold, while that of fiat has steadily declined. However, the process was extremely volatile along the way, with multiple crashes of over 80% and massive rallies. While price volatility is decreasing over time, using Bitcoin as your primary money still presents significant challenges due to its still high volatility.
+Bitcoin is a very different kind of money from what we are used to. Since 2009, its purchasing power has increased over million fold, while that of fiat has steadily declined. However, the process was extremely volatile along the way, with multiple price crashes of over 80% followed by massive rallies. While price volatility is decreasing over time, using Bitcoin as your primary money still presents significant challenges.
 
 You probably already know about the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (September 2024), 1 Bitcoin is worth about $60,000. So, 10,000 Bitcoins, equivalent to about $600 million today, could buy over 40 million pizzas.
 
