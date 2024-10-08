@@ -1,4 +1,4 @@
-# Keep 10-20% of Your Money Set Aside for Giving
+# Always Keep 10-20% of Your Money Set Aside for Giving
 
 The third step is to create a budget category for giving and ensure that 10% to 20% of your money is always set aside for it. The main goal of this step is to consistently increase your inflows. By making transactions from the Giving category, you'll grow your spirit of generosity. Your happiness is directly proportional to the strength of your generosity. The happier you are, the better you will be at providing value to others. And the more value you can provide to others, the greater your earning capacity.
 
@@ -8,7 +8,7 @@ We should set aside 10% to 20% of our budget for the Giving category and maintai
 
 We should do this primarily to cultivate our spirit of generosity, which will increase our capacity to generate higher inflows. As our inflows and net worth grow, we should continue this practice. If done correctly, our giving transactions will increase in size and frequency, further nurturing our spirit of generosity and enhancing our ability to generate even higher inflows. This practice should become a habit, one we never stop doing.
 
-### Giving Cultivates Spirit of Generosity
+### Giving Cultivates Your Spirit of Generosity
 
 You grow the spirit of generosity each time you make a financial transaction without expecting anything in return (defined as a giving transaction, which deducts money from your budget's Giving category). Consider it like watering a seed; as you continue to water it, it will eventually grow larger.
 
@@ -18,13 +18,13 @@ Over time, you become more immersed in this spirit, which radiates outward like 
 
 Additionally, making a giving transaction before any potentially stressful professional situation—such as a job interview, difficult client negotiation, or the hiring or firing of an employee—can be beneficial. Any communication benefits from having at least one party with a spirit of generosity.
 
-### Giving Increases Risk Tolerance
+### Giving Increases Your Risk Tolerance
 
 In our professional lives, we constantly encounter opportunities to take risks with favorable rewards. In other words, we have many opportunities with a favorable risk/reward ratio. When we regularly practice giving, we naturally increase our overall risk tolerance and become more comfortable taking on higher risks with higher rewards. This is because we are already accustomed to spending money without expecting anything in return, other than the growth of our spirit of generosity.
 
 In this context, even if we make an investment with a favorable risk/return ratio but do not see the return, we still benefit and are not subject to the sunk cost fallacy.
 
-### Giving Increases Capacity for Generating Inflows
+### Giving Increases Your Capacity for Generating Inflows
 
 If you earned your money through a voluntary, consensual exchange with another person, that person (your employer, client, or customer) valued the good or service you provided more than the money they paid you for it. As a result, the act of earning money is valuable in and of itself, and you are already acting morally when you are earning money. Voluntary exchange generates value for both parties.
 
