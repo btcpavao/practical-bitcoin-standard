@@ -12,11 +12,11 @@ If you have access to a Bitcoin exchange and a solid understanding of how Bitcoi
 
 The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
-The first section explains how to:&#x20;
+The first section explains:&#x20;
 
-* 1\) gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
-* 2\) eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
-* 3\) steadily increase your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+* 1\) how to gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
+* 2\) why and how to eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
+* 3\) how to steadily increase your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
 The second section presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md)**.** You will understand how to see your net worth as consisting of three components: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
 
