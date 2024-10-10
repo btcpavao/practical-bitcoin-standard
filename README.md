@@ -2,6 +2,8 @@
 
 ## Introduction
 
+The purpose of this guide is to help everyone who currently owns some Bitcoin, or is considering doing so, fully upgrade to a full Bitcoin standard. This means switching whatever you currently use as your primary money or savings vehicle—whether it's a regular bank savings account, money market fund, stock/bond index fund, precious metals, or even real estate—to Bitcoin.
+
 This guide outlines the best practices for adopting a full Bitcoin standard, which involves:
 
 * Converting your income to Bitcoin and, if possible, getting paid directly in Bitcoin.
