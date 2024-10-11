@@ -78,7 +78,8 @@ Renting can be a very effective tool for increasing your net worth because you c
 
 Consider renting items in the "Consumption" and "Capital" categories. A proper framework is to ask, "For how long do I plan to use this item, and for what purpose?" rather than "I want to own this item." There is such a thing as "house fever" or "car fever," where people become fixated on owning a house or car they cannot yet afford and fall into the trap of going into debt to do so. The antidote is to consider renting the same house or car for a period to experience how it feels to use them. Often, this leads to a more rational consideration of the purchase, especially after performing the cost of ownership calculation.
 
-* rent a car story
+* mobility/transportation (daily vehicle(s) - rent vs ownership, used vs new
+* shelter/housing (rent vs ownership)
 
 Let's calculate the monthly rent payment you can afford if you start with $10,000 in savings (in bitcoin), want to end up with $5,600 after 4 years, and need to pay a 3-month rent deposit upfront, which you will get back at the end of the rental period.
 
