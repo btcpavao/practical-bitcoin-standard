@@ -8,7 +8,7 @@
 
 * [Plan Your Money](money-management-wisdom/plan-your-money.md)
 * [Live 100% Debt-Free](money-management-wisdom/live-debt-free.md)
-* [Always Keep 10-20% of Your Money Set Aside for Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)
+* [Always Keep 10-20% of Your Budget Assigned for Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)
 
 ## Bitcoin And Your Net Worth
 
