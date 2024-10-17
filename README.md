@@ -4,7 +4,7 @@
 
 The purpose of this guide is to help everyone who currently owns some Bitcoin, or is considering doing so, fully upgrade to a full Bitcoin standard. This means switching whatever you currently use as your primary money or savings vehicle—whether it's a regular bank savings account, money market fund, stock/bond index fund, precious metals, or even real estate—to Bitcoin.
 
-Living full Bitcoin standard means:
+Life on a full Bitcoin standard means:
 
 * Converting your income to Bitcoin and, if possible, getting paid directly in Bitcoin.
 * Converting everything you currently [use as money](./#what-do-you-use-as-your-primary-money) into Bitcoin.
@@ -20,7 +20,7 @@ The first section explains:&#x20;
 * 2\) why and how to eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
 * 3\) how to steadily increase your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
-The second section presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md)**.** You will understand how to see your net worth as consisting of three components: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
+The second section presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md)**.** It will show you how to see your net worth as consisting of three components: 1) monetary goods, 2) consumption goods, and 3) capital (production) goods.
 
 Then, it will encourage you to follow the so-called 'rule of thirds,' which suggests: 1) keeping **at least one-third** of your net worth in monetary assets, 2) allocating **no more than one-third** of your net worth to consumption goods or assets, and 3) allocating **no more than one-third** of your net worth to capital (production) goods or assets.
 
