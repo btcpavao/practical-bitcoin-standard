@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose of this guide is to help everyone who currently owns Bitcoin, or is considering doing so, fully upgrade to a full Bitcoin standard. This means switching whatever you currently use as your primary money or savings vehicle—whether it's a regular bank savings account, money market fund, stock/bond index fund, precious metals, or even real estate—to Bitcoin.
+The purpose of this guide is to help everyone who currently owns Bitcoin fully upgrade to a full Bitcoin standard. This means switching whatever you currently use as your primary money or savings vehicle—whether it's a regular bank savings account, money market fund, stock/bond index fund, precious metals, or even real estate—to Bitcoin.
 
 Life on a full Bitcoin standard means:
 
@@ -14,7 +14,7 @@ If you have access to a Bitcoin exchange and a solid understanding of how Bitcoi
 
 The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
-The first section explains:&#x20;
+The first section explains:
 
 * 1\) how to gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md),
 * 2\) why and how to eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md), and
@@ -44,7 +44,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You have a mortgage.
 * You have an auto loan or lease.
 * You have student loan debt.
-* You have used or plan to use a home equity line of credit.&#x20;
+* You have used or plan to use a home equity line of credit.
 * You are hesitant to spend your Bitcoin.
 * You're (sort of) afraid to sell your Bitcoin in any significant amount.
 * You believe there is a good debt and bad debt.
@@ -112,7 +112,7 @@ You will also learn how to think about non-Bitcoin asset ownership and how to ca
 
 If you've never heard of these concepts before, there is a lot to learn.
 
-This manual is a work in progress, so please send any feedback you may have to [pavao@hey.com](mailto:pavao@hey.com). If you want personalized advice, please use [this link to schedule a call](https://cal.com/btcpavao/). If you would like to support this work, please use one of the following lightning addresses:&#x20;
+This manual is a work in progress, so please send any feedback you may have to [pavao@hey.com](mailto:pavao@hey.com). If you want personalized advice, please use [this link to schedule a call](https://cal.com/btcpavao/). If you would like to support this work, please use one of the following lightning addresses:
 
 * [btcpavao@walletofsatoshi.com](lightning:lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyarrwpshvct0mdrxgm)
 * [btcpavao@getalby.com](https://getalby.com/p/btcpavao)
