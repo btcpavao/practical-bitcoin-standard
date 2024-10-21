@@ -1,6 +1,6 @@
 # Managing Future Bitcoin Price Expectations & Handling Volatility
 
-Anything you spend today will be worth much more in Bitcoin-denominated terms in 20 years or more. So, in the grand scheme of things, it doesn't really matter how much Bitcoin you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
+Anything you spend today will be worth more in Bitcoin-denominated terms in the future. So, in the grand scheme of things, it doesn't really matter how much Bitcoin you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
 
 Understand that you can't really avoid spending Bitcoin in real terms. Whenever you make a purchase, you're spending some of your overall purchasing power, and you can always denominate that amount in Bitcoin according to the exchange rate at the time of the purchase. So, if you spend $100 from your fiat balance, you have spent $100 worth of Bitcoin at the time of the purchase.
 
@@ -26,4 +26,3 @@ It doesn't matter if you made your large purchases during the bull market before
 * think in terms of quantity and quality of your time - bitcoin fluctuations should mean increasing or decreasing quantity and quality of your time: "I have 6 months of my current quality of time saved. If I double my quality of time by spending double of what I spend now, I'll have 3 months of my time saved. If bitcoin doubles in price, I'll have 12 months of my current quality of time saved. if bitcoin price gets cut in half, I'll have 3 months of my time saved.
 * working means trading your time for money, so you can trade money for higher quantity & quality of time later
 * idea of your bank of time that you are trading for more & higher quality of time: 40hours in a week, 160 hours in a month, 1700-1900 hours in a year, 17000 - 19000 hours in a decade
-
