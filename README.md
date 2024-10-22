@@ -1,8 +1,6 @@
 # The Purpose
 
-## Introduction
-
-The purpose of this guide is to help everyone who currently owns Bitcoin fully upgrade to a full Bitcoin standard. This means switching whatever you currently use as your primary money or savings vehicle—whether it's a regular bank savings account, money market fund, stock/bond index fund, precious metals, or even real estate—to Bitcoin.
+The purpose of this guide is to help you upgrade to a full Bitcoin standard. This means switching whatever you currently use as your primary money or savings vehicle—whether it's a regular bank savings account, money market fund, stock/bond index fund, precious metals, or even real estate—to Bitcoin.
 
 Life on a full Bitcoin standard means:
 
