@@ -2,7 +2,7 @@
 
 The purpose of this guide is to help you upgrade from Fiat to a full Bitcoin standard. This means reaching a point where you use Bitcoin as your primary money - in other words - you permanently convert anything you previously used as a store of value — whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.&#x20;
 
-It also means starting to convert all of your income into Bitcoin and, if possible, getting paid directly in Bitcoin. Finally, it means becoming accustomed to spending Bitcoin regularly, either directly or by exchanging it for fiat currency to complete payments.
+It also means you convert all of your income into Bitcoin and whenever possible, get paid directly in Bitcoin. Finally, it means becoming accustomed to regularly exchanging Bitcoin for Fiat for your expenses, and whenever possible, spend Bitcoin directly.
 
 If you have access to a Bitcoin exchange and a solid understanding of how Bitcoin works, you can technically adopt a full Bitcoin standard today. However, due to Bitcoin's high purchasing power volatility, I strongly suggest that you first learn and apply the practices explained in this guide.
 
