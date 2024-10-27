@@ -1,6 +1,6 @@
 # The Purpose
 
-The purpose of this guide is to help you upgrade from Fiat to a full Bitcoin standard. This means reaching a point where you use Bitcoin as your primary form of money and permanently convert anything you currently use as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.&#x20;
+The purpose of this guide is to help you upgrade from Fiat to a full Bitcoin standard. This means reaching a point where you use Bitcoin as your primary money - in other words - you permanently convert anything you previously used as a store of value — whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.&#x20;
 
 It also means starting to convert all of your income into Bitcoin and, if possible, getting paid directly in Bitcoin. Finally, it means becoming accustomed to spending Bitcoin regularly, either directly or by exchanging it for fiat currency to complete payments.
 
