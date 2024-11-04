@@ -1,6 +1,6 @@
 # The Purpose
 
-This simple guide aims to help you upgrade from Fiat to a full Bitcoin standard. This means reaching a point where you permanently convert everything you previously used to protect your purchasing power from fiat inflation—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.
+This guide is written to help you upgrade from Fiat to a full Bitcoin standard. This means reaching a point where you permanently convert everything you previously used to protect your purchasing power from fiat inflation—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.
 
 It also means converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
 
