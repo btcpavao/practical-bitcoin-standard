@@ -2,7 +2,9 @@
 
 The second step to take is to become and remain debt-free. The main goal is to eliminate wasteful outflows and build a proper foundation for our capacity to generate inflows.
 
-The fiat standard has accustomed many to living with debt, as evidenced by the widespread use of credit cards, auto loans, mortgages, corporate debt, government debt, buy-now-pay-later schemes, overdrafts, personal loans, and leases. Prices always seem to creep up because every time new debt is issued, new fiat money is created, adding to its total supply. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, fiat money is 'mined' by getting into debt. This is why debt is pervasive, and many are unfortunately 'drowning' in it.
+The fiat standard has unfortunately accustomed many of us to living in constant state of debt. This can be easily seen by the widespread use of credit cards, auto loans, mortgages, corporate debt, government debt, buy-now-pay-later schemes, overdrafts, personal loans, and leases.&#x20;
+
+Prices always seem to creep up because every time new debt is issued, new fiat money is created, adding to its total supply. Similar to how gold is mined by digging underground or how Bitcoin is mined using electricity, fiat money is 'mined' by getting into debt. This is why debt is pervasive, and many are unfortunately 'drowning' in it.
 
 I'd like you to picture being in debt not as something to be analyzed from a purely mathematical standpoint, but rather from a psychological and spiritual perspective. Being in debt or debt-free inevitably leads to changes in your decision-making qualities, which affect your ability to generate inflows, make wise spending decisions, and more.
 
