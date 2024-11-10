@@ -1,6 +1,6 @@
 # The Purpose
 
-The goal of this guide to help you upgrade to a full Bitcoin standard. This means reaching a point where you permanently convert everything you previously used to protect your purchasing power from fiat inflation—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.
+The goal of this guide to help you upgrade to a full Bitcoin standard. This means you permanently convert everything you previously used as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.
 
 It also means converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
 
