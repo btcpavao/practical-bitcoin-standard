@@ -1,10 +1,8 @@
 # The Purpose
 
-The goal of this guide to help you upgrade to a full Bitcoin standard. This means you convert everything you currently use as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.
+The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you currently use as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin. It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
 
-It also means converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
-
-If you have access to a Bitcoin exchange you can adopt a full Bitcoin standard today. However, due to Bitcoin's high purchasing power volatility, I suggest that you apply the practices explained in this guide before doing so.
+If you have access to a Bitcoin exchange, you can adopt a full Bitcoin standard today. However, due to Bitcoin's high purchasing power volatility, I suggest that you apply the practices explained in this guide before doing so.
 
 The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
 
