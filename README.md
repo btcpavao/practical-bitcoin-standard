@@ -12,7 +12,7 @@ The first section, '_Money Management Wisdom_' explains:
 2. Why and how to eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md).
 3. How to steadily increase your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
-The second section, '_Bitcoin and Your Net Worth_. presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md) on a full Bitcoin standard. It will show you how to view your net worth as consisting of three components: 1) money (Bitcoin), 2) consumption goods or assets, and 3) capital (production) goods or assets.
+The second section, '_Bitcoin and Your Net Worth_. presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md) on a full Bitcoin standard. It will show you how to view your net worth as consisting of three components: 1) money, 2) consumption and 3) capital.
 
 Then, it will encourage you to follow the "rule of thirds," which suggests: 1) keeping **at least one-third** of your net worth in money (Bitcoin), 2) allocating **no more than one-third** of your net worth to consumption goods or assets, and 3) allocating **no more than one-third** of your net worth to capital (production) goods or assets.
 
