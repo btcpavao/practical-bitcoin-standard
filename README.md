@@ -1,6 +1,6 @@
 # The Purpose
 
-The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you currently use as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin. It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
+The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you use as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin. It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
 
 If you have access to a Bitcoin exchange, you can adopt a full Bitcoin standard today. However, due to Bitcoin's high purchasing power volatility, I suggest that you apply the practices explained in this guide before doing so.
 
@@ -58,7 +58,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 
 Bitcoin is a very different kind of money from what we are used to. Since 2009, its purchasing power has increased millions of times, while that of fiat currency has steadily declined. However, the process was extremely volatile along the way, with multiple price crashes of over 80% followed by massive rallies. While price volatility is decreasing over time, using Bitcoin as your primary money still presents significant challenges.
 
-You probably already heard about the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (November 2024), 1 Bitcoin is worth about $67,000. So, 10,000 Bitcoins, equivalent to about $670 million today, could buy over 40 million pizzas.
+You probably already heard about the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (November 2024), 1 Bitcoin is worth about $90,000. So, 10,000 Bitcoins, equivalent to about $900 million today, could buy over 60 million pizzas.
 
 But this increase in purchasing power has come with even more well-known volatility. Since my "get off zero" moment in July 2014, at around $600/BTC, the current Bitcoin exchange rate is over 100 times higher than my entry point, in just over 10 years.
 
