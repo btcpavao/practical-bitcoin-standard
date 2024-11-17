@@ -1,6 +1,6 @@
 # The Purpose
 
-The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you use as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin. It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
+The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you still use (even partly) as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin. It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending Bitcoin.
 
 If you have access to a Bitcoin exchange, you can adopt a full Bitcoin standard today. However, due to Bitcoin's high purchasing power volatility, I suggest that you apply the practices explained in this guide before doing so.
 
@@ -66,7 +66,7 @@ I only began studying Bitcoin seriously in late 2017, as I mostly forgot about m
 
 In March 2020, the infamous COVID crash slashed the price almost in half (though for a short period), touching the $4-5k range. Then I witnessed the 2020 halving and Bitcoin's climb to around $60k in the spring of 2021 (a 1200% increase), followed by a drop to around $30k in the summer of 2021 (a 50% decrease), and another climb to almost $70k in November 2021. It then went down again in 2022, reaching the previous cycle's all-time high of $20k in the summer of 2022, and retracing further to $15-16k in November 2022, an approximately 80 percent drop from its high point.
 
-I'm currently observing a $67,000/BTC price in November 2024, which is over 600 % increase over the past five years.
+I'm currently observing a $90,000/BTC price in November 2024, which is over 940 % increase over the past five years.
 
 I've heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice includes "_only buy Bitcoin with money you will not need for at least a couple of years_" and "_just buy a small amount every month: dollar-cost average_." More aggressive approaches involve attempting to trade this volatility by purchasing Bitcoin at low prices and selling it at high prices. While both approaches can be effective for some (though they carry risks that are often overlooked), there is a third approach that I rarely see but have personally found most effective over the past four years: using Bitcoin as your primary money.
 
