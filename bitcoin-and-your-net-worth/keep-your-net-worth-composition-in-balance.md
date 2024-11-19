@@ -1,4 +1,6 @@
-# Maintaining Balance in Your Net Worth Composition
+# Keep Balance in Your Net Worth Composition
+
+Often, when I speak with Bitcoiners, I hear questions like, "How much would I need in my Bitcoin stack to start my own business?" I'd like to offer another perspective here. Whatever you do for work to earn money, whether as an employee in a company or as an owner of a company, you are essentially generating value for other people, i.e., your clients.
 
 ### Understanding the Difference Between Three Types of Goods: Monetary, Consumption, and Production
 
