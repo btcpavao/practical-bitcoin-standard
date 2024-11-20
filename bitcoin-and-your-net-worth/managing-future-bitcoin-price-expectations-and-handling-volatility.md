@@ -1,4 +1,4 @@
-# Managing Future Bitcoin Price Expectations & Handling Volatility
+# Manage Future Bitcoin Price Expectations & Volatility
 
 Anything you spend today will be worth more in Bitcoin-denominated terms in the future. So, in the grand scheme of things, it doesn't really matter how much Bitcoin you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
 
@@ -12,6 +12,10 @@ It doesn't matter if you made your large purchases during the bull market before
 * most bitcoiners realize it's better to look at bitcoin price in log scale
 * when you look at the chart from log scale for price and in log scale for time, you notice a pattern: bitcoin grows according to power law
 * patterns and cycles: bitcoin monetization periodicity and predictability
+  * bitcoin price behaves in a regular fashion, when you look at log-log chart&#x20;
+  * exponential up for 1 year: bull market
+  * exponential down for 1 year: bear market
+  * 2 year along the power law
 * market sentiment estimation: fear & greed.
 * as long as we can see people getting into Bitcoin while carrying any kind of debt on their balance sheets, expect relatively high volatility and cyclicality to continue
 * what should you do when you feel bearish?
