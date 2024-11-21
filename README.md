@@ -16,7 +16,7 @@ The second section, '_Bitcoin and Your Net Worth_. presents a framework for main
 
 Then, it will encourage you to follow the "rule of thirds," which suggests: 1) keeping **at least one-third** of your net worth in money (Bitcoin), 2) allocating **no more than one-third** of your net worth to consumption goods or assets, and 3) allocating **no more than one-third** of your net worth to capital (production) goods or assets.
 
-I recommend going through this guide and implementing it step by step. This means you should first practice zero-based budgeting, then eliminate all debt from your balance sheet, and finally, adopt the practice keeping 10%-20% of your budget assigned for giving.
+I recommend going through this guide and implementing it step by step. This means you first implement zero-based budgeting practice, then eliminate all debt from your balance sheet, and finally, adopt the practice keeping 10%-20% of your budget assigned for giving.
 
 At this point, review the composition of your net worth and adjust it accordingly. This may mean liquidating parts of your net worth and converting that purchasing power to Bitcoin to achieve balance according to the rule of thirds. After that, you simply continue following the practices in the guide to maintain balance in the future. The more time you spend doing this, the better you will become at it.
 
