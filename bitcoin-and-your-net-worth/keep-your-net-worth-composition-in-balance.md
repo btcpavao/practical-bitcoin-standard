@@ -173,11 +173,11 @@ Assume that figure is $500; you adjust it in your budget. This is something you 
 
 Cars, on the other hand, require a once (or better, twice) yearly maintenance schedule to ensure they run reliably and for a longer period of time. You should budget for these ongoing maintenance costs and keep track of the depreciation of your possessions as you go.
 
-### Keep No More than One-Third of Your Net Worth in Production Goods
+### Keep No More than One-Third of Your Net Worth in Capital
 
-Capital is defined as all goods not used for consumption but for the production of consumption goods.
+Capital is defined as all assets / goods that we use to generate money.
 
-In this practical context, we can define capital as all large durable goods (movable or immovable), as well as anything else used to generate cash flow and/or used during working hours (labor).
+In this practical context, we can define capital as all large durable goods (movable or immovable), as well as anything else used to generate cash flow and/or used during working hours (labor). Capital is also all investment vehicles (securities).
 
 As an example, consider a merchant's inventory stock. tools for a car mechanic. A programmer's laptop.
 
