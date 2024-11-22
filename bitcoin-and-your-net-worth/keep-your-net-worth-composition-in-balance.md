@@ -189,11 +189,13 @@ By definition, capital also includes all financial instruments such as stocks, b
 
 On a strict Bitcoin standard, consider whether you are using an investment vehicle as money. In today's fiat standard, there are many investment vehicles that are practically monetized, such as automatically rebalanced broad stock indexes like SP500 index fund. If you use any of these, consider upgrading their monetary use to Bitcoin.
 
+When investing in capital, consider risk-adjusted expected return against expected purchasing power growth of Bitcoin (according to the power law). If the expected return is less then the growth rate of your Bitcoin purchasing power, don't invest in capital.
+
 ### Keep at Least One-Third of Your Net Worth in Bitcoin
 
 Cash is the most liquid and salable component of your net worth.
 
 Use Bitcoin for this, ideally, and convert it to fiat when you have obligations denominated in fiat.
 
-Cash (Bitcoin) should be the majority of your net worth, at least one-third, preferably more.
+Cash (Bitcoin) should be the majority of your net worth, at least one-third.
 
