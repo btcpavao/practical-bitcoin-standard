@@ -1,42 +1,58 @@
 # The Purpose
 
-The goal of this guide is to help you upgrade to a full Bitcoin standard.&#x20;
+## Introduction
 
-This means converting everything you still use, even partially, as a store of value—whether it's a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.&#x20;
+The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you still use, even partially, as a store of value—whether it’s a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin. It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending it. You will keep only very small amounts of fiat currency on hand, just enough to complete near-term payments where Bitcoin isn’t accepted directly.
 
-It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending it. You are keeping only very small amounts of fiat on hand, just to be able to complete near-term payments where Bitcoin isn't accepted directly.
+If you have access to a Bitcoin exchange, you can adopt a full Bitcoin standard today. However, because Bitcoin’s purchasing power can be highly volatile, it’s recommended that you first apply the practices explained in this guide to prepare yourself.
 
-If you have access to a Bitcoin exchange, you can adopt a full Bitcoin standard today. However, due to Bitcoin's high purchasing power volatility, I suggest that you apply the practices explained in this guide before doing so.
+This guide is divided into two sections:
 
-The guide is divided into two sections: '_Money Management Wisdom_' and '_Bitcoin and Your Net Worth_.'
+#### **1. Money Management Wisdom**
 
-The first section, '_Money Management Wisdom_' explains:
+This section explains:
 
-1. How to gain full control of your money in terms of time and opportunity cost by [**running a zero-based budget**](money-management-wisdom/plan-your-money.md).
-2. Why and how to eliminate all wasteful spending by [**becoming and remaining 100% debt-free**](money-management-wisdom/live-debt-free.md).
-3. How to steadily increase your capacity for generating income by [**consistently setting aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+* How to take full control of your money by using a zero-based budget.
+* Why and how to eliminate all wasteful spending by becoming and staying 100% debt-free.
+* How to steadily increase your ability to generate income by setting aside 10-20% of your budget for giving.
 
-The second section, '_Bitcoin and Your Net Worth_. presents a framework for maintaining [**your net worth balance**](bitcoin-and-your-net-worth/keep-your-net-worth-composition-in-balance.md) on a full Bitcoin standard. It will show you how to view your net worth as consisting of three components: 1) money, 2) consumption and 3) capital.
+#### **2. Bitcoin and Your Net Worth**
 
-Then, it will encourage you to follow the "rule of thirds," which suggests: 1) keeping **at least one-third** of your net worth in money (Bitcoin), 2) allocating **no more than one-third** of your net worth to consumption goods or assets, and 3) allocating **no more than one-third** of your net worth to capital (production) goods or assets.
+This section provides a framework for managing your net worth on a full Bitcoin standard. It breaks your net worth into three components:
 
-I recommend going through this guide and implementing it step by step. This means you first implement zero-based budgeting practice, then eliminate all debt from your balance sheet, and finally, adopt the practice keeping 10%-20% of your budget assigned for giving.
+1. **Money** – The portion of your wealth held in Bitcoin.
+2. **Consumption** – Goods or assets used for personal enjoyment or daily living.
+3. **Capital** – Assets or investments that generate income or production.
 
-At this point, review the composition of your net worth and adjust it accordingly. This may mean liquidating parts of your net worth and converting that purchasing power to Bitcoin to achieve balance according to the rule of thirds. After that, you simply continue following the practices in the guide to maintain balance in the future. The more time you spend doing this, the better you will become at it.
+It also introduces the "rule of thirds," which suggests:
 
-### Who is this guide for?
+* Keeping at least one-third of your net worth in money (Bitcoin).
+* Allocating no more than one-third of your net worth to consumption goods or assets.
+* Allocating no more than one-third of your net worth to capital (production) goods or assets.
 
-This guide is written for bitcoiners transitioning from a Fiat standard to a full Bitcoin standard and are facing various challenges and decisions during the process.
+#### **How to Use This Guide**
 
-_Are you afraid to sell Bitcoin? Are you bothered by high volatility? Do you have debt? Is your spouse not really on the same page as you? Are you wondering how you can make more money in general?_
+To adopt a full Bitcoin standard, follow the steps in this guide one at a time. Start by implementing zero-based budgeting to take control of your finances. Then, eliminate all debt from your balance sheet. After that, adopt the practice of setting aside 10-20% of your budget for giving.
+
+Once these steps are complete, review the composition of your net worth and adjust it according to the rule of thirds. This may involve liquidating parts of your net worth and converting that value into Bitcoin to achieve balance. Afterward, continue following the practices in this guide to maintain balance and grow your wealth over time.
+
+The more you practice these steps, the better you will become at managing your finances on a full Bitcoin standard. This guide is not just about adopting Bitcoin—it’s about transforming how you manage your money, achieving financial independence, and preparing for a future where Bitcoin plays a central role in the global economy.
+
+Let’s begin.
+
+## Who Is This Guide For?
+
+This guide is written for Bitcoiners who are transitioning from a fiat standard to a full Bitcoin standard and are facing challenges and decisions along the way.
+
+Are you afraid to sell Bitcoin? Does Bitcoin’s high volatility bother you? Do you have debt? Is your spouse not fully on board with your Bitcoin plans? Are you wondering how to make more money in general?
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
-* You have already read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs) and [Principles of Economics](https://saifedean.com/poe).
-* You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB) and have a basic technical understanding about how the Bitcoin system works.
+* You’ve read _The Bitcoin Standard_, _The Fiat Standard_, and _Principles of Economics_.
+* You’ve read _Inventing Bitcoin_ and have a basic technical understanding of how the Bitcoin system works.
 * You practice dollar-cost averaging into Bitcoin.
-* You keep some fiat currency as "dry powder" for buying more Bitcoin during price corrections.
-* You attempted to grow your Bitcoin stack through trading, but ultimately decided [you'd rather buy and hold.](https://bitcointalk.org/index.php?topic=375643.0)
+* You keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
+* You’ve tried growing your Bitcoin stack through trading but decided you’d rather buy and hold.
 * You have and use credit cards.
 * You have and use personal loans.
 * You (sometimes) use lines of credit.
@@ -44,194 +60,195 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You have a mortgage.
 * You have an auto loan or lease.
 * You have student loan debt.
-* You have used or plan to use a home equity line of credit.
-* You are hesitant to spend your Bitcoin.
-* You're (sort of) afraid to sell your Bitcoin in any significant amount.
-* You believe there is a good debt and bad debt.
-* If the opportunity presents itself, you'd probably take out a zero-interest loan and use it to buy more Bitcoin.
-* You have a rough idea of how much money you make and spend, but you don't have _exact_ figures.
-* You plan for retirement.
-* You tried orange pilling your family and close friends, but they didn't take your advice as seriously as you would have liked.
-* You are willing to allocate even more of your money to Bitcoin, but your partner/spouse is not really on the same page.
-* You have a _Fiat job_, and don't have direct Bitcoin inflow streams.
-* Because of Bitcoin's high volatility, you do not advise people to go all in.
-* Sometimes you feel like you don't own enough Bitcoin.
-* "_Fiat is for spending, Bitcoin is for saving_" sounds reasonable.
+* You’ve used or plan to use a home equity line of credit.
+* You’re hesitant to spend your Bitcoin.
+* You’re (sort of) afraid to sell your Bitcoin in any significant amount.
+* You believe there’s such a thing as good debt and bad debt.
+* If the opportunity came up, you’d probably take out a zero-interest loan to buy more Bitcoin.
+* You have a rough idea of how much money you make and spend, but you don’t know the exact numbers.
+* You’re planning for retirement.
+* You’ve tried orange-pilling your family and friends, but they didn’t take your advice as seriously as you’d hoped.
+* You’re willing to allocate more of your money to Bitcoin, but your partner or spouse isn’t fully on board.
+* You have a fiat job and don’t have direct Bitcoin income streams.
+* Because of Bitcoin’s high volatility, you don’t advise others to go all in.
+* Sometimes, you feel like you don’t own enough Bitcoin.
+* "Fiat is for spending, Bitcoin is for saving" sounds reasonable to you.
 
-### Bitcoin's Purchasing Power Volatility
+If any of this resonates with you, this guide is here to help. It’s designed to address these challenges and guide you step by step toward adopting a full Bitcoin standard with confidence and clarity.
 
-Bitcoin is a very different kind of money from what we are used to. Since 2009, its purchasing power has increased millions of times, while that of fiat currency has steadily declined. However, the process was extremely volatile along the way, with multiple price crashes of over 80% followed by massive rallies. While price volatility is decreasing over time, using Bitcoin as your primary money still presents significant challenges.
+## Bitcoin’s Purchasing Power Volatility
 
-You probably already heard about the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz posted on the Bitcointalk.org forum wanting to purchase two pizzas (costing about $30) for 10,000 BTC, and someone actually delivered them for that price. At the time of writing this (November 2024), 1 Bitcoin is worth about $90,000. So, 10,000 Bitcoins, equivalent to about $900 million today, could buy over 60 million pizzas.
+Bitcoin is a very different kind of money from what we’re used to. Since its creation in 2009, Bitcoin’s purchasing power has increased millions of times, while fiat currency has steadily lost value. However, this growth has been extremely volatile, with multiple price crashes of over 80% followed by massive rallies. While Bitcoin’s price volatility is decreasing over time, using it as your primary money still presents significant challenges.
 
-But this increase in purchasing power has come with even more well-known volatility. Since my "get off zero" moment in July 2014, at around $600/BTC, the current Bitcoin exchange rate is over 100 times higher than my entry point, in just over 10 years.
+You’ve probably heard of the famous Bitcoin pizza transaction. In May 2010, Laszlo Hanyecz paid 10,000 BTC for two pizzas worth about $30. At the time of writing this (November 2024), 1 Bitcoin is worth about $90,000, meaning those 10,000 BTC—now worth $900 million—could buy over 60 million pizzas.
 
-I only began studying Bitcoin seriously in late 2017, as I mostly forgot about my initial Bitcoin purchase in the summer of 2014 until then. I've witnessed Bitcoin’s price run up to a peak of $20,000 in December 2017 and then drop to as low as $3,300 per BTC in November 2018, a retracement of almost 85 percent. Then I saw Bitcoin recover to around $12,000 in the summer of 2019, only to drop back to around the $8-9k range.
+This incredible increase in purchasing power has come with equally dramatic volatility. For example, since my "get off zero" moment in July 2014, when Bitcoin was around $600, its price has increased over 100 times in just over 10 years. But along the way, I’ve witnessed Bitcoin’s price crash by 80% or more multiple times, only to recover and reach new highs.
 
-In March 2020, the infamous COVID crash slashed the price almost in half (though for a short period), touching the $4-5k range. Then I witnessed the 2020 halving and Bitcoin's climb to around $60k in the spring of 2021 (a 1200% increase), followed by a drop to around $30k in the summer of 2021 (a 50% decrease), and another climb to almost $70k in November 2021. It then went down again in 2022, reaching the previous cycle's all-time high of $20k in the summer of 2022, and retracing further to $15-16k in November 2022, an approximately 80 percent drop from its high point.
+For instance:
 
-I'm currently observing a $90,000/BTC price in November 2024, which is over 940 % increase over the past five years.
+* In December 2017, Bitcoin peaked at $20,000, only to drop to $3,300 by November 2018 (an 85% drop).
+* In March 2020, during the COVID crash, Bitcoin briefly fell to $4,000 before recovering.
+* By November 2021, Bitcoin reached nearly $70,000, only to drop to $15,000 by late 2022 (an 80% drop).
+* As of November 2024, Bitcoin is trading at $90,000, a 940% increase over the past five years.
 
-I've heard a wide variety of recommendations and approaches for addressing Bitcoin volatility. Typical conservative advice includes "_only buy Bitcoin with money you will not need for at least a couple of years_" and "_just buy a small amount every month: dollar-cost average_." More aggressive approaches involve attempting to trade this volatility by purchasing Bitcoin at low prices and selling it at high prices. While both approaches can be effective for some (though they carry risks that are often overlooked), there is a third approach that I rarely see but have personally found most effective over the past four years: using Bitcoin as your primary money.
+This kind of volatility can be intimidating, and there are many strategies people use to deal with it. Some take a conservative approach, buying Bitcoin only with money they won’t need for years and dollar-cost averaging small amounts over time. Others try to trade the volatility, buying low and selling high.
 
-This means converting all of your current and incoming money to Bitcoin and arranging to be paid exclusively in Bitcoin (if possible). You do this regardless of the current exchange rate. Then, when it's time to pay for your expenses, which are typically denominated in your local fiat, you exchange Bitcoin back into fiat to complete payment (or, if possible, pay directly with Bitcoin).
+But there’s a third approach that I’ve found most effective: using Bitcoin as your **primary money**.
 
-Today, you can use a variety of services and exchanges, such as Bitcoin debit cards, which convert Bitcoin to fiat at the time of purchase and pay the merchant in fiat. If you don't have access to this, you can still use Bitcoin as your primary money, but you'll need to plan your exchanges back to fiat in advance. For instance, if you need to pay your rent in fiat next week, you can simply convert the amount you need from Bitcoin to fiat a couple of days in advance.
+#### Using Bitcoin as Your Primary Money
 
-To do this safely and effectively and embrace Bitcoin's high volatility, you should consistently practice three money management principles: [zero-based budgeting](money-management-wisdom/plan-your-money.md), [living debt-free](money-management-wisdom/live-debt-free.md), and [consistently setting aside a part of your budget (10-20%) for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md). These timeless principles are founded on millennia of wisdom and are extremely important today. They are even more critical if you intend to use Bitcoin as your primary money because such a potent but still largely misunderstood technology can have both extremely positive and extremely negative effects on your financial life.
+This means converting all of your current and incoming money into Bitcoin and arranging to be paid in Bitcoin (if possible). You do this regardless of the current exchange rate. When it’s time to pay for expenses—usually denominated in fiat—you exchange Bitcoin back into fiat to complete the payment (or pay directly with Bitcoin if accepted).
 
-### Bitcoin Is a Powerful Technology in Its Early Adoption Phase
+Today, services like Bitcoin debit cards make this easier by converting Bitcoin to fiat at the time of purchase. If you don’t have access to such services, you can still use Bitcoin as your primary money by planning ahead. For example, if you need to pay rent in fiat next week, you can convert the required amount of Bitcoin to fiat a few days in advance.
 
-In my opinion, Bitcoin in 2024 is comparable to electricity in its early years. Initially, most people were afraid of electricity because they did not know how to handle it safely. Similarly, most people today have at least heard of Bitcoin, but the vast majority still do not own any. An even smaller proportion of those who do own Bitcoin actually use it as their primary money, or in other words, live on a full Bitcoin standard.
+To do this effectively and safely, you need to consistently practice three key money management principles:
 
-As people became more accustomed to electricity, they learned proper ways to handle it safely and effectively, leading to its widespread adoption. Today, we all teach young children not to approach electrical outlets while holding wet metal objects. We have installed overload and short-circuit protection in our homes and buildings. We are advised not to poke holes in our lithium-ion batteries just to see what happens.
+1. **Zero-based budgeting** – Plan every dollar of your income and expenses.
+2. **Living debt-free** – Eliminate all debt from your life.
+3. **Setting aside 10-20% of your budget for giving** – This timeless principle not only fosters generosity but also increases your capacity to earn.
 
-Today, a typical electricity user does not limit their consumption to 1% of their power needs, as some Bitcoin investors do by allocating only 1% of their net worth to Bitcoin. Likewise, electricity users do not use electricity for only a few hours per month, as some Bitcoin users do by dollar-cost averaging into Bitcoin with small amounts of money every month.
+These principles are critical when using Bitcoin as your primary money. Bitcoin is a powerful but still misunderstood technology, and without proper financial habits, its volatility can have both positive and negative effects on your financial life.
 
-Instead, an average electricity user today uses as much electricity as they require because they understand how to operate electrical devices safely and effectively.
+#### Bitcoin: A Powerful Technology in Its Early Phase
 
-When you implement the timeless money management principles outlined in this guide, you will be able to use Bitcoin as your primary money to its full potential, just like you use electricity. Instead of fearing Bitcoin's volatility, you will have safety mechanisms in place. Instead of hedging against it, you will fully embrace it.
+In 2024, Bitcoin is comparable to electricity in its early years. When electricity was first introduced, most people were afraid of it because they didn’t know how to use it safely. Over time, people learned how to handle electricity properly, leading to its widespread adoption.
 
-Instead of trying to predict the future exchange rate of Bitcoin and positioning yourself accordingly, you will completely flip the framework: you will learn to respond to changes in Bitcoin's purchasing power (exchange rate) after they occur by reconciling and rebalancing your budget.
+Similarly, most people today have heard of Bitcoin, but only a small percentage own it, and even fewer use it as their primary money. Just as we’ve developed safety mechanisms for electricity, like circuit breakers and insulation, you can develop financial safety mechanisms to handle Bitcoin’s volatility.
 
-Instead of the "consume now, pay later" approach of the fiat standard, you will eliminate debt from your life completely and learn the Bitcoin standard way of "pay now, consume later."
+When you implement the money management principles outlined in this guide, you’ll be able to use Bitcoin to its full potential. Instead of fearing its volatility, you’ll embrace it. Instead of trying to predict Bitcoin’s future price, you’ll learn to respond to changes in its purchasing power by rebalancing your budget.
 
-Instead of worrying about how you are going to increase your income, you will learn to practice setting aside a portion of your budget for giving, which will increase your capacity to earn money in unimaginable ways.
+You’ll also shift from the fiat mindset of "consume now, pay later" to the Bitcoin standard of "pay now, consume later." By eliminating debt and practicing generosity, you’ll not only improve your financial health but also increase your ability to earn and grow your wealth.
 
-This manual has two sections.
+#### What This Guide Covers
 
-The first section explains and discusses three fundamental principles of money management that you should implement and practice: [planning your money](money-management-wisdom/plan-your-money.md), [living debt-free](money-management-wisdom/live-debt-free.md), and consistently[ setting aside a portion of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md). These principles are as relevant today as they were thousands of years ago, long before the existence of electricity or Bitcoin. They will continue to hold true despite technological advancements thousands of years in the future.
+This guide is divided into two sections:
 
-The second section discusses how to start [using Bitcoin as your primary money](bitcoin-and-your-net-worth/how-to-use-bitcoin-as-your-primary-money.md), assuming you have implemented the three fundamental money management principles. I will show you how to think about Bitcoin as your cash balance, which you will budget and regularly reconcile in terms of its purchasing power, rebalancing your budget accordingly.
+1. **Money Management Principles**
+   * Learn how to plan your money, live debt-free, and set aside a portion of your budget for giving. These principles are timeless and have been relevant for thousands of years, long before Bitcoin or electricity existed. They will remain relevant for thousands of years to come.
+2. **Using Bitcoin as Your Primary Money**
+   * Once you’ve implemented the money management principles, this section will show you how to use Bitcoin as your primary money.
+   * You’ll learn to think of Bitcoin as your cash balance, budgeting and reconciling it in terms of its purchasing power.
+   * You’ll also learn how to balance your net worth using the "rule of thirds":
+     * Keep at least one-third of your net worth in Bitcoin.
+     * Limit consumption goods (assets used for leisure) to no more than one-third of your net worth.
+     * Limit capital goods (assets used for income generation) to no more than one-third of your net worth.
 
-I will also show you how to balance the composition of your net worth using the rule of thirds. You will want to have at least a third of your net worth in cash balance / money (primarily Bitcoin). Then, you will look at your non-Bitcoin assets and categorize them as either consumption  (assets / goods used in your leisure time) or capital (assets / goods used in your labor time or to generate income).
+This guide will also teach you how to calculate the cost of ownership for assets over time, helping you decide whether to buy or rent.
 
-I will demonstrate why it's important to maintain both your consumption goods and capital goods to no more than one-third of your total net worth each. I will show you how to rebalance your net worth during Bitcoin's bull and bear markets to ensure its sustained growth.
+If these concepts are new to you, there’s a lot to learn. But by following the steps in this guide, you’ll be able to use Bitcoin as your primary money safely and effectively, while building a strong financial foundation.
 
-You will also learn how to think about consumption and capital assets / goods ownership and how to calculate the cost of ownership over time. This will enable you to decide wisely whether to buy or rent an asset.
+#### Feedback and Support
 
-If you've never heard of these concepts before, there is a lot to learn.
-
-This guide is a work in progress, so please send any feedback you may have to [pavao@hey.com](mailto:pavao@hey.com). If you want personalized advice, please use [this link to schedule a call](https://cal.com/btcpavao/). If you would like to support this work, please use the following lightning address:
+This guide is a work in progress, and I welcome your feedback. If you have suggestions or questions, feel free to email me at [**pavao@hey.com**](mailto:pavao@hey.com). For personalized advice, you can schedule a call using the provided [link](https://cal.com/btcpavao/meeting?user=btcpavao). If you’d like to support this work, you can use the included Lightning address or [donation link](https://pay.zaprite.com/pl_GIVID5vLxj).
 
 <figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
-Alternatively, [please use this link](https://pay.zaprite.com/pl_GIVID5vLxj).
-
-I hope you like reading this, and I encourage you to put the suggestions into practice in your life.
+I hope you find this guide helpful and encourage you to put its suggestions into practice. Let’s build a future on the Bitcoin standard together.
 
 ***
 
-### Why Do We Use Money in the First Place?
+## Why Do We Use Money in the First Place?
 
-The first point we should address is defining money in the context of this guide. Here, I'll use the definition from the Austrian School of Economics: money is a widely accepted medium of exchange. However, for practical purposes, I'll add a caveat and define money as any economic good that you use not because you intend to consume it or produce something else with it, but because you expect to exchange it for something else at a later time.
+Before diving deeper into using Bitcoin as your primary money, it’s important to understand what money is and why we use it. In this guide, I’ll use the Austrian School of Economics’ definition of money: a widely accepted medium of exchange. However, for practical purposes, I’ll add a slight adjustment: money is any economic good that you use not because you intend to consume it or produce something else with it, but because you expect to exchange it for something else at a later time.
 
-Using this definition, we can recognize that many people use a variety of different things as money. But why do they use medium of exchange, why not exchange goods directly?
+Using this definition, we can see that people use a variety of things as money. But why do we need a medium of exchange in the first place? Why not just trade goods directly?
 
-People exchange goods and services with each other because they value them differently. However, direct exchange of goods and services quickly encounters the problem of double coincidence of wants.
+#### The Problem of Direct Exchange
 
-For example, person A has oranges and person B has apples. A would like to trade some of his oranges for apples, and B would like to trade some of his apples for oranges. They will carry out an exchange that benefits them both in the end. A and B value what they have more after the exchange than before, making the exchange mutually beneficial.
+People trade goods and services because they value them differently. For example, person A has oranges, and person B has apples. A wants apples, and B wants oranges. They trade, and both are better off because they now have something they value more than what they gave up.
 
-Subjective value is increased for all parties involved in a voluntary exchange. For instance, person A has an abundance of oranges, while person B has an abundance of apples. Person B prefers to exchange his apples for bananas instead of oranges, while person A would like to exchange some of his oranges for apples.
+However, this kind of direct exchange quickly runs into a problem called the **double coincidence of wants**. What if person A wants apples, but person B doesn’t want oranges? Without a medium of exchange, the trade can’t happen.
 
-By using a medium of exchange, we are able to solve the problem of double coincidence of wants. For example, if person A finds someone to exchange his oranges for bananas, only to then exchange the bananas for apples with person B, person A used bananas as a medium of exchange. In other words, A obtained bananas not because he wanted them, but because he intended to exchange them for what he truly wanted, which was apples. In this scenario, A used bananas as a medium of exchange, or money.
+A medium of exchange solves this problem. For example, if person A trades their oranges for bananas with person C, and then trades the bananas for apples with person B, the bananas acted as a medium of exchange. A didn’t want the bananas for their own sake but used them to get what they really wanted—apples.
 
-Anything can serve as a means of exchange or money, but some goods are more effective at doing so than others.
+#### What Makes a Good Medium of Exchange?
 
-### Effectiveness of a Medium of Exchange
+While anything can serve as a medium of exchange, some goods are better at it than others. The effectiveness of a medium of exchange is determined by its **salability**—how easily it can be exchanged for what you actually want. Salability can be measured across four dimensions:
 
-The effectiveness of a medium of exchange, or money, can be measured in terms of its salability (marketability, or how easy/difficult it is to exchange for what we actually want). Salability can be measured with respect to four distinct dimensions: time, space, scales, and goods.
+1. **Salability over time** – How well the value of the medium holds over time. Fiat money, for example, loses purchasing power due to inflation, which is why people often use other assets like real estate, stocks, or precious metals to store value. Bitcoin, with its fixed supply of 21 million units, has superior salability over time because it cannot be inflated.
+2. **Salability across space** – How easily the medium can be transferred across distances. Fiat money can be moved electronically, but this process can be slow, expensive, and subject to censorship or reversal. Other forms of money, like gold, are even more expensive and cumbersome to move across space. Bitcoin, on the other hand, can be sent anywhere in the world quickly, securely, and without permission, making it highly salable across space.
+3. **Salability across scales** – How well the medium works for both small and large transactions. Bitcoin excels here because it can be divided into tiny fractions (satoshis) for small payments or used for large transactions without losing efficiency. Real estate, when used as money, can't easily be divided up for small payments; it can only be liquidated all at once.
+4. **Salability across goods** – How widely the medium is accepted in exchange for other goods and services. Fiat money is currently the most widely accepted form of payment, but Bitcoin is rapidly gaining traction as more businesses and individuals adopt it.
 
-**Salability over time** is the degree to which a good used as a medium of exchange increases or decreases in value over the interval of time between exchanges. Most people understand that government-issued fiat money loses purchasing power/value over time. This is why they use a variety of mediums of exchange/money that have higher salability over time than government-issued fiat currencies. Some examples include government bonds, stocks, real estate, precious metals, and artwork. Due to its fixed supply issuance schedule, which caps at 21 million units until the year 2140, Bitcoin has greater salability over time.
+#### Money: A Uniquely Human Phenomenon
 
-**Salability across space** is the degree to which the object being exchanged has a value increase or decrease over the unit of space between exchanges. To move money across space, most people use electronic bank transfers. The cost of performing the move can range from $0 to a few hundred USD, depending on the number of counterparties required. It is possible to censor, stop, or reverse the flow of fiat across space. Since fiat is issued through debt, its movement across space is never truly settled. Because Bitcoin can be sent anywhere with an Internet connection in a permissionless, censorship-resistant manner and make final settlement in a matter of hours for a relatively small mining fee relative to the transaction size it can support, it has superior salability across space.
+Humans are unique in their use of money. While animals may trade resources in limited ways, they don’t use money, specialize in specific tasks, or save for the future. These behaviors are tied to the **spiritual** or **non-physical** aspects of human nature—our ability to assign value, plan, and cooperate.
 
-**Salability across scales** is the degree to which the value of an item used as a medium of exchange rises or falls with the size of the exchange. When it comes to small and large payments, Bitcoin is the best.
+Money, at its core, is a **spiritual phenomenon**. The physical objects we use as money are, in a way, "carriers" of this spiritual phenomenon. The value itself comes from us performing valuations on the margin, and since every one of us is different, we value things differently at different times and places.
 
-**Salability across goods** refers to the extent to which a given good or service is desired or recognized as such. Currently, government-issued fiat money is unfortunately the most popular and widely accepted form of payment in most parts of the world, although Bitcoin is quickly gaining traction in this space. This is evident in the expanding number of exchanges, liquidity, and contracting bid-ask spreads between government-issued fiat currencies and Bitcoin.
+For example, a gold bar lying on the ground is meaningless to a seagull, but to a fisherman, it represents the ability to trade for food, tools, or other goods in the future. The gold bar’s value is recognized by humans because they know they can exchange it for something they value more in the future.
 
-After providing a functional definition of money, we will examine management best practices derived from millennia of experience. I'll start by defining what money means in this manual so that it can be as helpful as possible to its readers. You should know this because you probably use some things as money that you wouldn't if Bitcoin was your primary money.
+#### Why Bitcoin Is the Most Effective Money
 
-We humans are at the same time similar to and different from other species in many ways. We are similar to other species in physical aspects. For example, we, like many other species, are mammals; we have a pair of limbs, ten fingers on both hands, two eyes, and two ears. We use our bodies to eat, drink, sleep, mate, and have bodily functions.
+While anything can be used as money, Bitcoin is uniquely suited to be the most effective form of money in today’s world. Its superior salability over time, space, and scale makes it an ideal medium of exchange and store of value.
 
-As much as we are similar physically, we are completely different from other species from a metaphysical or spiritual perspective. Bear in mind, the term "spiritual" is used here to refer to non-physical characteristics that cannot be measured like size, weight, or volume. Here, "spiritual" refers to the intangible (metaphysical) parts of a human being, such as their accountability, discipline, patience, responsibility, generosity, optimism, kindness, loyalty, courage, perseverance, hope, resourcefulness, or creativity.
+This guide is designed to help you transition to using Bitcoin as your **primary money**. This doesn’t mean you’ll never use other forms of money again—most of the world still operates on fiat currency. However, it does mean that you’ll treat Bitcoin as your main cash balance, converting fiat to Bitcoin and back as needed.
 
-In this guide, you'll read about concepts like the "spirit of freedom," the "spirit of slavery," and the "spirit of peace." We're referring to these intangible human qualities that we can either foster and grow or stifle and eliminate.
+#### A New Approach to Money
 
-Now, this is a very important point: humans use money because, while they are similar to each other physically, they can be completely different from one another spiritually. This is the reason people trade with each other: they value goods and services differently. When we value things differently, we engage in exchange because, after the exchange, we are better off—we end up with things we value more than whatever we exchanged for them.
+If you follow the recommendations in this guide, you’ll stop thinking of Bitcoin as a long-term, illiquid investment that you “don’t touch.” Instead, you’ll learn to use it as your primary money, managing it actively and confidently.
 
-So, trade, and subsequently the emergence of money, is a uniquely human phenomenon, and its operation is primarily related to the spiritual realm. Animals do not save money, specialize in one area, or trade with one another. They don't use money and don't assign different values to the same good or service at different points in time or in different locations due to internal spiritual differences.
+This approach eliminates the need to “hedge Bitcoin’s volatility” or treat it as something separate from your daily financial life. Instead, you’ll embrace Bitcoin’s unique properties and use it to its full potential.
 
-Trade encounters a significant challenge known as the "double coincidence of wants." This issue arises when A wants what B has, but B does not want what A has in return. The solution to the problem of the double coincidence of wants is the introduction of a medium of exchange. A medium of exchange is anything that a person acquires with the sole intention of using it to exchange for something they really want to use or consume.
+#### Building Your Financial Foundation
 
-So, in our example, if B desires what C possesses, A may attempt to exchange what he has with C, only to then trade it with B. A is acquiring what C has, not because A intends to use it, but solely for the purpose of exchanging it with B. In this case, A used C's item as a medium of exchange with B. Over time, through numerous interactions like this, certain goods emerge as better mediums of exchange than others due to their superior salability across time, space, and scale.
+To use Bitcoin effectively as your primary money, you’ll need to cultivate strong financial habits. Think of this guide as a blueprint for building a “spiritual money tree” with three key components:
 
-We define money as the most widely used medium of exchange. While anything can be used as money, some things prove to be more effective than others. It's crucial to understand that all valuation occurs within our spiritual realm; there is no intrinsic value in physical objects. Our spiritual schematic, comprising all non-physical aspects, determines how we value things.
+1. **Roots: Zero-Based Budgeting**
+   * This practice gives you full control over your money by planning every dollar and managing it over time.
+2. **Trunk and Branches: Living Debt-Free**
+   * Eliminating debt stops wasteful spending and fosters financial clarity, peace, and freedom.
+3. **Leaves and Fruits: Establishing a Giving Practice**
+   * Setting aside 10-20% of your budget for giving nurtures generosity and opens up new opportunities to grow your income.
 
-In essence, money is actually a spiritual phenomenon when it comes to how humans exchange goods and services with one another. The physical objects we use as money, such as coins and bills, are like carriers or symbols for this value in the physical world. There is nothing inherent in physical objects that makes them money. They are used and recognized as money by human beings.
+#### What Do You Use as Your Primary Money?
 
-A gold bar lying on the ground next to a fisherman on the shore is of no value to a seagull. A seagull is considerably more interested in the fish the fisherman catches. The gold bar, however, is more valuable to the fisherman than the fish because he knows he can exchange it for fish or anything else he might want in the future from other people.
+Many people use things like real estate, stocks, or precious metals as money without realizing it. For example, someone who buys real estate not to live in or rent out but to “store value” is using real estate as money.
 
-This manual is designed to impart wisdom on how to alter our spiritual schematic to become more adept at using money. Remember, we can use anything as money, but I will argue that Bitcoin is the most effective tool for money in today's world.
+The goal of this guide is to help you transition to using Bitcoin as your primary money. This doesn’t mean you’ll stop using fiat currency entirely—most of your daily spending will still require fiat. However, you’ll convert your income into Bitcoin and treat it as your main financial tool.
 
-Think of this manual as a guide on cultivating a "spiritual money tree" with three components: roots (zero-based budgeting), trunk and branches (becoming and remaining debt-free), and leaves and fruits (establishing a giving practice). Alternatively, you can envision it as a blueprint for constructing a house, with the foundation being zero-based budgeting, the base ensuring freedom from debt, and the visible structure establishing a giving practice.
+By following the principles in this guide, you’ll stop worrying about Bitcoin’s volatility and start using it confidently as your primary cash balance. You’ll learn to manage your finances in a way that aligns with the Bitcoin standard, embracing its unique advantages while building a strong financial foundation.
 
-[**Zero-Based Budgeting**](money-management-wisdom/plan-your-money.md): This practice grants us full control over our money by determining its opportunity cost and managing it in the dimension of time.
-
-[**Becoming and Staying Debt-Free**](money-management-wisdom/live-debt-free.md): This involves eliminating wasteful outflows, which often result from misjudged valuations, by replacing credit spending with cash spending. This stops the growth of the spirits of slavery, restlessness, and confusion and fosters the growth of the spirits of freedom, peace, and clarity.
-
-[**Establishing a Giving Practice**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md): This step focuses on increasing our inflows. By practicing giving, we nurture the spirit of generosity while preventing the growth of the spirit of stinginess. This, in turn, opens up more opportunities to grow our inflows.
-
-### What Do You Use as Your Primary Money?
-
-It is critical to understand that money is a medium of exchange and that anything can be used as such. Do you know someone who "invests in real estate," buying properties not to live in or rent out but rather to "store value," with the goal of later selling them for a higher price? If so, then this person is using real estate as money.
-
-Some of the most popular instruments that people around the world use as money include banknotes, coins, fiat bank checking accounts, fiat bank savings accounts, credit, government bonds, corporate bonds, stock index funds, mutual funds, precious metals, art, real estate, [altcoins](https://coinmarketcrap.co/), and stablecoins.
-
-The goal of this guide is to help you get ready to use Bitcoin as your primary money and give you the tools you need to do so. This doesn't mean you'll never use any other kind of money again. There is a good chance that you reside in an area where most people use government-issued fiat currency as their primary means of exchange.
-
-However, this doesn't mean you can't use Bitcoin as your main form of money. It just means that for most of your daily spending, you'll need to exchange Bitcoin for your local government's fiat currency. On the other hand, you can convert any income you make, regardless of the currency in which it is paid to you, into Bitcoin.
-
-If you follow the recommendations provided in this guide, you won't need to "hedge Bitcoin's volatility" anymore, and you won't think of Bitcoin as a long-term, illiquid investment that you "don't touch." Instead, you will learn to treat it as your primary cash balance, which means you will frequently convert from fiat to Bitcoin and back, depending on your goals.
+Let’s continue this journey together.
 
 ***
 
-### My Path to the Full Bitcoin Standard
+## My Path to the Full Bitcoin Standard
 
-I remember first hearing about Bitcoin in 2012 but didn't find it interesting, because I thought it was just some kind of digital currency, similar to virtual money in computer games like World of Warcraft. In 2013, I remember reading about FBI shutting down Silk Road, where Bitcoin was used for buying and selling. The U.S. government's involvement added to my interest, showing that Bitcoin wasn't just a code that could be changed by its creators, or some kind of game money, but was actually used in real commerce, albeit illegal.
+I first heard about Bitcoin in 2012, but I didn’t find it interesting at the time. I thought it was just some kind of digital currency, similar to the virtual money used in computer games like _World of Warcraft_. In 2013, I came across news about the FBI shutting down Silk Road, a marketplace where Bitcoin was used for buying and selling. The U.S. government’s involvement caught my attention—it showed me that Bitcoin wasn’t just some game currency or code that could be easily changed by its creators. It was being used in real commerce, even if it was illegal.
 
-I trying to get some Bitcoin in 2013, but there wasn't really a conveneint way do to so. There was the option of wiring money from Croatia to Japan's Mt. Gox exchange, but I found that too cumbersome, so I just ditched the idea.
+I tried to get some Bitcoin in 2013, but there wasn’t a convenient way to do so. The only option I found was wiring money from Croatia to Japan’s Mt. Gox exchange, but that seemed too complicated, so I gave up on the idea.
 
-My entrepreneurial pursuits took a backseat during the summer of 2014 as I experienced burnout and needed to take a break. I was just taking it easy, not really paying attention to much. At that time, I remember delving a bit deeper into how Bitcoin actually worked, and there were more resources available in video form on how to do it. I got Bitcoin Core up and running and was ready to send and receive my first Bitcoin transaction.
+In the summer of 2014, I was taking a break from my entrepreneurial pursuits after experiencing burnout. I wasn’t paying much attention to anything serious, but I decided to look deeper into Bitcoin. By then, there were more resources available, including videos explaining how it worked. I downloaded Bitcoin Core, set it up, and was ready to send and receive my first Bitcoin transaction.
 
-As I read more about it, I realized that the network was still operational even after the shutdown of Silk Road and the bankruptcy of the Mt. Gox exchange. So, I decided to try to get some Bitcoin to experiment with this time. Fortunately, where I live in Croatia, there was a small Bitcoin exchange just getting started, so I was able to easily purchase around $20 worth of Bitcoin in July 2014, just to play around with. The Bitcoin exchange rate was around $600 per BTC at the time.
+What struck me was that the Bitcoin network was still operational, even after the shutdown of Silk Road and the collapse of Mt. Gox. This resilience intrigued me, so I decided to experiment. Luckily, a small Bitcoin exchange had just started in Croatia, where I live, and I was able to buy about $20 worth of Bitcoin in July 2014. The exchange rate was around $600 per Bitcoin at the time.
 
-After receiving my first Bitcoin transaction from the exchange, I researched further on the Bitcointalk.org forums. However, as summer drew to a close, my attention shifted back to my entrepreneurial venture. The price action wasn't really going anywhere at the time, and I had invested only a small amount of money anyway. By the winter of 2014, I had practically forgotten about my Bitcoin experiment as I became increasingly preoccupied with work and running a startup.
+After receiving my first Bitcoin transaction, I spent some time researching on the Bitcointalk.org forums. But as summer ended, my focus shifted back to my entrepreneurial ventures. Bitcoin’s price wasn’t moving much, and since I had only invested a small amount, I eventually forgot about it. By the winter of 2014, my attention was fully on work and running a startup.
 
-It wasn’t until late 2017 that I suddenly realized Bitcoin was trading above $15,000 per BTC, whereas I distinctly recalled purchasing it for around $600 per BTC. This was the moment that made me fascinated by the phenomenon, and I think of it as the start of my journey down the rabbit hole.
+It wasn’t until late 2017 that Bitcoin caught my attention again. I realized it was trading above $15,000 per Bitcoin, and I remembered buying it for around $600. This was the moment that pulled me down the rabbit hole.
 
-Fortunately, I had very little time to get exposed to [altcoins](https://coinmarketcrap.co/), and starting in 2018, I entered my first real Bitcoin bear market. It was when I read "[The Bitcoin Standard](https://saifedean.com/tbs)" by Saifedean Ammous that I understood the basics of monetary economics, the difference between hard and easy money, stock to flow, salability, and the problems money actually solves. I stopped analyzing [altcoins](https://coinmarketcrap.co/) from the perspective of their marketing narratives and learned to view them through an Austrian economics lens.
+Fortunately, I didn’t spend much time exploring altcoins. By 2018, I entered my first real Bitcoin bear market. It was during this time that I read _The Bitcoin Standard_ by Saifedean Ammous, which helped me understand the basics of monetary economics, the difference between hard and easy money, stock-to-flow, salability, and the problems money solves. This book changed my perspective—I stopped analyzing altcoins based on their marketing narratives and started viewing them through the lens of Austrian economics.
 
-All of this occurred during the 2018 bear market, and by mid-year, I also parted ways with the startup I co-founded which meant my regular inflows stopped. I felt the need to learn how to manage my budget since my savings were getting depleted while income became irregular. I discovered the Dave Ramsey Show and his teachings on why people should get out of debt. I listened to hundreds of stories about how people’s lives were ruined by debt. I grew convinced that my previous stance on debt was wrong, both in my personal and business life. I started budgeting my money, and by the end of 2018, I cleared all of my debt.
+During the 2018 bear market, I also parted ways with the startup I co-founded, which meant my regular income stopped. With my savings depleting and income becoming irregular, I realized I needed to learn how to manage my budget. That’s when I discovered Dave Ramsey’s teachings on living debt-free. Listening to countless stories of how debt ruined people’s lives convinced me that my previous stance on debt was wrong, both personally and professionally. I started budgeting my money and, by the end of 2018, I had cleared all my debt.
 
-By the end of 2018, I also sold all the [altcoins](https://coinmarketcrap.co/) I was experimenting with and decided to focus solely on Bitcoin. Throughout 2019, I did some freelance work while studying Bitcoin, and also delivered my first Bitcoin presentations at my former university and conducted some workshops in the small town of Rab, where I now live. There wasn’t much public interest, but I slowly connected with a few Bitcoiners from Croatia. I spent most of my time listening to Bitcoin podcasts, reading Bitcoin Twitter, and trying to find people I could talk to about Bitcoin.
+At the same time, I sold all the altcoins I had experimented with and decided to focus solely on Bitcoin. In 2019, I did freelance work while studying Bitcoin and gave my first Bitcoin presentations at my former university. I also conducted workshops in the small town of Rab, where I now live. Public interest was minimal, but I slowly connected with a few Bitcoiners in Croatia. Most of my time was spent listening to Bitcoin podcasts, reading Bitcoin Twitter, and trying to find people to discuss Bitcoin with.
 
-In the summer of 2020, I got a chance to start working in the Bitcoin industry by connecting with Saifedean Ammous, the author of "The Bitcoin Standard" by helping him fix some issues on his website, and we continued working together in a larger capacity from then on. I learned more about economics and Bitcoin by working on his online courses, seminars, podcasts, and books.
+In the summer of 2020, I got my first opportunity to work in the Bitcoin industry. I connected with Saifedean Ammous, the author of _The Bitcoin Standard_, and helped him fix some issues on his website. This led to a larger collaboration, where I worked on his online courses, seminars, podcasts, and books.
 
-This was also the first time I earned Bitcoin directly. Around the time Bitcoin broke its all-time high in late autumn 2020, I ran out of fiat money. Both my income and savings were all in Bitcoin. I had a bit of fiat inflows, but I'd spent that first, and I had no choice but to learn how to live on a full Bitcoin standard. I still had expenses in my daily life, but my Bitcoin income and savings simply grew faster than my expenses. So I started treating Bitcoin as my cash balance, spending it just as I would spend my fiat.
+This was also the first time I earned Bitcoin directly. By late 2020, as Bitcoin broke its all-time high, I ran out of fiat money. Both my income and savings were in Bitcoin. I had some fiat inflows, but I spent that first, and eventually, I had no choice but to learn how to live on a full Bitcoin standard. My Bitcoin income and savings grew faster than my expenses, so I started treating Bitcoin as my cash balance, spending it just as I would spend fiat.
 
-I was already consistent in budgeting, completely debt-free, and had established a giving practice. When I switched my cash balance from fiat to Bitcoin, all I had to do in my budget was practice regular “purchasing power reconciliation.” Once I started doing that, things went smoothly.
+By this point, I was already consistent in budgeting, completely debt-free, and had established a giving practice. Switching my cash balance from fiat to Bitcoin was straightforward—I just had to practice regular “purchasing power reconciliation” in my budget. Once I started doing that, everything went smoothly.
 
-During the bull run in early 2021, I naturally made some significant expenditures because I was hitting my savings goals as Bitcoin was going up so much. I also invested in my business by acquiring a new office space and equipping it with the tech I needed to get more done. I replaced all of my consumer electronics and bought a new scooter to get around the island. I took several brief vacations and trips, all paid for with Bitcoin.
+During the bull run in early 2021, I hit my savings goals faster than expected due to Bitcoin’s rapid appreciation. This allowed me to make significant expenditures, like acquiring a new office space, upgrading my tech, replacing consumer electronics, and buying a new scooter. I also took several vacations, all paid for with Bitcoin.
 
-In the latter part of 2021, state COVID lockdowns and attacks against basic freedom intensified in my local community. My budget for giving expanded due to Bitcoin appreciation, and I felt compelled to provide financial help to some people whose livelihoods were threatened. It was then that I fully realized Bitcoin's potential as money that cannot be censored. I helped locals protesting state oppression daily to begin their journey with Bitcoin and continue their resistance. If I wasn't all in on Bitcoin, I'm sure I would have been much more careful about what I expressed. I’d feel too vulnerable to lose access to my money, like people who protested the COVID regime in Canada.
+Later in 2021, as state COVID lockdowns intensified, I expanded my giving budget to help people whose livelihoods were threatened. This was when I fully realized Bitcoin’s potential as censorship-resistant money. I helped locals protesting state oppression begin their Bitcoin journey and continue their resistance. If I hadn’t been all-in on Bitcoin, I would have felt much more vulnerable, like those in Canada who lost access to their money for protesting the COVID regime.
 
-I connected with Bitcoiners from Germany and Austria who were seeking to leave their oppressive state regimes. I helped some of them move to where I live. All of this led to me organizing a Bitcoiner’s gathering in Rab in the spring of 2022. We formed the “[Dvadesetjedan](https://dvadesetjedan.com/)” group, an open Bitcoin-only group for the Balkans region. This idea came from “[Einundzwanzig](https://einundzwanzig.space/),” a German Bitcoin network, and now it's part of the “[Twenty-One World](https://twentyone.world/).” By hosting a weekly podcast in my local language, I could both teach and learn about the many ideas within the Bitcoin space, and connect with Bitcoiners who spoke my native language.
+I also connected with Bitcoiners from Germany and Austria who were seeking to escape their oppressive governments. I helped some of them relocate to my area, which led to organizing a Bitcoiner gathering in Rab in the spring of 2022. This gathering inspired the creation of “Dvadesetjedan,” an open Bitcoin-only group for the Balkans region, modeled after the German “Einundzwanzig” network. Through our weekly podcast in my native language, I was able to teach, learn, and connect with other Bitcoiners in the region.
 
-My overall expense rate in 2022 was lower because I had already incurred most of my budgeted major expenses in 2021. This was fantastic because Bitcoin was going through a bear market and I responded naturally by further cutting down expenses and raising income, which led to an increase in my Bitcoin savings rate.
+In 2022, my expenses were lower because I had already made most of my major purchases in 2021. This was fortunate, as Bitcoin entered a bear market. I naturally responded by cutting expenses further and increasing my income, which allowed me to accumulate more Bitcoin.
 
-As the bear market progressed, I noticed that many Bitcoiners I was following were decreasing their Bitcoin purchases and were almost seeking reasons to become more bearish on Bitcoin. This was especially clear in the summer of 2022 when the Bitcoin price dropped below its 200-week moving average and stayed there for over six months. It was the time when I was accumulating Bitcoin at the highest rate in my life while most other Bitcoiners were slowing down or even stopping. Many were trying to time the market and buy Bitcoin at its absolute lowest price, which happened in November 2022 when the price reached roughly $15,000. But I remember nearly every Bitcoiner I was following expecting it would drop to $12k or lower. Many missed the absolute bottom, while my all-in Bitcoin approach was picking up the bottom at the highest possible rate.
+During this time, I noticed many Bitcoiners slowing down their Bitcoin purchases or becoming bearish. In the summer of 2022, when Bitcoin’s price dropped below its 200-week moving average and stayed there for over six months, many were trying to time the market, expecting the price to drop further. While others hesitated, I was accumulating Bitcoin at the highest rate of my life.
 
-I did my best to explain what I was doing by living on a full Bitcoin standard on our [weekly Dvadesetjedan Bitcoin podcast](https://www.youtube.com/@dvadesetjedan). I started writing notes that would eventually become this manual. After experiencing both a bull and bear market on a full Bitcoin standard, I now know that this is the best way to handle Bitcoin volatility. In the bull market, I spent more, which led to a decrease in my expense rate during the bear market. During the bear market, I decreased my spending and increased my earnings, resulting in greater accumulation. Even though I wasn't really thinking about what the price was going to do in the future, I was still doing better than the best traders I knew. I just kept readjusting my budget and spending as needed.
+I shared my experiences of living on a full Bitcoin standard on our weekly _Dvadesetjedan_ podcast and began writing notes that eventually became this guide. After experiencing both a bull and bear market on a full Bitcoin standard, I now know this is the best way to handle Bitcoin’s volatility. In bull markets, I naturally spent more, which reduced my expenses during bear markets. In bear markets, I cut spending and increased earnings, leading to greater accumulation. Without trying to predict Bitcoin’s price, I still outperformed the best traders I knew by simply adjusting my budget and spending as needed.
 
-Learning how to live on a full Bitcoin standard is like learning to ride a bike. You'll only have to learn it once, and you'll never forget. I wrote this guide to help you, a regular Bitcoiner who still lives one foot in the fiat world, to completely upgrade to a full Bitcoin standard. This is the way all of us are going to embrace eventually. You have the opportunity to do it now.
+Learning to live on a full Bitcoin standard is like learning to ride a bike—you only have to learn it once, and you’ll never forget. I wrote this guide to help you, a regular Bitcoiner still living with one foot in the fiat world, fully upgrade to a Bitcoin standard. This is the path we will all eventually take. You have the opportunity to start now.
