@@ -89,7 +89,7 @@ For instance:
 * In December 2017, Bitcoin peaked at $20,000, only to drop to $3,300 by November 2018 (an 85% drop).
 * In March 2020, during the COVID crash, Bitcoin briefly fell to $4,000 before recovering.
 * By November 2021, Bitcoin reached nearly $70,000, only to drop to $15,000 by late 2022 (an 80% drop).
-* As of November 2024, Bitcoin is trading at $90,000, a 940% increase over the past five years.
+* As of November 2024, Bitcoin is trading at around $90,000, more than 1100% increase over the past five years.
 
 This kind of volatility can be intimidating, and there are many strategies people use to deal with it. Some take a conservative approach, buying Bitcoin only with money they won’t need for years and dollar-cost averaging small amounts over time. Others try to trade the volatility, buying low and selling high.
 
