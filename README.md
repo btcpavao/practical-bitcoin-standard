@@ -20,15 +20,15 @@ This section explains:
 
 This section provides a framework for managing your net worth on a full Bitcoin standard. It breaks your net worth into three components:
 
-1. **Money** – The portion of your wealth held in Bitcoin.
-2. **Consumption** – Goods or assets used for personal enjoyment or daily living.
-3. **Capital** – Assets or investments that generate income or production.
+1. **Money** – The portion of your wealth held primarily in Bitcoin, with minimal amount of fiat.
+2. **Consumption** – Goods or assets used for personal enjoyment or daily living (leisure).
+3. **Capital** – Goods, assets or investments that generate income (work).
 
 It also introduces the "rule of thirds," which suggests:
 
 * Keeping at least one-third of your net worth in money (Bitcoin).
 * Allocating no more than one-third of your net worth to consumption goods or assets.
-* Allocating no more than one-third of your net worth to capital (production) goods or assets.
+* Allocating no more than one-third of your net worth to capital goods or assets.
 
 #### **How to Use This Guide**
 
