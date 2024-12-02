@@ -28,7 +28,7 @@ This section provides a framework for managing your net worth on a full Bitcoin 
 
 It also introduces the "rule of thirds," which suggests:
 
-* Keeping at least one-third of your net worth in money (Bitcoin).
+* Keeping at least one-third of your net worth in money (primarily Bitcoin).
 * Allocating no more than one-third of your net worth to consumption goods or assets.
 * Allocating no more than one-third of your net worth to capital goods or assets.
 
