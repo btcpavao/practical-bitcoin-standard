@@ -4,7 +4,7 @@
 
 The goal of this guide is to help you upgrade to a full Bitcoin standard. This means converting everything you still use, even partially, as a store of value—whether it’s a regular bank savings account, money market fund, stock or bond index fund, precious metals, or even real estate—into Bitcoin.&#x20;
 
-It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending it. You will keep only very small amounts of fiat currency on hand, just enough to complete near-term payments where Bitcoin isn’t accepted directly.
+It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending it. You keep only very small amounts of fiat currency on hand, just enough to complete near-term payments where Bitcoin isn’t accepted directly.
 
 If you have access to a Bitcoin exchange, you can adopt a full Bitcoin standard today. However, because Bitcoin’s purchasing power can be highly volatile, it’s recommended that you first apply the practices explained in this guide to prepare yourself.
 
