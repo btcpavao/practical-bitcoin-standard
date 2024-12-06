@@ -20,7 +20,7 @@ This section explains:
 
 #### **2. Bitcoin and Your Net Worth**
 
-This section provides a framework for managing your net worth on a full Bitcoin standard. It breaks your net worth into three components:
+This section provides a framework for balancing your net worth on a full Bitcoin standard. It breaks your net worth into three components:
 
 1. **Money** – The portion of your wealth held primarily in Bitcoin, with minimal amount of fiat.
 2. **Consumption** – Goods or assets used for personal enjoyment or daily living (leisure).
