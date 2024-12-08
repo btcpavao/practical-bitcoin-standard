@@ -16,7 +16,7 @@ This section explains:
 
 * How to take full control of your money by using a zero-based budget.
 * Why and how to eliminate all wasteful spending by becoming and staying 100% debt-free.
-* How to steadily increase your ability to generate income by setting aside 10-20% of your budget for giving.
+* How to steadily increase your ability to generate more income by setting aside 10-20% of your budget for giving.
 
 #### **2. Bitcoin and Your Net Worth**
 
