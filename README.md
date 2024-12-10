@@ -26,11 +26,11 @@ This section provides a framework for balancing your net worth on a full Bitcoin
 * **Consumption** – Goods or assets used for personal enjoyment, daily living, hobbies, and similar purposes. In other words, everything you use during your leisure time.
 * **Capital** – Goods, assets, or investments that generate income or are expected to provide a higher risk-adjusted return than Bitcoin's compounded annual growth rate in purchasing power. In other words, everything you use during your labor.
 
-It also introduces the "rule of thirds," which suggests:
+It also introduces the "rule of thirds," which suggests keeping:
 
-* Keeping at least one-third of your net worth in money (primarily Bitcoin).
-* Allocating no more than one-third of your net worth to consumption goods or assets.
-* Allocating no more than one-third of your net worth to capital goods or assets.
+* **At least one-third** of your net worth in Money.
+* **No more than one-third** of your net worth in Consumption.
+* **No more than one-third** of your net worth in Capital.
 
 #### **How to Use This Guide**
 
