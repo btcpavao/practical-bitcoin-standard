@@ -23,8 +23,8 @@ This section explains:
 This section provides a framework for balancing your net worth on a full Bitcoin standard. It breaks your net worth into three components:
 
 * **Money** – The portion of your wealth held primarily in Bitcoin, with a minimal amount in fiat currency.
-* **Consumption** – Goods or assets used for personal enjoyment, daily living, hobbies, and similar purposes.
-* **Capital** – Goods, assets, or investments that generate income or are expected to provide a higher risk-adjusted return than Bitcoin's compounded annual growth rate in purchasing power.
+* **Consumption** – Goods or assets used for personal enjoyment, daily living, hobbies, and similar purposes. In other words, everything you use during your leisure time.
+* **Capital** – Goods, assets, or investments that generate income or are expected to provide a higher risk-adjusted return than Bitcoin's compounded annual growth rate in purchasing power. In other words, everything you use during your labor.
 
 It also introduces the "rule of thirds," which suggests:
 
