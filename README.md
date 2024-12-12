@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this guide is to help you upgrade to a **full** Bitcoin standard. This means converting everything you still use as your primary money into Bitcoin. This can be anything from a regular bank savings account(s), cash, money market fund(s), stock or bond index funds, precious metals, real estate, pension fund(s) and/or retirement account(s).
+The goal of this guide is to help you upgrade to a **full** Bitcoin standard. This means converting everything you still use as your primary money into Bitcoin. This can include anything from regular bank savings accounts, cash, money market funds, stock or bond index funds, precious metals, real estate, pension funds, and/or retirement accounts.
 
 It also involves converting all of your income into Bitcoin and becoming accustomed to regularly spending it. You keep only small amounts of fiat on hand, just enough to complete near-term payments where Bitcoin isn’t accepted directly.
 
