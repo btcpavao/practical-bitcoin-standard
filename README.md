@@ -14,9 +14,9 @@ This guide is divided into two sections:
 
 This section explains:
 
-* How to take full control of your money by using a zero-based budget.
-* Why and how to eliminate all wasteful spending by becoming and staying 100% debt-free.
-* How to steadily increase your ability to generate more income by setting aside 10-20% of your budget for giving.
+* How to take full control of your money by using a [zero-based budget](money-management-wisdom/plan-your-money.md).
+* Why and how to eliminate all wasteful spending by [becoming and staying 100% debt-free](money-management-wisdom/live-debt-free.md).
+* How to steadily increase your ability to generate more income by [setting aside 10-20% of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
 #### **2. Bitcoin and Your Net Worth**
 
