@@ -1,4 +1,4 @@
-# Plan Your Money
+# Practice Zero-Based Budgeting
 
 The first and most important step is to take full control of your money, considering both time and opportunity cost. This involves developing the habit of planning for all your money before spending any of it, which can be achieved by learning and practicing zero-based budgeting.
 
@@ -6,11 +6,9 @@ The first and most important step is to take full control of your money, conside
 
 ## Why Practice Budgeting?
 
-Often, when you hear the phrase "living on a budget," it implies cutting costs and generally being frugal. However, zero-based budgeting is something entirely different.
+The phrase "living on a budget" often brings to mind cutting costs and being frugal. However, zero-based budgeting is simply the process of allocating all your money to specific categories before making any spending decisions. A more fitting way to describe it might be "planning" or even "economizing."
 
-Zero-based budgeting involves assigning all of your money to specific categories before making any spending transactions. "Planning" might be a more accurate term, or even "economizing." Additionally, budgeting is a continuous process of managing money; it is not a fixed destination where we arrive and stay.
-
-In this context, "zero-based" means that we assign all of our money to each budget category until there is no more money to be assigned. For example, if we have $1,000 in our budget and only assign $200 to a category, we still have $800 to assign. The budget is not zero-based until we decide how to assign the remaining $800 to specific category/categories.
+Budgeting, in general, is an ongoing process of managing money—it’s not a one-time goal or destination. In the case of zero-based budgeting, the term "zero-based" means that every dollar is assigned to a category until there is no unallocated money left. For instance, if you have $1,000 in your budget and assign $200 to one category, you still have $800 to allocate. The budget isn’t considered zero-based until all $1,000 has been assigned to specific categories.
 
 **So why bother doing this?**
 
