@@ -2,6 +2,10 @@
 
 ## Why Do We Use Money in the First Place?
 
+I would highly recommend reading all the work of Saifedean Ammous, particularly The Bitcoin Standard, The Fiat Standard, and Principles of Economics, where these concepts are explained in depth. If you are interested in even deeper study, please consider joining Saifedean's online academy, where you can also take courses on these concepts, discuss them in depth with other students, connect with them, and join the live weekly seminar discussions.
+
+In this guide, I'll only briefly touch on very general ideas that will help you grasp the basics, but it will be worth your time to delve into this deeper if you choose to do so.
+
 Before delving deeper into using Bitcoin as your primary money, it is important to understand the fundamental purpose of money. According to the Austrian School of Economics, money is defined as a widely accepted medium of exchange. However, for practical purposes, we can refine this definition slightly: money is any economic good that you use not because you intend to consume it or produce something else with it, but because you expect to exchange it for something else at a later time.
 
 Considering this definition, we can observe that people have utilized a variety of goods as money throughout history. But the key question is: why do we need a medium of exchange in the first place? Why not simply engage in direct barter of goods and services?
