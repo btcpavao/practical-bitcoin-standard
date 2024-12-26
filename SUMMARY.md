@@ -3,6 +3,8 @@
 ## Introduction
 
 * [The Purpose](README.md)
+* [My Path to the Full Bitcoin Standard](introduction/my-path-to-the-full-bitcoin-standard.md)
+* [Notes on Money](introduction/notes-on-money.md)
 
 ## Money Management Wisdom
 
