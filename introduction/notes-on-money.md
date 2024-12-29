@@ -1,3 +1,7 @@
+---
+description: Definitions, Clarifications
+---
+
 # Notes on Money
 
 ## Why Do We Use Money in the First Place?
