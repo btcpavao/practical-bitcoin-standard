@@ -23,8 +23,8 @@ This guide is designed to assist Bitcoiners who are transitioning from a fiat st
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
-* You've read The Bitcoin Standard, The Fiat Standard, and Principles of Economics.
-* You've read Inventing Bitcoin and have a basic technical understanding of how the Bitcoin system works.
+* You've read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs), and [Principles of Economics](https://saifedean.com/poe).
+* You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=tmm_kin_swatch_0?_encoding=UTF8\&qid=\&sr=) and have a basic technical understanding of how the Bitcoin system works.
 * You practice dollar-cost averaging into Bitcoin.
 * You keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
 * You've tried growing your Bitcoin stack through trading but decided you'd rather buy and hold.
