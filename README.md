@@ -23,23 +23,22 @@ This guide is designed to assist Bitcoiners who are transitioning from a fiat st
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
-* You've read [The Bitcoin Standard](https://saifedean.com/tbs), [The Fiat Standard](https://saifedean.com/tfs), and [Principles of Economics](https://saifedean.com/poe).
-* You've read [Inventing Bitcoin](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=tmm_kin_swatch_0?_encoding=UTF8\&qid=\&sr=) and have a basic technical understanding of how the Bitcoin system works.
-* You practice dollar-cost averaging into Bitcoin.
-* You keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
+* You currrently practice dollar-cost averaging into Bitcoin.
+* You like to keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
 * You've tried growing your Bitcoin stack through trading but decided you'd rather buy and hold.
-* You have and use credit cards, personal loans, lines of credit, or have a mortgage, auto loan, student loan debt, or a home equity line of credit.
+* If you have and use any of the following: credit cards, personal loans, lines of credit, a mortgage, auto loans, student loan debt, or a home equity line of credit.
 * You're hesitant to spend your Bitcoin or afraid to sell it in any significant amount.
 * You believe there's such a thing as good debt and bad debt, and you'd consider taking out a zero-interest loan to buy more Bitcoin.
 * You have a rough idea of your income and expenses, but you don't know the exact numbers.
-* You're planning for retirement and have tried orange-pilling your family and friends, but they didn't take your advice as seriously as you'd hoped.
+* You have tried orange-pilling your family and friends, but they didn't take your advice as seriously as you'd hoped.
 * You're willing to allocate more of your money to Bitcoin, but your partner or spouse isn't fully on board.
-* You have a fiat job and don't have direct Bitcoin income streams.
-* Because of Bitcoin's high volatility, you don't advise others to go all in.
+* You have a _fiat job_ and don't have direct Bitcoin income streams.
+* You plan for retirement and find yourself wondering how much Bitcoin you would need to own so you don’t have to work.
+* Because of Bitcoin's high volatility, you don't advise newbies to go all in.
 * Sometimes, you feel like you don't own enough Bitcoin.
 * "Fiat is for spending, Bitcoin is for saving" sounds reasonable to you.
 
-If any of this resonates with you, this guide is here to help. It's designed to address these challenges and guide you step by step toward adopting a full Bitcoin standard with confidence and clarity.
+If any of this sounds familiar, this guide is here to assist you. It’s designed to tackle these challenges and lead you step by step toward confidently adopting a full Bitcoin standard.
 
 ### Bitcoin's Purchasing Power Volatility
 
