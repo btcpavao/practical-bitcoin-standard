@@ -13,10 +13,6 @@ To adopt a full Bitcoin standard, follow the steps in this guide one at a time. 
 
 Once these steps are complete, review the composition of your net worth and adjust it according to the rule of thirds. Maintain this balance and continue to grow your wealth over time.
 
-The more you practice these steps, the better you will become at managing your finances on a full Bitcoin standard. This guide is not just about adopting Bitcoin—it's about transforming how you manage your money, achieving financial independence, and preparing for a future where Bitcoin plays a central role in the global economy.
-
-Let's begin.
-
 ## Who Is This Guide For?
 
 This guide is designed to assist Bitcoiners who are transitioning from a fiat standard to a full Bitcoin standard and are facing various challenges and decisions along the way.
@@ -33,12 +29,11 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You have tried orange-pilling your family and friends, but they didn't take your advice as seriously as you'd hoped.
 * You're willing to allocate more of your money to Bitcoin, but your partner or spouse isn't fully on board.
 * You have a _fiat job_ and don't have direct Bitcoin income streams.
+* You'd like to increase your total income, but you are not 100% sure how to go about it.
 * You plan for retirement and find yourself wondering how much Bitcoin you would need to own so you don’t have to work.
 * Because of Bitcoin's high volatility, you don't advise newbies to go all in.
 * Sometimes, you feel like you don't own enough Bitcoin.
 * "Fiat is for spending, Bitcoin is for saving" sounds reasonable to you.
-
-If any of this sounds familiar, this guide is here to assist you. It’s designed to tackle these challenges and lead you step by step toward confidently adopting a full Bitcoin standard.
 
 ### Bitcoin's Purchasing Power Volatility
 
