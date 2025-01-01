@@ -2,7 +2,7 @@
 
 The purpose of this guide is to assist you in transitioning to a full Bitcoin standard. This means converting your primary store of value into Bitcoin, which may include bank savings accounts, cash, money market funds, stock or bond index funds, precious metals, real estate, pension funds, and/or retirement accounts.
 
-The process also involves converting your income into Bitcoin and becoming accustomed to regularly spending it, while maintaining only small amounts of fiat on hand for near-term payments where Bitcoin is not accepted directly.
+The process also involves converting your income into Bitcoin and becoming accustomed to regularly spending it.
 
 This guide is divided into two sections:
 
