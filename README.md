@@ -50,7 +50,7 @@ Some examples of this volatility include:
 * By November 2021, Bitcoin reached nearly $70,000, only to drop to $15,000 by late 2022 (an 80% drop).
 * As of December 2024, Bitcoin is trading at around $95,000, more than 1200% increase over the past five years.
 
-This kind of volatility can be intimidating, and there are many strategies people use to deal with it. Some take a conservative approach, buying Bitcoin only with money they won't need for years and dollar-cost averaging small amounts over time. Others try to trade the volatility, buying low and selling high.
+This kind of volatility can be intimidating, especially for beginners who aren't accustomed to it. There are many strategies that people use to manage it. Some take a conservative approach, buying Bitcoin only with money they won't need for years and dollar-cost averaging small amounts over time. Others try to trade the volatility, buying low and selling high.
 
 However, the author has found a third approach to be most effective: using Bitcoin as your primary money.
 
