@@ -64,11 +64,19 @@ The older your money, the more financial peace you have. Debt reduces the age of
 
 ### Two States Of Being (In Debt And Debt-Free) Generate 6 Different Spirits
 
-Spending credit taints a person's psychospiritual makeup with the spirits of slavery, restlessness, and confusion. You can be either "In Debt" or "Debt Free" in your spiritual makeup. Each state cultivates the growth of different spirits: when you are in debt, you cultivate the spirits of slavery, restlessness, and confusion; when you are debt-free, you cultivate the spirits of freedom, peace, and clarity.
+Spending on credit can negatively impact your psychospiritual well-being, introducing feelings of slavery, restlessness, and confusion. You can either be "In Debt" or "Debt Free," and each state fosters different spirits within you. When you're in debt, you nurture the spirits of slavery, restlessness, and confusion. Conversely, being debt-free allows you to cultivate the spirits of freedom, peace, and clarity.
 
-There is no such thing as "good" or "bad" debt, but there is a specific psychospiritual mechanism that one state cultivates over the other. It may be helpful to imagine your soul as soil, with seeds of various spirits inside that are lying dormant. When a seed is watered (in this metaphor, watering the seed is analogous to a specific practice), it sprouts and begins to grow. If you keep watering it, it will get bigger, stronger, grow roots and a trunk, and eventually produce fruit.
+There is no such thing as "good" or "bad" debt; instead, each state influences your psychospiritual landscape in distinct ways. Imagine your soul as soil, with dormant seeds of various spirits within it. When you engage in specific practices (analogous to watering the seeds), those spirits begin to grow. If you continue to nurture them, they will develop, becoming stronger and eventually bearing fruit.
 
-When you owe money (i.e., have a liability on your balance sheet), you begin to "water" the seed of the spirit of slavery, restlessness, and confusion. When you have no liabilities, that is, you owe no money to anyone, you begin to "water" the spirit of freedom, peace, and clarity.
+When you carry debt (i.e., have liabilities), you start to "water" the seeds of slavery, restlessness, and confusion. In contrast, when you owe no money, you nourish the spirit of freedom, peace, and clarity.
+
+Your mind comprises both a conscious and an unconscious component. The conscious mind is like the visible part of a plant, while the unconscious mind represents its hidden roots. The health of these roots is essential, as they provide the necessary nourishment for the plant.
+
+Debt can be likened to planting roots in toxic soil, which gradually stifles growth and can prevent the plant from bearing fruit. By freeing yourself from debt, you remove this toxicity and restore healthy soil, allowing the plant to flourish once again.
+
+The positive aspect of overcoming debt is that it helps you appreciate your newfound freedom. After experiencing the constraints of debt, you will value freedom more deeply. Having faced restlessness, you will cherish peace. After enduring confusion, clarity will become even more meaningful.
+
+Even if your debt feels overwhelming, just take one small step in the right direction. Each little action can help you make progress and move toward a debt-free future. Focus on that first step, and you can build from there.
 
 ***
 
