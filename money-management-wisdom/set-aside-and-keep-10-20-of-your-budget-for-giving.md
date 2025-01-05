@@ -10,6 +10,8 @@ We should set aside 10% to 20% of our budget for the Giving category and maintai
 
 We should do this primarily to cultivate our spirit of generosity, which will increase our capacity to generate higher inflows. As our inflows and net worth grow, we should continue this practice. If done correctly, our giving transactions will increase in size and frequency, further nurturing our spirit of generosity and enhancing our ability to generate even higher inflows. This practice should become a habit, one we never stop doing.
 
+Generosity acts like a magnet. When you give, you generate an attraction for opportunities to create value for others. The more you practice generosity, the stronger this magnetic force becomes. As you seize these opportunities, more value flows back to you, creating a positive cycle of giving and receiving.
+
 ### Giving Cultivates Your Spirit of Generosity
 
 You grow the spirit of generosity each time you make a financial transaction without expecting anything in return (defined as a giving transaction, which deducts money from your budget's Giving category). Consider it like watering a seed; as you continue to water it, it will eventually grow larger.
