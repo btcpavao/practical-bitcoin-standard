@@ -1,10 +1,10 @@
 # The Purpose
 
-The goal of this guide is to help you in move to a **full** Bitcoin standard. This means converting your primary store(s) of value into Bitcoin. These may include bank savings accounts, cash, money market funds, stock or bond index funds, precious metals, real estate, pension funds, and/or retirement accounts.
+The goal of this guide is to help you get on a full Bitcoin standard. This means converting your primary stores of value into Bitcoin. These may include bank savings accounts, cash, money market funds, stock or bond index funds, precious metals, real estate, pension funds, and retirement accounts.
 
-The process also involves converting your income into Bitcoin and becoming used to regularly spending it.
+The process also includes converting your income into Bitcoin and getting used to spending it regularly.
 
-This guide is divided into two sections:
+This guide has two sections:
 
 1. **Money Management Wisdom**: This section explains the importance of taking full control of your money through zero-based budgeting, eliminating all wasteful spending by becoming and staying 100% debt-free, and increasing your ability to generate more income by setting aside 10-20% of your money for giving.
 2. **Bitcoin and Your Net Worth**: This section provides a framework for balancing your net worth on a full Bitcoin standard, breaking it down into three components: Money, Consumption, and Capital. It introduces the "rule of thirds," which suggests keeping at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
