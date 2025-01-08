@@ -1,8 +1,6 @@
 # The Purpose
 
-The goal of this guide is to help you get on a full Bitcoin standard. This means converting your primary stores of value into Bitcoin. These may include bank savings accounts, cash, money market funds, stock or bond index funds, precious metals, real estate, pension funds, and retirement accounts.
-
-The process also includes converting your income into Bitcoin and getting used to spending it regularly.
+The purpose of this guide is to help you adopt a full Bitcoin standard. This involves converting all your main stores of value and income into Bitcoin, as well as becoming accustomed to spending it regularly.
 
 This guide has two sections:
 
