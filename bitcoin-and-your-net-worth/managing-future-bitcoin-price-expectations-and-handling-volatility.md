@@ -24,6 +24,9 @@ It doesn't matter if you made your large purchases during the bull market before
 * what should you do when you feel bullish?
 * focus on price & time
 * [power law theory - explanation](https://bitcoin.powerlaw.live/)
+  * price
+  * addresses
+  * hashrate
 * always go back to your budget & use power law theory just to get a sense where we are
 * don't worry too much about timing the market, focus on spending time in the market
 * zoom out, start looking at time in log scale
