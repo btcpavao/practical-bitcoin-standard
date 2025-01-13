@@ -10,6 +10,8 @@ It doesn't matter if you made your large purchases during the bull market before
 
 * purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
 * can we predict future price? just like with weather in the future, we can't predict it 100% exactly, but we can have reasonable expectations with varying degrees of confidence
+  * cyclicality
+  * probability ranges
 * nocoiners look at bitcoin price chart in linear scale, both for time and price
 * most bitcoiners realize it's better to look at bitcoin price in log scale
 * when you look at the chart from log scale for price and in log scale for time, you notice a pattern: bitcoin grows according to power law
