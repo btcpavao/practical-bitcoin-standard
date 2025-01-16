@@ -14,7 +14,25 @@ It doesn't matter if you made your large purchases during the bull market before
 
 ### Power Law
 
-As of January 16, 2025, the Bitcoin price is $98,693, and the power law trend sits at $86,162. Exactly one year from today, on January 16, 2026, the power law is projected to be $121,565, representing a 41% increase. Two years from now, on January 16, 2027, it is projected to be $168,177, which is a 38.26% increase from January 16, 2026. Then, it is expected to rise to $228,621, indicating a 35.74% increase from January 16, 2027, to January 16, 2028. In year 4, on January 16, 2029, the projection is $306,176, which reflects a 33.73% growth from January 16, 2028. Finally, in year 5, on January 16, 2030, the projection is $403,932, representing a 32% growth from January 16, 2029.
+As of January 16, 2025, the Bitcoin price is $98,693, and the power law trend stands at $86,162.
+
+One year from today, on January 16, 2026, the power law is projected to reach $121,565, which represents a 41% increase.
+
+Two years from now, on January 16, 2027, the projection is $168,177, reflecting a 38.26% increase from January 16, 2026.
+
+The following year, on January 16, 2028, the expected value is $228,621, indicating a 35.74% increase from the previous year.
+
+By January 16, 2029, the projection rises to $306,176, showing a growth of 33.73% from January 16, 2028.
+
+Finally, on January 16, 2030, the projection is $403,932, representing a 32% increase from January 16, 2029.
+
+#### Growth Rates:
+
+* **January 16, 2025 to January 16, 2026:** 41%
+* **January 16, 2026 to January 16, 2027:** 38.26%
+* **January 16, 2027 to January 16, 2028:** 35.74%
+* **January 16, 2028 to January 16, 2029:** 33.73%
+* **January 16, 2029 to January 16, 2030:** 32%
 
 ### Notes
 
