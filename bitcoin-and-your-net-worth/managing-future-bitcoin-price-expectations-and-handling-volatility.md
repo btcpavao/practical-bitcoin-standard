@@ -1,3 +1,7 @@
+---
+description: Draft
+---
+
 # Manage Future Bitcoin Price Expectations & Volatility
 
 Given that Bitcoin is a form of money with a completely fixed supply, it follows that, over time, all prices denominated in it will decrease. The deflationary nature of Bitcoin as money means that, no matter how much you spend today, in the future, you will realize that if you hadn’t spent that amount, it would have gained purchasing power.
@@ -7,6 +11,12 @@ So, in the grand scheme of things, it doesn't really matter how much Bitcoin in 
 Understand also that you can't really avoid spending Bitcoin in real terms. Whenever you make a purchase, you're spending some of your overall purchasing power, and you can always denominate that amount in Bitcoin according to the exchange rate at the time of the purchase. So, if you spend $100 from your fiat balance, you have spent $100 worth of Bitcoin at the time of the purchase.
 
 It doesn't matter if you made your large purchases during the bull market before the price peaked. What matters is that you made those purchases within your budget, maintained an overall positive net income, and received positive inflows from your reconciliation balance adjustments.
+
+### Power Law
+
+As of January 16, 2025, the Bitcoin price is $98,693, and the power law trend sits at $86,162. Exactly one year from today, on January 16, 2026, the power law is projected to be $121,565, representing a 41% increase. Two years from now, on January 16, 2027, it is projected to be $168,177, which is a 38.26% increase from January 16, 2026. Then, it is expected to rise to $228,621, indicating a 35.74% increase from January 16, 2027, to January 16, 2028. In year 4, on January 16, 2029, the projection is $306,176, which reflects a 33.73% growth from January 16, 2028. Finally, in year 5, on January 16, 2030, the projection is $403,932, representing a 32% growth from January 16, 2029.
+
+### Notes
 
 * purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
 * can we predict future price? just like with weather in the future, we can't predict it 100% exactly, but we can have reasonable expectations with varying degrees of confidence
