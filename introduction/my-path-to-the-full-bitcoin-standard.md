@@ -1,3 +1,7 @@
+---
+description: Draft
+---
+
 # My Path to the Full Bitcoin Standard
 
 I first heard about Bitcoin in 2012, but I didn't find it interesting at the time. I thought it was just some kind of digital currency, similar to the virtual money used in computer games like World of Warcraft. In 2013, I came across news about the FBI shutting down Silk Road, a marketplace where Bitcoin was used for buying and selling. The U.S. government's involvement caught my attention—it showed me that Bitcoin wasn't just some game currency or code that could be easily changed by its creators. It was being used in real commerce, even if it was illegal.
