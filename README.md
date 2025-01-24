@@ -1,6 +1,6 @@
 # The Purpose
 
-The purpose of this guide is to help you adopt a full Bitcoin standard. This involves converting all your main stores of value and income into Bitcoin, as well as becoming accustomed to spending it regularly. The main challenge with this approach is, of course, how to address the volatility. This and more is what we'll cover in this guide.
+The purpose of this guide is to help you adopt a complete Bitcoin standard. This involves converting all of your current cash balances and income into Bitcoin, as well as becoming accustomed to spending it regularly.
 
 This guide has two sections:
 
