@@ -1,3 +1,7 @@
+---
+description: draft
+---
+
 # Practice Zero-Based Budgeting
 
 The first and most important step is to take full control of your money. This means considering both time and opportunity cost. To do this, you need to plan for all your money before spending any of it. You can achieve this by learning and practicing zero-based budgeting.
