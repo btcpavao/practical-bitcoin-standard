@@ -48,6 +48,7 @@ Finally, on January 16, 2030, the projection is $403,932, representing a 32% inc
   * exponential up for 1 year: bull market
   * exponential down for 1 year: bear market
   * 2 year along the power law
+* With Bitcoin, we observe price dynamics that follow a power law, featuring exponential rises and falls occurring periodically every four years.
 * market sentiment estimation: fear & greed.
 * as long as we can see people getting into Bitcoin while carrying any kind of debt on their balance sheets, expect relatively high volatility and cyclicality to continue
 * what should you do when you feel bearish?
