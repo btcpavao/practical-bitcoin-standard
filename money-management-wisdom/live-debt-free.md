@@ -1,3 +1,7 @@
+---
+description: draft
+---
+
 # Live 100% Debt-Free
 
 The second step to take is to become and remain debt-free. The main goal is to eliminate wasteful outflows and build a proper foundation for our capacity to generate inflows.
