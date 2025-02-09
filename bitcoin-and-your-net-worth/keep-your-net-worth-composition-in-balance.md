@@ -82,6 +82,7 @@ Consider renting items in the "Consumption" and "Capital" categories. A proper f
 
 * mobility/transportation (daily vehicle(s) - rent vs ownership, used vs new
 * shelter/housing (rent vs ownership)
+* life-cycle cost analysis
 
 Let's calculate the monthly rent payment you can afford if you start with $10,000 in savings (in bitcoin), want to end up with $5,600 after 4 years, and need to pay a 3-month rent deposit upfront, which you will get back at the end of the rental period.
 
