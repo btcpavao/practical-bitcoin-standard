@@ -17,7 +17,7 @@ To fully adopt a Bitcoin standard, follow these steps in order:
 2. [**Eliminate all debt**](money-management-wisdom/live-debt-free.md)[**, and stay 100% debt-free.**](money-management-wisdom/live-debt-free.md)
 3. [**Set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)**.**
 
-After completing these steps, review your net worth and adjust it according to the rule of thirds. Ensure you maintain this balance moving forward. We finish the guide with a couple of ideas on how to [manage future Bitcoin purchasing power expectations and volatility](bitcoin-and-your-net-worth/managing-future-bitcoin-price-expectations-and-handling-volatility.md).
+After completing these steps, review your net worth composition and adjust it according to the rule of thirds. Ensure you maintain this balance moving forward. We finish the guide with a couple of ideas on how to [manage future Bitcoin purchasing power expectations and volatility](bitcoin-and-your-net-worth/managing-future-bitcoin-price-expectations-and-handling-volatility.md).
 
 ## Who Is This Guide For?
 
