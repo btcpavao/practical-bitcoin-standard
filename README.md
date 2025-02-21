@@ -17,7 +17,7 @@ To fully adopt a Bitcoin standard, follow these steps in order:
 2. [**Eliminate all debt**](money-management-wisdom/live-debt-free.md)[**, and stay 100% debt-free.**](money-management-wisdom/live-debt-free.md)
 3. [**Set aside 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)**.**
 
-After completing these steps, review your net worth composition and adjust it according to the rule of thirds. Ensure you maintain this balance moving forward. We finish the guide with a couple of ideas on how to [manage future Bitcoin purchasing power expectations and volatility](bitcoin-and-your-net-worth/managing-future-bitcoin-price-expectations-and-handling-volatility.md).
+After that, review your net worth composition and adjust it according to the rule of thirds. Ensure you maintain this balance moving forward. We finish the guide with a couple of ideas on how to [manage future Bitcoin purchasing power expectations and volatility](bitcoin-and-your-net-worth/managing-future-bitcoin-price-expectations-and-handling-volatility.md).
 
 ## Who Is This Guide For?
 
@@ -26,7 +26,7 @@ This guide is designed to assist Bitcoiners who are transitioning from a fiat st
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
 * You currrently practice dollar-cost averaging into Bitcoin.
-* You like to keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
+* You keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
 * You've tried growing your Bitcoin stack through trading but decided you'd rather buy and hold.
 * If you have and use any of the following: credit cards, personal loans, lines of credit, a mortgage, auto loans, student loan debt, or a home equity line of credit.
 * You're hesitant to spend your Bitcoin or afraid to sell it in any significant amount.
