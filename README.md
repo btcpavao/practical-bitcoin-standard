@@ -26,7 +26,7 @@ This guide is designed to assist Bitcoiners who are transitioning from a fiat st
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
 * You practice dollar-cost averaging into Bitcoin.
-* You keep some fiat currency as "dry powder" to buy more Bitcoin during price corrections.
+* You keep some fiat as "dry powder" to buy more Bitcoin during price corrections.
 * You've tried growing your Bitcoin stack through trading but decided you'd rather buy and hold.
 * If you have and use any of the following: credit cards, personal loans, lines of credit, a mortgage, auto loans, student loan debt, or a home equity line of credit.
 * You're hesitant to spend your Bitcoin or afraid to sell it in any significant amount.
