@@ -6,7 +6,7 @@ description: 'Draft: Definitions, Clarifications, Economic perspectives'
 
 ## Why Do We Use Money in the First Place?
 
-I would highly recommend reading all the work of Saifedean Ammous, particularly The Bitcoin Standard, The Fiat Standard, and Principles of Economics, where these concepts are explained in depth. If you are interested in even deeper study, please consider joining Saifedean's online academy, where you can also take courses on these concepts, discuss them in depth with other students, connect with them, and join the live weekly seminar discussions.
+I would highly recommend reading all the work of Saifedean Ammous, particularly The Bitcoin Standard, The Fiat Standard, and Principles of Economics, where these concepts are explained in depth. If you are interested in even deeper study, please consider joining [Saifedean's online academy](https://saifedean.com/membership), where you can also take courses on these concepts, discuss them in depth with other students, connect with them, and join the live weekly seminar discussions.
 
 In this guide, I'll only briefly touch on very general ideas that will help you grasp the basics, but it will be worth your time to delve into this deeper if you choose to do so.
 
