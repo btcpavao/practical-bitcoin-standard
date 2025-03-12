@@ -1,6 +1,6 @@
 # Keep 10-20% of Your Budget Assigned for Giving
 
-The third step is to create a budget category for **Giving** and set aside 10% to 20% of your money for it. The goal is to consistently grow your income.
+The third step is to create a budget category for **Giving** and always keep aside 10% to 20% of your money for it. The goal is to consistently grow your income.
 
 Using money from the Giving category helps you build a habit of generosity. The stronger your generosity, the happier you’ll feel. And the happier you are, the better you’ll be at creating value for others. The more value you provide, the greater your ability to earn.
 
