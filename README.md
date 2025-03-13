@@ -6,7 +6,7 @@ description: draft
 
 The purpose of this guide is to help you fully adopt the Bitcoin standard. This involves converting all of your current cash balances (including other stores of value) and income into Bitcoin, as well as becoming comfortable with spending it regularly.
 
-This guide has two sections:
+The guide has two sections:
 
 1. **Money Management Wisdom**: How to take full control of your money through zero-based budgeting, eliminate all wasteful spending by becoming and staying 100% debt-free, and increase your ability to generate more income by setting aside 10-20% of your money for giving.
 2. **Bitcoin and Your Net Worth**: A framework for balancing the composition of your net worth on a full Bitcoin standard, breaking it down into three components: _Money_, _Consumption_, and _Capital_. It introduces the "_rule of thirds_," which suggests keeping at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
