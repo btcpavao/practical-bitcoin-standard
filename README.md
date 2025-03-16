@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-The purpose of this guide is to help you fully adopt the Bitcoin standard. This involves converting all your current cash balances (including other stores of value) and income into Bitcoin, as well as becoming comfortable with regularly spending it and managing its volatility.
+The purpose of this guide is to help you fully transition to the Bitcoin standard. This means converting all your current cash balances, other stores of value, and income into Bitcoin. It also involves getting comfortable with spending Bitcoin regularly and managing its price volatility.
 
 The guide has two sections:
 
@@ -21,7 +21,7 @@ Then, review your net worth composition and adjust it according to the rule of t
 
 ## Who Is This Guide For?
 
-This guide is designed to assist Bitcoiners who are transitioning from a fiat standard to a full Bitcoin standard and are facing various challenges and decisions along the way.
+This guide is designed to support Bitcoiners transitioning from a fiat-debt system to a full Bitcoin standard, helping them navigate the challenges and decisions they face throughout the process. It draws on centuries-old wisdom about managing money, distilled and adapted for the 21st century—a time when Bitcoin is emerging as a new global sound money standard.
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
