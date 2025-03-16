@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-The purpose of this guide is to help you fully adopt the Bitcoin standard. This involves converting all of your current cash balances (including other stores of value) and income into Bitcoin, as well as becoming comfortable with spending it regularly.
+The purpose of this guide is to help you fully adopt the Bitcoin standard. This involves converting all your current cash balances (including other stores of value) and income into Bitcoin, as well as becoming comfortable with regularly spending it and managing its volatility.
 
 The guide has two sections:
 
