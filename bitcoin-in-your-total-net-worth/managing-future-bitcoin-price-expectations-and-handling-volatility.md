@@ -37,6 +37,7 @@ Finally, on January 16, 2030, the projection is $403,932, representing a 32% inc
 ### Notes
 
 * purpose of this guide: learn to react and take advantage to Bitcoin volatility, instead of trying to hedge against it
+* unit cost averaging vs all in
 * can we predict future price? just like with weather in the future, we can't predict it 100% exactly, but we can have reasonable expectations with varying degrees of confidence
   * cyclicality
   * probability ranges
