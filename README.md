@@ -9,7 +9,7 @@ The purpose of this guide is to help you fully transition to the Bitcoin standar
 The guide has two sections:
 
 1. **Money Management Wisdom**: How to take full control of your money through zero-based budgeting, eliminate all wasteful spending by becoming and staying 100% debt-free, and increase your ability to generate more income by setting aside 10-20% of your money for giving.
-2. **Bitcoin and Your Net Worth**: A framework for balancing the composition of your net worth on a full Bitcoin standard, breaking it down into three components: _Money_, _Consumption_, and _Capital_. It introduces the "_rule of thirds_," which suggests keeping at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
+2. **Bitcoin in Your Total Net Worth**: A framework for balancing the composition of your net worth on a full Bitcoin standard, breaking it down into three components: _Money_, _Consumption_, and _Capital_. It introduces the "_rule of thirds_," which suggests keeping at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
 
 To fully adopt a Bitcoin standard, follow these steps in order:
 
