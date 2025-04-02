@@ -10,7 +10,7 @@
 
 * [Practice Zero-Based Budgeting](money-management-wisdom/plan-your-money.md)
 * [Live 100% Debt-Free](money-management-wisdom/live-debt-free.md)
-* [Keep 10-20% of Your Budget Assigned for Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)
+* [Separate 10-20% of Your Budget for Giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)
 
 ## Bitcoin in Your Total Net Worth
 
