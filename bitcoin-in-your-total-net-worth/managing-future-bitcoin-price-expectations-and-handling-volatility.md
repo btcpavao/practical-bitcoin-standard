@@ -6,7 +6,7 @@ description: Draft
 
 Given that Bitcoin is a form of money with a completely fixed supply, it follows that, over time, all prices denominated in it will decrease. The deflationary nature of Bitcoin as money means that, no matter how much you spend today, in the future, you will realize that if you hadn’t spent that amount, it would have gained purchasing power.
 
-So, in the grand scheme of things, it doesn't really matter how much Bitcoin in nominal terms you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
+So, in the grand scheme of things, it doesn't matter how much Bitcoin in nominal terms you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
 
 Understand also that you can't really avoid spending Bitcoin in real terms. Whenever you make a purchase, you're spending some of your overall purchasing power, and you can always denominate that amount in Bitcoin according to the exchange rate at the time of the purchase. So, if you spend $100 from your fiat balance, you have spent $100 worth of Bitcoin at the time of the purchase.
 
