@@ -15,6 +15,7 @@ It doesn't matter if you made your large purchases during the bull market before
 ### Power Law
 
 * historical CAGR in the past 5 years - around 60%
+* next 7-8 years, around 30% per year
 
 As of January 16, 2025, the Bitcoin price is $98,693, and the power law trend stands at $86,162.
 
