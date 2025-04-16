@@ -150,7 +150,7 @@ We want the final savings to be $5,600:
 
 If you start with $10,000 in savings and need to pay a 3-month rent deposit upfront, you can afford to pay approximately $475.47 per month in rent to end up with $5,600 in savings after 4 years, considering the deposit is returned at the end.
 
-* rent. a boat story
+* rent a boat story
 * investing in capital on a Bitcoin standard
 
 ### Non-Monetary Goods Cost Of Ownership
