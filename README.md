@@ -6,18 +6,17 @@ description: draft
 
 This guide is designed to support your complete transition to the Bitcoin standard. It involves converting your existing cash balances, other forms of stored value, and income into Bitcoin, while also helping you become comfortable with spending Bitcoin regularly and navigating its price fluctuations.
 
-The guide has two sections:
+**This guide is divided into two main sections:**
 
-1. **Money Management Wisdom**: How to take full control of your money through zero-based budgeting, eliminate all wasteful spending by becoming and staying 100% debt-free, and increase your ability to generate more income by setting aside 10-20% of your money for giving.
-2. **Bitcoin within Your Total Net Worth**: A framework for balancing the composition of your net worth on a Bitcoin standard, breaking it down into three components: _Money_, _Consumption_, and _Capital_. It introduces the "_rule of thirds_," which suggests keeping at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
+* **Money Management Wisdom:** Learn how to take full control of your finances through zero-based budgeting, eliminate wasteful spending by becoming and remaining completely debt-free, and enhance your income-generating potential by consistently allocating 10–20% of your money for giving.
+* **Bitcoin Within Your Total Net Worth:** Discover a framework for managing your net worth under a Bitcoin standard, structured around three key components: Money, Consumption, and Capital. You'll be introduced to the "rule of thirds," which recommends keeping at least one-third of your net worth in Money, limiting Consumption to no more than one-third, and investing no more than one-third into Capital.
 
-To fully adopt a Bitcoin standard, follow these steps in order:
+**To fully transition to a Bitcoin standard, follow these steps in order:**
 
-1. [**Implement zero-based budgeting**](money-management-wisdom/plan-your-money.md)**.**
-2. [**Eliminate all debt**](money-management-wisdom/live-debt-free.md)[**, and stay 100% debt-free.**](money-management-wisdom/live-debt-free.md)
-3. [**Always keep 10-20% of your budget for giving**](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md)**.**
-
-Then, review your net worth composition and adjust it according to the rule of thirds. Ensure you maintain this balance moving forward. We finish the guide with a couple of ideas on how to [manage future Bitcoin purchasing power expectations and volatility](bitcoin-in-your-total-net-worth/managing-future-bitcoin-price-expectations-and-handling-volatility.md).
+1. Implement zero-based budgeting.
+2. Eliminate all debt — and remain completely debt-free.
+3. Allocate 10–20% of your budget consistently for giving.
+4. Review and adjust your net worth composition according to the rule of thirds, and maintain this balance over time.
 
 ## Who Is This Guide For?
 
