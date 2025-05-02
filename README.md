@@ -89,8 +89,8 @@ This guide is a work in progress, and I welcome your feedback. If you have any s
 
 For personalized advice, you can schedule a call using the provided [link](https://cal.com/btcpavao/meeting?user=btcpavao).&#x20;
 
-If you’d like to support this work, you can use the included Lightning address or [donation link](https://pay.zaprite.com/pl_GIVID5vLxj).
+If you’d like to support this work, you can use the included Lightning address or [this link](https://pay.zaprite.com/pl_GIVID5vLxj).
 
 <figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
-I hope you find this guide helpful and I encourage you to put its suggestions into practice. Together, let's build a future on the Bitcoin standard.
+I hope you find this guide helpful and I encourage you to put its suggestions into practice.
