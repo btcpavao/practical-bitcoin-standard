@@ -13,7 +13,7 @@ This guide is designed to support your complete transition to the Bitcoin standa
 
 **To fully transition to a Bitcoin standard, follow these steps in order:**
 
-1. Implement zero-based budgeting.
+1. Practice zero-based budgeting.
 2. Eliminate all debt — and remain completely debt-free.
 3. Allocate 10–20% of your budget consistently for giving.
 4. Review and adjust your net worth composition according to the rule of thirds, and maintain this balance over time.
