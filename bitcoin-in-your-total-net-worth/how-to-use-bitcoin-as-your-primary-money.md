@@ -7,6 +7,7 @@ description: draft
 If you diligently follow the three money management principles outlined earlier for a minimum of 180 days, you will be well-prepared to start using Bitcoin as your primary money.
 
 * using bitcoin as your unit of account
+* managing volatility and changes in purchasing power
 
 ### Keep Your Average Net Income Positive & Accumulate Cash Position (in Bitcoin)
 
