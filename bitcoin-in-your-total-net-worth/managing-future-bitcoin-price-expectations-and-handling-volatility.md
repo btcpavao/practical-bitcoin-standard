@@ -4,13 +4,13 @@ description: Draft
 
 # Manage Future Bitcoin Price Expectations & Volatility
 
-Given that Bitcoin is a form of money with a completely fixed supply, it follows that, over time, all prices denominated in it will decrease. The deflationary nature of Bitcoin as money means that, no matter how much you spend today, in the future, you will realize that if you hadn’t spent that amount, it would have gained purchasing power.
+Since Bitcoin has a strictly limited supply, it's natural that, over time, prices denominated in Bitcoin tend to decline. Its deflationary nature means that any amount you spend today will likely gain purchasing power in the future—had you not spent it, it would have been worth more down the line.
 
-So, in the grand scheme of things, it doesn't matter how much Bitcoin in nominal terms you own right now or how much you're going to own in the future. What truly matters is the average direction of your purchasing power, which will increase over time, especially relative to when you first adopted the full Bitcoin standard.
+With that in mind, the specific amount of Bitcoin you hold at any given moment is less important than the broader trend of your purchasing power. What truly matters is whether that purchasing power is increasing over time, particularly relative to when you first adopted a full Bitcoin standard.
 
-Understand also that you can't really avoid spending Bitcoin in real terms. Whenever you make a purchase, you're spending some of your overall purchasing power, and you can always denominate that amount in Bitcoin according to the exchange rate at the time of the purchase. So, if you spend $100 from your fiat balance, you have spent $100 worth of Bitcoin at the time of the purchase.
+It’s also important to recognize that spending Bitcoin in real terms is inevitable. Any time you make a purchase—whether using fiat or Bitcoin—you are drawing from your total purchasing power. That amount can always be expressed in Bitcoin terms using the exchange rate at the time of the transaction. So, if you spend $100 in fiat, you have effectively spent $100 worth of Bitcoin at that point in time.
 
-It doesn't matter if you made your large purchases during the bull market before the price peaked. What matters is that you made those purchases within your budget, maintained an overall positive net income, and received positive inflows from your reconciliation balance adjustments.
+Lastly, it’s not critical whether your larger purchases occurred before or after a market peak. What matters is that those expenditures were within your financial means, that your overall net income remained positive, and that you maintained healthy inflows through regular reconciliation and balance adjustments.
 
 ### Power Law
 
