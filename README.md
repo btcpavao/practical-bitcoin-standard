@@ -42,46 +42,46 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is a fundamentally different form of money compared to what we are accustomed to. Since its creation in 2009, Bitcoin's purchasing power has increased dramatically, while fiat currencies have steadily lost value. However, this growth has been extremely volatile, with multiple price crashes of over 80% followed by massive rallies. While Bitcoin's price volatility is decreasing over time, using it as your primary money still presents significant challenges.
+Bitcoin is a completely different kind of money from what most people are used to. Since it was created in 2009, its value has grown tremendously, especially compared to fiat money, which has steadily lost purchasing power over time. But this growth hasn’t been smooth—Bitcoin’s price has gone through major ups and downs, including crashes of more than 80%. While these wild swings are becoming less extreme, using Bitcoin as everyday money still comes with big challenges.
 
-The famous Bitcoin pizza transaction illustrates this volatility. In May 2010, Laszlo Hanyecz paid 10,000 BTC for two pizzas worth about $30. At the time of writing this (November 2024), 1 Bitcoin is worth approximately $90,000, meaning those 10,000 BTC - now worth $900 million - could buy over 60 million pizzas.
+One famous example from Bitcoin’s early days shows just how much things have changed. In May 2010, a programmer named Laszlo Hanyecz paid 10,000 BTC for two pizzas, worth about $30 at the time. Fast forward to May 2025, and with Bitcoin priced just over $100,000, those same 10,000 BTC would now be worth more than $1 billion—enough to buy thousands of full pizza businesses.
 
-This incredible increase in purchasing power has come with equally dramatic volatility. For example, since the author's "get off zero" moment in July 2014, when Bitcoin was around $600, its price has increased over 100 times in just over 10 years. But along the way, the author has witnessed Bitcoin's price crash by 80% or more multiple times, only to recover and reach new highs.
+Since I first bought Bitcoin in July 2014, when it was around $600, the price has increased more than 160 times. Along the way, there have been several major crashes—but each time, the price has bounced back and eventually reached new highs.
 
 Some examples of this volatility include:
 
 * In December 2017, Bitcoin peaked at $20,000, only to drop to $3,300 by November 2018 (an 85% drop).
 * In March 2020, during the COVID crash, Bitcoin briefly fell to $4,000 before recovering.
 * By November 2021, Bitcoin reached nearly $70,000, only to drop to $15,000 by late 2022 (an 80% drop).
-* As of December 2024, Bitcoin is trading at around $95,000, more than 1200% increase over the past five years.
+* As of May 2025, Bitcoin is trading at around $102,000, more than 1000% increase over the past five years.
 
-This kind of volatility can be intimidating, especially for beginners who aren't accustomed to it. There are many strategies that people use to manage it. Some take a conservative approach, buying Bitcoin only with money they won't need for years and dollar-cost averaging small amounts over time. Others try to trade the volatility, buying low and selling high.
+This level of volatility can be intimidating—especially for those new to Bitcoin who aren’t used to such dramatic price swings. People deal with it in different ways. Some take a cautious approach, only investing money they won’t need for years and steadily buying small amounts over time through dollar-cost averaging. Others try to take advantage of the ups and downs by trading—buying low and selling high.
 
-However, the author has found a third approach to be most effective: using Bitcoin as your primary money.
+But I found a different path to be the most effective: simply using Bitcoin as your primary form of money.
 
 ### Using Bitcoin as Your Primary Money
 
-Using Bitcoin as your primary money means converting all of your current and incoming money into Bitcoin and arranging to be paid in Bitcoin (if possible). You do this regardless of the current exchange rate. When it's time to pay for expenses - usually denominated in fiat - you exchange Bitcoin back into fiat to complete the payment (or pay directly with Bitcoin if accepted).
+Using Bitcoin as your primary money means converting all of your income and savings into Bitcoin, and getting paid in Bitcoin whenever possible. This approach doesn’t depend on the current exchange rate—you treat Bitcoin as your base currency. When it’s time to cover expenses, which are usually priced in fiat, you simply convert the amount of Bitcoin you need back into fiat to make the payment—or pay directly in Bitcoin if the merchant accepts it.
 
-Today, services like Bitcoin debit cards make this easier by converting Bitcoin to fiat at the time of purchase. If you don't have access to such services, you can still use Bitcoin as your primary money by planning ahead. For example, if you need to pay rent in fiat next week, you can convert the required amount of Bitcoin to fiat a few days in advance.
+Today, tools like Bitcoin debit cards make this process more convenient by automatically converting Bitcoin to fiat at the time of purchase. But even without these services, it’s still manageable with a bit of planning. For example, if your rent is due next week and must be paid in fiat, you can convert just enough Bitcoin a few days beforehand to cover it.
 
-To do this effectively and safely, you need to consistently practice three key money management principles:
+To use Bitcoin as your primary money effectively and safely, it’s important to follow three core money management principles:
 
-1. Zero-based budgeting - Plan every dollar of your income and expenses.
-2. Living debt-free - Eliminate all debt from your life.
-3. Setting aside 10-20% of your budget for giving - This timeless principle not only fosters generosity but also increases your capacity to earn.
+* **Zero-based budgeting** – Give every dollar (or satoshi) a purpose by planning all your income and expenses in advance.
+* **Living debt-free** – Avoid or eliminate debt so you're not financially overextended.
+* **Setting aside 10–20% for giving** – This timeless habit encourages generosity and, interestingly, often helps people grow their capacity to earn.
 
-These principles are critical when using Bitcoin as your primary money. Bitcoin is a powerful but still misunderstood technology, and without proper financial habits, its volatility can have both positive and negative effects on your financial life.
+These principles become even more important when you're operating on a Bitcoin standard. Bitcoin is a powerful, but often misunderstood, form of money—and without strong financial habits, its price swings can either work for you or against you.
 
 ### Bitcoin: A Powerful Technology in Its Early Phase
 
-In 2024, Bitcoin can be compared to electricity in its early years. When electricity was first introduced, most people were afraid of it because they didn't know how to use it safely. Over time, people learned how to handle electricity properly, leading to its widespread adoption.
+In 2025, Bitcoin is a lot like electricity in its early days. When electricity was first introduced, many people were afraid of it simply because they didn’t yet understand how to use it safely. But as society learned to manage it—with tools like insulation and circuit breakers—it became a transformative force in everyday life.
 
-Similarly, most people today have heard of Bitcoin, but only a small percentage own it, and even fewer use it as their primary money. Just as we've developed safety mechanisms for electricity, like circuit breakers and insulation, you can develop financial safety mechanisms to handle Bitcoin's volatility.
+Bitcoin is following a similar path. Most people have heard of it, but only a small percentage actually own any, and even fewer use it as their primary money. Like early electricity, Bitcoin can seem risky at first. But with the right financial tools and habits, you can harness its power safely and effectively.
 
-When you implement the money management principles outlined in this guide, you'll be able to use Bitcoin to its full potential. Instead of fearing its volatility, you'll embrace it. Instead of trying to predict Bitcoin's future price, you'll learn to respond to changes in its purchasing power by rebalancing your budget.
+By applying the money management principles outlined in this guide, you’ll be able to tap into Bitcoin’s full potential. Rather than fearing its price swings, you’ll learn to work with them. Instead of guessing what Bitcoin might be worth tomorrow, you'll focus on adjusting your budget as its purchasing power shifts.
 
-You'll also shift from the fiat mindset of "consume now, pay later" to the Bitcoin standard of "pay now, consume later." By eliminating debt and practicing generosity, you'll not only improve your financial health but also increase your ability to earn and grow your wealth.
+You’ll also move away from the fiat mindset of “consume now, pay later,” and adopt the Bitcoin standard of “pay now, consume later.” This shift—combined with living debt-free and practicing generosity—not only strengthens your financial foundation but also opens the door to greater earning potential and long-term wealth.
 
 #### Feedback and Support
 
