@@ -1,4 +1,13 @@
+---
+description: draft
+---
+
 # Keep Balance in Your Net Worth Composition
+
+* you are exchanging fiat to bitcoin, treat bitcoin as money
+* you are investing money (fiat or bitcoin) into capital
+* if you are on a full bitcoin standard, you can still invest money (bitcoin) into capital - if you have positive risk-adjusted expected return
+* investing on a bitcoin standard - how much, when, diversification - what is the overall framework
 
 Often, when I speak with Bitcoiners, I hear questions like, "_How much would I need in my Bitcoin stack to start my own business?_" I'd like to offer another perspective here. Whatever you do for work to earn money, whether as an employee in a company or as an owner of a company, you are essentially generating value for other people, i.e., your clients. Whether you have formally incorporated a business structure (such as a company, corporation, or sole proprietorship), from an economic perspective, you are already engaged in a business. It is a business of one—you own it—and you can begin to view your employer or boss as a client or customer. One of the most significant mindset shifts you can adopt is to start thinking of your employer as your client. This perspective encourages you to prioritize taking care of your client while also recognizing that you have the potential to serve more than one.
 
