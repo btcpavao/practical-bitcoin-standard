@@ -11,7 +11,7 @@ description: draft
 
 Often, when I speak with Bitcoiners, I hear questions like, "_How much would I need in my Bitcoin stack to start my own business?_" I'd like to offer another perspective here. Whatever you do for work to earn money, whether as an employee in a company or as an owner of a company, you are essentially generating value for other people, i.e., your clients. Whether you have formally incorporated a business structure (such as a company, corporation, or sole proprietorship), from an economic perspective, you are already engaged in a business. It is a business of one—you own it—and you can begin to view your employer or boss as a client or customer. One of the most significant mindset shifts you can adopt is to start thinking of your employer as your client. This perspective encourages you to prioritize taking care of your client while also recognizing that you have the potential to serve more than one.
 
-### Understanding the Difference Between Three Types of Goods: Monetary, Consumption, and Production
+### Understanding the Difference Between Three Types of Goods: Monetary, Consumption, and Production (Capital)
 
 Economic goods can serve three purposes: 1) as a medium of exchange (monetary use), 2) for personal use (consumption), and 3) for creating other goods or services (production or capital). There is nothing inherent in the goods themselves that dictates their use; rather, it is how we choose to use them that determines their functional role. Additionally, a single good can simultaneously fulfill two or even all three functions.
 
