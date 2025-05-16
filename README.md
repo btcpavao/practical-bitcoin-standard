@@ -20,7 +20,7 @@ This guide is designed to support your complete transition to the Bitcoin standa
 
 ## Who Is This Guide For?
 
-This guide is designed to support Bitcoiners transitioning from a fiat-debt system to a full Bitcoin standard, helping them navigate the challenges and decisions they face throughout the process. It draws on centuries-old wisdom about managing money, distilled and adapted for the 21st century—a time when Bitcoin is emerging as a new global sound money standard.
+This guide is designed to support Bitcoiners transitioning from a fiat standard (a debt-slavery alternative to human civilization) to a full Bitcoin standard. It draws on centuries-old wisdom about managing money, distilled and adapted for the 21st century.
 
 If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
 
