@@ -87,7 +87,7 @@ You’ll also move away from the fiat mindset of “consume now, pay later,” a
 
 This guide is a work in progress, and I welcome your feedback. If you have any suggestions or questions, please feel free to email me at [**pavao@hey.com**](mailto:pavao@hey.com).&#x20;
 
-For personalized advice, you can schedule a call using the provided [link](https://cal.com/btcpavao/meeting?user=btcpavao).&#x20;
+For personalized advice, you can schedule a call using this [link](https://cal.com/btcpavao/meeting?user=btcpavao).&#x20;
 
 If you’d like to support this work, you can use the included Lightning address or [this link](https://pay.zaprite.com/pl_GIVID5vLxj).
 
