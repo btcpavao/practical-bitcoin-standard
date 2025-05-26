@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-This guide is designed to support your complete transition to the Bitcoin standard. It involves converting your existing cash balances, other forms of stored value, and income into Bitcoin, while also helping you become comfortable with spending Bitcoin regularly and navigating its price fluctuations.
+This guide is designed to support your transition to the full Bitcoin standard. It involves converting your existing cash balances, other forms of stored value, and income into Bitcoin, while also helping you become comfortable with spending Bitcoin regularly and navigating its price fluctuations.
 
 **The guide is divided into two sections:**
 
