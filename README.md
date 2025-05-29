@@ -37,7 +37,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You'd like to increase your total income, but you are not 100% sure how to go about it.
 * You plan for retirement and find yourself wondering how much Bitcoin you would need to own so you don’t have to work.
 * Because of Bitcoin's high volatility, you don't advise newbies to go all in.
-* Sometimes, you feel like you don't own enough Bitcoin.
+* Sometimes, you feel like you don't have enough Bitcoin.
 * "Fiat is for spending, Bitcoin is for saving" sounds reasonable to you.
 
 ### Bitcoin's Purchasing Power Volatility
