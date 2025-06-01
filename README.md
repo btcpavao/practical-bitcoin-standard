@@ -29,7 +29,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You've tried growing your Bitcoin stack through trading but decided you'd rather buy and hold.
 * If you have and use any of the following: credit cards, personal loans, lines of credit, a mortgage, auto loans, student loan debt, or a home equity line of credit.
 * You are hesitant to spend your Bitcoin or afraid to sell it in any significant amount.
-* You believe there's such a thing as good debt and bad debt, and you'd consider taking out a zero-interest loan to buy more Bitcoin.
+* You believe there's such a thing as _good_ debt and _bad_ debt, and you'd consider taking out a zero-interest loan to buy more Bitcoin.
 * You have a rough idea of your income and expenses, but you don't know the exact numbers.
 * You have tried orange-pilling your family and friends, but they didn't take your advice as seriously as you'd hoped.
 * You're willing to allocate more of your money to Bitcoin, but your partner or spouse isn't fully on board.
