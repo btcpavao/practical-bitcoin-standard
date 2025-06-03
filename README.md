@@ -55,7 +55,7 @@ Some examples of this volatility include:
 * By November 2021, Bitcoin reached nearly $70,000, only to drop to $15,000 by late 2022 (an 80% drop).
 * As of May 2025, Bitcoin is trading at around $102,000, more than 1000% increase over the past five years.
 
-This level of volatility can be intimidating—especially for those new to Bitcoin who aren’t used to such dramatic price swings. People deal with it in different ways. Some take a cautious approach, only investing money they won’t need for years and steadily buying small amounts over time through dollar-cost averaging. Others try to take advantage of the ups and downs by trading—buying low and selling high.
+This level of volatility can be very intimidating—especially for those new to Bitcoin who aren’t used to such dramatic price swings. People deal with it in different ways. Some take a cautious approach, only investing money they won’t need for years and steadily buying small amounts over time through dollar-cost averaging. Others try to take advantage of the ups and downs by trading—buying low and selling high.
 
 But I found a different path to be the most effective: simply using Bitcoin as your primary form of money.
 
