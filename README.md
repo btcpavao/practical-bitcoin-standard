@@ -67,7 +67,7 @@ Today, tools like Bitcoin debit cards make this process more convenient by autom
 
 To use Bitcoin as your primary money effectively and safely, it’s important to follow three core money management principles:
 
-* **Zero-based budgeting** – Give every dollar (or satoshi) a purpose by planning all your income and expenses in advance.
+* **Zero-based budgeting** – Assign a purpose to all of your money by dividing it into categories, and track all inflows and outflows consistently.
 * **Living debt-free** – Avoid or eliminate debt so you're not financially overextended.
 * **Setting aside 10–20% for giving** – This timeless habit encourages generosity and, interestingly, often helps people grow their capacity to earn.
 
