@@ -42,7 +42,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is a completely different kind of money from what most people are used to. Since it was created in 2009, its value has grown tremendously, especially compared to fiat money, which has steadily lost purchasing power over time. But this growth hasn’t been smooth—Bitcoin’s price has gone through major ups and downs, including crashes of more than 80%. While these wild swings are becoming less extreme, using Bitcoin as everyday money still comes with big challenges.
+Bitcoin is a completely different kind of money from what most people are used to. Since it was created in 2009, its value has grown tremendously, especially compared to fiat money, which has steadily lost purchasing power over time. But this growth hasn’t been smooth—Bitcoin’s price has gone through major ups and downs, including multiple crashes of more than 80%. While these wild swings are becoming less extreme, using Bitcoin as everyday money still comes with big challenges.
 
 One famous example from Bitcoin’s early days shows just how much things have changed. In May 2010, a programmer named Laszlo Hanyecz paid 10,000 BTC for two pizzas, worth about $30 at the time. Fast forward to May 2025, and with Bitcoin priced just over $100,000, those same 10,000 BTC would now be worth more than $1 billion—enough to buy thousands of full pizza businesses.
 
