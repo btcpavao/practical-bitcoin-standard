@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-This guide is intended to assist you in transitioning to a full Bitcoin standard. It outlines the process of converting your cash holdings, other forms of stored value, and income into Bitcoin, while also providing guidance on using Bitcoin for everyday transactions and managing price volatility with confidence.
+This guide outlines a practical path to adopting Bitcoin as your primary store of value and medium of exchange. It walks you through converting your financial assets and offers support for navigating Bitcoin's price movements in everyday use.
 
 **The guide is divided into two sections:**
 
