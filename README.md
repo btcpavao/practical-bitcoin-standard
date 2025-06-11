@@ -9,14 +9,15 @@ This guide outlines a practical path to adopting Bitcoin as your primary store o
 **The guide is divided into two sections:**
 
 * **Money Management Wisdom:** Take full control of your money through zero-based budgeting, eliminate wasteful spending by becoming and remaining 100% debt-free, and increase your income-generation capacity by consistently allocating 10–20% of your money for giving.
-* **Bitcoin and Your Net Worth:** A framework for managing your total net worth under a full Bitcoin standard, structured around three key components: Money, Consumption, and Capital. We explain the "_rule of thirds_," which recommends keeping at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
+* **Bitcoin and Your Net Worth**: A practical framework for managing your entire net worth under a full Bitcoin standard, based on three core components—Money, Consumption, and Capital. It introduces the “rule of thirds,” which suggests holding at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
 
-**To fully transition to a Bitcoin standard, follow these steps in order:**
+**To fully transition to a full Bitcoin standard, follow these steps in order:**
 
-1. Establish consistent zero-based budgeting practice.
+1. Practice mindful money management through zero-based budgeting
 2. Become and remain completely debt-free.
-3. Keep 10–20% of your budget consistently for giving.
-4. Review and adjust your net worth composition according to the rule of thirds, and maintain this balance over time.
+3. Regularly set aside 10–20% of your budget for charitable giving.
+
+Then, assess and rebalance your net worth using the rule of thirds, and aim to keep that balance long-term.
 
 ## Who Is This Guide For?
 
