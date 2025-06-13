@@ -12,6 +12,8 @@ It’s also important to recognize that spending Bitcoin in real terms is inevit
 
 Lastly, it’s not critical whether your larger purchases occurred before or after a market peak. What matters is that those expenditures were within your financial means, that your overall net income remained positive, and that you maintained healthy inflows through regular reconciliation and balance adjustments.
 
+* building conviction - takes time & education
+
 ### Power Law
 
 * historical CAGR in the past 5 years - around 60%
