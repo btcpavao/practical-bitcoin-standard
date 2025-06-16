@@ -13,9 +13,9 @@ This guide outlines a practical path to adopting Bitcoin as your primary store o
 
 **To fully transition to a full Bitcoin standard, follow these steps in order:**
 
-1. Practice mindful money management through zero-based budgeting
+1. Practice mindful money management through zero-based budgeting.
 2. Become and remain completely debt-free.
-3. Regularly set aside 10–20% of your budget for charitable giving.
+3. Regularly set aside 10–20% of your budget for giving.
 
 Then, assess and rebalance your net worth using the rule of thirds, and aim to keep that balance long-term.
 
