@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-This guide outlines a practical path to adopting Bitcoin as your primary store of value and medium of exchange. It walks you through converting your financial assets and offers support for navigating Bitcoin's price movements in everyday use.
+This gitbook is a practical guide to using Bitcoin as real money in your daily life. It explains how to start using Bitcoin not just as a long-term investment, but as your main way to save and spend. You’ll learn how to gradually move your financial life into Bitcoin—how to convert your savings, manage regular expenses, and handle the ups and downs of its price.
 
 **The guide is divided into two sections:**
 
