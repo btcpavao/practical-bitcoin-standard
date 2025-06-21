@@ -8,7 +8,7 @@ This gitbook is a practical guide to using Bitcoin as real money in your daily l
 
 **The guide is divided into two sections:**
 
-* **Money Management Wisdom:** Take full control of your money through zero-based budgeting, eliminate wasteful spending by becoming and remaining 100% debt-free, and increase your income-generation capacity by consistently allocating 10–20% of your money for giving.
+* **Money Management Wisdom:** Take full control of your money by starting a practice of zero-based budgeting, eliminate all wasteful spending by becoming and remaining 100% debt-free, and keep increasing your income-generation capacity by consistently allocating 10–20% of your money for giving.
 * **Bitcoin and Your Net Worth**: A practical framework for managing your entire net worth under a full Bitcoin standard, based on three core components—Money, Consumption, and Capital. It introduces the “rule of thirds,” which suggests holding at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
 
 **To fully transition to a full Bitcoin standard, follow these steps in order:**
