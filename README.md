@@ -6,18 +6,26 @@ description: draft
 
 This GitBook is a practical guide to using Bitcoin as everyday money. It shows you how to move beyond treating Bitcoin as just a long-term investment and start using it as your main tool for saving and spending. You'll learn how to gradually shift your finances to Bitcoin—how to convert your savings, cover daily expenses, and deal with price volatility.
 
-**The guide is divided into two sections:**
+**The guide is divided into two main sections:**
 
-* **Money Management Wisdom:** Take full control of your money by starting a practice of zero-based budgeting, eliminate all wasteful spending by becoming and remaining 100% debt-free, and keep increasing your income-generation capacity by consistently allocating 10–20% of your money for giving.
-* **Bitcoin and Your Net Worth**: A practical framework for managing your entire net worth under a full Bitcoin standard, based on three core components—Money, Consumption, and Capital. It introduces the “rule of thirds,” which suggests holding at least one-third of your net worth in Money, no more than one-third in Consumption, and no more than one-third in Capital.
+**1. Money Management Wisdom**\
+Learn how to take full control of your money by adopting zero-based budgeting, eliminating all wasteful spending, and becoming—and staying—100% debt-free. You'll also discover how to grow your income-generating capacity by consistently setting aside 10–20% of your money for giving.
 
-**To fully transition to a full Bitcoin standard, follow these steps in order:**
+**2. Bitcoin and Your Net Worth**\
+Gain a practical framework for managing your entire net worth under a full Bitcoin standard. This section is built around three core components: **Money**, **Consumption**, and **Capital**. It introduces the “rule of thirds,” which recommends holding:
+
+* _At least one-third_ of your net worth in **Money** (Bitcoin),
+* _No more than one-third_ in **Consumption** (everyday living expenses and personal-use assets),
+* _No more than one-third_ in **Capital** (businesses, investments, or long-term productive assets).
+
+***
+
+**To fully transition to a Bitcoin standard, follow these steps in order:**
 
 1. Practice mindful money management through zero-based budgeting.
-2. Become and remain completely debt-free.
-3. Regularly set aside 10–20% of your budget for giving.
-
-Then, assess and rebalance your net worth using the rule of thirds, and aim to keep that balance long-term.
+2. Eliminate all debt and remain completely debt-free.
+3. Regularly allocate 10–20% of your money to giving.
+4. Evaluate and rebalance your net worth using the rule of thirds—and aim to maintain that balance over the long term.
 
 ## Who Is This Guide For?
 
