@@ -48,6 +48,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * Because of Bitcoin's high volatility, you don't advise newbies to go all in.
 * Sometimes, you feel like you don't have enough Bitcoin.
 * "Fiat is for spending, Bitcoin is for saving" sounds reasonable to you.
+* "Never sell your Bitcoin." sounds reasonable.
 
 ### Bitcoin's Purchasing Power Volatility
 
