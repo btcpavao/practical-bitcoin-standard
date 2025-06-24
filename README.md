@@ -9,7 +9,7 @@ This GitBook is a practical guide to using Bitcoin as everyday money. It shows y
 **The guide is divided into two main sections:**
 
 **1. Money Management Wisdom**\
-Learn how to take full control of your money by adopting zero-based budgeting, eliminating all wasteful spending, and becoming—and staying—100% debt-free. You'll also discover how to grow your income-generating capacity by consistently setting aside 10–20% of your money for giving.
+Take full control of your money with zero-based budgeting, eliminate wasteful spending, and achieve lasting financial freedom by becoming completely debt-free. Learn how regularly setting aside 10–20% of your income for giving can also increase your capacity to earn more.
 
 **2. Bitcoin and Your Net Worth**\
 Gain a practical framework for managing your entire net worth under a full Bitcoin standard. This section is built around three core components: **Money**, **Consumption**, and **Capital**. It introduces the “rule of thirds,” which recommends holding:
