@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-This GitBook is a practical guide to using Bitcoin as everyday money. It shows you how to move beyond treating Bitcoin as just a long-term investment and start using it as your main tool for saving and spending. You'll learn how to gradually shift your finances to Bitcoin—how to convert your savings, cover daily expenses, and deal with price volatility.
+This is a practical guide to using Bitcoin as your primary form of money. It explains how to go beyond viewing Bitcoin solely as a long-term investment and start using it as your main tool for everyday saving, spending, and investing.
 
 **The guide is divided into two main sections:**
 
