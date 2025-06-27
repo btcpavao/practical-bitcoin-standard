@@ -1,5 +1,5 @@
 ---
-description: 'Draft: Definitions, Clarifications, Economic perspectives'
+description: 'Draft: Definitions, Clarifications, Economic perspectives, Consumption/Capital'
 ---
 
 # Notes on Money
