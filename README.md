@@ -9,23 +9,24 @@ This practical guide shows you how to use Bitcoin as your primary money. It expl
 **The guide is divided into two main sections:**
 
 **1. Money Management Wisdom**\
-Take full control of your money with zero-based budgeting, eliminate wasteful spending, and achieve lasting financial freedom by becoming completely debt-free. Learn how regularly setting aside 10–20% of your income for giving can also increase your capacity to earn more.
+How to take full control of your money with zero-based budgeting, become and stay completely debt-free and and regularly set aside 10–20% of your budget for giving.
 
 **2. Bitcoin and Your Net Worth**\
-Gain a practical framework for managing your entire net worth under a full Bitcoin standard. This section is built around three core components: **Money**, **Consumption**, and **Capital**. It introduces the “rule of thirds,” which recommends holding:
+How to manage your total net worth under a full Bitcoin standard by dividing it into three categories: **Money**, **Consumption**, and **Capital**. Then apply the “rule of thirds,” which recommends holding:
 
 * _At least one-third_ of your net worth in **Money** (Bitcoin),
-* _No more than one-third_ in **Consumption** (everyday living expenses and personal-use assets),
-* _No more than one-third_ in **Capital** (businesses, investments, or long-term productive assets).
+* _No more than one-third_ in **Consumption** (everyday living and personal-use assets),
+* _No more than one-third_ in **Capital** (businesses, investments, productive assets).
 
 ***
 
 **To fully transition to a Bitcoin standard, follow these steps in order:**
 
-1. Practice mindful money management through zero-based budgeting.
+1. Establish zero-based budgeting practice for at least 180 days.
 2. Eliminate all debt and remain completely debt-free.
-3. Regularly allocate 10–20% of your money to giving.
-4. Evaluate and rebalance your net worth using the rule of thirds—and aim to maintain that balance over the long term.
+3. Always keep 10–20% of your budget in Giving.
+
+Then, assess your net worth and, if necessary, rebalance it according to the rule of thirds—striving to maintain this allocation consistently over the long term.
 
 ## Who Is This Guide For?
 
