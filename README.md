@@ -22,9 +22,9 @@ How to manage your total net worth under a full Bitcoin standard by dividing it 
 
 **To fully transition to a Bitcoin standard, follow these steps in order:**
 
-1. Establish zero-based budgeting practice for at least 180 days.
-2. Eliminate all debt and remain completely debt-free.
-3. Always keep 10–20% of your budget in Giving.
+1. Establish **zero-based budgeting** practice for at least 180 days.
+2. **Eliminate all debt** and remain completely debt-free.
+3. Always keep **10–20% of your budget in Giving** category.
 
 Then, assess your net worth and, if necessary, rebalance it according to the rule of thirds—striving to maintain this allocation consistently over the long term.
 
