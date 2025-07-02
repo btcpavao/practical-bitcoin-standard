@@ -202,11 +202,23 @@ Want to stop moving money around at the last minute? Tracking your Age of Money 
 
 ### Assets
 
-Assets include everything we own, such as money in bank accounts, Bitcoin, investments, stocks, bonds, real estate, artwork, and cars. These assets are categorized into two sections: Budget and Tracking.
+In this guide, **assets** are defined as all economic goods we own. This includes:
 
-The Budget section includes all liquid and highly salable assets, essentially what we consider money, which we allocate to various budget categories. This section also tracks our inflows and outflows.
+* **Monetary goods**: cash, bank account balances, Bitcoin, and similar forms of money.
+* **Capital goods**: investments like stocks, bonds, and business interests.
+* **Consumption goods**: items such as real estate, vehicles, and artwork used for personal enjoyment or utility.
 
-The Tracking section monitors the market value of assets not included in our budget categories and those that are less liquid or salable than cash. These assets include automobiles, real estate, non-liquid investments like bond and stock portfolios, private equity, and similar items.
+The key distinction we make is between **monetary** and **non-monetary** assets—mainly to identify what we use for budgeting.
+
+#### Cash Section
+
+This includes all liquid and easily spendable assets—what we treat as money. It’s what we use to plan our budget by assigning funds to specific categories. This section also tracks income and spending.
+
+#### Tracking Section
+
+This keeps a record of the value of non-monetary assets—those not used in budgeting and less liquid than cash. These include things like cars, real estate, stock and bond portfolios, private equity, and other similar assets.
+
+Keep in mind: an asset can be part consumption and part capital, depending on how it’s used.
 
 ### Budget Categories
 
