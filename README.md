@@ -9,14 +9,20 @@ This practical guide shows you how to use Bitcoin as your primary money. It expl
 **The guide is divided into two main sections:**
 
 **1. Money Management Wisdom**\
-How to take full control of your money with zero-based budgeting, become and stay completely debt-free and and regularly set aside 10–20% of your budget for giving.
+To lay the foundation, the first section covers why and how to apply the three most essential money management principles in your life. This section should be followed step by step, in the exact order it is presented. In other words, begin with the first principle—practicing zero-based budgeting for at least 180 days—before moving on to the next. If you're already applying a given principle consistently, feel free to skip ahead. This section will show you how to take full control of your money using zero-based budgeting, become and remain completely debt-free, and consistently allocate 10–20% of your budget for giving.
 
 **2. Bitcoin and Your Net Worth**\
-How to manage your total net worth under a full Bitcoin standard by dividing it into three categories: **Money**, **Consumption**, and **Capital**. Then apply the “rule of thirds,” which recommends holding:
+Once you've established the foundation in the first section, we move on to the second, where we explain how to assess your total net worth and align it with a full Bitcoin Standard. This section will guide you in treating Bitcoin as your primary form of money and help you analyze the non-Bitcoin portion of your net worth by dividing it into two categories: **Consumption** and **Capital**.&#x20;
 
-* _At least one-third_ of your net worth in **Money** (Bitcoin),
-* _No more than one-third_ in **Consumption** (everyday living and personal-use assets),
-* _No more than one-third_ in **Capital** (businesses, investments, productive assets).
+Next, we'll introduce the “Rule of Thirds,” a simple guideline for structuring your net worth. It recommends allocating:
+
+* **At least one-third** to **Money** (Bitcoin),
+* **No more than one-third** to **Consumption** (everyday living expenses and personal-use assets),
+* **No more than one-third** to **Capital** (businesses, investments, and other productive assets).
+
+In the final section, we’ll explore how to analyze Bitcoin’s exchange rate history through modeling techniques, with a focus on **Bitcoin Power Law Theory**. This theory suggests that Bitcoin’s long-term price growth follows a predictable pattern based on a _power law_—a mathematical relationship where growth scales with size and follows a **logarithmic growth curve**. One of the key insights from this model is that **as the Bitcoin network grows, its rate of growth slows down**.&#x20;
+
+We’ll also cover practical strategies for managing volatility—such as **reconciling your purchasing power** and rebalancing your budget categories when necessary.
 
 ***
 
