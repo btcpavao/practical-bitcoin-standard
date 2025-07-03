@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-This practical guide shows you how to use Bitcoin as your primary money. It explains how to move beyond viewing Bitcoin solely as a long-term investment or speculative trade and begin using it as a tool for everyday economic exchange.
+This practical guide shows you how to use Bitcoin as your primary money. It explains how to move beyond viewing Bitcoin solely as a long-term investment or speculative trade and begin using it as a tool for everyday economic exchange. The goal is to help you transition from The Fiat Standard to a full Bitcoin Standard.
 
 **The guide is divided into two main sections:**
 
