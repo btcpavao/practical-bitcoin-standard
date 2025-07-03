@@ -22,6 +22,8 @@ Next, we'll introduce the “Rule of Thirds,” a simple guideline for structuri
 
 In the final section, we’ll explore how to analyze Bitcoin’s exchange rate history through modeling techniques, with a focus on **Bitcoin Power Law Theory**. This theory suggests that Bitcoin’s long-term price growth follows a predictable pattern based on a _power law_—a mathematical relationship where growth scales with size and follows a **logarithmic growth curve**. One of the key insights from this model is that **as the Bitcoin network grows, its rate of growth slows down**.&#x20;
 
+<figure><img src=".gitbook/assets/CleanShot 2025-07-03 at 15.40.26@2x.png" alt=""><figcaption></figcaption></figure>
+
 We’ll also cover practical strategies for managing volatility—such as **reconciling your purchasing power** and rebalancing your budget categories when necessary.
 
 ***
