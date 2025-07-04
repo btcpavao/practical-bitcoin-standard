@@ -14,7 +14,7 @@ To lay the foundation, the first section covers why and how to apply the three m
 This section will show you how to take full control of your money using [zero-based budgeting](money-management-wisdom/plan-your-money.md), [become and remain completely debt-free](money-management-wisdom/live-debt-free.md), and [consistently allocate 10–20% of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
 
 **2. Bitcoin and Your Net Worth**\
-Once you've established the foundation in the first section, we move on to the second, where we explain how to assess your total net worth and align it with a full Bitcoin Standard. This section will guide you in treating Bitcoin as your primary form of money and help you analyze the non-Bitcoin portion of your net worth by dividing it into two categories: **Consumption** and **Capital**.&#x20;
+Once you've established the foundation in the first section, we move on to explain how to assess your total net worth and align it with a full Bitcoin Standard. This section will guide you in treating Bitcoin as your primary form of money and help you analyze the non-Bitcoin portion of your net worth by dividing it into two categories: **Consumption** and **Capital**.&#x20;
 
 Next, we'll introduce the “Rule of Thirds,” a simple guideline for structuring your net worth. It recommends allocating:
 
