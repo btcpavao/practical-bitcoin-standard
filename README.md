@@ -111,7 +111,7 @@ This guide is a work in progress, and I welcome your feedback. If you have any s
 
 For personalized advice, you can schedule a call using this [link](https://cal.com/btcpavao/meeting?user=btcpavao).&#x20;
 
-If you’d like to support this work, you can use the included Lightning address or [this link](https://pay.zaprite.com/pl_GIVID5vLxj).
+If you’d like to support this work, you can use the included Lightning address or [**this link**](https://checkout.opennode.com/p/bc2ae9f7-4df4-4def-949d-84b4905c4333).
 
 <figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
 
