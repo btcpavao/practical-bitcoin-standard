@@ -51,6 +51,7 @@ If you already own Bitcoin and recognize yourself in any of the following statem
 * You are hesitant to spend your Bitcoin or afraid to sell it in any significant amount.
 * You believe there's such a thing as _good_ debt and _bad_ debt, and you'd consider taking out a zero-interest loan to buy more Bitcoin.
 * You have a rough idea of your income and expenses, but you don't know the exact numbers.
+* You find yourself spending a lot of time tweaking your Bitcoin setup while having only a vague idea of your personal financial numbers.
 * You have tried orange-pilling your family and friends, but they didn't take your advice as seriously as you'd hoped.
 * You're willing to allocate more of your money to Bitcoin, but your partner or spouse isn't fully on board.
 * You have a _fiat job_ and don't have direct Bitcoin income streams.
