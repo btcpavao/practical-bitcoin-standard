@@ -4,82 +4,74 @@ description: draft
 
 # The Purpose
 
-This practical guide shows you how to use Bitcoin as your primary money. It explains how to move beyond viewing Bitcoin solely as a long-term investment or speculative trade and begin using it as a tool for everyday economic exchange. The goal is to help you transition from The Fiat Standard to a full Bitcoin Standard.
+This guide shows you how to use Bitcoin as your everyday money. It helps you go from just holding Bitcoin as an investment to actually spending it in daily life. It’s your step-by-step path from fiat to the Bitcoin Standard.
 
 **The guide is divided into two main sections:**
 
 **1. Money Management Wisdom**\
-To lay the foundation, the first section covers why and how to apply the three most essential money management principles in your life. This section should be followed step by step, in the exact order it is presented. In other words, begin with the first principle—practicing zero-based budgeting for at least 180 days—before moving on to the next. If you're already applying a given principle consistently, feel free to skip ahead.&#x20;
-
-This section will show you how to take full control of your money using [zero-based budgeting](money-management-wisdom/plan-your-money.md), [become and remain completely debt-free](money-management-wisdom/live-debt-free.md), and [consistently allocate 10–20% of your budget for giving](money-management-wisdom/set-aside-and-keep-10-20-of-your-budget-for-giving.md).
+To start, the first section explains how to apply the three most important money management principles in your life. Follow the steps in the exact order they’re presented. Begin with the first principle—using zero-based budgeting for at least 180 days—before moving on. If you’re already applying a principle consistently, you can skip to the next one. This section will help you take full control of your finances, get and stay completely debt-free, and regularly set aside 10–20% of your budget for giving.
 
 **2. Bitcoin and Your Net Worth**\
-Once you've established the foundation in the first section, we move on to explain how to assess your total net worth and align it with a full Bitcoin Standard. This section will guide you in treating Bitcoin as your primary form of money and help you analyze the non-Bitcoin portion of your net worth by dividing it into two categories: **Consumption** and **Capital**.&#x20;
+After building a strong financial foundation, the next step is to evaluate your total net worth and align it with a full Bitcoin Standard. This section shows you how to treat Bitcoin as your primary form of money and break down the rest of your net worth into two parts: **Consumption** and **Capital**.
 
-Next, we'll introduce the “Rule of Thirds,” a simple guideline for structuring your net worth. It recommends allocating:
+You’ll also learn the **Rule of Thirds**, a simple way to structure your net worth:
 
-* **At least one-third** to **Money** (Bitcoin),
-* **No more than one-third** to **Consumption** (everyday living expenses and personal-use assets),
-* **No more than one-third** to **Capital** (businesses, investments, and other productive assets).
+* At least one-third in **Money** (Bitcoin)
+* No more than one-third in **Consumption** (living expenses and personal-use items)
+* No more than one-third in **Capital** (productive assets like businesses and investments)
 
-In the final section, we’ll explore how to analyze Bitcoin’s exchange rate history through modeling techniques, with a focus on **Bitcoin Power Law Theory**. This theory suggests that Bitcoin’s long-term price growth follows a predictable pattern based on a _power law_—a mathematical relationship where growth scales with size and follows a **logarithmic growth curve**. One of the key insights from this model is that **as the Bitcoin network grows, its rate of growth slows down**.&#x20;
+In the final part of this section, we introduce **Bitcoin Power Law Theory**, a model that helps explain Bitcoin’s long-term price trends. It suggests that Bitcoin’s price grows in a predictable, logarithmic pattern: as the network expands, its growth rate slows. This insight helps frame your long-term outlook on Bitcoin’s value.
 
 <figure><img src=".gitbook/assets/CleanShot 2025-07-03 at 15.40.26@2x.png" alt=""><figcaption></figcaption></figure>
 
-We’ll also cover practical strategies for managing volatility—such as **reconciling your purchasing power** and rebalancing your budget categories when necessary.
+We’ll also cover practical ways to manage Bitcoin’s volatility, including how to adjust your budget categories and track your purchasing power over time.
 
 ***
 
-**To fully transition to a Bitcoin standard, follow these steps in order:**
-
-1. Establish **zero-based budgeting** practice for at least 180 days.
-2. **Eliminate all debt** and remain completely debt-free.
-3. Always keep **10–20% of your budget in Giving** category.
-
-Then, assess your net worth and, if necessary, rebalance it according to the rule of thirds—striving to maintain this allocation consistently over the long term.
-
 ## Who Is This Guide For?
 
-This guide is designed to support Bitcoiners transitioning from a fiat standard (a debt-slavery alternative to human civilization) to a full Bitcoin standard. It draws on centuries-old wisdom about managing money, distilled and adapted for the 21st century.
+This guide is for Bitcoiners transitioning from the fiat standard — a debt-slavery alternative to human civilization — to a full Bitcoin Standard. It combines timeless money management wisdom with modern strategies tailored for the Bitcoin era.
 
-If you already own Bitcoin and recognize yourself in any of the following statements, this guide is for you:
+If you already own Bitcoin and any of the following describe you, this guide is made for you:
 
-* You practice dollar-cost averaging into Bitcoin.
-* You keep fiat as "dry powder" to buy more Bitcoin during price corrections.
-* You've tried growing your Bitcoin stack through trading but decided you'd rather buy and hold.
-* If you have and use any of the following: credit cards, personal loans, lines of credit, a mortgage, auto loans, student loan debt, or a home equity line of credit.
-* You are hesitant to spend your Bitcoin or afraid to sell it in any significant amount.
-* You believe there's such a thing as _good_ debt and _bad_ debt, and you'd consider taking out a zero-interest loan to buy more Bitcoin.
-* You have a rough idea of your income and expenses, but you don't know the exact numbers.
-* You find yourself spending a lot of time tweaking your Bitcoin setup while having only a vague idea of your personal financial numbers.
-* You have tried orange-pilling your family and friends, but they didn't take your advice as seriously as you'd hoped.
-* You're willing to allocate more of your money to Bitcoin, but your partner or spouse isn't fully on board.
-* You have a _fiat job_ and don't have direct Bitcoin income streams.
-* You'd like to increase your total income, but you are not 100% sure how to go about it.
-* You plan for retirement and find yourself wondering how much Bitcoin you would need to own so you don’t have to work.
-* Because of Bitcoin's high volatility, you don't advise newbies to go all in.
-* Sometimes, you feel like you don't have enough Bitcoin.
-* "Fiat is for spending, Bitcoin is for saving" sounds reasonable to you.
-* "Never sell your Bitcoin." sounds reasonable.
+* You dollar-cost average into Bitcoin.
+* You keep some fiat as “dry powder” to buy the dips.
+* You’ve tried trading but realized you prefer buying and holding.
+* You use credit cards, personal loans, a mortgage, student loans, or other forms of debt.
+* You're reluctant to spend or sell your Bitcoin.
+* You think in terms of “good debt” and “bad debt,” and might take a zero-interest loan to buy more Bitcoin.
+* You have a general sense of your income and expenses—but not the exact numbers.
+* You spend more time tweaking your Bitcoin setup than managing your actual finances.
+* You’ve tried orange-pilling others, but they didn’t take you seriously.
+* You want to allocate more to Bitcoin, but your partner or spouse isn’t fully on board.
+* You have a fiat job and no direct Bitcoin income.
+* You want to earn more but aren’t sure how.
+* You’re planning for retirement and wonder how much Bitcoin would make you financially free.
+* You advise others not to go all in on Bitcoin because of its volatility.
+* You sometimes worry you don’t have enough Bitcoin.
+* “Fiat is for spending, Bitcoin is for saving” makes sense to you.
+* “Never sell your Bitcoin” also makes sense.
+
+If any of this resonates, you’re in the right place.
 
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is a completely different kind of money from what most people are used to. Since it was created in 2009, its value has grown tremendously, especially compared to fiat money, which has steadily lost purchasing power over time. But this growth hasn’t been smooth—Bitcoin’s price has gone through major ups and downs, including multiple crashes of more than 80%. While these wild swings are becoming less extreme, using Bitcoin as everyday money still comes with big challenges.
+Bitcoin is unlike any form of money most people are used to. Since its launch in 2009, it has gained tremendous value—especially when compared to fiat currencies, which continue to lose purchasing power. But Bitcoin’s growth has been anything but smooth. Its price has gone through wild swings, including multiple drops of over 80%. While these crashes are becoming less severe over time, using Bitcoin for everyday spending still presents challenges.
 
-One famous example from Bitcoin’s early days shows just how much things have changed. In May 2010, a programmer named Laszlo Hanyecz paid 10,000 BTC for two pizzas, worth about $30 at the time. Fast forward to May 2025, and with Bitcoin priced just over $100,000, those same 10,000 BTC would now be worth more than $1 billion—enough to buy thousands of full pizza businesses.
+A well-known example highlights how far Bitcoin has come: In May 2010, Laszlo Hanyecz paid 10,000 BTC for two pizzas—worth about $30 back then. By May 2025, with Bitcoin priced over $100,000, those 10,000 BTC would be worth more than $1 billion—enough to buy thousands of pizza shops.
 
-Since I first bought Bitcoin in July 2014, when it was around $600, the price has increased more than 160 times. Along the way, there have been several major crashes—but each time, the price has bounced back and eventually reached new highs.
+I first bought Bitcoin in July 2014, when it traded at around $600. Since then, the price has increased more than 160-fold. Despite several major crashes along the way, Bitcoin has always recovered and gone on to reach new highs.
 
-Some examples of this volatility include:
+Some key examples of Bitcoin’s volatility include:
 
-* In December 2017, Bitcoin peaked at $20,000, only to drop to $3,300 by November 2018 (an 85% drop).
-* In March 2020, during the COVID crash, Bitcoin briefly fell to $4,000 before recovering.
-* By November 2021, Bitcoin reached nearly $70,000, only to drop to $15,000 by late 2022 (an 80% drop).
-* As of May 2025, Bitcoin is trading at around $102,000, more than 1000% increase over the past five years.
+* **December 2017:** Bitcoin hit a peak of $20,000, then dropped to $3,300 by November 2018—an 85% crash.
+* **March 2020:** During the COVID crash, Bitcoin fell from around $10,000 to $4,000, then surged to over $60,000 in less than a year.
+* **November 2021:** Bitcoin reached nearly $70,000 before falling to around $15,000 by late 2022—an 80% decline.
+* **July 2025:** Bitcoin is trading at around $108,000, marking a more than 1,000% increase over the past five years.
 
-This level of volatility can be very intimidating—especially for newcomers. People deal with it in different ways. Some take a cautious approach, only investing money they won’t need for years and steadily buying small amounts over time through dollar-cost averaging. Others try to take advantage of the ups and downs by trading—buying low and selling high.
+This level of price movement can be intimidating—especially for newcomers. People respond in different ways. Some take a conservative approach, only investing what they can afford to leave untouched for years, and buy small amounts regularly through dollar-cost averaging. Others try to time the market, buying low and selling high.
 
-But I found a different path to be the most effective: simply using Bitcoin as your primary form of money.
+But I’ve found a different approach to be more effective: simply using Bitcoin as your primary form of money.
 
 ### Using Bitcoin as Your Primary Money
 
