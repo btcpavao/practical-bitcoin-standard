@@ -12,7 +12,7 @@ This guide shows you how to use Bitcoin as your everyday money. It helps you go 
 To start, the first section explains how to apply the three most important money management principles in your life. Follow the steps in the exact order they’re presented. Begin with the first principle—using zero-based budgeting for at least 180 days—before moving on. If you’re already applying a principle consistently, you can skip to the next one. This section will help you take full control of your finances, get and stay completely debt-free, and regularly set aside 10–20% of your budget for giving.
 
 **2. Bitcoin and Your Net Worth**\
-After building a strong financial foundation, the next step is to evaluate your total net worth and align it with a full Bitcoin Standard. This section shows you how to treat Bitcoin as your primary form of money and break down the rest of your net worth into two parts: **Consumption** and **Capital**.
+After building a strong financial foundation, the next step is to evaluate your total net worth and align it with a full Bitcoin Standard. This section shows you how to treat Bitcoin as money and break down the rest of your net worth into two parts: **Consumption** and **Capital**.
 
 You’ll also learn the **Rule of Thirds**, a simple way to structure your net worth:
 
