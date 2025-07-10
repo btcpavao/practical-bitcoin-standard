@@ -66,7 +66,9 @@ Likewise, when your regular bills arrive, get into the habit of paying them off 
 
 The older your money, the more financial peace you have. Debt reduces the age of money. A higher age of money equals a lower time preference. A higher age of money allows for more time to research the purchase, resulting in a better purchase. With a higher age of money, you will enjoy your purchases more because more time was spent planning, anticipating, and overall appreciating them.
 
-### Two States Of Being (In Debt And Debt-Free) Generate 6 Different Spirits
+
+
+### Two States Of Being (In Debt And Debt-Free) Generate 6 Different Psychological States
 
 Spending on credit can negatively impact your psychospiritual well-being, introducing feelings of slavery, restlessness, and confusion. You can either be "In Debt" or "Debt Free," and each state fosters different spirits within you. When you're in debt, you nurture the spirits of slavery, restlessness, and confusion. Conversely, being debt-free allows you to cultivate the spirits of freedom, peace, and clarity.
 
