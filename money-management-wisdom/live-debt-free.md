@@ -150,6 +150,8 @@ The spirit of clarity will help you keep tabs on your belongings. Once you value
 
 ### How Your Debt Affects You
 
+* cummulative effect
+
 Your debt affects your spiritual blueprint. It impacts your ability to generate inflows and influences how you manage outflows.
 
 This may seem obvious, but it should still be stated explicitly: when you spend on credit or enter a state of debt, you are still spending money; you are not receiving the item for free.
