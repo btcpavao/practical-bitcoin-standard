@@ -4,7 +4,7 @@ description: draft
 
 # The Purpose
 
-This guide shows you how to use Bitcoin as your everyday money. It helps you go from just holding Bitcoin as an investment to actually spending it in daily life. It’s your step-by-step path from fiat to the Bitcoin Standard.
+This guide shows you how to use Bitcoin as your everyday money. It helps you go from just holding Bitcoin as an investment to regularly spending it in daily life. It’s your step-by-step path from fiat to the Bitcoin Standard.
 
 **The guide is divided into two main sections:**
 
