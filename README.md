@@ -12,15 +12,13 @@ This guide shows you how to use Bitcoin as everyday money. It helps you go from 
 The first section is all about the three most important money management principles which should be followed in the exact order they’re presented. The goal is to 1) take full control of your money, 2) become and stay completely debt-free, and 3) regularly keep 10–20% of your budget for giving.
 
 **2. Bitcoin and Your Net Worth**\
-After building a strong financial foundation, the next step is to evaluate your total net worth and align it with a full Bitcoin Standard. This section shows you how to treat Bitcoin as money and break down the rest of your net worth into two parts: **Consumption** and **Capital**.
-
-You’ll also learn the **Rule of Thirds**, a simple way to structure your net worth:
+The second section is about Bitcoin within your total net worth. It shows you how to treat Bitcoin as money and break down the rest of your net worth into two parts: **Consumption** and **Capital,** and apply the **Rule of Thirds**, a simple way to structure your net worth by keeping:
 
 * At least one-third in **Money** (Bitcoin)
 * No more than one-third in **Consumption** (living expenses and personal-use items)
 * No more than one-third in **Capital** (productive assets like businesses and investments)
 
-In the final part of this section, we introduce **Bitcoin Power Law Theory**, a model that helps explain Bitcoin’s long-term price trends. It suggests that Bitcoin’s price grows in a predictable, logarithmic pattern: as the network expands, its growth rate slows. This insight helps frame your long-term outlook on Bitcoin’s value.
+Finally, we'll introduce **Bitcoin Power Law Theory**, which suggests that Bitcoin’s price grows in a predictable, logarithmic pattern: as the network expands, its growth rate slows. This will help you frame your long-term outlook on Bitcoin’s value.
 
 <figure><img src=".gitbook/assets/CleanShot 2025-07-03 at 15.40.26@2x.png" alt=""><figcaption></figcaption></figure>
 
