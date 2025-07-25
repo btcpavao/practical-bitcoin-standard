@@ -15,7 +15,7 @@ The first section is all about the three most important money management princip
 The second section is about Bitcoin and your total net worth. It shows you how to treat Bitcoin as money and break down the rest of your net worth into two parts: **Consumption** and **Capital,** and apply the **Rule of Thirds**, a simple way to structure your net worth by keeping:
 
 * At least one-third in **Money** (Bitcoin)
-* No more than one-third in **Consumption** (living expenses and personal-use items)
+* No more than one-third in **Consumption**  (personal-use assets)
 * No more than one-third in **Capital** (productive assets like businesses and investments)
 
 Finally, we'll introduce **Bitcoin Power Law Theory**, which suggests that Bitcoin’s price grows in a predictable, logarithmic pattern: as the network expands, its growth rate slows. This will help you frame your long-term outlook on Bitcoin’s value.
