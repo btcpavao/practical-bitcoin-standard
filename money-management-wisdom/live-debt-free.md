@@ -42,6 +42,9 @@ When you incur debt, you commit to future cash outflows without knowing your fut
 
 Given the uncertainty of the future and the potential for both negative and positive outcomes, it is unwise to get into debt. Debt increases your present financial obligations, making it harder to adapt to negative events and seize positive opportunities. Additionally, your subjective valuation of purchases can change, further complicating the decision to spend future money. Therefore, it is prudent to avoid debt whenever possible to maintain financial flexibility and stability.
 
+* consume now, pay later - its only going to get worse in terms of subjective experience from there (struggling to keep up, downgrading in the future)
+* save until you can afford it - its only going to get better from there (looking forward to upgrades in the future)
+
 ### Always Spend Only Your Past Money
 
 Spending money you already have means you are fully aware of its opportunity cost because your money is already budgeted. You will always get a better deal when paying with cash compared to using credit, and you will avoid paying interest over time. Additionally, you should consider the future purchasing power of these savings if invested in Bitcoin.
