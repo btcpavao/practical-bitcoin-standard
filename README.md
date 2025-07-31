@@ -9,7 +9,7 @@ This guide shows you how to use Bitcoin as everyday money. It helps you go from 
 **The guide is divided into two main sections:**
 
 **1. Money Management Wisdom**\
-The first section is all about the three most important money management principles which should be followed in the exact order they’re presented. The goal is to 1) take full control of your money, 2) become and stay completely debt-free, and 3) regularly keep 10–20% of your budget for giving.
+The first section is all about the three money management principles which should be followed in the exact order they’re presented. The goal is to 1) take full control of your money, 2) become and stay completely debt-free, and 3) regularly keep 10–20% of your budget for giving.
 
 **2. Bitcoin and Your Net Worth**\
 The second section is about Bitcoin and your total net worth. It shows you how to treat Bitcoin as money and break down the rest of your net worth into two parts: **Consumption** and **Capital,** and apply the **Rule of Thirds**, a simple way to structure your net worth by keeping:
