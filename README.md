@@ -22,7 +22,7 @@ The second section focuses on Bitcoin and your total net worth. It explains how 
 * No more than one-third in Consumption (personal-use assets—things you use for leisure)
 * No more than one-third in Capital (productive assets such as businesses, investments, or anything that helps you generate income)
 
-Finally, we introduce the Bitcoin Power Law Theory, which suggests that Bitcoin’s price grows in a predictably measurable way: as the network matures, its growth rate gradually slows. This concept will help you form a long-term perspective on Bitcoin’s future value and set realistic expectations.
+Finally, we introduce the **Bitcoin Power Law Theory**, which suggests that Bitcoin’s price grows in a predictably measurable way: as the network matures, its growth rate gradually slows. This concept will help you form a long-term perspective on Bitcoin’s future value and set realistic expectations.
 
 <figure><img src=".gitbook/assets/CleanShot 2025-07-03 at 15.40.26@2x.png" alt=""><figcaption></figcaption></figure>
 
