@@ -9,16 +9,20 @@ This guide shows you how to use Bitcoin as everyday money. It helps you go from 
 **The guide is divided into two main sections:**
 
 **1. Money Management Wisdom**\
-The first section is all about the three money management principles which should be followed in the exact order they’re presented. The goal is to 1) take full control of your money, 2) become and stay completely debt-free, and 3) regularly keep 10–20% of your budget for giving.
+The first section covers three money management principles:
+
+1. Practice zero-based budgeting to take full control of your money,
+2. Become and remain completely debt-free, and
+3. Regularly allocate 10–20% of your budget to giving.
 
 **2. Bitcoin and Your Net Worth**\
-The second section is about Bitcoin and your total net worth. It shows you how to treat Bitcoin as money and break down the rest of your net worth into two parts: **Consumption** and **Capital,** and apply the **Rule of Thirds**, a simple way to structure your net worth by keeping:
+The second section focuses on Bitcoin and your total net worth. It explains how to treat Bitcoin as money and divide the rest of your net worth into two categories: **Consumption** and **Capital**. It also introduces the **Rule of Thirds**—a simple guideline for maintaining a balanced net worth by keeping:
 
-* At least one-third in **Money** (Bitcoin)
-* No more than one-third in **Consumption**  (personal-use assets)
-* No more than one-third in **Capital** (productive assets like businesses and investments)
+* At least one-third in Money (Bitcoin)
+* No more than one-third in Consumption (personal-use assets—things you use for leisure)
+* No more than one-third in Capital (productive assets such as businesses, investments, or anything that helps you generate income)
 
-Finally, we'll introduce **Bitcoin Power Law Theory**, which suggests that Bitcoin’s price grows in a predictable, logarithmic pattern: as the network expands, its growth rate slows. This will help you frame your long-term outlook on Bitcoin’s value.
+Finally, we introduce the Bitcoin Power Law Theory, which suggests that Bitcoin’s price grows in a predictably measurable way: as the network matures, its growth rate gradually slows. This concept will help you form a long-term perspective on Bitcoin’s future value and set realistic expectations.
 
 <figure><img src=".gitbook/assets/CleanShot 2025-07-03 at 15.40.26@2x.png" alt=""><figcaption></figcaption></figure>
 
