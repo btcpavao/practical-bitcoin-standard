@@ -32,3 +32,5 @@ While any good can potentially serve as a medium of exchange, some are more effe
 4. **Salability across goods:** How widely the medium is accepted in exchange for other goods and services. Fiat money is currently the most widely accepted form of payment, but Bitcoin is rapidly gaining traction as more businesses and individuals adopt it.
 
 Considering these dimensions of salability, we can see that Bitcoin possesses several advantages over traditional forms of money, making it a highly effective medium of exchange.
+
+* exchange with others as much as you can - avoid trying to do things on your own
