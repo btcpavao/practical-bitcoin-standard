@@ -16,7 +16,7 @@ The first section covers three money management principles:
 3. Regularly allocate 10–20% of your budget to giving.
 
 **2. Bitcoin and Your Net Worth**\
-The second section focuses on Bitcoin and your total net worth. It explains how to treat Bitcoin as money and divide the rest of your net worth into two categories: **Consumption** and **Capital**. It also introduces the **Rule of Thirds**—a simple guideline for maintaining a balanced net worth by keeping:
+The second section focuses on how to think about Bitcoin in the context of your total net worth. It explains how to treat Bitcoin as money and divide the rest of your net worth into two part: **Consumption** and **Capital**. It also introduces the **Rule of Thirds**—a simple guideline for maintaining a balanced net worth by keeping:
 
 * At least one-third in Money (Bitcoin)
 * No more than one-third in Consumption (personal-use assets—things you use for leisure)
