@@ -315,3 +315,7 @@ If you are not convinced about this approach, I would advise you to continue man
 * **Never fall for the idea that "there is good debt and bad debt." All debt will have the same spiritual consequences, which you want to avoid at all costs.**
 
 By following these guidelines, you can achieve and maintain a debt-free lifestyle, allowing you to focus on building wealth and improving your financial well-being.
+
+* bitcoin bear markets - debt is a disaster
+* bitcoin bull markets - debt incentivizes piling even more debt
+* both scenarios end up bad
