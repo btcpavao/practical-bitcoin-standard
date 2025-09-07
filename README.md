@@ -4,7 +4,13 @@ description: draft
 
 # The Purpose
 
-This guide shows you how to use Bitcoin as everyday money. It helps you go from just holding Bitcoin as an investment to regularly spending it in daily life. It’s your step-by-step path from fiat to the Bitcoin Standard.
+The goal of this guide is to present the best practices and principles for using Bitcoin as everyday money.
+
+Today, many people see Bitcoin as a long-term investment, a tool for trading and quick profits, a risky speculation, or even a scam. Here, we won’t focus on explaining how Bitcoin works on a technical level, nor will we dive into the economic arguments for why Bitcoin is good money. For that, I recommend reading _Inventing Bitcoin_ (Yan Pritzker), _The Bitcoin Standard_ (Saifedean Ammous), and _The Fiat Standard_ (Saifedean Ammous) to gain a basic understanding of Bitcoin’s technical features and monetary aspects.
+
+The purpose of this guide is to show how Bitcoin can replace your everyday money (like the euro), as well as other forms of savings people use to protect themselves from inflation, such as index funds, bonds, or real estate. In other words, this guide helps you transition from the fiat standard to a full Bitcoin standard.
+
+By the end of this guide, you’ll have the tools and knowledge to use Bitcoin in your daily financial life — how and why to convert all your income into Bitcoin, and how to spend, save, give, and invest it.
 
 **The guide is divided into two main sections:**
 
