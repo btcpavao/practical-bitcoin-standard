@@ -4,7 +4,7 @@ description: draft
 
 # Practice Zero-Based Budgeting
 
-The first and most important step is to take full control of your money—factoring in both your time and opportunity costs. This starts with planning how every unit of your money will be used before you spend any of it. The most effective way to do this is by learning and applying zero-based budgeting.
+The first and most important step is to take full control of your money—factoring in both your time and opportunity costs. This starts with planning how every unit of your money will be used before you spend any of it. The most effective way to do this is by learning and applying zero-based budgeting practice.
 
 ### Why Practice Budgeting?&#x20;
 
