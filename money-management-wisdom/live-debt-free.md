@@ -4,7 +4,7 @@ description: draft
 
 # Live 100% Debt-Free
 
-The second step to take is to become and remain debt-free, at all times. The main goal is to eliminate wasteful outflows and build a proper foundation for our capacity to generate inflows. It is also about starting to increase our risk capacity and tolerance foundation, so we can grow our net worth through investing in a full Bitcoin standard.
+The second step to take is to become and remain debt-free, at all times. The main goal is to eliminate wasteful outflows and build a proper foundation for our capacity to generate more inflows. It is also about starting to increase our risk capacity and tolerance foundation, so we can grow our net worth through investing in a full Bitcoin standard.
 
 The fiat standard has unfortunately accustomed many of us to living in constant state of debt. This can be easily seen by the widespread use of credit cards, auto loans, mortgages, corporate debt, government debt, buy-now-pay-later schemes, overdrafts, personal loans, and leases.&#x20;
 
