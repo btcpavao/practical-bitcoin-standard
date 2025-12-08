@@ -4,11 +4,11 @@ description: draft
 
 # The Purpose
 
-The goal of this guide is to present the best practices and principles for using Bitcoin as everyday money.
+The goal of this guide is to present the best practices and principles for using Bitcoin as  money.
 
-Today, most people see Bitcoin either as a long-term investment, a tool for trading and quick profits, a risky speculation, or even a scam. Here, we won’t focus on explaining how Bitcoin works on a technical level, nor will we dive into the economic arguments for why Bitcoin is good money. For that, I recommend reading [_Inventing Bitcoin_ (Yan Pritzker)](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=sr_1_1?crid=144YKEUX8XXAQ\&dib=eyJ2IjoiMSJ9.ZdEMPXUzidsDpTI_nVDn3FTVUArOQidyEFpggTzd_V_gNwLqUHI-MbCxa2Bxcn7wR0f_0pLt0nq3dib8aWvgzsBiDFXE9dY4lx14A-2FCSZ_1EDDNYLC9vtA16MzxNmiGNPKDKD7cE3BTUMNVae-IMqncMzkWgkugol0qWVkOcgL_lQUwyqkAiGiQRbn40sVVCsBmb-99W682NEX7iG3cfZrhw83NLf0g2xQ7L7AcWo.RjfFwtKsa0-zUiQt-PgSIq_926aCZbZ_l-Lu6HVwIJw\&dib_tag=se\&keywords=inventing+bitcoin\&qid=1759419849\&s=digital-text\&sprefix=inventing+bitcoin%2Cdigital-text%2C252\&sr=1-1), [_The Bitcoin Standard_ (Saifedean Ammous)](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ/ref=tmm_kin_swatch_0), and [_The Fiat Standard_ (Saifedean Ammous)](https://www.amazon.com/dp/B09VVFCQ63/?bestFormat=true\&k=fiat%20standard\&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_k0_1_13_di\&crid=3I1VRD9J0V5GL\&sprefix=fiat%20standard) to gain a basic understanding of Bitcoin’s technical features and monetary aspects.
+Today, most people see Bitcoin as a long-term, risky / speculative investment, and few use it as their primary money. Here, we won’t focus on explaining how Bitcoin works on a technical level, nor will we dive into the economic arguments for why Bitcoin is good money. For that, I recommend reading [_Inventing Bitcoin_ (Yan Pritzker)](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=sr_1_1?crid=144YKEUX8XXAQ\&dib=eyJ2IjoiMSJ9.ZdEMPXUzidsDpTI_nVDn3FTVUArOQidyEFpggTzd_V_gNwLqUHI-MbCxa2Bxcn7wR0f_0pLt0nq3dib8aWvgzsBiDFXE9dY4lx14A-2FCSZ_1EDDNYLC9vtA16MzxNmiGNPKDKD7cE3BTUMNVae-IMqncMzkWgkugol0qWVkOcgL_lQUwyqkAiGiQRbn40sVVCsBmb-99W682NEX7iG3cfZrhw83NLf0g2xQ7L7AcWo.RjfFwtKsa0-zUiQt-PgSIq_926aCZbZ_l-Lu6HVwIJw\&dib_tag=se\&keywords=inventing+bitcoin\&qid=1759419849\&s=digital-text\&sprefix=inventing+bitcoin%2Cdigital-text%2C252\&sr=1-1), [_The Bitcoin Standard_ (Saifedean Ammous)](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ/ref=tmm_kin_swatch_0), and [_The Fiat Standard_ (Saifedean Ammous)](https://www.amazon.com/dp/B09VVFCQ63/?bestFormat=true\&k=fiat%20standard\&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_k0_1_13_di\&crid=3I1VRD9J0V5GL\&sprefix=fiat%20standard) to gain a basic understanding of Bitcoin’s technical features and monetary aspects.
 
-The purpose of this guide is to show how Bitcoin can replace your everyday money (like the euro), as well as other forms of savings people use to protect themselves from inflation, such as index funds, bonds, or real estate. In other words, this guide helps you transition from the fiat standard to a full Bitcoin standard.
+The purpose of this guide is to show how Bitcoin can replace your primary money (like the euro), as well as other forms of savings people use to protect themselves from inflation, such as index funds, bonds, or real estate. In other words, this guide helps you transition from the fiat standard to a full Bitcoin standard.
 
 By the end of this guide, you’ll have the tools and knowledge to use Bitcoin in your daily financial life — how and why to convert all your income into Bitcoin, and how to spend, save, give, and invest it.
 
@@ -109,10 +109,6 @@ You’ll also move away from the fiat mindset of “consume now, pay later,” a
 
 This guide is a work in progress, and I welcome your feedback. If you have any suggestions or questions, please feel free to email me at [**pavao@hey.com**](mailto:pavao@hey.com).&#x20;
 
-For personalized advice, you can schedule a free call using this [**link**](https://cal.com/btcpavao/meeting?user=btcpavao).&#x20;
-
-If you’d like to support this work, you can use the Lightning address below or [**this link**](https://checkout.opennode.com/p/bc2ae9f7-4df4-4def-949d-84b4905c4333).
-
-<figure><img src=".gitbook/assets/btcpavao@walletofsatoshi.jpeg" alt="" width="265"><figcaption><p>btcpavao@walletofsatoshi.com</p></figcaption></figure>
+For personalized advice, you can schedule a call using this [**link**](https://cal.com/btcpavao/meeting?user=btcpavao).&#x20;
 
 I hope you find this guide helpful and I encourage you to put its suggestions into practice.
