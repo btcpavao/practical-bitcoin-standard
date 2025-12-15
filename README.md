@@ -4,11 +4,15 @@ description: draft
 
 # The Purpose
 
-The goal of this guide is to present the best practices and principles for using Bitcoin as  money.
+Most people see Bitcoin as a long-term, risky or speculative investment, and few actually use it as their primary, everyday money. The goal of this guide is to present best practices and principles for doing exactly that.
 
-Today, most people see Bitcoin as a long-term, risky / speculative investment, and few use it as their primary money. Here, we won’t focus on explaining how Bitcoin works on a technical level, nor will we dive into the economic arguments for why Bitcoin is good money. For that, I recommend reading [_Inventing Bitcoin_ (Yan Pritzker)](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=sr_1_1?crid=144YKEUX8XXAQ\&dib=eyJ2IjoiMSJ9.ZdEMPXUzidsDpTI_nVDn3FTVUArOQidyEFpggTzd_V_gNwLqUHI-MbCxa2Bxcn7wR0f_0pLt0nq3dib8aWvgzsBiDFXE9dY4lx14A-2FCSZ_1EDDNYLC9vtA16MzxNmiGNPKDKD7cE3BTUMNVae-IMqncMzkWgkugol0qWVkOcgL_lQUwyqkAiGiQRbn40sVVCsBmb-99W682NEX7iG3cfZrhw83NLf0g2xQ7L7AcWo.RjfFwtKsa0-zUiQt-PgSIq_926aCZbZ_l-Lu6HVwIJw\&dib_tag=se\&keywords=inventing+bitcoin\&qid=1759419849\&s=digital-text\&sprefix=inventing+bitcoin%2Cdigital-text%2C252\&sr=1-1), [_The Bitcoin Standard_ (Saifedean Ammous)](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ/ref=tmm_kin_swatch_0), and [_The Fiat Standard_ (Saifedean Ammous)](https://www.amazon.com/dp/B09VVFCQ63/?bestFormat=true\&k=fiat%20standard\&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_k0_1_13_di\&crid=3I1VRD9J0V5GL\&sprefix=fiat%20standard) to gain a basic understanding of Bitcoin’s technical features and monetary aspects.
+This guide is not written for complete beginners. It requires at least a basic understanding of how Bitcoin works on a technical level and, more importantly, an understanding of the economic reasons behind its creation.
 
-The purpose of this guide is to show how Bitcoin can replace your primary money (like the euro), as well as other forms of savings people use to protect themselves from inflation, such as index funds, bonds, or real estate. In other words, this guide helps you transition from the fiat standard to a full Bitcoin standard.
+For beginners of all ages, I usually recommend starting with the short illustrated story _Bitcoin Money: A Tale of Bitville Discovering Good Money_, which provides a solid foundation for answering the question: _Why Bitcoin?_
+
+After that, for readers who want to go a bit deeper and develop strong technical intuition about how Bitcoin works, I recommend reading [_Inventing Bitcoin: The Technology Behind The First Truly Scarce and Decentralized Money Explained_](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=sr_1_1?crid=144YKEUX8XXAQ\&dib=eyJ2IjoiMSJ9.ZdEMPXUzidsDpTI_nVDn3FTVUArOQidyEFpggTzd_V_gNwLqUHI-MbCxa2Bxcn7wR0f_0pLt0nq3dib8aWvgzsBiDFXE9dY4lx14A-2FCSZ_1EDDNYLC9vtA16MzxNmiGNPKDKD7cE3BTUMNVae-IMqncMzkWgkugol0qWVkOcgL_lQUwyqkAiGiQRbn40sVVCsBmb-99W682NEX7iG3cfZrhw83NLf0g2xQ7L7AcWo.RjfFwtKsa0-zUiQt-PgSIq_926aCZbZ_l-Lu6HVwIJw\&dib_tag=se\&keywords=inventing+bitcoin\&qid=1759419849\&s=digital-text\&sprefix=inventing+bitcoin%2Cdigital-text%2C252\&sr=1-1) by Yan Pritzker.
+
+On the economic side, for building a stronger framework for thinking about Bitcoin, I recommend reading the works of Dr. Saifedean Ammous, name[ly _The Bitcoin Standard: The Decentralized Alternative to Central Banking_](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central-ebook/dp/B07BPM3GZQ/ref=tmm_kin_swatch_0), [_The Fiat Standard: The Debt Slavery Alternative to Human Civilization_](https://www.amazon.com/dp/B09VVFCQ63/?bestFormat=true\&k=fiat%20standard\&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_k0_1_13_di\&crid=3I1VRD9J0V5GL\&sprefix=fiat%20standard), and [_Principles of Economics_](https://www.amazon.com/Audible-Principles-of-Economics/dp/B0CJCL64CX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Pio6JWb3wvcIRJGlmmwZrxwRGwHZb_eXWjkrz6-P94f2sJi42EJCvgKFTMI5xLEV2K-DeIO2Ii0y8_L3p1SZ7wKkg5HgSkVd4mpnd6yyy-M.1tV01jMFzC5lELr-b6TXLmgncWxPj7uGAjUlAaHtPWI\&dib_tag=se\&keywords=Saifedean+Ammous\&qid=1765804363\&s=audible\&sr=1-1).
 
 By the end of this guide, you’ll have the tools and knowledge to use Bitcoin in your daily financial life — how and why to convert all your income into Bitcoin, and how to spend, save, give, and invest it.
 
@@ -21,14 +25,17 @@ The first section covers three money management principles:
 2. Become and remain completely and always **100%** debt-free, and
 3. Always keep 10–20% of your budget for giving.
 
-**2. Bitcoin and Your Net Worth**\
-The second section focuses on how to think about Bitcoin in the context of your total net worth. It explains how to treat Bitcoin as money and divide the rest of your net worth into two part: **Consumption** and **Capital**. It also introduces the **Rule of Thirds**—a simple guideline for maintaining a balanced net worth by keeping:
+**2. Bitcoin in Your Total Net Worth**
 
-* At least one-third in Money (Bitcoin)
-* No more than one-third in Consumption (personal-use assets—things you use for leisure)
-* No more than one-third in Capital (productive assets such as businesses, investments, or anything that helps you generate income)
+The second section focuses on how to think about Bitcoin in the context of your total net worth. It explains how to treat Bitcoin as money and how to divide the rest of your net worth into two parts: **Consumption** and **Capital**.
 
-Finally, we introduce the **Bitcoin Power Law Theory**, which suggests that Bitcoin’s price grows in a predictably measurable way: as the network matures, its growth rate gradually slows. This concept will help you form a long-term perspective on Bitcoin’s future value and set realistic expectations.
+This section also introduces the **Rule of Thirds**—a simple guideline for maintaining a balanced net worth by keeping:
+
+* **At least one-third in Money (Bitcoin)**
+* **No more than one-third in Consumption** (personal-use assets such as items used for leisure and everyday life)
+* **No more than one-third in Capital** (productive assets such as businesses, investments, tools, or anything primarily used to generate income)
+
+Finally, this section introduces the **Bitcoin Power Law Theory**, which suggests that Bitcoin’s price grows in a predictably measurable way. As the network matures, its growth rate gradually slows, and it does so in a scale-invariant manner. This framework helps form a long-term perspective on Bitcoin’s future value and sets realistic expectations, making it easier to establish time-based saving, spending and investing goals.
 
 <figure><img src=".gitbook/assets/CleanShot 2025-07-03 at 15.40.26@2x.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +45,7 @@ We’ll also cover practical ways to manage Bitcoin’s volatility, including ho
 
 ## Who Is This Guide For?
 
-This guide is for Bitcoiners transitioning from the fiat standard — a debt-slavery alternative to human civilization — to a full Bitcoin Standard. It combines timeless money management wisdom with modern strategies tailored for the Bitcoin era.
+This guide is for Bitcoiners who are interested in living on a full Bitcoin Standard today. It is inspired by timeless principles of money management, applied to the modern world of the 21st century, in which Bitcoin continues to monetize toward what I believe is its ultimate goal: becoming the dominant global monetary standard.
 
 If you already own Bitcoin and any of the following describe you, this guide is made for you:
 
@@ -52,23 +59,24 @@ If you already own Bitcoin and any of the following describe you, this guide is 
 * You spend more time tweaking your Bitcoin setup than managing your actual finances.
 * You’ve tried orange-pilling others, but they didn’t take you seriously.
 * You want to allocate more to Bitcoin, but your partner or spouse isn’t fully on board.
-* You have a fiat job and no direct Bitcoin income.
+* You have a "fiat" job and no direct Bitcoin income.
 * You want to earn more but aren’t sure how.
 * You’re planning for retirement and wonder how much Bitcoin would make you financially free.
 * You advise others not to go all in on Bitcoin because of its volatility.
 * You sometimes worry you don’t have enough Bitcoin.
 * “Fiat is for spending, Bitcoin is for saving” makes sense to you.
 * “Never sell your Bitcoin” also makes sense.
+* You think of Bitcoin as part of your diversified investment portfolio.
 
 If any of this resonates, you’re in the right place.
 
 ### Bitcoin's Purchasing Power Volatility
 
-Bitcoin is unlike any form of money most people are used to. Since its launch in 2009, it has gained tremendous value—especially when compared to fiat currencies, which continue to lose purchasing power. But Bitcoin’s growth has been anything but smooth. Its price has gone through wild swings, including multiple drops of over 80%. While these crashes are becoming less severe over time, using Bitcoin for everyday spending still presents challenges.
+Bitcoin is unlike any form of money most of us are used to. Since its launch in 2009, it has gained tremendous value—rising millions of times over, from just a few cents in 2010 to around $100,000 in 2025. However, this growth has been anything but smooth. Bitcoin’s price has experienced wild swings, including multiple drops of over 80%, prolonged and brutal bear markets that led many to capitulate, and massive run-ups that left people overly hyped and highly leveraged—only to be wiped out later. While volatility has been decreasing over time, using Bitcoin as primary money still presents challenges, precisely because price fluctuations remain significant and short-term price movements are very difficult to predict.
 
-A well-known example highlights how far Bitcoin has come: In May 2010, Laszlo Hanyecz paid 10,000 BTC for two pizzas—worth about $30 back then. By May 2025, with Bitcoin priced over $100,000, those 10,000 BTC would be worth more than $1 billion—enough to buy thousands of pizza shops.
+A frequently cited example illustrates just how far Bitcoin has come. In the now-famous first recorded Bitcoin transaction in May 2010, programmer Laszlo Hanyecz asked on the Bitcointalk.org forums whether someone would bring him two Papa John’s pizzas in exchange for 10,000 BTC. At the time, those two pizzas were worth roughly $30. Fifteen years later, with one Bitcoin trading around $100,000, those same 10,000 BTC would be worth over $1 billion—enough to build and operate a global pizza franchise, fund international food supply chains, or provide meals worldwide at a humanitarian scale for years.
 
-I first bought Bitcoin in July 2014, when it traded at around $600. Since then, the price has increased more than 160-fold. Despite several major crashes along the way, Bitcoin has always recovered and gone on to reach new highs.
+In my personal experience, since my first Bitcoin purchase in July 2014, when it was trading at around $600, I have witnessed its price increase by more than 100-fold, despite several major crashes along the way.
 
 Some key examples of Bitcoin’s volatility include:
 
