@@ -8,7 +8,7 @@ Most people see Bitcoin as a long-term, risky or speculative investment, and few
 
 This guide is not written for complete beginners. It requires at least a basic understanding of how Bitcoin works on a technical level and, more importantly, an understanding of the economic reasons behind its creation.
 
-For beginners of all ages, I usually recommend starting with the short illustrated story _Bitcoin Money: A Tale of Bitville Discovering Good Money_, which provides a solid foundation for answering the question: _Why Bitcoin?_
+For beginners of all ages, I usually recommend starting with the short illustrated story [_Bitcoin Money: A Tale of Bitville Discovering Good Money_](https://www.amazon.com/Bitcoin-Money-Tale-Bitville-Discovering/dp/0578490676), which provides a solid foundation for answering the question: _Why Bitcoin?_
 
 After that, for readers who want to go a bit deeper and develop strong technical intuition about how Bitcoin works, I recommend reading [_Inventing Bitcoin: The Technology Behind The First Truly Scarce and Decentralized Money Explained_](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained-ebook/dp/B07MWXRWNB/ref=sr_1_1?crid=144YKEUX8XXAQ\&dib=eyJ2IjoiMSJ9.ZdEMPXUzidsDpTI_nVDn3FTVUArOQidyEFpggTzd_V_gNwLqUHI-MbCxa2Bxcn7wR0f_0pLt0nq3dib8aWvgzsBiDFXE9dY4lx14A-2FCSZ_1EDDNYLC9vtA16MzxNmiGNPKDKD7cE3BTUMNVae-IMqncMzkWgkugol0qWVkOcgL_lQUwyqkAiGiQRbn40sVVCsBmb-99W682NEX7iG3cfZrhw83NLf0g2xQ7L7AcWo.RjfFwtKsa0-zUiQt-PgSIq_926aCZbZ_l-Lu6HVwIJw\&dib_tag=se\&keywords=inventing+bitcoin\&qid=1759419849\&s=digital-text\&sprefix=inventing+bitcoin%2Cdigital-text%2C252\&sr=1-1) by Yan Pritzker.
 
